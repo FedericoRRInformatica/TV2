@@ -4,9 +4,11 @@ on:
   workflow_dispatch:
   push:
     branches: ["main"]
-    # Evita loop: quando l'action committa film.m3u, quel push NON rilancia il workflow
     paths-ignore:
       - "film.m3u"
+
+  schedule:
+    - cron: "0 1 * * *"   # ogni giorno alle 03:00 ora italiana
 
 permissions:
   contents: write
@@ -29,7 +31,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          # ✅ Niente cache pip, così eviti l'errore se non hai requirements/pyproject
 
       - name: Install dependencies
         run: |
