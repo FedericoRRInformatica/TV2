@@ -1,0 +1,67 @@
+name: Generate serie.m3u
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    # Evita loop: quando l'action committa serie.m3u, quel push NON rilancia il workflow
+    paths-ignore:
+      - "serie.m3u"
+
+  # GitHub Actions usa UTC:
+  # 03:00 Italia (CEST, UTC+2) = 01:00 UTC
+  schedule:
+    - cron: "0 1 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-serie-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dotenv
+
+      - name: Run generator (creates serie.m3u in repo root)
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          python scripts/serie.py
+
+      - name: Verify output exists
+        run: |
+          ls -lah
+          test -f serie.m3u && echo "OK: serie.m3u generated in root" || (echo "ERROR: serie.m3u not found" && exit 1)
+
+      - name: Commit and push serie.m3u
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add serie.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Auto-generate serie.m3u"
+          git push
