@@ -1,15 +1,15 @@
-name: Generate M3U8 (film.py)
+name: Generate Film M3U8
 
 on:
   push:
     branches: ["main"]
   workflow_dispatch:
-  # opzionale: ogni giorno alle 03:15 (UTC)
+  # opzionale: ogni giorno alle 03:15 UTC
   # schedule:
   #   - cron: "15 3 * * *"
 
 jobs:
-  generate:
+  build-playlist:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,21 +22,8 @@ jobs:
           python-version: "3.11"
           cache: "pip"
 
-      - name: Install dependencies (if requirements.txt exists)
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
-      - name: Run generator script
-        run: |
-          python scripts/film.py
-
-      - name: List generated files (debug)
-        run: |
-          ls -lah
-          find . -maxdepth 3 -type f \( -name "*.m3u8" -o -name "*.m3u" \) -print -exec ls -lah {} \;
-
-      - name: Upload M3U8 artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: m3
+          if [ -f requirements.txt ]; then
+            pip
