@@ -67,4 +67,3 @@ jobs:
 
           git commit -m "Auto-generate film.m3u8"
           git push
-``
