@@ -4,11 +4,16 @@ on:
   workflow_dispatch:
   push:
     branches: ["main"]
+    # Evita loop: quando l'action committa film.m3u8, quel push NON rilancia il workflow
     paths-ignore:
-      - "film.m3u8"     # evita loop se poi decidi di committare l'output
-  # opzionale: schedulato ogni giorno alle 03:15 UTC
-  # schedule:
-  #   - cron: "15 3 * * *"
+      - "film.m3u8"
+
+permissions:
+  contents: write   # necessario per fare push con GITHUB_TOKEN
+
+concurrency:
+  group: generate-film-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -17,6 +22,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -30,23 +37,34 @@ jobs:
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           else
+            # dipendenze minime richieste dal tuo script
             pip install requests python-dotenv
           fi
 
-      - name: Run generator
+      - name: Run generator (creates film.m3u8 in repo root)
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           python scripts/film.py
 
-      - name: Verify output exists in repo root
+      - name: Verify output
         run: |
           ls -lah
           test -f film.m3u8 && echo "OK: film.m3u8 generated" || (echo "ERROR: film.m3u8 not found" && exit 1)
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: film-m3u8
-          path: film.m3u8
+      - name: Commit and push film.m3u8
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add film.m3u8
+
+          # Se non ci sono differenze, non committa
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Auto-generate film.m3u8"
+          git push
 ``
