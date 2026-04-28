@@ -4,21 +4,20 @@ on:
   workflow_dispatch:
   push:
     branches: ["main"]
-    # Evita loop: quando l'action committa serie.m3u, quel push NON rilancia il workflow
+    # Evita loop: il commit del bot su serie.m3u non rilancia il workflow
     paths-ignore:
       - "serie.m3u"
-
-  # GitHub Actions usa UTC:
-  # 03:00 Italia (CEST, UTC+2) = 01:00 UTC
   schedule:
+    # 03:00 Italia (CEST) = 01:00 UTC
     - cron: "0 1 * * *"
 
 permissions:
   contents: write
 
+# Concurrency condivisa tra film e serie: niente push concorrenti sul main
 concurrency:
-  group: generate-serie-${{ github.ref }}
-  cancel-in-progress: true
+  group: m3u-generator-main
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -51,8 +50,10 @@ jobs:
           ls -lah
           test -f serie.m3u && echo "OK: serie.m3u generated in root" || (echo "ERROR: serie.m3u not found" && exit 1)
 
-      - name: Commit and push serie.m3u
+      - name: Commit and push serie.m3u (rebase-safe)
         run: |
+          set -e
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
@@ -64,4 +65,10 @@ jobs:
           fi
 
           git commit -m "Auto-generate serie.m3u"
-          git push
+
+          # Allineati al remoto (evita rejected: fetch first)
+          git fetch origin main
+          git rebase origin/main
+
+          # Push
+          git push origin HEAD:main
