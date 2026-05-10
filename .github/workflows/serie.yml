@@ -4,17 +4,14 @@ on:
   workflow_dispatch:
   push:
     branches: ["main"]
-    # Evita loop: il commit del bot su serie.m3u non rilancia il workflow
     paths-ignore:
       - "serie.m3u"
   schedule:
-    # 03:00 Italia (CEST) = 01:00 UTC
     - cron: "0 1 * * *"
 
 permissions:
   contents: write
 
-# Concurrency condivisa tra film e serie: niente push concorrenti sul main
 concurrency:
   group: m3u-generator-main
   cancel-in-progress: false
@@ -39,9 +36,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests python-dotenv
 
+      # ✅ Miglioria TMDB (evita 429 a raffica)
+      - name: Set TMDB rate limit (env)
+        run: |
+          echo "TMDB_DELAY=0.25" >> $GITHUB_ENV
+          echo "TMDB_RETRIES=3" >> $GITHUB_ENV
+
       - name: Run generator (creates serie.m3u in repo root)
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          TMDB_DELAY: ${{ env.TMDB_DELAY }}
+          TMDB_RETRIES: ${{ env.TMDB_RETRIES }}
         run: |
           python scripts/serie.py
 
@@ -50,15 +55,17 @@ jobs:
           ls -lah
           test -f serie.m3u && echo "OK: serie.m3u generated in root" || (echo "ERROR: serie.m3u not found" && exit 1)
 
-      - name: Commit and push serie.m3u (rebase-safe)
+      # ✅ BLOCCO FIXATO (NO PIÙ ERRORI REBASE)
+      - name: Commit and push serie.m3u (SAFE)
         run: |
           set -e
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add serie.m3u
+          git add -A
 
+          # Commit solo se serve
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -66,9 +73,8 @@ jobs:
 
           git commit -m "Auto-generate serie.m3u"
 
-          # Allineati al remoto (evita rejected: fetch first)
-          git fetch origin main
-          git rebase origin/main
+          # ✅ FIX VERO: autostash + rebase
+          git pull --rebase --autostash origin main
 
           # Push
           git push origin HEAD:main
