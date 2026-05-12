@@ -151468,5 +151468,43 @@
       53
     ],
     "cached_at": "2026-05-10T20:43:02.454656"
+  },
+  "23736": {
+    "id": 23736,
+    "title": "Lies and Illusions - Intrighi e bugie",
+    "release_date": "2009-08-26",
+    "vote_average": 4.0,
+    "poster_path": "/8zNyTfoxYG68KV1Unpu4ECegVT3.jpg",
+    "genre_ids": [
+      28,
+      35,
+      53
+    ],
+    "cached_at": "2026-05-12T04:40:55.540756"
+  },
+  "12779": {
+    "id": 12779,
+    "title": "Travolti dal destino",
+    "release_date": "2002-10-11",
+    "vote_average": 4.7,
+    "poster_path": "/noY4CIpakKC4chRm8aBWWq5cNKI.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-05-12T04:40:55.608022"
+  },
+  "114717": {
+    "id": 114717,
+    "title": "East Meets West",
+    "release_date": "1995-08-12",
+    "vote_average": 5.714,
+    "poster_path": "/mR5w1dGJumTRUK8P7FSl1oSw1A0.jpg",
+    "genre_ids": [
+      37,
+      35,
+      28
+    ],
+    "cached_at": "2026-05-12T04:40:55.614875"
   }
 }
