@@ -151506,5 +151506,101 @@
       28
     ],
     "cached_at": "2026-05-12T04:40:55.614875"
+  },
+  "193641": {
+    "id": 193641,
+    "title": "Adulterio all'italiana",
+    "release_date": "1966-03-25",
+    "vote_average": 6.182,
+    "poster_path": "/rYBvN9ScSix2Y74GVmFHb3odJh6.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-13T04:52:39.585715"
+  },
+  "38884": {
+    "id": 38884,
+    "title": "Terra e libertà",
+    "release_date": "1995-04-07",
+    "vote_average": 7.307,
+    "poster_path": "/4OPF53DN7yFOq744zKHibLaPkGO.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      36
+    ],
+    "cached_at": "2026-05-13T04:52:39.598461"
+  },
+  "931285": {
+    "id": 931285,
+    "title": "Mortal Kombat II",
+    "release_date": "2026-05-06",
+    "vote_average": 7.145,
+    "poster_path": "/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+    "genre_ids": [
+      28,
+      14,
+      12
+    ],
+    "cached_at": "2026-05-13T04:52:39.609303"
+  },
+  "49980": {
+    "id": 49980,
+    "title": "Ladybird Ladybird",
+    "release_date": "1994-02-18",
+    "vote_average": 7.199,
+    "poster_path": "/91KSK1xKdVEIDASKRo9ahBFCtM2.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-13T04:52:39.629612"
+  },
+  "44918": {
+    "id": 44918,
+    "title": "Titanic II",
+    "release_date": "2010-08-07",
+    "vote_average": 4.871,
+    "poster_path": "/3m12UeP1DMfhYZyvpLftaJGsyp3.jpg",
+    "genre_ids": [
+      28,
+      53,
+      10749,
+      12,
+      18
+    ],
+    "cached_at": "2026-05-13T04:52:39.637210"
+  },
+  "1684240": {
+    "id": 1684240,
+    "title": "Untold UK: Jamie Vardy",
+    "release_date": "2026-05-12",
+    "vote_average": 9.5,
+    "poster_path": "/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-05-13T04:52:39.640887"
+  },
+  "294081": {
+    "id": 294081,
+    "title": "Il decamerone nero",
+    "release_date": "1972-10-15",
+    "vote_average": 4.0,
+    "poster_path": "/HQDBqeyeHBvsrQ4UPrrP9rELdr.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-13T04:52:39.656720"
+  },
+  "1620034": {
+    "id": 1620034,
+    "title": "Marty, Life Is Short",
+    "release_date": "2026-05-11",
+    "vote_average": 0.0,
+    "poster_path": "/vWgqvwe2MlDYXaXQ81XdgcJspMS.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-05-13T04:52:39.707989"
   }
 }
