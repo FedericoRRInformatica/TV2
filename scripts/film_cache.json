@@ -151602,5 +151602,53 @@
       99
     ],
     "cached_at": "2026-05-13T04:52:39.707989"
+  },
+  "869291": {
+    "id": 869291,
+    "title": "Cuckoo",
+    "release_date": "2024-02-16",
+    "vote_average": 5.756,
+    "poster_path": "/5YBg2A84ijfwh15LJV7xHwKjkRv.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-05-14T04:51:24.793873"
+  },
+  "1439930": {
+    "id": 1439930,
+    "title": "The Punisher: One Last Kill",
+    "release_date": "2026-05-12",
+    "vote_average": 8.578,
+    "poster_path": "/gOggsBCSypNXq0yApYeXe7nnopT.jpg",
+    "genre_ids": [
+      28,
+      18,
+      80
+    ],
+    "cached_at": "2026-05-14T04:51:24.831617"
+  },
+  "1678844": {
+    "id": 1678844,
+    "title": "Le Bus: La nazionale di calcio francese in sciopero",
+    "release_date": "2026-05-13",
+    "vote_average": 7.9,
+    "poster_path": "/vLYxo8SDMLfroqT3fMVnbvddXRF.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-05-14T04:51:24.833968"
+  },
+  "56378": {
+    "id": 56378,
+    "title": "My Name Is Tanino",
+    "release_date": "2003-05-30",
+    "vote_average": 6.252,
+    "poster_path": "/1HTc3XhsW5SPoQExwiGf3vYbBUz.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-14T04:51:24.837667"
   }
 }
