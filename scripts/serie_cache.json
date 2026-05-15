@@ -65374,5 +65374,44 @@
       35
     ],
     "cached_at": "2026-05-14T04:50:21.743213"
+  },
+  "799": {
+    "id": 799,
+    "name": "Le avventure di Sherlock Holmes",
+    "original_name": "Sherlock Holmes",
+    "first_air_date": "1984-04-24",
+    "vote_average": 8.167,
+    "poster_path": "/lT8ywU0IjG0Ui0anPXpksvf7dPw.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2026-05-15T04:54:55.346613"
+  },
+  "285807": {
+    "id": 285807,
+    "name": "Due forze opposte",
+    "original_name": "Nemesis",
+    "first_air_date": "2026-05-14",
+    "vote_average": 6.7,
+    "poster_path": "/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-05-15T04:54:55.374625"
+  },
+  "258063": {
+    "id": 258063,
+    "name": "Soul Mate",
+    "original_name": "ソウルメイト",
+    "first_air_date": "2026-05-14",
+    "vote_average": 8.0,
+    "poster_path": "/8ppPFQJhrc6fD6s2roCL7PTRDzX.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-15T04:54:55.393635"
   }
 }
