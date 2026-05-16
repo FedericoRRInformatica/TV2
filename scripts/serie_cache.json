@@ -65413,5 +65413,189 @@
       18
     ],
     "cached_at": "2026-05-15T04:54:55.393635"
+  },
+  "299167": {
+    "id": 299167,
+    "name": "Dutton Ranch",
+    "original_name": "Dutton Ranch",
+    "first_air_date": "2026-05-15",
+    "vote_average": 9.8,
+    "poster_path": "/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "cached_at": "2026-05-16T04:31:58.831237"
+  },
+  "321056": {
+    "id": 321056,
+    "name": "In Utero",
+    "original_name": "In Utero",
+    "first_air_date": "2026-05-08",
+    "vote_average": 0.0,
+    "poster_path": "/jAhShjpkPkFnzD2v5A3c8WpowAX.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-16T04:31:58.839726"
+  },
+  "93166": {
+    "id": 93166,
+    "name": "The Capture",
+    "original_name": "The Capture",
+    "first_air_date": "2019-09-03",
+    "vote_average": 7.7,
+    "poster_path": "/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2026-05-16T04:31:58.847502"
+  },
+  "259837": {
+    "id": 259837,
+    "name": "원더풀스",
+    "original_name": "원더풀스",
+    "first_air_date": "2026-05-15",
+    "vote_average": 6.8,
+    "poster_path": "/uARtDxJDtISHnM2BxaSKvlQpWrc.jpg",
+    "genre_ids": [
+      10759,
+      35,
+      10765,
+      18
+    ],
+    "cached_at": "2026-05-16T04:31:58.869426"
+  },
+  "1678": {
+    "id": 1678,
+    "name": "Cuori senza età",
+    "original_name": "The Golden Girls",
+    "first_air_date": "1985-09-14",
+    "vote_average": 7.6,
+    "poster_path": "/bDhU3x4nfVbSstXyc5m2nY89Y70.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-16T04:31:58.869439"
+  },
+  "1427": {
+    "id": 1427,
+    "name": "Broadchurch",
+    "original_name": "Broadchurch",
+    "first_air_date": "2013-03-04",
+    "vote_average": 7.905,
+    "poster_path": "/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2026-05-16T04:31:58.873067"
+  },
+  "1457": {
+    "id": 1457,
+    "name": "Orgoglio e pregiudizio",
+    "original_name": "Pride and Prejudice",
+    "first_air_date": "1995-09-24",
+    "vote_average": 8.2,
+    "poster_path": "/7qWz6E1R692Gs64CGcA1XWz7OkL.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-16T04:31:58.890978"
+  },
+  "256695": {
+    "id": 256695,
+    "name": "Regular Show: Le cassette perdute",
+    "original_name": "Regular Show: The Lost Tapes",
+    "first_air_date": "2026-05-11",
+    "vote_average": 9.571,
+    "poster_path": "/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10759,
+      10765
+    ],
+    "cached_at": "2026-05-16T04:31:58.892222"
+  },
+  "43720": {
+    "id": 43720,
+    "name": "Neverland - La vera storia di Peter Pan",
+    "original_name": "Neverland",
+    "first_air_date": "2011-12-04",
+    "vote_average": 6.1,
+    "poster_path": "/iNfcvFaCjVZkPWBcpH4faYMdEhM.jpg",
+    "genre_ids": [
+      10765,
+      10759
+    ],
+    "cached_at": "2026-05-16T04:31:58.898017"
+  },
+  "308014": {
+    "id": 308014,
+    "name": "Berlino e la Dama con l'ermellino",
+    "original_name": "Berlín y la dama del armiño",
+    "first_air_date": "2026-05-15",
+    "vote_average": 6.1,
+    "poster_path": "/7WLO1krc2Dp6xdhAf9QsLymepwg.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-05-16T04:31:58.906585"
+  },
+  "1401": {
+    "id": 1401,
+    "name": "Hell on Wheels",
+    "original_name": "Hell on Wheels",
+    "first_air_date": "2011-11-06",
+    "vote_average": 7.597,
+    "poster_path": "/ckC9pL9yeYpOoK5aJ7GbYYWheK7.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      37
+    ],
+    "cached_at": "2026-05-16T04:31:58.907668"
+  },
+  "1430": {
+    "id": 1430,
+    "name": "Cosmo",
+    "original_name": "Cosmos: A Personal Voyage",
+    "first_air_date": "1980-09-28",
+    "vote_average": 8.635,
+    "poster_path": "/nOGArjE0WMkzY2GW1taJm8l9gxD.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-05-16T04:31:58.911318"
+  },
+  "1422": {
+    "id": 1422,
+    "name": "The Middle",
+    "original_name": "The Middle",
+    "first_air_date": "2009-09-30",
+    "vote_average": 7.6,
+    "poster_path": "/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-16T04:31:58.927450"
+  },
+  "126027": {
+    "id": 126027,
+    "name": "Ghosts",
+    "original_name": "Ghosts",
+    "first_air_date": "2021-10-07",
+    "vote_average": 7.958,
+    "poster_path": "/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+    "genre_ids": [
+      35,
+      10765
+    ],
+    "cached_at": "2026-05-16T04:31:58.928380"
   }
 }
