@@ -151661,5 +151661,142 @@
       27
     ],
     "cached_at": "2026-05-15T04:55:24.738957"
+  },
+  "37945": {
+    "id": 37945,
+    "title": "The Lion in Winter - Nel regno del crimine",
+    "release_date": "2003-12-26",
+    "vote_average": 5.867,
+    "poster_path": "/a5JoRN3Vi3DaJjHAiOvBbXg9ZK3.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10770,
+      10749
+    ],
+    "cached_at": "2026-05-16T04:32:28.237154"
+  },
+  "28794": {
+    "id": 28794,
+    "title": "Quella villa accanto al cimitero",
+    "release_date": "1981-08-14",
+    "vote_average": 6.303,
+    "poster_path": "/17L1dTpQvlIzQk25c451QrxjV89.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "cached_at": "2026-05-16T04:32:28.240576"
+  },
+  "10990": {
+    "id": 10990,
+    "title": "Scomodi omicidi",
+    "release_date": "1996-04-26",
+    "vote_average": 6.011,
+    "poster_path": "/tuA2rdpn8VfKmoR0w1KNMp3BM0r.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53,
+      80
+    ],
+    "cached_at": "2026-05-16T04:32:28.251316"
+  },
+  "1124566": {
+    "id": 1124566,
+    "title": "Sentimental Value",
+    "release_date": "2025-08-20",
+    "vote_average": 7.489,
+    "poster_path": "/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-16T04:32:28.284511"
+  },
+  "1473635": {
+    "id": 1473635,
+    "title": "Le cose non dette",
+    "release_date": "2026-01-29",
+    "vote_average": 7.0,
+    "poster_path": "/sK4MZKEzQk5ajgLKI8QnU129UdY.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-16T04:32:28.284526"
+  },
+  "1662317": {
+    "id": 1662317,
+    "title": "The Crash: Incidente o omicidio?",
+    "release_date": "2026-05-15",
+    "vote_average": 7.2,
+    "poster_path": "/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-05-16T04:32:28.306531"
+  },
+  "1684226": {
+    "id": 1684226,
+    "title": "La sposa dell'anno",
+    "release_date": "2026-05-15",
+    "vote_average": 0.0,
+    "poster_path": "/geFc71rCYM8fErbROLY6n1LfAS6.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      10751
+    ],
+    "cached_at": "2026-05-16T04:32:28.315938"
+  },
+  "1125899": {
+    "id": 1125899,
+    "title": "Cleaner",
+    "release_date": "2025-02-19",
+    "vote_average": 6.345,
+    "poster_path": "/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-05-16T04:32:28.322673"
+  },
+  "29425": {
+    "id": 29425,
+    "title": "La città verrà distrutta all'alba",
+    "release_date": "1973-03-16",
+    "vote_average": 6.096,
+    "poster_path": "/ucPqkkKV0uS2jVc2fu0Kc2JsIFi.jpg",
+    "genre_ids": [
+      878,
+      27,
+      28
+    ],
+    "cached_at": "2026-05-16T04:32:28.353795"
+  },
+  "1023915": {
+    "id": 1023915,
+    "title": "2073 - Ultima chiamata",
+    "release_date": "2024-12-27",
+    "vote_average": 6.7,
+    "poster_path": "/bXJMBfprdXiaKDxgA8m1ifNGhle.jpg",
+    "genre_ids": [
+      53,
+      878
+    ],
+    "cached_at": "2026-05-16T04:32:28.362754"
+  },
+  "31945": {
+    "id": 31945,
+    "title": "Il siciliano",
+    "release_date": "1987-10-07",
+    "vote_average": 5.216,
+    "poster_path": "/5kYBdxQbLBoh19o8Khfo3pv7aE9.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "cached_at": "2026-05-16T04:32:28.392840"
   }
 }
