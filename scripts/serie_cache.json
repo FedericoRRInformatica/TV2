@@ -65597,5 +65597,32 @@
       10765
     ],
     "cached_at": "2026-05-16T04:31:58.928380"
+  },
+  "321338": {
+    "id": 321338,
+    "name": "Entre padre e hijo",
+    "original_name": "Entre padre e hijo",
+    "first_air_date": "2026-05-13",
+    "vote_average": 9.0,
+    "poster_path": "/pSb46kFE74L62zZVblkst83g9KA.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-17T04:55:19.030857"
+  },
+  "2121": {
+    "id": 2121,
+    "name": "ReBoot",
+    "original_name": "ReBoot",
+    "first_air_date": "1994-09-10",
+    "vote_average": 7.418,
+    "poster_path": "/5C2ZVZEZJdQLkaeO9cCw7rJ0EUM.jpg",
+    "genre_ids": [
+      10765,
+      16,
+      10759,
+      10762
+    ],
+    "cached_at": "2026-05-17T04:55:19.170541"
   }
 }
