@@ -151798,5 +151798,40 @@
       53
     ],
     "cached_at": "2026-05-16T04:32:28.392840"
+  },
+  "14174": {
+    "id": 14174,
+    "title": "Il sesso secondo lei",
+    "release_date": "2005-11-11",
+    "vote_average": 5.213,
+    "poster_path": "/mAY5uNLIFfcJ9bvVhHdyZh74KXJ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-17T04:55:46.839772"
+  },
+  "1645368": {
+    "id": 1645368,
+    "title": "L'abandon",
+    "release_date": "2026-05-13",
+    "vote_average": 8.444,
+    "poster_path": "/kfUKP5IgzgLQyQD1MDt99yq9Af0.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-17T04:55:46.907173"
+  },
+  "27703": {
+    "id": 27703,
+    "title": "Sette note in nero",
+    "release_date": "1977-08-10",
+    "vote_average": 7.032,
+    "poster_path": "/pcKr2hmYmo6urpiw0X0Uoab2Irx.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-05-17T04:55:46.916925"
   }
 }
