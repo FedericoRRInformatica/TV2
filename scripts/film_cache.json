@@ -151833,5 +151833,169 @@
       53
     ],
     "cached_at": "2026-05-17T04:55:46.916925"
+  },
+  "9022": {
+    "id": 9022,
+    "title": "All the Boys Love Mandy Lane",
+    "release_date": "2006-09-09",
+    "vote_average": 5.6,
+    "poster_path": "/9t7n7K0xqw0gMvrxyhdiyqEF3W1.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-05-18T05:10:39.993181"
+  },
+  "9067": {
+    "id": 9067,
+    "title": "Tank Girl",
+    "release_date": "1995-03-31",
+    "vote_average": 5.497,
+    "poster_path": "/1SAS71NTHYWQmByjPjXDlRVP2Fr.jpg",
+    "genre_ids": [
+      28,
+      35,
+      878,
+      14
+    ],
+    "cached_at": "2026-05-18T05:10:40.018344"
+  },
+  "6393": {
+    "id": 6393,
+    "title": "Filofax - Un'agenda che vale un tesoro",
+    "release_date": "1990-08-16",
+    "vote_average": 6.302,
+    "poster_path": "/7IHcbP8OfIgNd2DxpgAnqAi945G.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-18T05:10:40.081208"
+  },
+  "8974": {
+    "id": 8974,
+    "title": "La guerra dei mondi",
+    "release_date": "1953-04-03",
+    "vote_average": 6.813,
+    "poster_path": "/24N29KbWMecFRujVmIshNqFCSpQ.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "cached_at": "2026-05-18T05:10:40.090028"
+  },
+  "5683": {
+    "id": 5683,
+    "title": "Pee-wee's Big Adventure",
+    "release_date": "1985-07-26",
+    "vote_average": 6.475,
+    "poster_path": "/414IUXc54mrhX88ZUQiRDLXn01i.jpg",
+    "genre_ids": [
+      35,
+      12,
+      10751
+    ],
+    "cached_at": "2026-05-18T05:10:40.093163"
+  },
+  "10127": {
+    "id": 10127,
+    "title": "Critters 2",
+    "release_date": "1988-04-29",
+    "vote_average": 6.253,
+    "poster_path": "/26czZk7wkuTkcu3BYSIhyACM8k1.jpg",
+    "genre_ids": [
+      35,
+      27,
+      878
+    ],
+    "cached_at": "2026-05-18T05:10:40.101891"
+  },
+  "6472": {
+    "id": 6472,
+    "title": "Cara, insopportabile Tess",
+    "release_date": "1994-03-11",
+    "vote_average": 6.0,
+    "poster_path": "/ht1ZTj1hdH6C3Nh2pVppcakl9Ji.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-05-18T05:10:40.138900"
+  },
+  "8438": {
+    "id": 8438,
+    "title": "L'isola dell'ingiustizia - Alcatraz",
+    "release_date": "1995-01-20",
+    "vote_average": 7.153,
+    "poster_path": "/rdsHF9s35UBs0IRU9ugWEZQZB6w.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-05-18T05:10:40.141768"
+  },
+  "5709": {
+    "id": 5709,
+    "title": "Donne amazzoni sulla luna",
+    "release_date": "1987-09-18",
+    "vote_average": 5.905,
+    "poster_path": "/6AI7ZXoRTNHoIAtTeoTbWjHlr78.jpg",
+    "genre_ids": [
+      35,
+      878
+    ],
+    "cached_at": "2026-05-18T05:10:40.151516"
+  },
+  "9960": {
+    "id": 9960,
+    "title": "Il signore delle mosche",
+    "release_date": "1963-08-13",
+    "vote_average": 6.688,
+    "poster_path": "/jjakkIiY595iG93EVOClmNl3Igd.jpg",
+    "genre_ids": [
+      18,
+      12,
+      53
+    ],
+    "cached_at": "2026-05-18T05:10:40.153703"
+  },
+  "8333": {
+    "id": 8333,
+    "title": "Il colpo della metropolitana",
+    "release_date": "1974-10-02",
+    "vote_average": 7.451,
+    "poster_path": "/o2Bc9UeF0LAbzJnVSor9DM7Io1s.jpg",
+    "genre_ids": [
+      80,
+      53,
+      35,
+      28
+    ],
+    "cached_at": "2026-05-18T05:10:40.157863"
+  },
+  "7300": {
+    "id": 7300,
+    "title": "Un giorno per caso",
+    "release_date": "1996-12-20",
+    "vote_average": 6.474,
+    "poster_path": "/ccvBbNN2tGgOfsZnHi28P0N6QZO.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-05-18T05:10:40.162310"
+  },
+  "5722": {
+    "id": 5722,
+    "title": "Lungo la valle delle bambole",
+    "release_date": "1970-06-17",
+    "vote_average": 6.1,
+    "poster_path": "/2rSBpn3ptyb7nAzqhJwjAKHCyLW.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10402
+    ],
+    "cached_at": "2026-05-18T05:10:40.247541"
   }
 }
