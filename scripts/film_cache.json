@@ -151997,5 +151997,680 @@
       10402
     ],
     "cached_at": "2026-05-18T05:10:40.247541"
+  },
+  "10747": {
+    "id": 10747,
+    "title": "Il texano dagli occhi di ghiaccio",
+    "release_date": "1976-06-30",
+    "vote_average": 7.442,
+    "poster_path": "/sKBZlddISAceVHCtt3G7CpaGol1.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-05-19T05:06:52.538681"
+  },
+  "11698": {
+    "id": 11698,
+    "title": "La ballata di Stroszek",
+    "release_date": "1977-05-20",
+    "vote_average": 7.299,
+    "poster_path": "/w9HJcRcXohIZqx8HbKal3gp3NCR.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-19T05:06:52.546802"
+  },
+  "12105": {
+    "id": 12105,
+    "title": "Yellow Submarine - Il sottomarino giallo",
+    "release_date": "1968-07-17",
+    "vote_average": 7.213,
+    "poster_path": "/mvYqvV00KiA9UtWnPPYALUePap.jpg",
+    "genre_ids": [
+      10402,
+      16,
+      12,
+      35,
+      14
+    ],
+    "cached_at": "2026-05-19T05:06:52.552876"
+  },
+  "10800": {
+    "id": 10800,
+    "title": "Cacciatori di draghi",
+    "release_date": "2008-03-19",
+    "vote_average": 6.549,
+    "poster_path": "/gHjcaVaXVqjYItJzjD5Y8YrXh84.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "cached_at": "2026-05-19T05:06:52.567559"
+  },
+  "11590": {
+    "id": 11590,
+    "title": "Colpo secco",
+    "release_date": "1977-02-25",
+    "vote_average": 6.779,
+    "poster_path": "/zwDooRB9nXswiwSu0BvVUWocUYb.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-05-19T05:06:52.567577"
+  },
+  "11034": {
+    "id": 11034,
+    "title": "Il grande Gatsby",
+    "release_date": "1974-03-27",
+    "vote_average": 6.3,
+    "poster_path": "/b0VDyCrTFHOm4R6THO7cwjqnFEX.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-05-19T05:06:52.572809"
+  },
+  "11015": {
+    "id": 11015,
+    "title": "Relic - L'evoluzione del terrore",
+    "release_date": "1997-01-10",
+    "vote_average": 6.044,
+    "poster_path": "/pNH5834Rs2Dov9qAyY0swaOSj0h.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53,
+      878
+    ],
+    "cached_at": "2026-05-19T05:06:52.575954"
+  },
+  "10539": {
+    "id": 10539,
+    "title": "James e la pesca gigante",
+    "release_date": "1996-04-12",
+    "vote_average": 6.585,
+    "poster_path": "/nG4BgOB9OqYFDN6s1QmuYCHBd9F.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      12,
+      14
+    ],
+    "cached_at": "2026-05-19T05:06:52.600164"
+  },
+  "10629": {
+    "id": 10629,
+    "title": "Veronica Guerin - Il prezzo del coraggio",
+    "release_date": "2003-07-11",
+    "vote_average": 6.668,
+    "poster_path": "/jn57QImMTCohnb1DzglNrlijICM.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "cached_at": "2026-05-19T05:06:52.604437"
+  },
+  "11347": {
+    "id": 11347,
+    "title": "La tana del serpente bianco",
+    "release_date": "1988-09-21",
+    "vote_average": 5.936,
+    "poster_path": "/3JCurpDoquZz3RTsxvbp5sXN9p3.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "cached_at": "2026-05-19T05:06:52.701458"
+  },
+  "11482": {
+    "id": 11482,
+    "title": "L'inquilino del terzo piano",
+    "release_date": "1976-05-26",
+    "vote_average": 7.6,
+    "poster_path": "/5jyhqmOlqcMxcjtum7v1m3OnubT.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      18
+    ],
+    "cached_at": "2026-05-19T05:06:52.701475"
+  },
+  "11646": {
+    "id": 11646,
+    "title": "Gli anni spezzati",
+    "release_date": "1981-08-13",
+    "vote_average": 7.059,
+    "poster_path": "/zktmIATGaCOxYKoqdBJdMHFVSUS.jpg",
+    "genre_ids": [
+      10752,
+      36,
+      18
+    ],
+    "cached_at": "2026-05-19T05:06:52.707372"
+  },
+  "74135": {
+    "id": 74135,
+    "title": "Gantz Revolution",
+    "release_date": "2011-04-23",
+    "vote_average": 6.654,
+    "poster_path": "/yEElCsouCyjGLYExuNMg6K1ZbMA.jpg",
+    "genre_ids": [
+      28,
+      9648,
+      878,
+      27
+    ],
+    "cached_at": "2026-05-19T05:06:52.716649"
+  },
+  "10337": {
+    "id": 10337,
+    "title": "Bugsy",
+    "release_date": "1991-12-10",
+    "vote_average": 6.358,
+    "poster_path": "/jUCtsoH3HEstZsCRJn8dAIiIcie.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2026-05-19T05:06:52.738019"
+  },
+  "11577": {
+    "id": 11577,
+    "title": "Pat Garrett e Billy the Kid",
+    "release_date": "1973-05-23",
+    "vote_average": 7.194,
+    "poster_path": "/w0MTRCMcs8ogJNEZOdWijJmLTmO.jpg",
+    "genre_ids": [
+      37,
+      18,
+      36
+    ],
+    "cached_at": "2026-05-19T05:06:52.781036"
+  },
+  "1480025": {
+    "id": 1480025,
+    "title": "Come perdere un concorso di popolarità",
+    "release_date": "2026-01-16",
+    "vote_average": 5.9,
+    "poster_path": "/v5RNCGejmtZcA1wIGkVZXrpOhPl.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-05-19T05:06:52.793031"
+  },
+  "10970": {
+    "id": 10970,
+    "title": "L'ultima follia di Mel Brooks",
+    "release_date": "1976-06-17",
+    "vote_average": 6.528,
+    "poster_path": "/y5RulgchDwdXFpvkcdDQN8ZCeWK.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-19T05:06:52.827408"
+  },
+  "12187": {
+    "id": 12187,
+    "title": "4 fantasmi per un sogno",
+    "release_date": "1993-08-13",
+    "vote_average": 6.905,
+    "poster_path": "/oJzm99fNvLvCrzn0C0SZ6c9YlG3.jpg",
+    "genre_ids": [
+      14,
+      35,
+      10749
+    ],
+    "cached_at": "2026-05-19T05:06:52.833060"
+  },
+  "10518": {
+    "id": 10518,
+    "title": "Il maratoneta",
+    "release_date": "1976-10-08",
+    "vote_average": 7.177,
+    "poster_path": "/k7ATukCqF89HKy2GpT3RN6TgcAB.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "cached_at": "2026-05-19T05:06:52.836446"
+  },
+  "11016": {
+    "id": 11016,
+    "title": "L'isola di corallo",
+    "release_date": "1948-07-16",
+    "vote_average": 7.464,
+    "poster_path": "/5etPCFb2XM309lZf9uh21gfYeMG.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "cached_at": "2026-05-19T05:06:52.845803"
+  },
+  "11815": {
+    "id": 11815,
+    "title": "L'esperimento del dottor K.",
+    "release_date": "1958-07-16",
+    "vote_average": 7.043,
+    "poster_path": "/hfG6SIHmHKMCbbZnLSuFRexJ8mV.jpg",
+    "genre_ids": [
+      878,
+      27,
+      18
+    ],
+    "cached_at": "2026-05-19T05:06:52.861755"
+  },
+  "10478": {
+    "id": 10478,
+    "title": "Tin Cup",
+    "release_date": "1996-08-16",
+    "vote_average": 6.062,
+    "poster_path": "/rB7OvMmjcBFoogleORaUqrRgp8g.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ],
+    "cached_at": "2026-05-19T05:06:52.920648"
+  },
+  "11782": {
+    "id": 11782,
+    "title": "Hard Boiled",
+    "release_date": "1992-04-16",
+    "vote_average": 7.539,
+    "poster_path": "/1mSkM6NKig5jlG0HHYE9zdn4VnH.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2026-05-19T05:06:52.925300"
+  },
+  "10839": {
+    "id": 10839,
+    "title": "La croce di ferro",
+    "release_date": "1977-01-28",
+    "vote_average": 7.11,
+    "poster_path": "/xXAK8ZXFjHeHCyXecnGBpl2vB7P.jpg",
+    "genre_ids": [
+      18,
+      28,
+      36,
+      10752
+    ],
+    "cached_at": "2026-05-19T05:06:52.963628"
+  },
+  "56832": {
+    "id": 56832,
+    "title": "Gantz - L'inizio",
+    "release_date": "2010-11-29",
+    "vote_average": 6.6,
+    "poster_path": "/rwmpxG2P3ZZRpL60wjCdcjYKQk.jpg",
+    "genre_ids": [
+      27,
+      28,
+      878
+    ],
+    "cached_at": "2026-05-19T05:06:52.991102"
+  },
+  "11062": {
+    "id": 11062,
+    "title": "City Hall",
+    "release_date": "1996-02-16",
+    "vote_average": 5.975,
+    "poster_path": "/w7EkAl4Oi8Lc6VQKaqRHrOV3CxR.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-05-19T05:06:53.079010"
+  },
+  "11372": {
+    "id": 11372,
+    "title": "La notte dell'aquila",
+    "release_date": "1976-12-24",
+    "vote_average": 6.642,
+    "poster_path": "/puCgjxwrZgjYYP68p8nllJr9VP9.jpg",
+    "genre_ids": [
+      12,
+      18,
+      28,
+      53,
+      10752
+    ],
+    "cached_at": "2026-05-19T05:06:53.082943"
+  },
+  "11066": {
+    "id": 11066,
+    "title": "Il principe delle donne",
+    "release_date": "1992-06-28",
+    "vote_average": 5.66,
+    "poster_path": "/e6XL7Hsa2zWewtnXJdPMg00h4d8.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-05-19T05:06:53.090869"
+  },
+  "10261": {
+    "id": 10261,
+    "title": "Nei panni di una bionda",
+    "release_date": "1991-05-10",
+    "vote_average": 5.892,
+    "poster_path": "/g0lrffgub7kASDtbmDatyIpN3dv.jpg",
+    "genre_ids": [
+      14,
+      35
+    ],
+    "cached_at": "2026-05-19T05:06:53.129098"
+  },
+  "11257": {
+    "id": 11257,
+    "title": "Camera con vista",
+    "release_date": "1986-03-07",
+    "vote_average": 6.95,
+    "poster_path": "/ke1IoBttGVeeRpaS9thj7uI34E6.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-05-19T05:06:53.129118"
+  },
+  "11712": {
+    "id": 11712,
+    "title": "Sanjuro",
+    "release_date": "1962-01-01",
+    "vote_average": 7.953,
+    "poster_path": "/5kl3gcTaawzjLKNvgBbCkG17iwg.jpg",
+    "genre_ids": [
+      18,
+      28,
+      35
+    ],
+    "cached_at": "2026-05-19T05:06:53.146421"
+  },
+  "34152": {
+    "id": 34152,
+    "title": "Crooklyn",
+    "release_date": "1994-05-13",
+    "vote_average": 6.813,
+    "poster_path": "/iFqe07F78SO0SIBzWcK4I5MwNvP.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-05-19T05:06:53.201666"
+  },
+  "11068": {
+    "id": 11068,
+    "title": "Singles - L'amore è un gioco",
+    "release_date": "1992-09-18",
+    "vote_average": 6.4,
+    "poster_path": "/i0GxquwSFNP89XYMlBMOxPws2od.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "cached_at": "2026-05-19T05:06:53.209205"
+  },
+  "11314": {
+    "id": 11314,
+    "title": "Koyaanisqatsi",
+    "release_date": "1983-04-27",
+    "vote_average": 7.876,
+    "poster_path": "/608DNnvSMPo76Ww4J6rCh5eW5nr.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "cached_at": "2026-05-19T05:06:53.305870"
+  },
+  "11424": {
+    "id": 11424,
+    "title": "Alta società",
+    "release_date": "1956-07-17",
+    "vote_average": 6.818,
+    "poster_path": "/bzVXhkbMlYFITcPmLbI2thcAvfM.jpg",
+    "genre_ids": [
+      10402,
+      35,
+      10749
+    ],
+    "cached_at": "2026-05-19T05:06:53.308358"
+  },
+  "10546": {
+    "id": 10546,
+    "title": "Il corvo 2 - La città degli angeli",
+    "release_date": "1996-08-29",
+    "vote_average": 5.508,
+    "poster_path": "/yKuJT3c9CCYXBPO9xnYFQzScT15.jpg",
+    "genre_ids": [
+      28,
+      14,
+      53
+    ],
+    "cached_at": "2026-05-19T05:06:53.344755"
+  },
+  "11901": {
+    "id": 11901,
+    "title": "Lo straniero senza nome",
+    "release_date": "1973-04-19",
+    "vote_average": 7.316,
+    "poster_path": "/2ma3Z9b5T5ShDal3Ej4odihhpAi.jpg",
+    "genre_ids": [
+      37,
+      18,
+      9648
+    ],
+    "cached_at": "2026-05-19T05:06:53.412935"
+  },
+  "10900": {
+    "id": 10900,
+    "title": "Surveillance",
+    "release_date": "2008-02-08",
+    "vote_average": 6.008,
+    "poster_path": "/8CYX53rLeRonQjJOKyHkwAwBIWD.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "cached_at": "2026-05-19T05:06:53.447012"
+  },
+  "10863": {
+    "id": 10863,
+    "title": "La cruna dell'ago",
+    "release_date": "1981-07-24",
+    "vote_average": 6.7,
+    "poster_path": "/bvZ5QzYfoGgW6yFh130RAicsYlZ.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-05-19T05:06:53.451852"
+  },
+  "11235": {
+    "id": 11235,
+    "title": "Local Hero",
+    "release_date": "1983-02-17",
+    "vote_average": 6.778,
+    "poster_path": "/jqxD0H9a1rg5bXftsm6gsNOjt4n.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-05-19T05:06:53.454486"
+  },
+  "11575": {
+    "id": 11575,
+    "title": "La grande corsa",
+    "release_date": "1965-07-01",
+    "vote_average": 7.096,
+    "poster_path": "/y9YNJn3x8qqnbD2yjsy0Y5SAjnF.jpg",
+    "genre_ids": [
+      35,
+      12,
+      28,
+      10749,
+      37,
+      10751
+    ],
+    "cached_at": "2026-05-19T05:06:53.459972"
+  },
+  "10364": {
+    "id": 10364,
+    "title": "Comma 22",
+    "release_date": "1970-06-24",
+    "vote_average": 6.7,
+    "poster_path": "/o68ABQlaXvvyBept0OP6DkebWUr.jpg",
+    "genre_ids": [
+      10752,
+      35
+    ],
+    "cached_at": "2026-05-19T05:06:53.572521"
+  },
+  "10684": {
+    "id": 10684,
+    "title": "Il coraggio della verità",
+    "release_date": "1996-07-04",
+    "vote_average": 6.545,
+    "poster_path": "/6zQhEvwDfv0PCnd2Zg9I2a91q33.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648,
+      10752
+    ],
+    "cached_at": "2026-05-19T05:06:53.609560"
+  },
+  "11834": {
+    "id": 11834,
+    "title": "Jabberwocky",
+    "release_date": "1977-03-28",
+    "vote_average": 6.027,
+    "poster_path": "/kprcqmFxWPU45L1ZnMXO5yPPMVA.jpg",
+    "genre_ids": [
+      14,
+      35
+    ],
+    "cached_at": "2026-05-19T05:06:53.613185"
+  },
+  "42500": {
+    "id": 42500,
+    "title": "Io sono la legge",
+    "release_date": "1971-03-11",
+    "vote_average": 6.5,
+    "poster_path": "/kX98DJXpAXkHcvjIzAjsOnh3oKT.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-05-19T05:06:53.615027"
+  },
+  "10907": {
+    "id": 10907,
+    "title": "La leggenda di Robin Hood",
+    "release_date": "1938-05-13",
+    "vote_average": 7.48,
+    "poster_path": "/ks9KEeASeyeOFDnwbOBW9WDIbfE.jpg",
+    "genre_ids": [
+      12,
+      10749,
+      36,
+      28
+    ],
+    "cached_at": "2026-05-19T05:06:53.623360"
+  },
+  "10954": {
+    "id": 10954,
+    "title": "Farinelli - Voce regina",
+    "release_date": "1994-12-01",
+    "vote_average": 6.563,
+    "poster_path": "/uurapP8JRzRH6yK7aSPNXWMLiPq.jpg",
+    "genre_ids": [
+      36,
+      18,
+      10402
+    ],
+    "cached_at": "2026-05-19T05:06:53.644123"
+  },
+  "11639": {
+    "id": 11639,
+    "title": "Dark Crystal",
+    "release_date": "1982-12-17",
+    "vote_average": 7.138,
+    "poster_path": "/oy1KryhO2CHJIlOrIWhTEwn9cNd.jpg",
+    "genre_ids": [
+      12,
+      10751,
+      14
+    ],
+    "cached_at": "2026-05-19T05:06:53.653005"
+  },
+  "10275": {
+    "id": 10275,
+    "title": "The Shaolin Temple",
+    "release_date": "1982-01-21",
+    "vote_average": 7.0,
+    "poster_path": "/hpFkAKfQ40aKYlNKLwSVhMXRk5t.jpg",
+    "genre_ids": [
+      28
+    ],
+    "cached_at": "2026-05-19T05:06:53.656776"
+  },
+  "11463": {
+    "id": 11463,
+    "title": "I lunghi giorni delle aquile",
+    "release_date": "1969-09-15",
+    "vote_average": 6.9,
+    "poster_path": "/q12boPqrgvdxnWc5TgctRrPIvM9.jpg",
+    "genre_ids": [
+      10752,
+      36,
+      28
+    ],
+    "cached_at": "2026-05-19T05:06:53.664657"
+  },
+  "10227": {
+    "id": 10227,
+    "title": "Play Time - Tempo di divertimento",
+    "release_date": "1967-12-13",
+    "vote_average": 7.7,
+    "poster_path": "/azqhAl9HxiFTyY5KdXancsoVDRh.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-19T05:06:53.834787"
+  },
+  "11607": {
+    "id": 11607,
+    "title": "Creatura degli abissi",
+    "release_date": "1989-01-13",
+    "vote_average": 5.522,
+    "poster_path": "/o83MsAeHDXDkYi9yd4EnvXmsdMf.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53,
+      878
+    ],
+    "cached_at": "2026-05-19T05:06:53.848446"
+  },
+  "11718": {
+    "id": 11718,
+    "title": "Chi è Harry Crumb?",
+    "release_date": "1989-02-03",
+    "vote_average": 5.962,
+    "poster_path": "/2Rz797y01m0pAMV5Y07uRmVmkUw.jpg",
+    "genre_ids": [
+      35,
+      80,
+      9648
+    ],
+    "cached_at": "2026-05-19T05:06:53.875254"
   }
 }
