@@ -152672,5 +152672,439 @@
       9648
     ],
     "cached_at": "2026-05-19T05:06:53.875254"
+  },
+  "12593": {
+    "id": 12593,
+    "title": "Fritz il gatto",
+    "release_date": "1972-04-14",
+    "vote_average": 6.202,
+    "poster_path": "/e7gsedcfAzcCMKeh2F9P7QtOMzj.jpg",
+    "genre_ids": [
+      16,
+      35,
+      18
+    ],
+    "cached_at": "2026-05-20T05:09:37.997223"
+  },
+  "11591": {
+    "id": 11591,
+    "title": "Ho perso la testa per un cervello",
+    "release_date": "1983-06-10",
+    "vote_average": 6.233,
+    "poster_path": "/Ackge1n1kpCuMc5PGezxB1t32ED.jpg",
+    "genre_ids": [
+      35,
+      878
+    ],
+    "cached_at": "2026-05-20T05:09:38.027397"
+  },
+  "13555": {
+    "id": 13555,
+    "title": "Il tunnel dell'orrore",
+    "release_date": "1981-03-13",
+    "vote_average": 5.868,
+    "poster_path": "/ckp0QuiHODyUPbfH0vVXhbeZSKl.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-05-20T05:09:38.027411"
+  },
+  "13937": {
+    "id": 13937,
+    "title": "Doppia personalità",
+    "release_date": "1992-08-07",
+    "vote_average": 6.077,
+    "poster_path": "/AgiGXNFglfNU4qLSBdApNLsRIm5.jpg",
+    "genre_ids": [
+      27,
+      53,
+      80,
+      9648,
+      18
+    ],
+    "cached_at": "2026-05-20T05:09:38.041356"
+  },
+  "1684244": {
+    "id": 1684244,
+    "title": "Untold UK - Il miracolo del Liverpool a Istanbul",
+    "release_date": "2026-05-19",
+    "vote_average": 0.0,
+    "poster_path": "/oS1ad6L9ybHYEJLljmTkxn4ORDC.jpg",
+    "genre_ids": [
+      99,
+      36
+    ],
+    "cached_at": "2026-05-20T05:09:38.076429"
+  },
+  "14459": {
+    "id": 14459,
+    "title": "Storm Warning",
+    "release_date": "2007-10-19",
+    "vote_average": 5.503,
+    "poster_path": "/a52a97dlHjYWnNTzeJJohlPOSLG.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-05-20T05:09:38.095328"
+  },
+  "12528": {
+    "id": 12528,
+    "title": "I guerrieri della palude silenziosa",
+    "release_date": "1981-09-24",
+    "vote_average": 6.9,
+    "poster_path": "/hJVvvWtQG7e1tQitmDXx67ZRgco.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "cached_at": "2026-05-20T05:09:38.115947"
+  },
+  "12574": {
+    "id": 12574,
+    "title": "Un piedipiatti e mezzo",
+    "release_date": "1993-04-02",
+    "vote_average": 4.605,
+    "poster_path": "/56uJ6pptJjDL2rA5fFrt0EcJBbQ.jpg",
+    "genre_ids": [
+      28,
+      35,
+      10751
+    ],
+    "cached_at": "2026-05-20T05:09:38.115961"
+  },
+  "1523070": {
+    "id": 1523070,
+    "title": "Prendiamoci una pausa",
+    "release_date": "2026-01-15",
+    "vote_average": 5.958,
+    "poster_path": "/3C0ru5cyzMS761V7LhhboBsmknW.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-20T05:09:38.122700"
+  },
+  "13041": {
+    "id": 13041,
+    "title": "El Topo",
+    "release_date": "1970-12-18",
+    "vote_average": 7.063,
+    "poster_path": "/8Oy7DY0i5ISfTaPtX8XaVHRq6wj.jpg",
+    "genre_ids": [
+      12,
+      18,
+      37
+    ],
+    "cached_at": "2026-05-20T05:09:38.122721"
+  },
+  "13384": {
+    "id": 13384,
+    "title": "Kes",
+    "release_date": "1970-04-03",
+    "vote_average": 7.439,
+    "poster_path": "/r1FMq75irhsQBVGjXhPU4xA9SDo.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-20T05:09:38.122731"
+  },
+  "13090": {
+    "id": 13090,
+    "title": "Sunshine Cleaning - Non c’è sporco che tenga",
+    "release_date": "2008-01-18",
+    "vote_average": 6.593,
+    "poster_path": "/zpKNYT1Sc1ZbTlFxYg3ReN11CG1.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-05-20T05:09:38.149485"
+  },
+  "58591": {
+    "id": 58591,
+    "title": "Miracle Run",
+    "release_date": "2004-08-09",
+    "vote_average": 7.6,
+    "poster_path": "/6aGx9NJAXynsDiLXch9NTXj5D3R.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "cached_at": "2026-05-20T05:09:38.149500"
+  },
+  "14384": {
+    "id": 14384,
+    "title": "Soldato blu",
+    "release_date": "1970-08-12",
+    "vote_average": 6.8,
+    "poster_path": "/gk71DcCAhdoNux7Zt5vovmJyCRB.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "cached_at": "2026-05-20T05:09:38.181748"
+  },
+  "1476740": {
+    "id": 1476740,
+    "title": "Influencers",
+    "release_date": "2025-07-26",
+    "vote_average": 6.438,
+    "poster_path": "/nRdjGDxBW60OhzjAtikLgQBwt3B.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-05-20T05:09:38.198715"
+  },
+  "14002": {
+    "id": 14002,
+    "title": "Baraka",
+    "release_date": "1992-09-15",
+    "vote_average": 8.228,
+    "poster_path": "/ldEuJQ4z7zEvL7iXraESWBUfQcz.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-05-20T05:09:38.224771"
+  },
+  "13853": {
+    "id": 13853,
+    "title": "Cro Magnon - Odissea nella preistoria",
+    "release_date": "1986-01-17",
+    "vote_average": 5.277,
+    "poster_path": "/roMyTcHZvkYLOAG5bbtRkpLtzRd.jpg",
+    "genre_ids": [
+      12,
+      18
+    ],
+    "cached_at": "2026-05-20T05:09:38.235662"
+  },
+  "811959": {
+    "id": 811959,
+    "title": "The United Way",
+    "release_date": "2021-05-10",
+    "vote_average": 7.0,
+    "poster_path": "/bF1E2UnkDm17xxBpLqqsyhGPQDB.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-05-20T05:09:38.252077"
+  },
+  "13310": {
+    "id": 13310,
+    "title": "Lasciami entrare",
+    "release_date": "2008-10-24",
+    "vote_average": 7.546,
+    "poster_path": "/wRXsnsHGDWemwg5NcqVv0JQyXZM.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "cached_at": "2026-05-20T05:09:38.271308"
+  },
+  "62457": {
+    "id": 62457,
+    "title": "La nonna Sabella",
+    "release_date": "1957-08-29",
+    "vote_average": 7.194,
+    "poster_path": "/34Y2TteaIIUOufv2ZuCJPixqkxy.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-20T05:09:38.271320"
+  },
+  "12611": {
+    "id": 12611,
+    "title": "Fury",
+    "release_date": "1978-03-10",
+    "vote_average": 6.3,
+    "poster_path": "/wI9Q1dnJjVLCGrxnie38Sff7x6B.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2026-05-20T05:09:38.341198"
+  },
+  "13122": {
+    "id": 13122,
+    "title": "La casa nera",
+    "release_date": "1991-11-01",
+    "vote_average": 6.56,
+    "poster_path": "/edlYe2qfPcNows23QXtNDPM8nVT.jpg",
+    "genre_ids": [
+      27,
+      35,
+      53
+    ],
+    "cached_at": "2026-05-20T05:09:38.349747"
+  },
+  "493014": {
+    "id": 493014,
+    "title": "Generation Wealth",
+    "release_date": "2018-07-20",
+    "vote_average": 6.5,
+    "poster_path": "/ehe6Hrf9Re7BdO7ErIM49FrO0JY.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-05-20T05:09:38.349786"
+  },
+  "27088": {
+    "id": 27088,
+    "title": "L'ultima vergine americana",
+    "release_date": "1982-06-26",
+    "vote_average": 6.575,
+    "poster_path": "/vuldGFnZduNejIi2INIO7WHFYpG.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-20T05:09:38.358126"
+  },
+  "6643": {
+    "id": 6643,
+    "title": "Gli inesorabili",
+    "release_date": "1960-04-06",
+    "vote_average": 6.208,
+    "poster_path": "/uUx9MOnP8mV7boVQjNUnpMikG8q.jpg",
+    "genre_ids": [
+      37,
+      18,
+      10749
+    ],
+    "cached_at": "2026-05-20T05:09:38.362539"
+  },
+  "13776": {
+    "id": 13776,
+    "title": "A cena con gli amici",
+    "release_date": "1982-03-05",
+    "vote_average": 6.846,
+    "poster_path": "/j0OAMh7RWcNaDi6liCEY7pJJCQA.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-05-20T05:09:38.371075"
+  },
+  "13188": {
+    "id": 13188,
+    "title": "Lo schiavo dell'oro",
+    "release_date": "1951-11-30",
+    "vote_average": 7.439,
+    "poster_path": "/basLJ26eBCCMGwE5MI2wvJUIkyn.jpg",
+    "genre_ids": [
+      14,
+      18
+    ],
+    "cached_at": "2026-05-20T05:09:38.410608"
+  },
+  "14267": {
+    "id": 14267,
+    "title": "Female Trouble",
+    "release_date": "1976-02-15",
+    "vote_average": 6.9,
+    "poster_path": "/cqhIufhoORDMuFKEinV1IIYUBxD.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2026-05-20T05:09:38.413306"
+  },
+  "13382": {
+    "id": 13382,
+    "title": "Rudolph la renna dal naso rosso",
+    "release_date": "1964-12-06",
+    "vote_average": 7.394,
+    "poster_path": "/xjAElUhXuc7zFJPj3qUHjcySNsE.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      10770,
+      12,
+      14
+    ],
+    "cached_at": "2026-05-20T05:09:38.414932"
+  },
+  "13633": {
+    "id": 13633,
+    "title": "Bad Boys",
+    "release_date": "1983-03-25",
+    "vote_average": 7.0,
+    "poster_path": "/cP7gtfFfwNSRHgfSIwK0GgqtHD4.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-05-20T05:09:38.417323"
+  },
+  "13339": {
+    "id": 13339,
+    "title": "L'ora della rivincita",
+    "release_date": "1987-10-09",
+    "vote_average": 6.791,
+    "poster_path": "/lYWVyviLZoczDgtTy6LPa5tsiRB.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-20T05:09:38.418322"
+  },
+  "13199": {
+    "id": 13199,
+    "title": "American Me - Rabbia di vivere",
+    "release_date": "1992-03-13",
+    "vote_average": 7.402,
+    "poster_path": "/9UHzWzzLGvT437B7CvTWMuPOYfh.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-05-20T05:09:38.424550"
+  },
+  "736732": {
+    "id": 736732,
+    "title": "Le buone stelle - Broker",
+    "release_date": "2022-06-08",
+    "vote_average": 7.158,
+    "poster_path": "/kcOzTA7897Rrrbkazt6NUQklK73.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-20T05:09:38.450533"
+  },
+  "12761": {
+    "id": 12761,
+    "title": "Sinfonia d'autunno",
+    "release_date": "1978-10-08",
+    "vote_average": 7.951,
+    "poster_path": "/gXZw5FUmFvzSBBPbjfUrP8FKK2F.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-05-20T05:09:38.452349"
+  },
+  "14320": {
+    "id": 14320,
+    "title": "Grandi speranze",
+    "release_date": "1946-12-26",
+    "vote_average": 7.303,
+    "poster_path": "/wsANkcBHAc1LFTk4O0gvBspDiyg.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-05-20T05:09:38.453371"
+  },
+  "12309": {
+    "id": 12309,
+    "title": "Bachelor Party - Addio al celibato",
+    "release_date": "1984-06-29",
+    "vote_average": 6.311,
+    "poster_path": "/seugajKhPDPgrh871WPyqqi0m0E.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-20T05:09:38.460842"
   }
 }
