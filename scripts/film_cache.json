@@ -153106,5 +153106,104 @@
       35
     ],
     "cached_at": "2026-05-20T05:09:38.460842"
+  },
+  "204709": {
+    "id": 204709,
+    "title": "Il paradiso degli orchi",
+    "release_date": "2013-10-16",
+    "vote_average": 5.912,
+    "poster_path": "/ydbqyy8GIllZ08CCPHlzFyvvlff.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-21T05:12:50.783147"
+  },
+  "12702": {
+    "id": 12702,
+    "title": "Critters 3",
+    "release_date": "1991-12-11",
+    "vote_average": 5.318,
+    "poster_path": "/gdBZtlUvmC4je7RGbpBMI67bhJE.jpg",
+    "genre_ids": [
+      35,
+      27,
+      878
+    ],
+    "cached_at": "2026-05-21T05:12:50.845130"
+  },
+  "1052939": {
+    "id": 1052939,
+    "title": "The Boat",
+    "release_date": "2023-05-26",
+    "vote_average": 5.085,
+    "poster_path": "/mQMkKY35mgo91r7op5JsVcjbYmP.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-05-21T05:12:50.868371"
+  },
+  "63274": {
+    "id": 63274,
+    "title": "Mani di velluto",
+    "release_date": "1979-12-20",
+    "vote_average": 6.4,
+    "poster_path": "/7F79ai2gZ3EcVyQdvDRwDfgFFEU.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-05-21T05:12:50.869719"
+  },
+  "1380291": {
+    "id": 1380291,
+    "title": "Tom Clancy's Jack Ryan: Ghost War",
+    "release_date": "2026-05-20",
+    "vote_average": 6.917,
+    "poster_path": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
+    "genre_ids": [
+      28,
+      53,
+      18
+    ],
+    "cached_at": "2026-05-21T05:12:50.901790"
+  },
+  "9789": {
+    "id": 9789,
+    "title": "Mio fratello è figlio unico",
+    "release_date": "2007-03-28",
+    "vote_average": 6.723,
+    "poster_path": "/8IFX3Y9pnFAChoaHN1Qhr6YqhdV.jpg",
+    "genre_ids": [
+      35,
+      18,
+      36
+    ],
+    "cached_at": "2026-05-21T05:12:50.924750"
+  },
+  "9676": {
+    "id": 9676,
+    "title": "Black Dahlia",
+    "release_date": "2006-09-15",
+    "vote_average": 5.637,
+    "poster_path": "/hkR3JQ1njvOEVswvwcODtjeI0Rn.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18
+    ],
+    "cached_at": "2026-05-21T05:12:50.925568"
+  },
+  "12525": {
+    "id": 12525,
+    "title": "Critters 4",
+    "release_date": "1992-08-20",
+    "vote_average": 5.042,
+    "poster_path": "/o3BqLgwEHli8NDoPcJOK28jUJem.jpg",
+    "genre_ids": [
+      35,
+      27,
+      878
+    ],
+    "cached_at": "2026-05-21T05:12:50.929618"
   }
 }
