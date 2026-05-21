@@ -65634,5 +65634,57 @@
     "poster_path": "/jVt8wyiVxmqozjTcNIIK64REp2H.jpg",
     "genre_ids": [],
     "cached_at": "2026-05-19T05:06:14.925265"
+  },
+  "322126": {
+    "id": 322126,
+    "name": "World Wide Mafia 'Ndrangheta",
+    "original_name": "World Wide Mafia 'Ndrangheta",
+    "first_air_date": "2026-05-20",
+    "vote_average": 0.0,
+    "poster_path": "/on88qvkBtZH3YUELMNW0MYc9XwF.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-05-21T05:12:22.615352"
+  },
+  "3137": {
+    "id": 3137,
+    "name": "Babylon 5",
+    "original_name": "Babylon 5",
+    "first_air_date": "1994-01-26",
+    "vote_average": 8.0,
+    "poster_path": "/td8O6KJQpN9ZRiuyFUILziXFMrk.jpg",
+    "genre_ids": [
+      18,
+      10765,
+      10759
+    ],
+    "cached_at": "2026-05-21T05:12:22.618107"
+  },
+  "285404": {
+    "id": 285404,
+    "name": "Maximum Pleasure Guaranteed",
+    "original_name": "Maximum Pleasure Guaranteed",
+    "first_air_date": "2026-05-19",
+    "vote_average": 8.2,
+    "poster_path": "/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-21T05:12:22.633012"
+  },
+  "64122": {
+    "id": 64122,
+    "name": "The Shannara Chronicles",
+    "original_name": "The Shannara Chronicles",
+    "first_air_date": "2016-01-05",
+    "vote_average": 6.944,
+    "poster_path": "/yzoaoBSMww5D22Kfrd2LEJumIzl.jpg",
+    "genre_ids": [
+      10759,
+      10765
+    ],
+    "cached_at": "2026-05-21T05:12:22.650766"
   }
 }
