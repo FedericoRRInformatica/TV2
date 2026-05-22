@@ -153205,5 +153205,252 @@
       878
     ],
     "cached_at": "2026-05-21T05:12:50.929618"
+  },
+  "14919": {
+    "id": 14919,
+    "title": "Batman - La maschera del fantasma",
+    "release_date": "1993-12-25",
+    "vote_average": 7.496,
+    "poster_path": "/mDKnRads66zjq4CmcUtF8FSt47.jpg",
+    "genre_ids": [
+      16,
+      80,
+      9648
+    ],
+    "cached_at": "2026-05-22T05:07:03.815278"
+  },
+  "15613": {
+    "id": 15613,
+    "title": "Bagliori nel buio",
+    "release_date": "1993-03-12",
+    "vote_average": 6.648,
+    "poster_path": "/cMFOQSJTxMuzMH31IG8l4vEosDv.jpg",
+    "genre_ids": [
+      878,
+      9648,
+      53,
+      18
+    ],
+    "cached_at": "2026-05-22T05:07:03.833076"
+  },
+  "14924": {
+    "id": 14924,
+    "title": "Sid and Nancy",
+    "release_date": "1986-09-12",
+    "vote_average": 6.754,
+    "poster_path": "/16VldE6yKdGesw8DVRRGPUxk8bC.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-05-22T05:07:03.851210"
+  },
+  "14671": {
+    "id": 14671,
+    "title": "Summer School - Una vacanza da ripetenti",
+    "release_date": "1987-07-22",
+    "vote_average": 6.384,
+    "poster_path": "/xGPqjqTzmpCBF7MZj2y2yidMUnm.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-22T05:07:03.868054"
+  },
+  "121743": {
+    "id": 121743,
+    "title": "Quel gran pezzo dell'Ubalda tutta nuda e tutta calda",
+    "release_date": "1972-10-12",
+    "vote_average": 5.181,
+    "poster_path": "/9NRCtok7IT9bD3qtaYIQTdjvpix.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-22T05:07:03.878963"
+  },
+  "15785": {
+    "id": 15785,
+    "title": "Bambola meccanica mod. Cherry 2000",
+    "release_date": "1987-11-10",
+    "vote_average": 6.0,
+    "poster_path": "/i0xfSoVoGQDzxEKDZuMglJHVhBG.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "cached_at": "2026-05-22T05:07:03.887169"
+  },
+  "14539": {
+    "id": 14539,
+    "title": "L'imperatrice e i guerrieri",
+    "release_date": "2008-02-09",
+    "vote_average": 6.0,
+    "poster_path": "/x3CxPJUmK9erh7qBz0vuTMnt9kh.jpg",
+    "genre_ids": [
+      28,
+      12,
+      36
+    ],
+    "cached_at": "2026-05-22T05:07:03.887181"
+  },
+  "14807": {
+    "id": 14807,
+    "title": "Il giorno del venerdì santo",
+    "release_date": "1980-11-01",
+    "vote_average": 7.171,
+    "poster_path": "/5BQtz3kX9X8fjQI9n5LN8NbYsfF.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18
+    ],
+    "cached_at": "2026-05-22T05:07:03.893043"
+  },
+  "6072": {
+    "id": 6072,
+    "title": "Codice omicidio 187",
+    "release_date": "1997-07-29",
+    "vote_average": 6.666,
+    "poster_path": "/6QjOp0nelTdhJBVwEfDkY5GQoKx.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-05-22T05:07:03.901041"
+  },
+  "15873": {
+    "id": 15873,
+    "title": "Il ponte di Remagen",
+    "release_date": "1969-06-25",
+    "vote_average": 6.757,
+    "poster_path": "/81DvGqqnpHc06AV8QmOBwQwytce.jpg",
+    "genre_ids": [
+      10752,
+      28
+    ],
+    "cached_at": "2026-05-22T05:07:03.905368"
+  },
+  "15300": {
+    "id": 15300,
+    "title": "Gli strilloni",
+    "release_date": "1992-04-10",
+    "vote_average": 6.739,
+    "poster_path": "/hIJ3btHE3X6P8N6CgIqhvvxXvsX.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-05-22T05:07:03.906743"
+  },
+  "1496001": {
+    "id": 1496001,
+    "title": "Vai Bello - Storia della Spaghetti Funk",
+    "release_date": "2025-06-05",
+    "vote_average": 0.0,
+    "poster_path": "/wY1qisqvZDhP2Sv6tDrSCltbLeJ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-05-22T05:07:03.910971"
+  },
+  "15259": {
+    "id": 15259,
+    "title": "Breakdance",
+    "release_date": "1984-05-04",
+    "vote_average": 6.626,
+    "poster_path": "/rttTbKXlygUL8ruBw7FhqNYzaB8.jpg",
+    "genre_ids": [
+      10402,
+      18,
+      10749
+    ],
+    "cached_at": "2026-05-22T05:07:03.972455"
+  },
+  "15849": {
+    "id": 15849,
+    "title": "La mummia",
+    "release_date": "1932-12-22",
+    "vote_average": 6.756,
+    "poster_path": "/qUFHHkNPnT593M3w6gWo6tlTe7t.jpg",
+    "genre_ids": [
+      27,
+      14
+    ],
+    "cached_at": "2026-05-22T05:07:03.993485"
+  },
+  "15855": {
+    "id": 15855,
+    "title": "Il fantasma dell'Opera",
+    "release_date": "1943-08-12",
+    "vote_average": 6.194,
+    "poster_path": "/lbcgnwMbfyuwYQJHNt574oWmoD2.jpg",
+    "genre_ids": [
+      27,
+      10749
+    ],
+    "cached_at": "2026-05-22T05:07:04.064281"
+  },
+  "480483": {
+    "id": 480483,
+    "title": "Finchè c'è prosecco c'è speranza",
+    "release_date": "2017-10-31",
+    "vote_average": 5.8,
+    "poster_path": "/A4TLhq9FTzKnErJDV3U1oh3tRQy.jpg",
+    "genre_ids": [
+      9648,
+      35
+    ],
+    "cached_at": "2026-05-22T05:07:04.083007"
+  },
+  "15794": {
+    "id": 15794,
+    "title": "La furia umana",
+    "release_date": "1949-09-02",
+    "vote_average": 7.657,
+    "poster_path": "/vr2eQoOfwi0asAJJ0TgzzHrxcV1.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-05-22T05:07:04.092861"
+  },
+  "15856": {
+    "id": 15856,
+    "title": "La casa dei fantasmi",
+    "release_date": "1959-01-01",
+    "vote_average": 6.8,
+    "poster_path": "/1FxGJfdLypJqr3HVEWFNlcqx7Oa.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "cached_at": "2026-05-22T05:07:04.119333"
+  },
+  "14696": {
+    "id": 14696,
+    "title": "I racconti della luna pallida d'agosto",
+    "release_date": "1953-03-26",
+    "vote_average": 8.005,
+    "poster_path": "/hR4QSZMelnURAxlpnhLXOT3g6ML.jpg",
+    "genre_ids": [
+      14,
+      18,
+      9648
+    ],
+    "cached_at": "2026-05-22T05:07:04.136921"
+  },
+  "15668": {
+    "id": 15668,
+    "title": "Xanadu",
+    "release_date": "1980-08-08",
+    "vote_average": 5.7,
+    "poster_path": "/4r1cHzhksHO3u1QS1Ct9mId7kQL.jpg",
+    "genre_ids": [
+      14,
+      878,
+      10749
+    ],
+    "cached_at": "2026-05-22T05:07:04.186748"
   }
 }
