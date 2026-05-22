@@ -65686,5 +65686,59 @@
       10765
     ],
     "cached_at": "2026-05-21T05:12:22.650766"
+  },
+  "3743": {
+    "id": 3743,
+    "name": "Forever Knight",
+    "original_name": "Forever Knight",
+    "first_air_date": "1992-05-05",
+    "vote_average": 6.903,
+    "poster_path": "/aXlJjgxsorDOCl4cDoWpwN7x0JN.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10765,
+      80
+    ],
+    "cached_at": "2026-05-22T05:06:29.463784"
+  },
+  "224941": {
+    "id": 224941,
+    "name": "The Boroughs - Ribelli senza tempo",
+    "original_name": "The Boroughs",
+    "first_air_date": "2026-05-21",
+    "vote_average": 5.0,
+    "poster_path": "/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+    "genre_ids": [
+      10765,
+      9648
+    ],
+    "cached_at": "2026-05-22T05:06:29.475253"
+  },
+  "321596": {
+    "id": 321596,
+    "name": "James.",
+    "original_name": "James.",
+    "first_air_date": "2026-05-21",
+    "vote_average": 0.0,
+    "poster_path": "/be7cg7V1R8QcfRI5N1pAMwJo62r.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-05-22T05:06:29.499503"
+  },
+  "133529": {
+    "id": 133529,
+    "name": "Le cronache di Gumball",
+    "original_name": "The Gumball Chronicles",
+    "first_air_date": "2020-10-05",
+    "vote_average": 9.3,
+    "poster_path": "/hZ08bp9EEUJiCXIIu8DGf8jCwUB.jpg",
+    "genre_ids": [
+      10762,
+      10751,
+      16
+    ],
+    "cached_at": "2026-05-22T05:06:29.524275"
   }
 }
