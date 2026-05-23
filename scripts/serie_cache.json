@@ -65740,5 +65740,43 @@
       16
     ],
     "cached_at": "2026-05-22T05:06:29.524275"
+  },
+  "311924": {
+    "id": 311924,
+    "name": "The 50",
+    "original_name": "The 50",
+    "first_air_date": "2026-02-01",
+    "vote_average": 0.0,
+    "poster_path": "/r7ZPWfdKJJmSjZDOIMQCz3PXjIa.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-05-23T04:44:48.336078"
+  },
+  "290295": {
+    "id": 290295,
+    "name": "Mating Season",
+    "original_name": "Mating Season",
+    "first_air_date": "2026-05-22",
+    "vote_average": 1.0,
+    "poster_path": "/dJjPnw3NQHmbGWGUXdlROqtTMuX.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10765
+    ],
+    "cached_at": "2026-05-23T04:44:48.389028"
+  },
+  "320472": {
+    "id": 320472,
+    "name": "Kylie",
+    "original_name": "Kylie",
+    "first_air_date": "2026-05-20",
+    "vote_average": 10.0,
+    "poster_path": "/xQA7aFO6jFvjZJRTzMrkddfmiuR.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-05-23T04:44:48.430284"
   }
 }
