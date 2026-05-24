@@ -153945,5 +153945,338 @@
       53
     ],
     "cached_at": "2026-05-23T04:46:05.060386"
+  },
+  "22112": {
+    "id": 22112,
+    "title": "Doppio gioco",
+    "release_date": "1949-02-04",
+    "vote_average": 7.099,
+    "poster_path": "/kZmU3QkVOinzOqBS5CiiVAisM6d.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "cached_at": "2026-05-24T05:05:42.706517"
+  },
+  "22048": {
+    "id": 22048,
+    "title": "Foxy Brown",
+    "release_date": "1974-04-05",
+    "vote_average": 6.268,
+    "poster_path": "/lAeEDcBgEqnxl9l7n7i4936ERi8.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-05-24T05:05:42.711617"
+  },
+  "22377": {
+    "id": 22377,
+    "title": "Berretti verdi",
+    "release_date": "1968-07-04",
+    "vote_average": 5.67,
+    "poster_path": "/tndsCjP7pqh1h1ANalcrMmQhUub.jpg",
+    "genre_ids": [
+      10752,
+      18
+    ],
+    "cached_at": "2026-05-24T05:05:42.761585"
+  },
+  "22021": {
+    "id": 22021,
+    "title": "Coffy",
+    "release_date": "1973-06-13",
+    "vote_average": 6.612,
+    "poster_path": "/vviPLt7uT4T3TC1oUmZyKWD1IWP.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-05-24T05:05:42.771229"
+  },
+  "20416": {
+    "id": 20416,
+    "title": "Abissi",
+    "release_date": "1977-06-17",
+    "vote_average": 6.049,
+    "poster_path": "/kd6aC9ZFByHcdKXbc3QODvMN538.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      12
+    ],
+    "cached_at": "2026-05-24T05:05:42.771244"
+  },
+  "998105": {
+    "id": 998105,
+    "title": "The Life",
+    "release_date": "2004-09-05",
+    "vote_average": 5.5,
+    "poster_path": "/sDujgBrbbHFQFulScaN3J4ybHm2.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-05-24T05:05:42.774191"
+  },
+  "44266": {
+    "id": 44266,
+    "title": "A Time for Dancing",
+    "release_date": "2002-09-06",
+    "vote_average": 6.686,
+    "poster_path": "/s4R2EWdzh1aL1jVSPnSuKsePrro.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-05-24T05:05:42.779129"
+  },
+  "20537": {
+    "id": 20537,
+    "title": "Caravaggio",
+    "release_date": "1986-08-29",
+    "vote_average": 6.1,
+    "poster_path": "/4TsayIEhoId7iahurgpKSNdSdEo.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10749
+    ],
+    "cached_at": "2026-05-24T05:05:42.787647"
+  },
+  "20701": {
+    "id": 20701,
+    "title": "I delitti del gatto nero",
+    "release_date": "1990-05-03",
+    "vote_average": 6.172,
+    "poster_path": "/cOWmK5ZhpSV8UB8je5Jz8v8ckqC.jpg",
+    "genre_ids": [
+      53,
+      35,
+      14,
+      27
+    ],
+    "cached_at": "2026-05-24T05:05:42.787660"
+  },
+  "22874": {
+    "id": 22874,
+    "title": "Indiscreto",
+    "release_date": "1958-07-16",
+    "vote_average": 6.611,
+    "poster_path": "/nnPjYwhsgApwhGsmloZjNpkQnKj.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-05-24T05:05:42.804963"
+  },
+  "23919": {
+    "id": 23919,
+    "title": "Porky's III - La rivincita!",
+    "release_date": "1985-03-22",
+    "vote_average": 5.5,
+    "poster_path": "/hbjJxxiwtIvOMYVY7czJkioLt2z.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-24T05:05:42.808954"
+  },
+  "1287141": {
+    "id": 1287141,
+    "title": "Pillion - Amore senza freni",
+    "release_date": "2025-11-28",
+    "vote_average": 6.376,
+    "poster_path": "/as93xiDvY1RwfLoNp4GRFmaOCjo.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      35
+    ],
+    "cached_at": "2026-05-24T05:05:42.835539"
+  },
+  "21345": {
+    "id": 21345,
+    "title": "南京!南京!",
+    "release_date": "2009-04-22",
+    "vote_average": 7.4,
+    "poster_path": "/nYz8Cqd5NcBWp5Nl1vTkx0LXMOC.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "cached_at": "2026-05-24T05:05:42.880644"
+  },
+  "21734": {
+    "id": 21734,
+    "title": "L'ombra del dubbio",
+    "release_date": "1943-01-12",
+    "vote_average": 7.496,
+    "poster_path": "/aZ9DO1tT2ROxUtQwa4ct5xcPS9z.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      80
+    ],
+    "cached_at": "2026-05-24T05:05:42.892869"
+  },
+  "22494": {
+    "id": 22494,
+    "title": "Frequently Asked Questions About Time Travel",
+    "release_date": "2009-04-24",
+    "vote_average": 6.865,
+    "poster_path": "/r67KzlHkdiwe3fBWzImEkNOg1Y.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749,
+      878
+    ],
+    "cached_at": "2026-05-24T05:05:42.906181"
+  },
+  "20481": {
+    "id": 20481,
+    "title": "Cabal",
+    "release_date": "1990-02-16",
+    "vote_average": 6.36,
+    "poster_path": "/ez1JhNSKO7AMYoEB5ZpLID6Ch8H.jpg",
+    "genre_ids": [
+      27,
+      14
+    ],
+    "cached_at": "2026-05-24T05:05:43.035780"
+  },
+  "22784": {
+    "id": 22784,
+    "title": "America 1929 - Sterminateli senza pietà",
+    "release_date": "1972-06-14",
+    "vote_average": 5.8,
+    "poster_path": "/sRp4kPryMm2cM7zIOaCQdb6yjY0.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-05-24T05:05:43.047952"
+  },
+  "1375646": {
+    "id": 1375646,
+    "title": "군체",
+    "release_date": "2026-05-21",
+    "vote_average": 5.875,
+    "poster_path": "/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
+    "genre_ids": [
+      28,
+      53,
+      27
+    ],
+    "cached_at": "2026-05-24T05:05:43.049087"
+  },
+  "22414": {
+    "id": 22414,
+    "title": "Cartoline dall'inferno",
+    "release_date": "1990-09-14",
+    "vote_average": 6.6,
+    "poster_path": "/vbS4VaCERj3UY7jEcOhdffJE73T.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-05-24T05:05:43.050331"
+  },
+  "926586": {
+    "id": 926586,
+    "title": "DOGMA",
+    "release_date": "2017-01-01",
+    "vote_average": 0.0,
+    "poster_path": "/AwCCP91MmBHlxCUyPhR4BHx3r1L.jpg",
+    "genre_ids": [
+      16
+    ],
+    "cached_at": "2026-05-24T05:05:43.070108"
+  },
+  "22327": {
+    "id": 22327,
+    "title": "Youth in Revolt",
+    "release_date": "2009-09-11",
+    "vote_average": 6.152,
+    "poster_path": "/3J48x7Utjx0sdYIvjsMWnlEbxpV.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ],
+    "cached_at": "2026-05-24T05:05:43.074094"
+  },
+  "1397055": {
+    "id": 1397055,
+    "title": "2 cuori e 2 capanne",
+    "release_date": "2026-01-22",
+    "vote_average": 5.5,
+    "poster_path": "/gAFBd3HqOHA6lZhT0ymu1gM46qT.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-24T05:05:43.299095"
+  },
+  "10246": {
+    "id": 10246,
+    "title": "Porky's - Questi pazzi pazzi porcelloni",
+    "release_date": "1981-11-13",
+    "vote_average": 6.406,
+    "poster_path": "/vYzbWtUyYHeugmMX9gJQLgVOi3r.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-24T05:05:43.451233"
+  },
+  "20391": {
+    "id": 20391,
+    "title": "La ballata della città senza nome",
+    "release_date": "1969-10-15",
+    "vote_average": 6.337,
+    "poster_path": "/iD7iIm3J7cv60Ls8p13VgW9faSK.jpg",
+    "genre_ids": [
+      35,
+      37,
+      10402
+    ],
+    "cached_at": "2026-05-24T05:05:43.500829"
+  },
+  "23159": {
+    "id": 23159,
+    "title": "Un evaso ha bussato alla porta",
+    "release_date": "1942-08-20",
+    "vote_average": 7.316,
+    "poster_path": "/gztFvv998Qgt3w5N4RTJ1vAgQlb.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-05-24T05:05:43.623485"
+  },
+  "21948": {
+    "id": 21948,
+    "title": "Rolling Thunder",
+    "release_date": "1977-11-02",
+    "vote_average": 6.749,
+    "poster_path": "/8n6qv3UwomRsQSWYRrMpCRn0ZP7.jpg",
+    "genre_ids": [
+      28,
+      18,
+      80,
+      53
+    ],
+    "cached_at": "2026-05-24T05:05:43.652072"
+  },
+  "19698": {
+    "id": 19698,
+    "title": "Porky's II - Il giorno dopo",
+    "release_date": "1983-06-24",
+    "vote_average": 5.7,
+    "poster_path": "/vBeRxXyWJJSCOUrkakZoTFWFeSP.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-24T05:05:43.791604"
   }
 }
