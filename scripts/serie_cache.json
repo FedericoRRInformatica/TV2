@@ -65778,5 +65778,41 @@
       99
     ],
     "cached_at": "2026-05-23T04:44:48.430284"
+  },
+  "4266": {
+    "id": 4266,
+    "name": "Cinque in famiglia",
+    "original_name": "Party of Five",
+    "first_air_date": "1994-09-12",
+    "vote_average": 7.0,
+    "poster_path": "/5LZgFeMynMeeKX8Bn9s1RWe9n9S.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-24T05:04:58.178561"
+  },
+  "4239": {
+    "id": 4239,
+    "name": "Sposati... con figli",
+    "original_name": "Married... with Children",
+    "first_air_date": "1987-04-05",
+    "vote_average": 7.734,
+    "poster_path": "/qxdOgESOkBMmfcWUizL01mbdqzl.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-24T05:04:58.187535"
+  },
+  "65226": {
+    "id": 65226,
+    "name": "Professione vacanze",
+    "original_name": "Professione vacanze",
+    "first_air_date": "1987-04-16",
+    "vote_average": 5.6,
+    "poster_path": "/xyZr72ncEM6PvUQBzWnJL17ylin.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-24T05:04:58.219160"
   }
 }
