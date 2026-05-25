@@ -65814,5 +65814,83 @@
       35
     ],
     "cached_at": "2026-05-24T05:04:58.219160"
+  },
+  "4459": {
+    "id": 4459,
+    "name": "The Muppet Show",
+    "original_name": "The Muppet Show",
+    "first_air_date": "1976-09-05",
+    "vote_average": 8.0,
+    "poster_path": "/x1aZsosXqaCpZTI12lLpNYIj6HX.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "cached_at": "2026-05-25T05:24:10.059610"
+  },
+  "4376": {
+    "id": 4376,
+    "name": "JAG - Avvocati in divisa",
+    "original_name": "JAG",
+    "first_air_date": "1995-09-23",
+    "vote_average": 7.3,
+    "poster_path": "/kSqWAyXO39sG5bL1i7HjB6dXv8H.jpg",
+    "genre_ids": [
+      18,
+      10759,
+      80
+    ],
+    "cached_at": "2026-05-25T05:24:10.084587"
+  },
+  "126506": {
+    "id": 126506,
+    "name": "Smiling Friends",
+    "original_name": "Smiling Friends",
+    "first_air_date": "2020-04-01",
+    "vote_average": 8.538,
+    "poster_path": "/l1Qdw9DsJaomE8BXeVfkF6h1qaa.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10765
+    ],
+    "cached_at": "2026-05-25T05:24:10.116293"
+  },
+  "323347": {
+    "id": 323347,
+    "name": "The 50 (IT)",
+    "original_name": "The 50 (IT)",
+    "first_air_date": "2026-05-22",
+    "vote_average": 0.0,
+    "poster_path": "/tqmEZksj5AMYphDzr0WDCF7Z7I3.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-05-25T05:24:10.119029"
+  },
+  "321597": {
+    "id": 321597,
+    "name": "Carisima",
+    "original_name": "Carísima",
+    "first_air_date": "2026-05-20",
+    "vote_average": 6.7,
+    "poster_path": "/6e4ivA7v8vlzardz4IXPXzqxRrE.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-25T05:24:10.158162"
+  },
+  "32406": {
+    "id": 32406,
+    "name": "The Big C",
+    "original_name": "The Big C",
+    "first_air_date": "2010-08-16",
+    "vote_average": 7.24,
+    "poster_path": "/osq7LBsULx9DEs67LeYZnGGyr70.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-05-25T05:24:10.173908"
   }
 }
