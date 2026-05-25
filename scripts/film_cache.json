@@ -154278,5 +154278,342 @@
       35
     ],
     "cached_at": "2026-05-24T05:05:43.791604"
+  },
+  "16164": {
+    "id": 16164,
+    "title": "Killshot",
+    "release_date": "2008-11-13",
+    "vote_average": 5.803,
+    "poster_path": "/ckUhio8KhGDcvFV7g34kYjVLEEW.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-05-25T05:24:41.430834"
+  },
+  "2284": {
+    "id": 2284,
+    "title": "Mr. Magorium e la bottega delle meraviglie",
+    "release_date": "2007-11-16",
+    "vote_average": 6.252,
+    "poster_path": "/brmkQHWL6wuf8DpJa1wfCiUI7DI.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      35
+    ],
+    "cached_at": "2026-05-25T05:24:41.546246"
+  },
+  "15745": {
+    "id": 15745,
+    "title": "Made - Due imbroglioni a New York",
+    "release_date": "2001-07-13",
+    "vote_average": 5.8,
+    "poster_path": "/pm1igAmwv40kJ3h6Mvvx81HuWqi.jpg",
+    "genre_ids": [
+      35,
+      80,
+      18
+    ],
+    "cached_at": "2026-05-25T05:24:41.569713"
+  },
+  "895959": {
+    "id": 895959,
+    "title": "Float",
+    "release_date": "2024-02-09",
+    "vote_average": 6.648,
+    "poster_path": "/nkTggTHd2N85aNU0fbHMlORCwkn.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-05-25T05:24:41.571303"
+  },
+  "26686": {
+    "id": 26686,
+    "title": "California Suite",
+    "release_date": "1978-03-19",
+    "vote_average": 5.837,
+    "poster_path": "/Aha3P3bI6CcQjIn2sujAbMUWBsA.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-05-25T05:24:41.595670"
+  },
+  "13190": {
+    "id": 13190,
+    "title": "Dead Space - La forza oscura",
+    "release_date": "2008-10-28",
+    "vote_average": 6.562,
+    "poster_path": "/84kjwBGW0wymojk2RJr4D7rcmC0.jpg",
+    "genre_ids": [
+      16,
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2026-05-25T05:24:41.599026"
+  },
+  "6917": {
+    "id": 6917,
+    "title": "Non aprite quel cancello",
+    "release_date": "1987-04-21",
+    "vote_average": 6.068,
+    "poster_path": "/g02KGUpT9fejhkB7xlwBjtoGinE.jpg",
+    "genre_ids": [
+      27,
+      14
+    ],
+    "cached_at": "2026-05-25T05:24:41.617800"
+  },
+  "13579": {
+    "id": 13579,
+    "title": "Una squadra molto speciale",
+    "release_date": "2008-08-22",
+    "vote_average": 6.44,
+    "poster_path": "/qX03WgUlnbZuzQqcASSNhBYFHd0.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      35
+    ],
+    "cached_at": "2026-05-25T05:24:41.617816"
+  },
+  "254074": {
+    "id": 254074,
+    "title": "Amore e follia",
+    "release_date": "2000-07-10",
+    "vote_average": 4.571,
+    "poster_path": "/gdba6MvoofXkN98G0LAj7Jspbzh.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      53,
+      10770
+    ],
+    "cached_at": "2026-05-25T05:24:41.623304"
+  },
+  "9966": {
+    "id": 9966,
+    "title": "The Messengers",
+    "release_date": "2007-02-02",
+    "vote_average": 5.758,
+    "poster_path": "/ituR560dbnV4WAFPY0jJlEenGiW.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      27
+    ],
+    "cached_at": "2026-05-25T05:24:41.623336"
+  },
+  "44129": {
+    "id": 44129,
+    "title": "The Company Men",
+    "release_date": "2010-10-21",
+    "vote_average": 6.529,
+    "poster_path": "/tKX6E1nOf4vZN903YbkjQe7x1fv.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-25T05:24:41.665876"
+  },
+  "13532": {
+    "id": 13532,
+    "title": "Fanboys",
+    "release_date": "2009-02-06",
+    "vote_average": 6.154,
+    "poster_path": "/rXFvumZrSzTSAgmOcnPkqtrODmS.jpg",
+    "genre_ids": [
+      12,
+      35,
+      80
+    ],
+    "cached_at": "2026-05-25T05:24:41.665894"
+  },
+  "273410": {
+    "id": 273410,
+    "title": "Il grande botto",
+    "release_date": "2000-04-07",
+    "vote_average": 6.316,
+    "poster_path": "/xLm4XTUe7RKJ2U1uubes1KYvOJp.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-25T05:24:42.160961"
+  },
+  "1675032": {
+    "id": 1675032,
+    "title": "Josh Johnson: Symphony",
+    "release_date": "2026-05-23",
+    "vote_average": 8.0,
+    "poster_path": "/ycJcUb7vvUV4vtHOPAX0zgXxDeV.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-25T05:24:42.209765"
+  },
+  "399300": {
+    "id": 399300,
+    "title": "La leggenda del calcio d'acciaio",
+    "release_date": "2016-07-15",
+    "vote_average": 6.65,
+    "poster_path": "/fLoW2YCY7Y4ChFOwtchb8TLwl6w.jpg",
+    "genre_ids": [
+      28,
+      80,
+      12
+    ],
+    "cached_at": "2026-05-25T05:24:42.224066"
+  },
+  "38073": {
+    "id": 38073,
+    "title": "Amore a mille... miglia",
+    "release_date": "2010-08-27",
+    "vote_average": 6.087,
+    "poster_path": "/wRiMq4VPIIBQoG4uxQEQDOMBcNM.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-05-25T05:24:42.370457"
+  },
+  "20441": {
+    "id": 20441,
+    "title": "The Messengers 2 - L'inizio della fine",
+    "release_date": "2009-07-21",
+    "vote_average": 5.427,
+    "poster_path": "/eCQLaNCN4tGJg0x0jl4v9eGr4ZK.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-05-25T05:24:42.373403"
+  },
+  "103631": {
+    "id": 103631,
+    "title": "Vita Smeralda",
+    "release_date": "2006-07-14",
+    "vote_average": 3.7,
+    "poster_path": "/uFDyjjB2TlQ1nGl7Rm6ZS8bxjj5.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-25T05:24:42.518872"
+  },
+  "57783": {
+    "id": 57783,
+    "title": "Night Eyes II",
+    "release_date": "1991-10-01",
+    "vote_average": 5.92,
+    "poster_path": "/leZIZlPXxwEBMlrDjsCV5V0acEi.jpg",
+    "genre_ids": [
+      53,
+      10749
+    ],
+    "cached_at": "2026-05-25T05:24:42.614928"
+  },
+  "10894": {
+    "id": 10894,
+    "title": "May",
+    "release_date": "2003-04-11",
+    "vote_average": 6.566,
+    "poster_path": "/oFXhJYTax1cnNtgvLdKlXuYiWPV.jpg",
+    "genre_ids": [
+      18,
+      27,
+      35
+    ],
+    "cached_at": "2026-05-25T05:24:42.879391"
+  },
+  "11931": {
+    "id": 11931,
+    "title": "In Her Shoes - Se fossi lei",
+    "release_date": "2005-10-07",
+    "vote_average": 6.217,
+    "poster_path": "/bKu5CaVoFT2ftQxmNRHR66F2rrM.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-05-25T05:24:42.883586"
+  },
+  "13204": {
+    "id": 13204,
+    "title": "Hellboy: Fiumi di Sangue",
+    "release_date": "2007-03-10",
+    "vote_average": 6.382,
+    "poster_path": "/zAlTycfGsK1ogw8aWjaaEpqMQNA.jpg",
+    "genre_ids": [
+      16,
+      14,
+      27,
+      28,
+      53,
+      878,
+      10770
+    ],
+    "cached_at": "2026-05-25T05:24:42.998047"
+  },
+  "335140": {
+    "id": 335140,
+    "title": "Il bacio di Giuda",
+    "release_date": "1988-04-09",
+    "vote_average": 10.0,
+    "poster_path": "/9vJ62Q7Rc9pbo4BQLjGfkh4FWzF.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-05-25T05:24:43.135467"
+  },
+  "24556": {
+    "id": 24556,
+    "title": "Alla ricerca della valle incantata 11 - L'invasione dei minisauri",
+    "release_date": "2005-01-11",
+    "vote_average": 6.3,
+    "poster_path": "/q9SlMzxEVlNe7CqkoAt5y9NsJcP.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14,
+      12
+    ],
+    "cached_at": "2026-05-25T05:24:43.266413"
+  },
+  "1660612": {
+    "id": 1660612,
+    "title": "Wanda Sykes: Legacy",
+    "release_date": "2026-05-19",
+    "vote_average": 4.0,
+    "poster_path": "/nHE1A7YA51xegolfczZShIsO4dc.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-25T05:24:43.270592"
+  },
+  "22162": {
+    "id": 22162,
+    "title": "Il fantastico mondo di Aladino",
+    "release_date": "1997-11-12",
+    "vote_average": 5.3,
+    "poster_path": "/ajyd8kirLQUcRo4VZsjkZ1SPPJN.jpg",
+    "genre_ids": [
+      10751,
+      12,
+      14
+    ],
+    "cached_at": "2026-05-25T05:24:43.453499"
+  },
+  "253903": {
+    "id": 253903,
+    "title": "The Underachievers",
+    "release_date": "1988-06-01",
+    "vote_average": 4.833,
+    "poster_path": "/dh9Al6rSCYvUTbxics6aqqYqJbD.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-25T05:24:43.527752"
   }
 }
