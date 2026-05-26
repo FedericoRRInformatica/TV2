@@ -154615,5 +154615,65 @@
       35
     ],
     "cached_at": "2026-05-25T05:24:43.527752"
+  },
+  "11374": {
+    "id": 11374,
+    "title": "EDtv",
+    "release_date": "1999-03-26",
+    "vote_average": 5.9,
+    "poster_path": "/mU8nyqhVUh34FfeZRSy53lzuHDe.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-26T05:07:50.788158"
+  },
+  "10533": {
+    "id": 10533,
+    "title": "La lettera scarlatta",
+    "release_date": "1995-10-13",
+    "vote_average": 6.133,
+    "poster_path": "/8hqys29uX2FHSF5hkce9NtlvKxt.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-05-26T05:07:50.853233"
+  },
+  "542587": {
+    "id": 542587,
+    "title": "I Magotti e la Pentola Magica",
+    "release_date": "2001-09-10",
+    "vote_average": 6.7,
+    "poster_path": "/2E3Tj28EvgiSSBjgyQe15trRTYF.jpg",
+    "genre_ids": [
+      16
+    ],
+    "cached_at": "2026-05-26T05:07:50.910432"
+  },
+  "1228710": {
+    "id": 1228710,
+    "title": "The Mandalorian and Grogu",
+    "release_date": "2026-05-20",
+    "vote_average": 6.754,
+    "poster_path": "/2XX2XlXdfEWV0tfUyWunBj1SFpx.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "cached_at": "2026-05-26T05:07:50.948187"
+  },
+  "12403": {
+    "id": 12403,
+    "title": "A Perfect Getaway - Una perfetta via di fuga",
+    "release_date": "2009-06-08",
+    "vote_average": 6.331,
+    "poster_path": "/632GbfRmiduiP76JHXlR6KdVdyS.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      12
+    ],
+    "cached_at": "2026-05-26T05:07:50.954213"
   }
 }
