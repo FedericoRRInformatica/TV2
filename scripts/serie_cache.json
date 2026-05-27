@@ -65892,5 +65892,19 @@
       18
     ],
     "cached_at": "2026-05-25T05:24:10.173908"
+  },
+  "271378": {
+    "id": 271378,
+    "name": "I Fratelli Corsaro",
+    "original_name": "I Fratelli Corsaro",
+    "first_air_date": "2024-09-11",
+    "vote_average": 7.3,
+    "poster_path": "/83GfPXak3jpB6Bg61EFn5Fn0gkL.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "cached_at": "2026-05-27T05:21:16.045293"
   }
 }
