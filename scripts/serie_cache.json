@@ -65906,5 +65906,33 @@
       9648
     ],
     "cached_at": "2026-05-27T05:21:16.045293"
+  },
+  "220102": {
+    "id": 220102,
+    "name": "Spider-Noir",
+    "original_name": "Spider-Noir",
+    "first_air_date": "2026-05-25",
+    "vote_average": 9.092,
+    "poster_path": "/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      18
+    ],
+    "cached_at": "2026-05-28T05:12:58.207163"
+  },
+  "304597": {
+    "id": 304597,
+    "name": "Due spicci",
+    "original_name": "Due spicci",
+    "first_air_date": "2026-05-27",
+    "vote_average": 8.75,
+    "poster_path": "/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg",
+    "genre_ids": [
+      16,
+      35,
+      18
+    ],
+    "cached_at": "2026-05-28T05:12:58.248306"
   }
 }
