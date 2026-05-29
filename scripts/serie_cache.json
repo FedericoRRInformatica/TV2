@@ -65934,5 +65934,31 @@
       18
     ],
     "cached_at": "2026-05-28T05:12:58.248306"
+  },
+  "226346": {
+    "id": 226346,
+    "name": "Deli Boys",
+    "original_name": "Deli Boys",
+    "first_air_date": "2025-03-06",
+    "vote_average": 6.7,
+    "poster_path": "/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-05-29T05:16:43.828431"
+  },
+  "120998": {
+    "id": 120998,
+    "name": "Poker Face",
+    "original_name": "Poker Face",
+    "first_air_date": "2023-01-26",
+    "vote_average": 7.469,
+    "poster_path": "/eA32Vs0z8w6vn6E3oJdJKdk0s33.jpg",
+    "genre_ids": [
+      80,
+      9648
+    ],
+    "cached_at": "2026-05-29T05:16:43.868163"
   }
 }
