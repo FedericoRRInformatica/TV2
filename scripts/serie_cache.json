@@ -65960,5 +65960,55 @@
       9648
     ],
     "cached_at": "2026-05-29T05:16:43.868163"
+  },
+  "6998": {
+    "id": 6998,
+    "name": "Lark Rise to Candleford",
+    "original_name": "Lark Rise to Candleford",
+    "first_air_date": "2008-01-13",
+    "vote_average": 8.4,
+    "poster_path": "/ygnOo7IBXLoGsIHowAezLI4k0BD.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-30T04:55:06.283587"
+  },
+  "319934": {
+    "id": 319934,
+    "name": "Calabasas Confidential",
+    "original_name": "Calabasas Confidential",
+    "first_air_date": "2026-05-29",
+    "vote_average": 0.0,
+    "poster_path": "/i9saZWnE3evcp1MCdK6chKY2sxq.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-05-30T04:55:06.318418"
+  },
+  "292532": {
+    "id": 292532,
+    "name": "Brasile '70 - La terza stella",
+    "original_name": "Brasil 70: A Saga do Tri",
+    "first_air_date": "2026-05-29",
+    "vote_average": 0.0,
+    "poster_path": "/gGVvMitZmPRo14FrttGAX7OHZo0.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-30T04:55:06.319284"
+  },
+  "252107": {
+    "id": 252107,
+    "name": "Star City",
+    "original_name": "Star City",
+    "first_air_date": "2026-05-28",
+    "vote_average": 6.571,
+    "poster_path": "/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg",
+    "genre_ids": [
+      18,
+      10765,
+      10768
+    ],
+    "cached_at": "2026-05-30T04:55:06.348201"
   }
 }
