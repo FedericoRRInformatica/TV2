@@ -154849,5 +154849,116 @@
       10749
     ],
     "cached_at": "2026-05-29T05:17:12.289951"
+  },
+  "1220564": {
+    "id": 1220564,
+    "title": "L'agente segreto",
+    "release_date": "2025-07-23",
+    "vote_average": 7.289,
+    "poster_path": "/hQWzqAQ798fBOzQZ7cuLjTOLqCI.jpg",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ],
+    "cached_at": "2026-05-30T04:55:39.016701"
+  },
+  "1215185": {
+    "id": 1215185,
+    "title": "L'infiltrata",
+    "release_date": "2024-10-11",
+    "vote_average": 7.1,
+    "poster_path": "/xnME9c2PEtYGBDPO4lZXAVeEu0G.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "cached_at": "2026-05-30T04:55:39.061070"
+  },
+  "1662414": {
+    "id": 1662414,
+    "title": "Volo notturno per Los Angeles",
+    "release_date": "2026-05-15",
+    "vote_average": 5.7,
+    "poster_path": "/vAHBciNtxN3l4sPob8n0BHXnvQr.jpg",
+    "genre_ids": [
+      12,
+      18,
+      10751
+    ],
+    "cached_at": "2026-05-30T04:55:39.115212"
+  },
+  "10396": {
+    "id": 10396,
+    "title": "Tequila Connection",
+    "release_date": "1988-12-02",
+    "vote_average": 6.07,
+    "poster_path": "/brwbx4c8LWCvGUskXOVPL4ZOAVO.jpg",
+    "genre_ids": [
+      53,
+      80,
+      10749
+    ],
+    "cached_at": "2026-05-30T04:55:39.116692"
+  },
+  "60047": {
+    "id": 60047,
+    "title": "Fuochi d'artificio",
+    "release_date": "1997-10-10",
+    "vote_average": 6.223,
+    "poster_path": "/nTvTnDL87Foftz4z1VFftgp2kkE.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-05-30T04:55:39.120645"
+  },
+  "891584": {
+    "id": 891584,
+    "title": "The History Of Sound - Sulle note di un amore",
+    "release_date": "2025-09-12",
+    "vote_average": 6.8,
+    "poster_path": "/5tNr1CySiYQICRsQbWWSSsDiKjn.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10402
+    ],
+    "cached_at": "2026-05-30T04:55:39.131470"
+  },
+  "45916": {
+    "id": 45916,
+    "title": "Il principe e il pirata",
+    "release_date": "2001-12-14",
+    "vote_average": 5.422,
+    "poster_path": "/jfnkA9MPKiRxfbfyWln81CisZRF.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-05-30T04:55:39.133999"
+  },
+  "976576": {
+    "id": 976576,
+    "title": "Emmanuelle",
+    "release_date": "2024-09-25",
+    "vote_average": 4.7,
+    "poster_path": "/s9gmKus9YPTDzdMKZQJYPh0VoGk.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-05-30T04:55:39.152919"
+  },
+  "1180318": {
+    "id": 1180318,
+    "title": "La casa degli sguardi",
+    "release_date": "2025-04-10",
+    "vote_average": 7.4,
+    "poster_path": "/xARoDLBwQtWWtCV12NHxADsLANH.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-05-30T04:55:39.165928"
   }
 }
