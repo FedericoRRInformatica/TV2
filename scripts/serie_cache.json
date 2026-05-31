@@ -66010,5 +66010,84 @@
       10768
     ],
     "cached_at": "2026-05-30T04:55:06.348201"
+  },
+  "9834": {
+    "id": 9834,
+    "name": "Little Bear",
+    "original_name": "Little Bear",
+    "first_air_date": "1995-11-06",
+    "vote_average": 6.962,
+    "poster_path": "/bLm7pkUAoi2AGsnPXrPnZ3ErlKs.jpg",
+    "genre_ids": [
+      16,
+      18,
+      10762,
+      10765
+    ],
+    "cached_at": "2026-05-31T05:22:15.583926"
+  },
+  "9867": {
+    "id": 9867,
+    "name": "I misteri di Silvestro e Titti",
+    "original_name": "The Sylvester & Tweety Mysteries",
+    "first_air_date": "1995-09-09",
+    "vote_average": 6.523,
+    "poster_path": "/b8AkMeacC71nABALm5GgT1x5nMo.jpg",
+    "genre_ids": [
+      16,
+      35,
+      9648,
+      80
+    ],
+    "cached_at": "2026-05-31T05:22:15.604831"
+  },
+  "8425": {
+    "id": 8425,
+    "name": "Only Connect",
+    "original_name": "Only Connect",
+    "first_air_date": "2008-09-15",
+    "vote_average": 6.423,
+    "poster_path": "/jEHa9QTvbdzuZFRX3hL7KBV3UxU.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-05-31T05:22:15.624572"
+  },
+  "7704": {
+    "id": 7704,
+    "name": "La spada della verità",
+    "original_name": "Legend of the Seeker",
+    "first_air_date": "2008-11-01",
+    "vote_average": 7.438,
+    "poster_path": "/radyqhRgQDqJDDkanIbYQRp08xS.jpg",
+    "genre_ids": [
+      10765,
+      10759,
+      18
+    ],
+    "cached_at": "2026-05-31T05:22:15.655277"
+  },
+  "220104": {
+    "id": 220104,
+    "name": "16-16",
+    "original_name": "16-16",
+    "first_air_date": "2021-05-09",
+    "vote_average": 0.0,
+    "poster_path": "/9it2Ptc3ZP2EjBOShS41B80PPfK.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-05-31T05:22:15.658221"
+  },
+  "8392": {
+    "id": 8392,
+    "name": "Braccio di Ferro",
+    "original_name": "Popeye the Sailor",
+    "first_air_date": "1960-06-10",
+    "vote_average": 7.12,
+    "poster_path": "/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
+    "genre_ids": [
+      16,
+      10762
+    ],
+    "cached_at": "2026-05-31T05:22:15.679631"
   }
 }
