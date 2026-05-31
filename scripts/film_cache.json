@@ -154960,5 +154960,32 @@
       18
     ],
     "cached_at": "2026-05-30T04:55:39.165928"
+  },
+  "454639": {
+    "id": 454639,
+    "title": "Masters of the Universe",
+    "release_date": "2026-06-03",
+    "vote_average": 9.2,
+    "poster_path": "/myxz3z3VOOcDPudmKTr3TUjjIUg.jpg",
+    "genre_ids": [
+      28,
+      14,
+      878
+    ],
+    "cached_at": "2026-05-31T05:23:00.707628"
+  },
+  "476631": {
+    "id": 476631,
+    "title": "Barbie - La magia del delfino",
+    "release_date": "2017-09-20",
+    "vote_average": 6.618,
+    "poster_path": "/hIQQNC5moX4m85b5bAll3WC17rv.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      14
+    ],
+    "cached_at": "2026-05-31T05:23:00.723240"
   }
 }
