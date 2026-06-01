@@ -66089,5 +66089,42 @@
       10762
     ],
     "cached_at": "2026-05-31T05:22:15.679631"
+  },
+  "13266": {
+    "id": 13266,
+    "name": "L'ispettore Gently",
+    "original_name": "Inspector George Gently",
+    "first_air_date": "2008-04-08",
+    "vote_average": 7.883,
+    "poster_path": "/3xfuZKWVxNnXhL8C6wVSnfM9Uj9.jpg",
+    "genre_ids": [
+      9648,
+      80
+    ],
+    "cached_at": "2026-06-01T06:08:27.551968"
+  },
+  "279884": {
+    "id": 279884,
+    "name": "Rafa",
+    "original_name": "Rafa",
+    "first_air_date": "2026-05-29",
+    "vote_average": 9.0,
+    "poster_path": "/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-01T06:08:27.563121"
+  },
+  "13555": {
+    "id": 13555,
+    "name": "Radici",
+    "original_name": "Roots",
+    "first_air_date": "1977-01-23",
+    "vote_average": 7.351,
+    "poster_path": "/oOsTnlGwQPByk3AMgBrMuQTvnmt.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-01T06:08:27.563136"
   }
 }
