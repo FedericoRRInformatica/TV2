@@ -154987,5 +154987,41 @@
       14
     ],
     "cached_at": "2026-05-31T05:23:00.723240"
+  },
+  "287499": {
+    "id": 287499,
+    "title": "Margarita with a Straw",
+    "release_date": "2015-04-17",
+    "vote_average": 6.774,
+    "poster_path": "/cY2MKU0EBZye6wAfWadA3oecy8O.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-01T06:08:58.409998"
+  },
+  "159774": {
+    "id": 159774,
+    "title": "Zip & Zap e il club delle biglie",
+    "release_date": "2013-10-04",
+    "vote_average": 5.909,
+    "poster_path": "/wyAFRbO8WpxG8he8wW3sWUnFyxf.jpg",
+    "genre_ids": [
+      12,
+      35,
+      10751
+    ],
+    "cached_at": "2026-06-01T06:08:58.431755"
+  },
+  "57103": {
+    "id": 57103,
+    "title": "Donne in cerca d'amore",
+    "release_date": "1959-10-09",
+    "vote_average": 6.314,
+    "poster_path": "/5qiGd4awYlDhNy0AtBxkMOmWecl.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-01T06:08:58.433094"
   }
 }
