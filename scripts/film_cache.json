@@ -155048,5 +155048,264 @@
       35
     ],
     "cached_at": "2026-06-02T05:54:03.775608"
+  },
+  "24010": {
+    "id": 24010,
+    "title": "Fermata d'autobus",
+    "release_date": "1956-08-31",
+    "vote_average": 6.1,
+    "poster_path": "/xROYSvioPvfmuuLTxcOQpW6P0vi.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-03T06:08:13.558265"
+  },
+  "24740": {
+    "id": 24740,
+    "title": "Entity",
+    "release_date": "1982-09-30",
+    "vote_average": 6.776,
+    "poster_path": "/e6fsd6zSJDPaFP4xWAtMkHJOkXU.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-06-03T06:08:13.605642"
+  },
+  "24452": {
+    "id": 24452,
+    "title": "La piccola bottega degli orrori",
+    "release_date": "1960-05-04",
+    "vote_average": 6.275,
+    "poster_path": "/dhZiJBL5haJvdQ5oPOhPc7fIcKQ.jpg",
+    "genre_ids": [
+      27,
+      35,
+      14
+    ],
+    "cached_at": "2026-06-03T06:08:13.607918"
+  },
+  "26513": {
+    "id": 26513,
+    "title": "Punishment Park",
+    "release_date": "1971-10-01",
+    "vote_average": 7.348,
+    "poster_path": "/4ATUqZV6Bouf76aYabZ5R1KqdlM.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-06-03T06:08:13.626589"
+  },
+  "26422": {
+    "id": 26422,
+    "title": "I racconti del cuscino",
+    "release_date": "1995-09-01",
+    "vote_average": 6.381,
+    "poster_path": "/ghTWJKCwO1vwlSvgBNHtNVj9ZTS.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-03T06:08:13.631311"
+  },
+  "24056": {
+    "id": 24056,
+    "title": "The Tournament",
+    "release_date": "2009-05-01",
+    "vote_average": 5.948,
+    "poster_path": "/o4TAVhGYCeSgyInZ1a061cC7fkT.jpg",
+    "genre_ids": [
+      27,
+      28,
+      53
+    ],
+    "cached_at": "2026-06-03T06:08:13.637317"
+  },
+  "56343": {
+    "id": 56343,
+    "title": "Una vita difficile",
+    "release_date": "1961-12-19",
+    "vote_average": 8.034,
+    "poster_path": "/70n8lUZOmEKSWlQYzh8fHHLqqu9.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-03T06:08:13.646477"
+  },
+  "24016": {
+    "id": 24016,
+    "title": "Il tè nel deserto",
+    "release_date": "1990-10-25",
+    "vote_average": 6.512,
+    "poster_path": "/wTw3HznV8omuc2WyB9PZBLxAXPw.jpg",
+    "genre_ids": [
+      18,
+      12
+    ],
+    "cached_at": "2026-06-03T06:08:13.660924"
+  },
+  "24183": {
+    "id": 24183,
+    "title": "La Promesse",
+    "release_date": "1996-08-07",
+    "vote_average": 7.204,
+    "poster_path": "/iVhEtMpRTLvbfF7pHHs01YdJtG2.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-03T06:08:13.665773"
+  },
+  "1122573": {
+    "id": 1122573,
+    "title": "In the Grey",
+    "release_date": "2026-05-13",
+    "vote_average": 6.574,
+    "poster_path": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-06-03T06:08:13.665786"
+  },
+  "24395": {
+    "id": 24395,
+    "title": "La collina del disonore",
+    "release_date": "1965-06-11",
+    "vote_average": 7.5,
+    "poster_path": "/7IeIM2lIgTdTrMJR4IOzKuDz5dC.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "cached_at": "2026-06-03T06:08:13.685375"
+  },
+  "26515": {
+    "id": 26515,
+    "title": "Pumpkinhead",
+    "release_date": "1988-06-09",
+    "vote_average": 6.397,
+    "poster_path": "/gx7Gej5Srp3E13oqy1Kghtox2VZ.jpg",
+    "genre_ids": [
+      14,
+      27
+    ],
+    "cached_at": "2026-06-03T06:08:13.715146"
+  },
+  "24226": {
+    "id": 24226,
+    "title": "Il verdetto",
+    "release_date": "1982-12-08",
+    "vote_average": 7.458,
+    "poster_path": "/bQUkxr2j4FB6CYsP0MxwseQA2Y8.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-03T06:08:13.941011"
+  },
+  "24679": {
+    "id": 24679,
+    "title": "Bird",
+    "release_date": "1988-06-01",
+    "vote_average": 6.851,
+    "poster_path": "/rTCp6M98RQAxRl0x0guU9GlH7HS.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-06-03T06:08:14.233292"
+  },
+  "23761": {
+    "id": 23761,
+    "title": "Alice, dolce Alice",
+    "release_date": "1976-11-13",
+    "vote_average": 6.428,
+    "poster_path": "/6YoTKGUwny8NuheuDVGEKVOfh1w.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-06-03T06:08:14.298465"
+  },
+  "24126": {
+    "id": 24126,
+    "title": "Warlock - L'angelo dell'apocalisse",
+    "release_date": "1993-05-01",
+    "vote_average": 5.287,
+    "poster_path": "/ha4XFevmRHfQaqHADT6H5OcW7x3.jpg",
+    "genre_ids": [
+      14,
+      27,
+      878,
+      28
+    ],
+    "cached_at": "2026-06-03T06:08:14.570574"
+  },
+  "24203": {
+    "id": 24203,
+    "title": "La segretaria quasi privata",
+    "release_date": "1957-08-02",
+    "vote_average": 7.019,
+    "poster_path": "/fu3nPaYB5JsDO7oPWYky4xpGYOU.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-06-03T06:08:14.744811"
+  },
+  "23916": {
+    "id": 23916,
+    "title": "Taverna paradiso",
+    "release_date": "1978-09-22",
+    "vote_average": 5.864,
+    "poster_path": "/ltCcMRJcTp5hpSrG2zDNXWDpx6I.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "cached_at": "2026-06-03T06:08:14.757230"
+  },
+  "24197": {
+    "id": 24197,
+    "title": "Il signore e la signora Smith",
+    "release_date": "1941-01-31",
+    "vote_average": 5.986,
+    "poster_path": "/bx0oSX5Hngp3LkIlwJPa0pqxsV.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-06-03T06:08:14.828731"
+  },
+  "26405": {
+    "id": 26405,
+    "title": "Wake in Fright",
+    "release_date": "1971-07-21",
+    "vote_average": 7.2,
+    "poster_path": "/5XwMDn2acQZ3CHuJ3EDXLg348G3.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-06-03T06:08:15.839533"
+  },
+  "24134": {
+    "id": 24134,
+    "title": "Darling",
+    "release_date": "1965-08-03",
+    "vote_average": 6.7,
+    "poster_path": "/iumYp20ur5uzd13Gye03wLAhMiL.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-03T06:08:16.229958"
   }
 }
