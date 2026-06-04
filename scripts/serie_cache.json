@@ -66175,5 +66175,30 @@
       35
     ],
     "cached_at": "2026-06-03T06:07:39.254984"
+  },
+  "323111": {
+    "id": 323111,
+    "name": "Michael Jackson: il verdetto",
+    "original_name": "Michael Jackson: The Verdict",
+    "first_air_date": "2026-06-03",
+    "vote_average": 9.0,
+    "poster_path": "/8R40yI5AJ931Hd3P4Yf8pdFgwJ1.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-04T06:00:13.674314"
+  },
+  "287009": {
+    "id": 287009,
+    "name": "닥터 섬보이",
+    "original_name": "닥터 섬보이",
+    "first_air_date": "2026-06-01",
+    "vote_average": 9.0,
+    "poster_path": "/gBMouxOXSMyV7FIroOh9pfaB2JA.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-04T06:00:13.740800"
   }
 }
