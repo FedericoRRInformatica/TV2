@@ -155307,5 +155307,549 @@
       10749
     ],
     "cached_at": "2026-06-03T06:08:16.229958"
+  },
+  "27945": {
+    "id": 27945,
+    "title": "Hombre",
+    "release_date": "1967-03-21",
+    "vote_average": 7.1,
+    "poster_path": "/zLuxueLrR5PXXvmB1w2gQtFa4Rm.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-06-04T06:00:43.879814"
+  },
+  "27292": {
+    "id": 27292,
+    "title": "Arma da taglio",
+    "release_date": "1972-06-01",
+    "vote_average": 6.433,
+    "poster_path": "/mCNU5n70hVG5ES0Q3ypu33iJGpN.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18
+    ],
+    "cached_at": "2026-06-04T06:00:43.960893"
+  },
+  "27361": {
+    "id": 27361,
+    "title": "Luna nera",
+    "release_date": "1975-09-24",
+    "vote_average": 5.975,
+    "poster_path": "/eCxoq5gK71497Zf1fZ86GUl2YXx.jpg",
+    "genre_ids": [
+      14,
+      27,
+      878
+    ],
+    "cached_at": "2026-06-04T06:00:43.968814"
+  },
+  "27597": {
+    "id": 27597,
+    "title": "Cin cin",
+    "release_date": "1936-12-25",
+    "vote_average": 6.7,
+    "poster_path": "/cA8G6s7qAK9kI9DKvbvEWmQkbbe.jpg",
+    "genre_ids": [
+      10402,
+      12,
+      10751
+    ],
+    "cached_at": "2026-06-04T06:00:44.010834"
+  },
+  "27985": {
+    "id": 27985,
+    "title": "Lontano da casa",
+    "release_date": "1995-01-13",
+    "vote_average": 6.198,
+    "poster_path": "/5auwwi0U9668bzJV9ohHWwqFL9D.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      10751
+    ],
+    "cached_at": "2026-06-04T06:00:44.010848"
+  },
+  "27813": {
+    "id": 27813,
+    "title": "Basket Case",
+    "release_date": "1982-04-02",
+    "vote_average": 6.2,
+    "poster_path": "/ciyzEBzJ1TnafkgGXr6DqEVh1wk.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "cached_at": "2026-06-04T06:00:44.010862"
+  },
+  "28032": {
+    "id": 28032,
+    "title": "Thumbelina - Pollicina",
+    "release_date": "1994-03-30",
+    "vote_average": 6.467,
+    "poster_path": "/oIA5WYanHccY1feyQ7fMBJJrpfX.jpg",
+    "genre_ids": [
+      16,
+      14,
+      10749,
+      10751
+    ],
+    "cached_at": "2026-06-04T06:00:44.036279"
+  },
+  "26820": {
+    "id": 26820,
+    "title": "Viaggio d'estate",
+    "release_date": "2009-08-21",
+    "vote_average": 6.58,
+    "poster_path": "/9yOPJxdDp81Md7Z8aamtDYGl5mN.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-04T06:00:44.043980"
+  },
+  "29756": {
+    "id": 29756,
+    "title": "I 13 fantasmi",
+    "release_date": "1960-05-16",
+    "vote_average": 5.777,
+    "poster_path": "/j1PxJ7STxe4UxImStu8s4C4Iv0O.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-06-04T06:00:44.067817"
+  },
+  "26564": {
+    "id": 26564,
+    "title": "Crumb",
+    "release_date": "1995-04-28",
+    "vote_average": 7.527,
+    "poster_path": "/9ocTHdBCJdwJ65Tubg3lYlfMxEY.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-04T06:00:44.067835"
+  },
+  "26578": {
+    "id": 26578,
+    "title": "Il gioco del falco",
+    "release_date": "1985-01-25",
+    "vote_average": 6.405,
+    "poster_path": "/eDeRzkA4DSbC4ynwi8E3fci9eVd.jpg",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ],
+    "cached_at": "2026-06-04T06:00:44.095930"
+  },
+  "13531": {
+    "id": 13531,
+    "title": "Empire Records",
+    "release_date": "1995-09-22",
+    "vote_average": 6.665,
+    "poster_path": "/qKP7hVdjAAvRvbF3GBCbzi5LzMf.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-04T06:00:44.095944"
+  },
+  "30421": {
+    "id": 30421,
+    "title": "Storia di fantasmi cinesi",
+    "release_date": "1987-07-18",
+    "vote_average": 7.314,
+    "poster_path": "/ytuzthfSjFwmkMBywNScV7ET1Aw.jpg",
+    "genre_ids": [
+      14,
+      28
+    ],
+    "cached_at": "2026-06-04T06:00:44.095953"
+  },
+  "27233": {
+    "id": 27233,
+    "title": "Kids Return",
+    "release_date": "1996-07-27",
+    "vote_average": 6.911,
+    "poster_path": "/1QvBEEurqbRsldD7ScsAUMywU4Q.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-06-04T06:00:44.114796"
+  },
+  "27725": {
+    "id": 27725,
+    "title": "Una pallottola per Roy",
+    "release_date": "1941-01-23",
+    "vote_average": 7.1,
+    "poster_path": "/iAYDM3XaAfUAcke1VbKSnaNjBGG.jpg",
+    "genre_ids": [
+      80,
+      18,
+      28
+    ],
+    "cached_at": "2026-06-04T06:00:44.121052"
+  },
+  "26606": {
+    "id": 26606,
+    "title": "Sadismo",
+    "release_date": "1970-08-03",
+    "vote_average": 6.766,
+    "poster_path": "/5mv6L5X5lFexsIsJQOrVZA7Fzcm.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-06-04T06:00:44.142443"
+  },
+  "27452": {
+    "id": 27452,
+    "title": "La scala a chiocciola",
+    "release_date": "1946-01-26",
+    "vote_average": 7.1,
+    "poster_path": "/wQ3QYifOsTR3GkhtuaQikwkVyyK.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53,
+      18
+    ],
+    "cached_at": "2026-06-04T06:00:44.156935"
+  },
+  "821859": {
+    "id": 821859,
+    "title": "L'arminuta",
+    "release_date": "2021-10-21",
+    "vote_average": 7.3,
+    "poster_path": "/gK50UiIdz9D0aXBpEuDnEBumvOE.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-04T06:00:44.167944"
+  },
+  "27854": {
+    "id": 27854,
+    "title": "Per chi suona la campana",
+    "release_date": "1943-07-12",
+    "vote_average": 6.5,
+    "poster_path": "/qYv85AOpLE8Ha908zpsevA2nnSj.jpg",
+    "genre_ids": [
+      10752,
+      10749,
+      36,
+      18,
+      12
+    ],
+    "cached_at": "2026-06-04T06:00:44.190228"
+  },
+  "27526": {
+    "id": 27526,
+    "title": "3 giorni per la verità",
+    "release_date": "1995-01-26",
+    "vote_average": 6.01,
+    "poster_path": "/vWRZqBucmRAKInO5LDMrMUay1xd.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-06-04T06:00:44.190240"
+  },
+  "27084": {
+    "id": 27084,
+    "title": "L'invasione delle api regine",
+    "release_date": "1973-06-01",
+    "vote_average": 4.591,
+    "poster_path": "/ccKEOwbWG0RUqe72tmvPNU96F8f.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2026-06-04T06:00:44.231393"
+  },
+  "26593": {
+    "id": 26593,
+    "title": "Rio Lobo",
+    "release_date": "1970-04-01",
+    "vote_average": 6.5,
+    "poster_path": "/oU9nqKk0OU3MYj1Ae6yrYdyGk7t.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-06-04T06:00:44.254587"
+  },
+  "26648": {
+    "id": 26648,
+    "title": "Il portiere di notte",
+    "release_date": "1974-04-03",
+    "vote_average": 6.703,
+    "poster_path": "/mdhbiHwAFEldqGiAAusDzoMGxnT.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-04T06:00:44.254602"
+  },
+  "27172": {
+    "id": 27172,
+    "title": "Uomini e cobra",
+    "release_date": "1970-09-18",
+    "vote_average": 6.826,
+    "poster_path": "/afM5nGQbMq81H7vLQ9DjBFIHm9O.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-06-04T06:00:44.265399"
+  },
+  "26954": {
+    "id": 26954,
+    "title": "Puppet Master II",
+    "release_date": "1990-02-07",
+    "vote_average": 6.0,
+    "poster_path": "/dy5tzZFWFTjbNyG4KNP6yMjZ6l9.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-06-04T06:00:44.274911"
+  },
+  "27857": {
+    "id": 27857,
+    "title": "Prick Up - L'importanza di essere Joe",
+    "release_date": "1987-04-17",
+    "vote_average": 6.7,
+    "poster_path": "/fK8QyGp0QIeuTHBQzvax0YbkL99.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-04T06:00:44.584292"
+  },
+  "27517": {
+    "id": 27517,
+    "title": "L'uomo che ride",
+    "release_date": "1928-11-04",
+    "vote_average": 7.3,
+    "poster_path": "/5KyEeTuid2qmC0KiFdDJD2ayOM4.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      27
+    ],
+    "cached_at": "2026-06-04T06:00:44.714640"
+  },
+  "40229": {
+    "id": 40229,
+    "title": "Non entrate in quel collegio",
+    "release_date": "1982-11-19",
+    "vote_average": 5.8,
+    "poster_path": "/h4VFhLJCJVQCp6ccDuCYlHxr6aG.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-06-04T06:00:44.901735"
+  },
+  "26936": {
+    "id": 26936,
+    "title": "Boiling Point - I nuovi gangster",
+    "release_date": "1990-09-15",
+    "vote_average": 6.88,
+    "poster_path": "/voudq9qqFOzn08tUYGFNYoMi0mv.jpg",
+    "genre_ids": [
+      80,
+      35,
+      18
+    ],
+    "cached_at": "2026-06-04T06:00:44.976175"
+  },
+  "27033": {
+    "id": 27033,
+    "title": "Lo strano amore di Marta Ivers",
+    "release_date": "1946-08-19",
+    "vote_average": 7.093,
+    "poster_path": "/jW5MXsWfX94OMLIbIotZaKF6MDf.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-06-04T06:00:45.014151"
+  },
+  "28055": {
+    "id": 28055,
+    "title": "Sei donne per l'assassino",
+    "release_date": "1964-03-14",
+    "vote_average": 7.313,
+    "poster_path": "/pqOQWGbI3hLJXIpDoEy98gOHtkh.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "cached_at": "2026-06-04T06:00:45.119776"
+  },
+  "27327": {
+    "id": 27327,
+    "title": "Il fantasma del palcoscenico",
+    "release_date": "1974-10-31",
+    "vote_average": 7.5,
+    "poster_path": "/rWDcNLGNzmJBcFVHdVnOAyydcf2.jpg",
+    "genre_ids": [
+      35,
+      14,
+      27,
+      10402
+    ],
+    "cached_at": "2026-06-04T06:00:45.156895"
+  },
+  "30060": {
+    "id": 30060,
+    "title": "The Plague Dogs",
+    "release_date": "1982-10-01",
+    "vote_average": 7.844,
+    "poster_path": "/gLKf3C4O1ZlkWrz0awUfgRneumL.jpg",
+    "genre_ids": [
+      12,
+      16,
+      18
+    ],
+    "cached_at": "2026-06-04T06:00:45.365792"
+  },
+  "28000": {
+    "id": 28000,
+    "title": "Lassù qualcuno mi ama",
+    "release_date": "1956-07-04",
+    "vote_average": 7.235,
+    "poster_path": "/jmYIXRLOXUPTBm7cdMBWCPEeyaq.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-04T06:00:45.369709"
+  },
+  "26811": {
+    "id": 26811,
+    "title": "Le cinque chiavi del terrore",
+    "release_date": "1965-02-23",
+    "vote_average": 6.469,
+    "poster_path": "/x0YtPOQGYstr7MMBaPbL5loqTLC.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-06-04T06:00:45.578615"
+  },
+  "27429": {
+    "id": 27429,
+    "title": "Il demone sotto la pelle",
+    "release_date": "1975-05-16",
+    "vote_average": 6.37,
+    "poster_path": "/av3SaUHdU3WLcFtWHgf4AyEEiaC.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "cached_at": "2026-06-04T06:00:45.687700"
+  },
+  "27396": {
+    "id": 27396,
+    "title": "Ispettore Brannigan, la morte segue la tua ombra",
+    "release_date": "1975-03-21",
+    "vote_average": 6.0,
+    "poster_path": "/wG8rIWXLLmbD5DiKdcopUMHiqxL.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53,
+      35
+    ],
+    "cached_at": "2026-06-04T06:00:46.079542"
+  },
+  "30177": {
+    "id": 30177,
+    "title": "Un albero cresce a Brooklyn",
+    "release_date": "1945-02-28",
+    "vote_average": 7.537,
+    "poster_path": "/k7JJg82wKX0Pj0Wq8TpVTzuvcSG.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-04T06:00:46.180495"
+  },
+  "26670": {
+    "id": 26670,
+    "title": "Rumori fuori scena",
+    "release_date": "1992-03-20",
+    "vote_average": 7.148,
+    "poster_path": "/iBhNcw3E3yjaeDjp3s4srR6P6vn.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-04T06:00:46.188820"
+  },
+  "27130": {
+    "id": 27130,
+    "title": "Ho camminato con uno zombi",
+    "release_date": "1943-04-21",
+    "vote_average": 6.802,
+    "poster_path": "/hZ61JCkYNxc60H2lgv5LPSTvRQp.jpg",
+    "genre_ids": [
+      9648,
+      27,
+      18
+    ],
+    "cached_at": "2026-06-04T06:00:46.590627"
+  },
+  "110246": {
+    "id": 110246,
+    "title": "Splendori e miserie di Madame Royale",
+    "release_date": "1970-01-09",
+    "vote_average": 5.643,
+    "poster_path": "/u9vsFahrz3d69ibWfA2CpJ5ZNjt.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-04T06:00:46.677292"
+  },
+  "26912": {
+    "id": 26912,
+    "title": "L'astronave degli esseri perduti",
+    "release_date": "1967-11-09",
+    "vote_average": 6.6,
+    "poster_path": "/yAZqpwF94QLE8ALuJwZLidyZh48.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "cached_at": "2026-06-04T06:00:46.781200"
+  },
+  "27475": {
+    "id": 27475,
+    "title": "The Slumber Party Massacre",
+    "release_date": "1982-09-10",
+    "vote_average": 5.575,
+    "poster_path": "/rh65oDy8CNJoEAOf7oudhIt3DM6.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "cached_at": "2026-06-04T06:00:46.957582"
+  },
+  "26748": {
+    "id": 26748,
+    "title": "Stella solitaria",
+    "release_date": "1996-06-21",
+    "vote_average": 7.03,
+    "poster_path": "/1wrZ9JUeVF5UvshA4wNE1xSwf5S.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10749
+    ],
+    "cached_at": "2026-06-04T06:00:47.004720"
   }
 }
