@@ -155851,5 +155851,199 @@
       10749
     ],
     "cached_at": "2026-06-04T06:00:47.004720"
+  },
+  "1693201": {
+    "id": 1693201,
+    "title": "Poldi",
+    "release_date": "2026-06-04",
+    "vote_average": 6.5,
+    "poster_path": "/ylgaqq0NdSlnrBRtWMePYvDlTDa.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-05T05:23:40.512006"
+  },
+  "31058": {
+    "id": 31058,
+    "title": "Riso amaro",
+    "release_date": "1949-09-30",
+    "vote_average": 7.5,
+    "poster_path": "/qMRsuizeVeunyF1RNjlroC32lA4.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-06-05T05:23:40.554434"
+  },
+  "31592": {
+    "id": 31592,
+    "title": "Il castello maledetto",
+    "release_date": "1932-10-20",
+    "vote_average": 6.729,
+    "poster_path": "/zo7i1WmRRUK4k6g1B9LfV5kgyGs.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "cached_at": "2026-06-05T05:23:40.571690"
+  },
+  "20017": {
+    "id": 20017,
+    "title": "Falso movimento",
+    "release_date": "1975-03-14",
+    "vote_average": 6.7,
+    "poster_path": "/yvneIQ6JLVjCNlOrHKpHCkBYRUZ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-05T05:23:40.590336"
+  },
+  "31411": {
+    "id": 31411,
+    "title": "Il cameraman",
+    "release_date": "1928-09-10",
+    "vote_average": 7.807,
+    "poster_path": "/ntrDN23CTgYPUAf7Mht46Vb91ac.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ],
+    "cached_at": "2026-06-05T05:23:40.597119"
+  },
+  "31417": {
+    "id": 31417,
+    "title": "Occhi senza volto",
+    "release_date": "1960-01-11",
+    "vote_average": 7.592,
+    "poster_path": "/nZceGCs2OAfQXpPAxyy2Yb0VQWf.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "cached_at": "2026-06-05T05:23:40.597134"
+  },
+  "31372": {
+    "id": 31372,
+    "title": "Miyamoto Musashi",
+    "release_date": "1954-09-25",
+    "vote_average": 7.179,
+    "poster_path": "/jfH4QpApsuvDBkUp4qgSho2Vj8j.jpg",
+    "genre_ids": [
+      18,
+      28,
+      12
+    ],
+    "cached_at": "2026-06-05T05:23:40.613698"
+  },
+  "11974": {
+    "id": 11974,
+    "title": "L'erba del vicino",
+    "release_date": "1989-02-17",
+    "vote_average": 6.757,
+    "poster_path": "/wUa6SI0p3UdkYcjKuHZxBSNsl1g.jpg",
+    "genre_ids": [
+      35,
+      27,
+      53
+    ],
+    "cached_at": "2026-06-05T05:23:40.614780"
+  },
+  "436769": {
+    "id": 436769,
+    "title": "My Way: The Rise and Fall of Silvio Berlusconi",
+    "release_date": "2016-11-08",
+    "vote_average": 6.6,
+    "poster_path": "/zlsqvFdhVcYNNdNcC2rjIgNh6sB.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-05T05:23:40.624995"
+  },
+  "17212": {
+    "id": 17212,
+    "title": "Patrick",
+    "release_date": "1978-10-01",
+    "vote_average": 6.1,
+    "poster_path": "/ubly1HToSYlWelCnZgkiUJvGcwD.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2026-06-05T05:23:40.625013"
+  },
+  "62458": {
+    "id": 62458,
+    "title": "La nipote Sabella",
+    "release_date": "1958-11-20",
+    "vote_average": 6.7,
+    "poster_path": "/1jhFzdCQ5aPsUqqGwOiXHcvpDBX.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-05T05:23:40.693993"
+  },
+  "30941": {
+    "id": 30941,
+    "title": "Rapina record a New York",
+    "release_date": "1971-06-17",
+    "vote_average": 6.138,
+    "poster_path": "/9up1zOZHh0ZksXCYa1fehaTYwCs.jpg",
+    "genre_ids": [
+      80,
+      53,
+      28
+    ],
+    "cached_at": "2026-06-05T05:23:40.801995"
+  },
+  "1704846": {
+    "id": 1704846,
+    "title": "Instadocs: Alex Murdaugh, Unconvicted",
+    "release_date": "2026-05-30",
+    "vote_average": 8.0,
+    "poster_path": "/iP9b3NBxJKtyzLf7CKFWl3MpgKS.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-05T05:23:41.232381"
+  },
+  "1693002": {
+    "id": 1693002,
+    "title": "L'omicidio di Rachel Nickell",
+    "release_date": "2026-06-04",
+    "vote_average": 0.0,
+    "poster_path": "/db9nxdSqZ8Mh6RDRreF1HFsz9hx.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-06-05T05:23:41.549528"
+  },
+  "30653": {
+    "id": 30653,
+    "title": "Tempi migliori",
+    "release_date": "1986-01-31",
+    "vote_average": 5.7,
+    "poster_path": "/hbJar13TGCcYyVajm7Hu5HiPa2d.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-05T05:23:41.574421"
+  },
+  "31217": {
+    "id": 31217,
+    "title": "La Condizione Umana: Parte I – Nessun amore è più grande",
+    "release_date": "1959-01-15",
+    "vote_average": 8.1,
+    "poster_path": "/aqMkKEoHeyK5xdlNXp6C96FRBHL.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      36
+    ],
+    "cached_at": "2026-06-05T05:23:42.381298"
   }
 }
