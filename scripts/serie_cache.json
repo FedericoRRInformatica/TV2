@@ -66226,5 +66226,58 @@
       80
     ],
     "cached_at": "2026-06-05T05:22:40.141664"
+  },
+  "276161": {
+    "id": 276161,
+    "name": "Lezioni vere",
+    "original_name": "참교육",
+    "first_air_date": "2026-06-05",
+    "vote_average": 7.6,
+    "poster_path": "/lrth6ElkESAij7ezOFAuVfNILLg.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      35
+    ],
+    "cached_at": "2026-06-06T04:57:28.092645"
+  },
+  "4238": {
+    "id": 4238,
+    "name": "The King of Queens",
+    "original_name": "The King of Queens",
+    "first_air_date": "1998-09-21",
+    "vote_average": 7.121,
+    "poster_path": "/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-06T04:57:28.166183"
+  },
+  "229544": {
+    "id": 229544,
+    "name": "Among Us",
+    "original_name": "Among Us",
+    "first_air_date": "2026-06-05",
+    "vote_average": 0.0,
+    "poster_path": "/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg",
+    "genre_ids": [
+      16,
+      9648
+    ],
+    "cached_at": "2026-06-06T04:57:28.193139"
+  },
+  "99494": {
+    "id": 99494,
+    "name": "Flower of Evil",
+    "original_name": "악의 꽃",
+    "first_air_date": "2020-07-29",
+    "vote_average": 8.238,
+    "poster_path": "/pHzLvZEL2278Or9xCuKalIaz4N1.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "cached_at": "2026-06-06T04:57:28.204389"
   }
 }
