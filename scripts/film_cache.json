@@ -156045,5 +156045,99 @@
       36
     ],
     "cached_at": "2026-06-05T05:23:42.381298"
+  },
+  "33205": {
+    "id": 33205,
+    "title": "Dodes'ka-den",
+    "release_date": "1970-10-31",
+    "vote_average": 7.101,
+    "poster_path": "/Oqz442HWrdOmm9Ig7BDrYVWXpw.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-06T04:58:25.400049"
+  },
+  "1550740": {
+    "id": 1550740,
+    "title": "Domani interrogo",
+    "release_date": "2026-02-19",
+    "vote_average": 6.3,
+    "poster_path": "/hiqjGnMxJ5Or1SYmJjsQAssM3Ut.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-06T04:58:25.411803"
+  },
+  "32077": {
+    "id": 32077,
+    "title": "L'assoluzione",
+    "release_date": "1981-09-25",
+    "vote_average": 6.096,
+    "poster_path": "/rQWM0N4aPMZctD53QGFDzEwrptm.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-06-06T04:58:25.429296"
+  },
+  "209406": {
+    "id": 209406,
+    "title": "L'errore perfetto",
+    "release_date": "2013-10-11",
+    "vote_average": 5.835,
+    "poster_path": "/8lNJZouC87UmdgxBmmkSNBHR7ZF.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-06-06T04:58:25.439985"
+  },
+  "1358005": {
+    "id": 1358005,
+    "title": "Office Romance",
+    "release_date": "2026-06-04",
+    "vote_average": 6.6,
+    "poster_path": "/9As3SeWOa3bzCjz3PZ4BKSuabMf.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-06-06T04:58:25.487355"
+  },
+  "1530510": {
+    "id": 1530510,
+    "title": "Messico 1986",
+    "release_date": "2026-05-21",
+    "vote_average": 9.0,
+    "poster_path": "/ie0evW3npWrB25prNSKOdlEamSd.jpg",
+    "genre_ids": [
+      35,
+      36,
+      18
+    ],
+    "cached_at": "2026-06-06T04:58:25.961917"
+  },
+  "1291659": {
+    "id": 1291659,
+    "title": "Il mago del Cremlino - Le origini di Putin",
+    "release_date": "2026-01-21",
+    "vote_average": 6.497,
+    "poster_path": "/6YilH8o9Y2ZJNdu2Ak5m6you8zL.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-06T04:58:26.333414"
+  },
+  "50125": {
+    "id": 50125,
+    "title": "AC/DC: Let There Be Rock",
+    "release_date": "1980-09-01",
+    "vote_average": 8.032,
+    "poster_path": "/6ncTpCBneaZgISR1RZ5C9KKFSVv.jpg",
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "cached_at": "2026-06-06T04:58:26.726340"
   }
 }
