@@ -66279,5 +66279,18 @@
       9648
     ],
     "cached_at": "2026-06-06T04:57:28.204389"
+  },
+  "4346": {
+    "id": 4346,
+    "name": "Freddy's Nightmares",
+    "original_name": "Freddy's Nightmares",
+    "first_air_date": "1988-10-09",
+    "vote_average": 7.2,
+    "poster_path": "/tISTXELQn3ZFC8mgBwEH77xKXkZ.jpg",
+    "genre_ids": [
+      9648,
+      10765
+    ],
+    "cached_at": "2026-06-07T05:26:33.255132"
   }
 }
