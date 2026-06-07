@@ -156139,5 +156139,138 @@
       99
     ],
     "cached_at": "2026-06-06T04:58:26.726340"
+  },
+  "616312": {
+    "id": 616312,
+    "title": "Love Me Tender",
+    "release_date": "2019-08-09",
+    "vote_average": 6.15,
+    "poster_path": "/eqyjJdQul0Wcf9Rl3CnUaCwcqTF.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-07T05:27:34.611307"
+  },
+  "1301421": {
+    "id": 1301421,
+    "title": "Pecore sotto copertura",
+    "release_date": "2026-04-30",
+    "vote_average": 7.6,
+    "poster_path": "/cg8ZdeZBsh2EMZrulGiEyVGxuBo.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      9648
+    ],
+    "cached_at": "2026-06-07T05:27:34.704175"
+  },
+  "1556616": {
+    "id": 1556616,
+    "title": "La casa dell'estate",
+    "release_date": "2026-06-06",
+    "vote_average": 0.0,
+    "poster_path": "/kA6e4wmyulZn76xBd5Bq29PZwnb.jpg",
+    "genre_ids": [
+      10749,
+      10751,
+      18,
+      9648
+    ],
+    "cached_at": "2026-06-07T05:27:34.704193"
+  },
+  "1072110": {
+    "id": 1072110,
+    "title": "Acqua Alle Corde",
+    "release_date": "2023-01-09",
+    "vote_average": 6.0,
+    "poster_path": "/nChaS5DKA2M4EaPJ6spkLpqvZDE.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-07T05:27:34.732067"
+  },
+  "1233655": {
+    "id": 1233655,
+    "title": "Omaha",
+    "release_date": "2025-11-22",
+    "vote_average": 7.0,
+    "poster_path": "/s1SNVyTWWmvpWK439bOrRF9xywS.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "cached_at": "2026-06-07T05:27:34.758156"
+  },
+  "109729": {
+    "id": 109729,
+    "title": "The Canyons",
+    "release_date": "2013-08-02",
+    "vote_average": 4.4,
+    "poster_path": "/xqDnfmRkNQ9bMqkskq1r7zpQM9S.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2026-06-07T05:27:34.764557"
+  },
+  "8220": {
+    "id": 8220,
+    "title": "L'indiscreto fascino del peccato",
+    "release_date": "1983-10-03",
+    "vote_average": 6.593,
+    "poster_path": "/pkdAdszI2u8QvpgjXp910mQx0I4.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-07T05:27:34.768684"
+  },
+  "31995": {
+    "id": 31995,
+    "title": "La taverna della Giamaica",
+    "release_date": "1939-05-11",
+    "vote_average": 6.135,
+    "poster_path": "/cNsCK9exmCKcW1H6Fp4uOZn5pa0.jpg",
+    "genre_ids": [
+      80,
+      12,
+      53
+    ],
+    "cached_at": "2026-06-07T05:27:34.788800"
+  },
+  "1288072": {
+    "id": 1288072,
+    "title": "Keeper - L'eletta",
+    "release_date": "2025-11-12",
+    "vote_average": 5.658,
+    "poster_path": "/x1JWFKAOshdyeFk2qmJBAIAQ2np.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "cached_at": "2026-06-07T05:27:34.798603"
+  },
+  "1105876": {
+    "id": 1105876,
+    "title": "Olivia",
+    "release_date": "2021-03-08",
+    "vote_average": 10.0,
+    "poster_path": "/1vGW69XyAjrDFE07Y5bP8RH6Qk6.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-07T05:27:34.819441"
+  },
+  "37086": {
+    "id": 37086,
+    "title": "Un cappello pieno di pioggia",
+    "release_date": "1957-07-17",
+    "vote_average": 6.8,
+    "poster_path": "/hUhu2qTgvtz1uloooua4KQv1Fip.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-07T05:27:35.101733"
   }
 }
