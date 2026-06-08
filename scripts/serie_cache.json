@@ -66292,5 +66292,44 @@
       10765
     ],
     "cached_at": "2026-06-07T05:26:33.255132"
+  },
+  "69309": {
+    "id": 69309,
+    "name": "Ransom",
+    "original_name": "Ransom",
+    "first_air_date": "2017-01-01",
+    "vote_average": 6.546,
+    "poster_path": "/389wvOhuBHYX5TdQNCh1uQ2Ia3d.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-06-08T05:56:03.856435"
+  },
+  "57736": {
+    "id": 57736,
+    "name": "The Musketeers",
+    "original_name": "The Musketeers",
+    "first_air_date": "2014-01-19",
+    "vote_average": 7.0,
+    "poster_path": "/6kOMlk4hlavwO5L82eLdklN0fm5.jpg",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "cached_at": "2026-06-08T05:56:03.910387"
+  },
+  "31585": {
+    "id": 31585,
+    "name": "Rookie Blue",
+    "original_name": "Rookie Blue",
+    "first_air_date": "2010-06-24",
+    "vote_average": 7.638,
+    "poster_path": "/e3hfrKjLHKjj3p82xvvGvfIu628.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-06-08T05:56:03.963916"
   }
 }
