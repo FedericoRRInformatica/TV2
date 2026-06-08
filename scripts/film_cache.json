@@ -156272,5 +156272,42 @@
       18
     ],
     "cached_at": "2026-06-07T05:27:35.101733"
+  },
+  "1339713": {
+    "id": 1339713,
+    "title": "Obsession",
+    "release_date": "2026-05-13",
+    "vote_average": 7.9,
+    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-06-08T05:57:19.941526"
+  },
+  "43071": {
+    "id": 43071,
+    "title": "Corto Maltese: Corte Sconta detta Arcana",
+    "release_date": "2002-09-25",
+    "vote_average": 6.528,
+    "poster_path": "/7LKbGtClqFj7iu9krF9QZkD2V0t.jpg",
+    "genre_ids": [
+      18,
+      16,
+      36,
+      12
+    ],
+    "cached_at": "2026-06-08T05:57:19.959856"
+  },
+  "1584215": {
+    "id": 1584215,
+    "title": "The Internship",
+    "release_date": "2026-01-13",
+    "vote_average": 6.208,
+    "poster_path": "/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+    "genre_ids": [
+      28
+    ],
+    "cached_at": "2026-06-08T05:57:19.977768"
   }
 }
