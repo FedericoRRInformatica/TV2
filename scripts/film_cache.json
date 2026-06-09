@@ -156309,5 +156309,74 @@
       28
     ],
     "cached_at": "2026-06-08T05:57:19.977768"
+  },
+  "505436": {
+    "id": 505436,
+    "title": "Non sposate le mie figlie! 2",
+    "release_date": "2019-01-30",
+    "vote_average": 5.893,
+    "poster_path": "/vhNpVr2pIWK3UBVOKZjGMC8SFDK.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-09T05:11:49.794560"
+  },
+  "86467": {
+    "id": 86467,
+    "title": "Bel Ami - Storia di un seduttore",
+    "release_date": "2012-03-09",
+    "vote_average": 5.3,
+    "poster_path": "/kvsK9rdViBY4asVXjC80QPX4tG0.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-06-09T05:11:49.799060"
+  },
+  "31658": {
+    "id": 31658,
+    "title": "L'ora delle pistole",
+    "release_date": "1967-11-01",
+    "vote_average": 6.49,
+    "poster_path": "/msiPkWuDyopsNG9Pmr4YSajwpvM.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-06-09T05:11:49.801950"
+  },
+  "1273221": {
+    "id": 1273221,
+    "title": "Scary Movie",
+    "release_date": "2026-06-03",
+    "vote_average": 5.739,
+    "poster_path": "/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "cached_at": "2026-06-09T05:11:49.801961"
+  },
+  "312793": {
+    "id": 312793,
+    "title": "The Walking Deceased",
+    "release_date": "2015-03-20",
+    "vote_average": 5.126,
+    "poster_path": "/ss6eqPxe9vmsYOxb3LGUs5mIXvq.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "cached_at": "2026-06-09T05:11:49.816419"
+  },
+  "743232": {
+    "id": 743232,
+    "title": "Tigers",
+    "release_date": "2021-07-22",
+    "vote_average": 5.7,
+    "poster_path": "/nXNrcsopCzbq7qKu7JdXUNeLL9u.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-09T05:11:50.245101"
   }
 }
