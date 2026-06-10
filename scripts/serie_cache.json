@@ -66372,5 +66372,69 @@
       9648
     ],
     "cached_at": "2026-06-09T05:11:15.139109"
+  },
+  "317555": {
+    "id": 317555,
+    "name": "The Michael Jackson Story",
+    "original_name": "Michael Jackson: An American Tragedy",
+    "first_air_date": "2026-04-08",
+    "vote_average": 7.4,
+    "poster_path": "/12jZrqSjj5oSxkUQsOwJt3n8arP.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-10T05:23:22.651895"
+  },
+  "96650": {
+    "id": 96650,
+    "name": "Le avventure di Paddington",
+    "original_name": "The Adventures of Paddington",
+    "first_air_date": "2019-12-20",
+    "vote_average": 7.8,
+    "poster_path": "/lruc0aTCW7n9NMr5UO6UJ3vAfY5.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      10762
+    ],
+    "cached_at": "2026-06-10T05:23:22.656457"
+  },
+  "315596": {
+    "id": 315596,
+    "name": "Night Shift for Cuties",
+    "original_name": "Night Shift for Cuties",
+    "first_air_date": "2026-06-04",
+    "vote_average": 6.0,
+    "poster_path": "/3ANeExEIedWqdlUTVY7bfsL8vzc.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-10T05:23:22.684657"
+  },
+  "250220": {
+    "id": 250220,
+    "name": "The Miniature Wife - Un piccolo problema",
+    "original_name": "The Miniature Wife",
+    "first_air_date": "2026-04-09",
+    "vote_average": 7.4,
+    "poster_path": "/99SkFAS3S3iOtnplwH0byFUMiHK.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-06-10T05:23:22.694133"
+  },
+  "243875": {
+    "id": 243875,
+    "name": "Georgie & Mandy's First Marriage",
+    "original_name": "Georgie & Mandy's First Marriage",
+    "first_air_date": "2024-10-17",
+    "vote_average": 7.905,
+    "poster_path": "/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-10T05:23:22.728872"
   }
 }
