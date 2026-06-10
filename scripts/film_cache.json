@@ -156378,5 +156378,179 @@
       18
     ],
     "cached_at": "2026-06-09T05:11:50.245101"
+  },
+  "108083": {
+    "id": 108083,
+    "title": "Profumo",
+    "release_date": "1987-01-16",
+    "vote_average": 4.897,
+    "poster_path": "/8U2QUchOND2tT2eQZ0d60reNvSQ.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-06-10T05:23:56.074961"
+  },
+  "284685": {
+    "id": 284685,
+    "title": "Maliziosamente",
+    "release_date": "1969-01-01",
+    "vote_average": 4.2,
+    "poster_path": "/fNTbySVQY3gmHWht5sEua97srt1.jpg",
+    "genre_ids": [
+      12,
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-10T05:23:56.091224"
+  },
+  "12654": {
+    "id": 12654,
+    "title": "Viol@",
+    "release_date": "1998-09-11",
+    "vote_average": 5.26,
+    "poster_path": "/baDPTkC3MPhh70vtCmmCMU2G4OZ.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2026-06-10T05:23:56.114197"
+  },
+  "19002": {
+    "id": 19002,
+    "title": "Darkman III - Darkman morirai",
+    "release_date": "1996-04-14",
+    "vote_average": 5.301,
+    "poster_path": "/azLzSTGlAZfyeezB3ssA5sm7imA.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2026-06-10T05:23:56.152629"
+  },
+  "758571": {
+    "id": 758571,
+    "title": "Female Ejaculation & Other Mysteries of the Universe",
+    "release_date": "2020-10-26",
+    "vote_average": 0.0,
+    "poster_path": "/x79pGNZjuaNfWbgdJddbPa66ohH.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-10T05:23:56.163386"
+  },
+  "10216": {
+    "id": 10216,
+    "title": "Species II - Specie mortale II",
+    "release_date": "1998-04-10",
+    "vote_average": 5.186,
+    "poster_path": "/dWiXBClCLVKxDxplHVYb7fLnlCu.jpg",
+    "genre_ids": [
+      878,
+      28,
+      27
+    ],
+    "cached_at": "2026-06-10T05:23:56.164906"
+  },
+  "893228": {
+    "id": 893228,
+    "title": "Sezione 8",
+    "release_date": "2022-09-23",
+    "vote_average": 6.1,
+    "poster_path": "/3rJDTaxBKLZ6XLvcVK7V20Eaj2d.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-06-10T05:23:56.168311"
+  },
+  "14154": {
+    "id": 14154,
+    "title": "WarGames 2: Il codice della paura",
+    "release_date": "2008-07-29",
+    "vote_average": 5.1,
+    "poster_path": "/iwLR2K4CjRISMAER0Vy2xzhZ0W8.jpg",
+    "genre_ids": [
+      878,
+      18,
+      53
+    ],
+    "cached_at": "2026-06-10T05:23:56.173686"
+  },
+  "9348": {
+    "id": 9348,
+    "title": "Specie mortale",
+    "release_date": "1995-07-07",
+    "vote_average": 5.985,
+    "poster_path": "/kuNuEnRnUrS7FPyNlF94WKLiIMD.jpg",
+    "genre_ids": [
+      878,
+      27,
+      28
+    ],
+    "cached_at": "2026-06-10T05:23:56.184368"
+  },
+  "26685": {
+    "id": 26685,
+    "title": "Come uccidere vostra moglie",
+    "release_date": "1965-01-26",
+    "vote_average": 6.301,
+    "poster_path": "/7CHgZY3ZLORkh4TKlmLTMMzDGZd.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-10T05:23:56.185854"
+  },
+  "9711": {
+    "id": 9711,
+    "title": "Species III - Specie mortale III",
+    "release_date": "2005-01-14",
+    "vote_average": 5.209,
+    "poster_path": "/yVEdM5X3Ietumz75v1kiIjMXlFC.jpg",
+    "genre_ids": [
+      878,
+      28,
+      27
+    ],
+    "cached_at": "2026-06-10T05:23:56.188697"
+  },
+  "4929": {
+    "id": 4929,
+    "title": "Impiccalo più in alto",
+    "release_date": "1968-04-12",
+    "vote_average": 6.85,
+    "poster_path": "/dW7TPaLwl5gYYFA5D1QHvpmjhJd.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "cached_at": "2026-06-10T05:23:56.192195"
+  },
+  "62463": {
+    "id": 62463,
+    "title": "Piovono pietre",
+    "release_date": "1993-09-09",
+    "vote_average": 6.921,
+    "poster_path": "/inevXZuk4KshjGGEwqPRQ642lqu.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-06-10T05:23:56.260478"
+  },
+  "15212": {
+    "id": 15212,
+    "title": "Species IV: Il risveglio",
+    "release_date": "2007-10-17",
+    "vote_average": 4.65,
+    "poster_path": "/rw6Cfx3pDq3VBMUAClPeOxKl0K3.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2026-06-10T05:23:56.272385"
   }
 }
