@@ -156552,5 +156552,574 @@
       53
     ],
     "cached_at": "2026-06-10T05:23:56.272385"
+  },
+  "34546": {
+    "id": 34546,
+    "title": "柳生一族の陰謀",
+    "release_date": "1978-01-21",
+    "vote_average": 6.966,
+    "poster_path": "/b4Opt68J6ttgQuxplV2vecmGQX6.jpg",
+    "genre_ids": [
+      28,
+      18,
+      12
+    ],
+    "cached_at": "2026-06-11T05:56:29.585026"
+  },
+  "33078": {
+    "id": 33078,
+    "title": "Lo Zoo di Venere",
+    "release_date": "1985-10-04",
+    "vote_average": 6.997,
+    "poster_path": "/ggv1Sp2PdRDUWNClGOMy61DxN6N.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-11T05:56:29.654228"
+  },
+  "32629": {
+    "id": 32629,
+    "title": "La camera delle torture cinesi",
+    "release_date": "1994-05-19",
+    "vote_average": 5.694,
+    "poster_path": "/wbMoB0gCTA9oKz75YuE8szcCjfJ.jpg",
+    "genre_ids": [
+      27,
+      35,
+      18
+    ],
+    "cached_at": "2026-06-11T05:56:29.667826"
+  },
+  "37238": {
+    "id": 37238,
+    "title": "Geronimo",
+    "release_date": "1962-04-27",
+    "vote_average": 5.524,
+    "poster_path": "/pQCzRNvbS1nnfk98QMR4rSoGviF.jpg",
+    "genre_ids": [
+      37,
+      36
+    ],
+    "cached_at": "2026-06-11T05:56:29.667845"
+  },
+  "32600": {
+    "id": 32600,
+    "title": "Le sette probabilità",
+    "release_date": "1925-03-15",
+    "vote_average": 7.5,
+    "poster_path": "/1e5pmQCGKiHAnO27LlFxtkjRQXb.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-06-11T05:56:29.667853"
+  },
+  "34800": {
+    "id": 34800,
+    "title": "La mano insanguinata",
+    "release_date": "1973-03-31",
+    "vote_average": 5.257,
+    "poster_path": "/hUrMgItqFzZ7bljGvrlkeooydcF.jpg",
+    "genre_ids": [
+      28,
+      35,
+      18
+    ],
+    "cached_at": "2026-06-11T05:56:29.693642"
+  },
+  "36068": {
+    "id": 36068,
+    "title": "Marquis",
+    "release_date": "1989-04-26",
+    "vote_average": 6.5,
+    "poster_path": "/lVF5rZG9aUBkvUi6X2OOOsabP3V.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "cached_at": "2026-06-11T05:56:29.693655"
+  },
+  "33636": {
+    "id": 33636,
+    "title": "Nina",
+    "release_date": "2004-01-28",
+    "vote_average": 5.722,
+    "poster_path": "/kfSM6j3WIABgG6hFoxLI1kM2fiI.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-06-11T05:56:29.719851"
+  },
+  "33370": {
+    "id": 33370,
+    "title": "Done the Impossible",
+    "release_date": "2006-07-28",
+    "vote_average": 5.9,
+    "poster_path": "/9aIA8NWUdF7SptQc1ELYJS3nVfz.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-11T05:56:29.756193"
+  },
+  "36225": {
+    "id": 36225,
+    "title": "徳川女刑罰絵巻　牛裂きの刑",
+    "release_date": "1976-09-04",
+    "vote_average": 5.8,
+    "poster_path": "/a5bQtoRotUVNiqC5JRlLsFnJmBe.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "cached_at": "2026-06-11T05:56:29.787112"
+  },
+  "36889": {
+    "id": 36889,
+    "title": "Das Finale",
+    "release_date": "1998-01-01",
+    "vote_average": 5.6,
+    "poster_path": "/l8balUfhozwpw8UdjcuhxvM8yzH.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-06-11T05:56:29.787125"
+  },
+  "69798": {
+    "id": 69798,
+    "title": "Finalmente maggiorenni",
+    "release_date": "2011-08-19",
+    "vote_average": 6.193,
+    "poster_path": "/ikyrVmJYJZd2p8a7rMcPYr0G7lA.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-11T05:56:29.835603"
+  },
+  "37288": {
+    "id": 37288,
+    "title": "Take Care of My Cat",
+    "release_date": "2001-10-12",
+    "vote_average": 7.0,
+    "poster_path": "/shfJHf75bhAIpQyZSkoOzvheMHi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-11T05:56:29.835617"
+  },
+  "33632": {
+    "id": 33632,
+    "title": "La dolce ala della giovinezza",
+    "release_date": "1962-03-21",
+    "vote_average": 6.774,
+    "poster_path": "/zfRMrwz5bnJKeGaq3AZZF8G1XcD.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-11T05:56:29.835625"
+  },
+  "32669": {
+    "id": 32669,
+    "title": "Il grande inganno",
+    "release_date": "1990-08-10",
+    "vote_average": 5.982,
+    "poster_path": "/qViAkNRMdnsr8x9tuCpOiOlf9hz.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      10749
+    ],
+    "cached_at": "2026-06-11T05:56:29.835632"
+  },
+  "1560681": {
+    "id": 1560681,
+    "title": "I colori del male: Nero",
+    "release_date": "2026-06-10",
+    "vote_average": 8.833,
+    "poster_path": "/bQV434JB05gfRM4KaILzTOF0l6F.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      80
+    ],
+    "cached_at": "2026-06-11T05:56:30.192689"
+  },
+  "36815": {
+    "id": 36815,
+    "title": "Il tormento e l'estasi",
+    "release_date": "1965-09-16",
+    "vote_average": 7.1,
+    "poster_path": "/otdCddPjitnIpnmgNMBngIlIjVt.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-06-11T05:56:30.233916"
+  },
+  "34750": {
+    "id": 34750,
+    "title": "Indagine ad alto rischio",
+    "release_date": "1994-08-17",
+    "vote_average": 5.326,
+    "poster_path": "/jvYEdFSnDrZkmiII3Y52fFVpg5Y.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "cached_at": "2026-06-11T05:56:30.246157"
+  },
+  "35912": {
+    "id": 35912,
+    "title": "Cuestión de suerte",
+    "release_date": "1996-01-01",
+    "vote_average": 5.222,
+    "poster_path": "/3eqeTrnvbEZO6HpaKqgkGCqCZck.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-11T05:56:30.295048"
+  },
+  "1370559": {
+    "id": 1370559,
+    "title": "Ammazzare stanca",
+    "release_date": "2025-12-04",
+    "vote_average": 6.0,
+    "poster_path": "/6Pb2vdZE8mpvDvMbXKYU8dwCYG0.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "cached_at": "2026-06-11T05:56:30.304604"
+  },
+  "35102": {
+    "id": 35102,
+    "title": "The Forbidden Legend: Sex & Chopsticks",
+    "release_date": "2008-09-19",
+    "vote_average": 5.8,
+    "poster_path": "/3EoBBswGjbTBm55b3GoheCK2F1O.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-11T05:56:30.339935"
+  },
+  "35282": {
+    "id": 35282,
+    "title": "女囚さそり けもの部屋",
+    "release_date": "1973-07-29",
+    "vote_average": 6.9,
+    "poster_path": "/nsAPrsFddO0jB8EWMIAZtmrGyy5.jpg",
+    "genre_ids": [
+      18,
+      28,
+      53
+    ],
+    "cached_at": "2026-06-11T05:56:30.352035"
+  },
+  "33990": {
+    "id": 33990,
+    "title": "Little Witches",
+    "release_date": "1996-12-23",
+    "vote_average": 4.194,
+    "poster_path": "/uX8gPqlnhJYGtMwQ3IeLk5ffJ8r.jpg",
+    "genre_ids": [
+      18,
+      27
+    ],
+    "cached_at": "2026-06-11T05:56:30.414382"
+  },
+  "36902": {
+    "id": 36902,
+    "title": "Violent Shit II: Mother Hold My Hand",
+    "release_date": "1992-01-01",
+    "vote_average": 3.775,
+    "poster_path": "/yg2GogP1H9cQDHIbGbgLmZZ0N5S.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-06-11T05:56:30.423218"
+  },
+  "33719": {
+    "id": 33719,
+    "title": "Rudolph, il cucciolo dal naso rosso",
+    "release_date": "1998-10-16",
+    "vote_average": 6.078,
+    "poster_path": "/uFxGrCCqtt3i9l8HV3GDFuHwL3j.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      10402
+    ],
+    "cached_at": "2026-06-11T05:56:30.459975"
+  },
+  "36731": {
+    "id": 36731,
+    "title": "La primavera romana della signora Stone",
+    "release_date": "1961-12-28",
+    "vote_average": 6.9,
+    "poster_path": "/txCzkoobSiFXk8xHjWzcqEtWHgW.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-11T05:56:30.464556"
+  },
+  "35588": {
+    "id": 35588,
+    "title": "Geronimo",
+    "release_date": "1993-12-10",
+    "vote_average": 6.3,
+    "poster_path": "/9FNuwnhHngkblD6eVRXnmJN8kQq.jpg",
+    "genre_ids": [
+      37,
+      36,
+      28,
+      18
+    ],
+    "cached_at": "2026-06-11T05:56:30.482944"
+  },
+  "34036": {
+    "id": 34036,
+    "title": "Immagini",
+    "release_date": "2003-09-13",
+    "vote_average": 5.6,
+    "poster_path": "/zUSzqltloWvcSWyBBng0DyQCYz8.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      53
+    ],
+    "cached_at": "2026-06-11T05:56:30.489050"
+  },
+  "35227": {
+    "id": 35227,
+    "title": "Femmine folli",
+    "release_date": "1922-01-11",
+    "vote_average": 6.462,
+    "poster_path": "/lAE4k2Zf9cluTaEeStRVQwoisrp.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-06-11T05:56:30.521090"
+  },
+  "33362": {
+    "id": 33362,
+    "title": "Gli allegri veterani",
+    "release_date": "1960-09-02",
+    "vote_average": 6.288,
+    "poster_path": "/kzSRivBzI12Yw7wOf1JjYvf7oNV.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-11T05:56:30.540079"
+  },
+  "35123": {
+    "id": 35123,
+    "title": "La morte viene da Scotland Yard",
+    "release_date": "1946-11-23",
+    "vote_average": 6.5,
+    "poster_path": "/fQwqTCMicYsyQL0zCj3YvHz9GGW.jpg",
+    "genre_ids": [
+      9648,
+      80
+    ],
+    "cached_at": "2026-06-11T05:56:30.543530"
+  },
+  "36208": {
+    "id": 36208,
+    "title": "Vita da cani",
+    "release_date": "1918-04-14",
+    "vote_average": 7.32,
+    "poster_path": "/kL95w8jFxYzvgU05yrGaDaR3Xw.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-11T05:56:30.559695"
+  },
+  "34106": {
+    "id": 34106,
+    "title": "L'eterna illusione",
+    "release_date": "1938-09-01",
+    "vote_average": 7.519,
+    "poster_path": "/dxZlIL9GQI3oECkCKNHJdNpkJtn.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-06-11T05:56:30.564188"
+  },
+  "35151": {
+    "id": 35151,
+    "title": "Bentornato fantasma",
+    "release_date": "1987-11-06",
+    "vote_average": 5.737,
+    "poster_path": "/wpbr19UgtIqmIHHZIfc9ZU7Itqv.jpg",
+    "genre_ids": [
+      14,
+      35,
+      10749
+    ],
+    "cached_at": "2026-06-11T05:56:30.577435"
+  },
+  "33218": {
+    "id": 33218,
+    "title": "Papà gambalunga",
+    "release_date": "1955-05-05",
+    "vote_average": 6.4,
+    "poster_path": "/Lh29aECtKEUhZoYtuDnFJDtAXe.jpg",
+    "genre_ids": [
+      10402,
+      10749
+    ],
+    "cached_at": "2026-06-11T05:56:30.607075"
+  },
+  "36304": {
+    "id": 36304,
+    "title": "絵の中のぼくの村",
+    "release_date": "1996-07-13",
+    "vote_average": 6.0,
+    "poster_path": "/pXir2xJB8wSpwI9fqNBEUKhkBwI.jpg",
+    "genre_ids": [
+      10751,
+      18
+    ],
+    "cached_at": "2026-06-11T05:56:30.667732"
+  },
+  "35196": {
+    "id": 35196,
+    "title": "Restoration - Il peccato e il castigo",
+    "release_date": "1995-12-29",
+    "vote_average": 6.085,
+    "poster_path": "/5HdywTgoPiX8LXHcQQTaRdk5j8H.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-11T05:56:30.702888"
+  },
+  "33114": {
+    "id": 33114,
+    "title": "Gymnaslærer Pedersen",
+    "release_date": "2006-02-24",
+    "vote_average": 5.5,
+    "poster_path": "/VMwvljc0EAteYL0fEf6STYmGmu.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-11T05:56:30.763179"
+  },
+  "37198": {
+    "id": 37198,
+    "title": "Inferno",
+    "release_date": "1953-08-12",
+    "vote_average": 6.119,
+    "poster_path": "/7j4xfacrnyLrHnbTjrr1HFLwBkJ.jpg",
+    "genre_ids": [
+      12,
+      53,
+      18
+    ],
+    "cached_at": "2026-06-11T05:56:30.883626"
+  },
+  "35280": {
+    "id": 35280,
+    "title": "Chi è l'altro?",
+    "release_date": "1972-05-24",
+    "vote_average": 6.484,
+    "poster_path": "/e4AjbwbmRsJOOwswqdAAS2Nfd5u.jpg",
+    "genre_ids": [
+      18,
+      27,
+      9648
+    ],
+    "cached_at": "2026-06-11T05:56:31.012341"
+  },
+  "32998": {
+    "id": 32998,
+    "title": "Necronomicon",
+    "release_date": "1993-11-01",
+    "vote_average": 6.0,
+    "poster_path": "/azUXnXC40LKxatud3sO8DvH1xR4.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-06-11T05:56:31.219521"
+  },
+  "34148": {
+    "id": 34148,
+    "title": "Lo specchio della vita",
+    "release_date": "1959-04-09",
+    "vote_average": 7.456,
+    "poster_path": "/mwfUk6Rt0Ww4zh3d3v6uCYr1vyM.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-11T05:56:31.344957"
+  },
+  "34222": {
+    "id": 34222,
+    "title": "Soft Target",
+    "release_date": "2006-01-01",
+    "vote_average": 4.4,
+    "poster_path": "/z695LIxB8CVQCqiC6ELMYwGQasx.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-06-11T05:56:31.522916"
+  },
+  "1693534": {
+    "id": 1693534,
+    "title": "Confessions II – The Film",
+    "release_date": "2026-06-05",
+    "vote_average": 8.8,
+    "poster_path": "/k13xVzLmfSdzSLwKs1or8drgBzD.jpg",
+    "genre_ids": [
+      10402
+    ],
+    "cached_at": "2026-06-11T05:56:31.634010"
+  },
+  "37234": {
+    "id": 37234,
+    "title": "Sex & Drugs & Rock & Roll",
+    "release_date": "2010-01-08",
+    "vote_average": 6.269,
+    "poster_path": "/A8iKHHVRyJPL7Gq58eiTkSI53vJ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-11T05:56:31.756340"
+  },
+  "36939": {
+    "id": 36939,
+    "title": "Tradire è un'arte - Boogie Woogie",
+    "release_date": "2010-04-16",
+    "vote_average": 5.067,
+    "poster_path": "/k17a0yd4vYh2L8yHKlLBghYf5Bv.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-11T05:56:31.815499"
+  },
+  "33709": {
+    "id": 33709,
+    "title": "Verso Hollywood",
+    "release_date": "1933-12-22",
+    "vote_average": 5.533,
+    "poster_path": "/uS8537GrF5d53SDTFMMEW2fRhE1.jpg",
+    "genre_ids": [
+      10402,
+      10749,
+      35
+    ],
+    "cached_at": "2026-06-11T05:56:32.094327"
   }
 }
