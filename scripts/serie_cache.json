@@ -66436,5 +66436,68 @@
       35
     ],
     "cached_at": "2026-06-10T05:23:22.728872"
+  },
+  "204135": {
+    "id": 204135,
+    "name": "Dragon Striker",
+    "original_name": "Dragon Striker",
+    "first_air_date": "2026-06-09",
+    "vote_average": 7.0,
+    "poster_path": "/a18A8XQPmuEBV6C4lQOdcKaNp09.jpg",
+    "genre_ids": [
+      16,
+      10765,
+      10751,
+      10759
+    ],
+    "cached_at": "2026-06-11T05:55:07.371314"
+  },
+  "289971": {
+    "id": 289971,
+    "name": "Casa Contro Casa",
+    "original_name": "Casa Contro Casa",
+    "first_air_date": "2025-04-08",
+    "vote_average": 0.0,
+    "poster_path": "/QE42InxCKKWIaw0TMce98yy1wE.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-06-11T05:55:07.371337"
+  },
+  "260592": {
+    "id": 260592,
+    "name": "Un anno dopo l'altro",
+    "original_name": "Every Year After",
+    "first_air_date": "2026-06-10",
+    "vote_average": 6.786,
+    "poster_path": "/6q5bO7n6aFeygjfhuAVcqH72Gx0.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-11T05:55:07.395851"
+  },
+  "262352": {
+    "id": 262352,
+    "name": "The Assassin",
+    "original_name": "The Assassin",
+    "first_air_date": "2025-07-25",
+    "vote_average": 6.8,
+    "poster_path": "/3O2UgEszp1CVbL8p9XnKkFDkbk3.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "cached_at": "2026-06-11T05:55:07.419317"
+  },
+  "322426": {
+    "id": 322426,
+    "name": "Norvegia: la riscossa degli outsider",
+    "original_name": "Norges vei tilbake",
+    "first_air_date": "2026-06-09",
+    "vote_average": 4.0,
+    "poster_path": "/kZgzZsVgNruGRWKzTbAIfvvrvHJ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-11T05:55:07.462836"
   }
 }
