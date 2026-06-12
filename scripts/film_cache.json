@@ -157121,5 +157121,940 @@
       35
     ],
     "cached_at": "2026-06-11T05:56:32.094327"
+  },
+  "39891": {
+    "id": 39891,
+    "title": "The Devil Rides Out",
+    "release_date": "1968-07-20",
+    "vote_average": 6.524,
+    "poster_path": "/p1AWO8PIMfT6XGHV8uaa8erencj.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-06-12T05:53:47.736549"
+  },
+  "43042": {
+    "id": 43042,
+    "title": "La storia di Ruth",
+    "release_date": "1960-06-17",
+    "vote_average": 7.355,
+    "poster_path": "/y54ZRrfU2yInIxL13VFFiycHGSl.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-06-12T05:53:47.787533"
+  },
+  "42501": {
+    "id": 42501,
+    "title": "Soffio al cuore",
+    "release_date": "1971-04-27",
+    "vote_average": 6.998,
+    "poster_path": "/8hgwPpsqWBcwCiqlo6WGcr9BUTl.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-06-12T05:53:47.809526"
+  },
+  "38057": {
+    "id": 38057,
+    "title": "Raymond e la zucca magica",
+    "release_date": "2007-06-29",
+    "vote_average": 7.351,
+    "poster_path": "/9hJzCvSG26AA0kKplHmSauG0Czp.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      14
+    ],
+    "cached_at": "2026-06-12T05:53:47.824402"
+  },
+  "41479": {
+    "id": 41479,
+    "title": "The Joneses",
+    "release_date": "2010-04-16",
+    "vote_average": 6.195,
+    "poster_path": "/5YINGouZK9pmPdMPAHv158eQf3o.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:47.835853"
+  },
+  "40096": {
+    "id": 40096,
+    "title": "O Auto da Compadecida",
+    "release_date": "2000-09-15",
+    "vote_average": 8.408,
+    "poster_path": "/imcOp1kJsCsAFCoOtY5OnPrFbAf.jpg",
+    "genre_ids": [
+      35,
+      18,
+      14,
+      10749
+    ],
+    "cached_at": "2026-06-12T05:53:47.861047"
+  },
+  "38625": {
+    "id": 38625,
+    "title": "真夏のオリオン",
+    "release_date": "2009-06-13",
+    "vote_average": 5.6,
+    "poster_path": "/f8XHw3q3Eek2HaT8G5QkAY7isg7.jpg",
+    "genre_ids": [
+      18,
+      28,
+      10752
+    ],
+    "cached_at": "2026-06-12T05:53:47.863622"
+  },
+  "37658": {
+    "id": 37658,
+    "title": "Avorio nero",
+    "release_date": "1936-08-26",
+    "vote_average": 5.764,
+    "poster_path": "/hYWBXzeLOrLyLhlNEGIAYgmeuPJ.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10749
+    ],
+    "cached_at": "2026-06-12T05:53:47.869741"
+  },
+  "38956": {
+    "id": 38956,
+    "title": "劇場版 仮面ライダー電王&キバ クライマックス刑事",
+    "release_date": "2008-04-12",
+    "vote_average": 8.0,
+    "poster_path": "/wDxOYPQI5jwRIHlJpfA9DxoLxma.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "cached_at": "2026-06-12T05:53:47.881938"
+  },
+  "41800": {
+    "id": 41800,
+    "title": "Superman and the Mole Men",
+    "release_date": "1951-11-23",
+    "vote_average": 5.4,
+    "poster_path": "/9b41Aa3hS2DJ1DhzLmtMcAswlys.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "cached_at": "2026-06-12T05:53:47.884685"
+  },
+  "42031": {
+    "id": 42031,
+    "title": "A Hora da Estrela",
+    "release_date": "1986-04-25",
+    "vote_average": 7.3,
+    "poster_path": "/zhQ0qZZN5Y8pbA38g0crOMJC5cF.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:47.888393"
+  },
+  "37984": {
+    "id": 37984,
+    "title": "跟蹤",
+    "release_date": "2007-06-21",
+    "vote_average": 6.6,
+    "poster_path": "/7dbbZ3l857CP4z1XPJHnPxaI7fJ.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-06-12T05:53:47.897921"
+  },
+  "41348": {
+    "id": 41348,
+    "title": "Perché preoccuparsi?",
+    "release_date": "1923-09-09",
+    "vote_average": 6.5,
+    "poster_path": "/7NrgFBBgOyL0vDAZ17jo3EIQ2uo.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-12T05:53:47.919614"
+  },
+  "40009": {
+    "id": 40009,
+    "title": "Final Draft",
+    "release_date": "2007-09-18",
+    "vote_average": 3.5,
+    "poster_path": "/4PRJzX9ZZsHOqVldA6pLjPAdfn1.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-06-12T05:53:47.919627"
+  },
+  "39390": {
+    "id": 39390,
+    "title": "滿清十大酷刑之赤裸凌遲",
+    "release_date": "1998-09-18",
+    "vote_average": 4.08,
+    "poster_path": "/pS9YgrPOA4GdoTL1yyN7s5vxtdp.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-06-12T05:53:47.932439"
+  },
+  "40634": {
+    "id": 40634,
+    "title": "Pazza",
+    "release_date": "1987-11-20",
+    "vote_average": 6.337,
+    "poster_path": "/4HGCSvQejpYJXaZc3L40TTFPagO.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:47.932451"
+  },
+  "37698": {
+    "id": 37698,
+    "title": "I ruggenti anni venti",
+    "release_date": "1939-10-28",
+    "vote_average": 7.5,
+    "poster_path": "/zO6Uh5rG7rxIRBxpFIEVgSLnq4g.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-06-12T05:53:47.941137"
+  },
+  "42618": {
+    "id": 42618,
+    "title": "Sweet Charity - Una ragazza che voleva essere amata",
+    "release_date": "1969-02-25",
+    "vote_average": 6.9,
+    "poster_path": "/kAUsicUCLbh7fXr2fHDvnAjJ2h2.jpg",
+    "genre_ids": [
+      35,
+      10402,
+      10749,
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:47.945780"
+  },
+  "42755": {
+    "id": 42755,
+    "title": "Gone But Not Forgotten",
+    "release_date": "2005-01-01",
+    "vote_average": 4.917,
+    "poster_path": "/dRlojReXuxEhzUTSMp6CNijkJGR.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53,
+      10770
+    ],
+    "cached_at": "2026-06-12T05:53:47.974343"
+  },
+  "37404": {
+    "id": 37404,
+    "title": "Hercules e le Donne Amazzoni",
+    "release_date": "1994-04-24",
+    "vote_average": 5.9,
+    "poster_path": "/aTcAL4khfIAZjmbOeKIMqOtv1kd.jpg",
+    "genre_ids": [
+      12,
+      14,
+      10770,
+      28
+    ],
+    "cached_at": "2026-06-12T05:53:48.002054"
+  },
+  "37843": {
+    "id": 37843,
+    "title": "Spiaggia di sangue",
+    "release_date": "1980-09-01",
+    "vote_average": 4.9,
+    "poster_path": "/yfEcjmeuHYjYS3PueLg1VimRXqu.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "cached_at": "2026-06-12T05:53:48.077045"
+  },
+  "41548": {
+    "id": 41548,
+    "title": "La trappola",
+    "release_date": "2002-02-13",
+    "vote_average": 5.3,
+    "poster_path": "/eJohdAQZi5QuwksYah4cZ4P91Y5.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53,
+      10770
+    ],
+    "cached_at": "2026-06-12T05:53:48.080717"
+  },
+  "39315": {
+    "id": 39315,
+    "title": "Tykho Moon",
+    "release_date": "1996-11-28",
+    "vote_average": 5.6,
+    "poster_path": "/xA2ioVCLAqLZIHfLwAy7Uo5dGkO.jpg",
+    "genre_ids": [
+      878
+    ],
+    "cached_at": "2026-06-12T05:53:48.098311"
+  },
+  "40149": {
+    "id": 40149,
+    "title": "Kuroneko",
+    "release_date": "1968-02-24",
+    "vote_average": 7.4,
+    "poster_path": "/eA8cojrIPs9q37Zyw9ktRHADepd.jpg",
+    "genre_ids": [
+      18,
+      14,
+      27
+    ],
+    "cached_at": "2026-06-12T05:53:48.105380"
+  },
+  "38867": {
+    "id": 38867,
+    "title": "Il delta di Venere",
+    "release_date": "1995-06-09",
+    "vote_average": 4.353,
+    "poster_path": "/j43W5XkXR7u7uVAvfniEXiQ3Bpv.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-12T05:53:48.129920"
+  },
+  "58744": {
+    "id": 58744,
+    "title": "Al lupo, al lupo",
+    "release_date": "1992-12-18",
+    "vote_average": 6.294,
+    "poster_path": "/7z5tdHsxZ73bCzHanSIFCt3oSdg.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:48.142374"
+  },
+  "40081": {
+    "id": 40081,
+    "title": "残缺",
+    "release_date": "1978-12-21",
+    "vote_average": 6.9,
+    "poster_path": "/rwVnVr4lPJbXb5hUmRmTdSeNBf8.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:48.145987"
+  },
+  "46828": {
+    "id": 46828,
+    "title": "Il figlio della Pantera Rosa",
+    "release_date": "1993-08-27",
+    "vote_average": 4.624,
+    "poster_path": "/yrbPVm2LOcAjEkeKvuhjHgxtdxS.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2026-06-12T05:53:48.148373"
+  },
+  "41791": {
+    "id": 41791,
+    "title": "Mississippi Masala",
+    "release_date": "1991-09-18",
+    "vote_average": 6.4,
+    "poster_path": "/b2Gks4Stt98FRI5isaL6Wu1luhh.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-12T05:53:48.162611"
+  },
+  "42086": {
+    "id": 42086,
+    "title": "Choose me - Prendimi",
+    "release_date": "1984-08-29",
+    "vote_average": 6.0,
+    "poster_path": "/tOfpJedB8RPb86HTpBSiKhu3kfN.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:48.168543"
+  },
+  "43307": {
+    "id": 43307,
+    "title": "La signora Skeffington",
+    "release_date": "1944-05-25",
+    "vote_average": 6.8,
+    "poster_path": "/yShYgQ3FfSevUaWkdynVFeqhQUd.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-12T05:53:48.175278"
+  },
+  "40156": {
+    "id": 40156,
+    "title": "Il prete",
+    "release_date": "1995-03-24",
+    "vote_average": 6.24,
+    "poster_path": "/jpQCR1ekdTp16dReZYRnmeYFxIV.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-12T05:53:48.182610"
+  },
+  "1126915": {
+    "id": 1126915,
+    "title": "Tornado",
+    "release_date": "2025-05-30",
+    "vote_average": 6.2,
+    "poster_path": "/iow3KuKBJN2Hfqi7i7Tq3pZUbAa.jpg",
+    "genre_ids": [
+      18,
+      28,
+      37
+    ],
+    "cached_at": "2026-06-12T05:53:48.198490"
+  },
+  "42252": {
+    "id": 42252,
+    "title": "Missouri",
+    "release_date": "1976-05-19",
+    "vote_average": 6.5,
+    "poster_path": "/9z2twRVCIa2AdxdV0XWuUNjeuXE.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:48.222375"
+  },
+  "42120": {
+    "id": 42120,
+    "title": "City on Fire",
+    "release_date": "1987-02-13",
+    "vote_average": 6.9,
+    "poster_path": "/cgSNAGszPXwqrv3YL9OS3S4jYyn.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-06-12T05:53:48.251730"
+  },
+  "38222": {
+    "id": 38222,
+    "title": "L'amica delle 5 e mezzo",
+    "release_date": "1970-06-17",
+    "vote_average": 6.757,
+    "poster_path": "/2ivaAGlg6LGZfOjvZdj2GUNodHu.jpg",
+    "genre_ids": [
+      14,
+      10749,
+      35,
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:48.277554"
+  },
+  "41974": {
+    "id": 41974,
+    "title": "Mille pezzi di un delirio",
+    "release_date": "1988-05-15",
+    "vote_average": 5.62,
+    "poster_path": "/fU6D1LHixfDqJrhn16apZx4iytg.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2026-06-12T05:53:48.300918"
+  },
+  "39767": {
+    "id": 39767,
+    "title": "Getting Any?",
+    "release_date": "1995-02-11",
+    "vote_average": 5.738,
+    "poster_path": "/k6LOvXjvd28Q8kxQnVKjgVZDuf4.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-12T05:53:48.308125"
+  },
+  "40641": {
+    "id": 40641,
+    "title": "Lola - Donna di vita",
+    "release_date": "1961-03-03",
+    "vote_average": 7.052,
+    "poster_path": "/tc8SW8kcqrWymdsRjQj1a5dGiyu.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-12T05:53:48.329262"
+  },
+  "39474": {
+    "id": 39474,
+    "title": "Mermaids",
+    "release_date": "2003-11-15",
+    "vote_average": 5.9,
+    "poster_path": "/sNzcp54HrZsqmaQy722UzeM7EEx.jpg",
+    "genre_ids": [
+      14,
+      10749
+    ],
+    "cached_at": "2026-06-12T05:53:48.347890"
+  },
+  "43266": {
+    "id": 43266,
+    "title": "Com'era verde la mia valle",
+    "release_date": "1941-10-28",
+    "vote_average": 7.3,
+    "poster_path": "/voM50JDoOtA1A0zXDV2XIf2Fxj.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:48.355536"
+  },
+  "41876": {
+    "id": 41876,
+    "title": "La caduta degli dei",
+    "release_date": "1969-10-30",
+    "vote_average": 7.304,
+    "poster_path": "/y3LtyG2bT1MKseH3M2WHrX9OMzM.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-06-12T05:53:48.373580"
+  },
+  "42497": {
+    "id": 42497,
+    "title": "Pink Narcissus",
+    "release_date": "1971-05-24",
+    "vote_average": 6.2,
+    "poster_path": "/kaZiiGE6820KyFF9XkzPB9Rx9qn.jpg",
+    "genre_ids": [
+      14
+    ],
+    "cached_at": "2026-06-12T05:53:48.373592"
+  },
+  "39855": {
+    "id": 39855,
+    "title": "August Underground's Penance",
+    "release_date": "2007-03-30",
+    "vote_average": 3.939,
+    "poster_path": "/a1vplTEojgW37KxkcTlhS6W3l1p.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-06-12T05:53:48.387404"
+  },
+  "42006": {
+    "id": 42006,
+    "title": "Sorgo rosso",
+    "release_date": "1988-10-10",
+    "vote_average": 7.146,
+    "poster_path": "/ujK7lXjxD7s47y27wF0nfN2i6cI.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      36
+    ],
+    "cached_at": "2026-06-12T05:53:48.400775"
+  },
+  "31002": {
+    "id": 31002,
+    "title": "Ticker - Esplosione finale",
+    "release_date": "2001-06-23",
+    "vote_average": 3.735,
+    "poster_path": "/qHuAAGikw2bTaam7K5B8btwUECM.jpg",
+    "genre_ids": [
+      28,
+      12,
+      80,
+      53
+    ],
+    "cached_at": "2026-06-12T05:53:48.419524"
+  },
+  "38450": {
+    "id": 38450,
+    "title": "Gli ultimi giganti",
+    "release_date": "1976-04-22",
+    "vote_average": 6.172,
+    "poster_path": "/zUtwi448BO7gwBEibrfhVs738rT.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-06-12T05:53:48.487204"
+  },
+  "40644": {
+    "id": 40644,
+    "title": "座頭市",
+    "release_date": "1989-02-04",
+    "vote_average": 6.418,
+    "poster_path": "/wfhAtOdld8mvTuxDMy8sLeSVXL8.jpg",
+    "genre_ids": [
+      28,
+      18,
+      12
+    ],
+    "cached_at": "2026-06-12T05:53:48.555344"
+  },
+  "40435": {
+    "id": 40435,
+    "title": "Inframan l'altra dimensione",
+    "release_date": "1975-08-01",
+    "vote_average": 6.0,
+    "poster_path": "/fhzNSwjeM5wjImbFR1kJ1o68dcG.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "cached_at": "2026-06-12T05:53:48.574253"
+  },
+  "39876": {
+    "id": 39876,
+    "title": "レイプ25時 暴姦",
+    "release_date": "1977-01-22",
+    "vote_average": 5.69,
+    "poster_path": "/5aSg8y6pPaY9M2W4Fwu6SIkj9LB.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-06-12T05:53:48.898740"
+  },
+  "42495": {
+    "id": 42495,
+    "title": "Re Lear",
+    "release_date": "1970-07-10",
+    "vote_average": 6.45,
+    "poster_path": "/x30BDajqXzTM9xx84HQgTBeo5oi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:49.066581"
+  },
+  "41343": {
+    "id": 41343,
+    "title": "The God of Cookery",
+    "release_date": "1996-12-21",
+    "vote_average": 7.2,
+    "poster_path": "/9BbEsmLl1kVPcsojW5W8kMm5Ws5.jpg",
+    "genre_ids": [
+      35,
+      18,
+      14
+    ],
+    "cached_at": "2026-06-12T05:53:49.310610"
+  },
+  "43136": {
+    "id": 43136,
+    "title": "Tavole separate",
+    "release_date": "1958-12-18",
+    "vote_average": 7.0,
+    "poster_path": "/iYXqVA4RqXWaF2MjDOdCD31v2IF.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-12T05:53:49.338039"
+  },
+  "43429": {
+    "id": 43429,
+    "title": "Martín (Hache)",
+    "release_date": "1997-03-31",
+    "vote_average": 7.471,
+    "poster_path": "/ismVb0btyFH9aNTJxo6CpbgBk7W.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:49.428313"
+  },
+  "41428": {
+    "id": 41428,
+    "title": "Tetsuo - The Iron Man",
+    "release_date": "1989-07-01",
+    "vote_average": 7.0,
+    "poster_path": "/bwxZhH96ackHaC6keW5w36FbZA0.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "cached_at": "2026-06-12T05:53:49.446196"
+  },
+  "40842": {
+    "id": 40842,
+    "title": "Norma Rae",
+    "release_date": "1979-03-02",
+    "vote_average": 7.214,
+    "poster_path": "/qMSonY0dX8F7bRGOqAqIKMuaQQd.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:49.450456"
+  },
+  "42113": {
+    "id": 42113,
+    "title": "La ballata di Narayama",
+    "release_date": "1983-04-29",
+    "vote_average": 7.498,
+    "poster_path": "/tRrmkbPKGJvYQ9GUUV9TGNBrjvp.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:49.559297"
+  },
+  "41387": {
+    "id": 41387,
+    "title": "國產凌凌漆",
+    "release_date": "1994-10-13",
+    "vote_average": 7.0,
+    "poster_path": "/dzSiN45k9bEiDu2KrxZIt3oNIrp.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "cached_at": "2026-06-12T05:53:49.560143"
+  },
+  "39940": {
+    "id": 39940,
+    "title": "Picnic",
+    "release_date": "1955-11-18",
+    "vote_average": 6.4,
+    "poster_path": "/xyCGSEuaPSV3nnuRjPnzb2nTgFJ.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-12T05:53:49.575002"
+  },
+  "38950": {
+    "id": 38950,
+    "title": "Un eroe per il terrore",
+    "release_date": "1988-08-26",
+    "vote_average": 5.281,
+    "poster_path": "/1FffBxXh4LzADvtQrIvw432DJk4.jpg",
+    "genre_ids": [
+      18,
+      28,
+      53,
+      80,
+      10749
+    ],
+    "cached_at": "2026-06-12T05:53:49.578501"
+  },
+  "41992": {
+    "id": 41992,
+    "title": "Il mondo di Sophie",
+    "release_date": "1999-08-06",
+    "vote_average": 6.367,
+    "poster_path": "/vRLqdK9JW9tbcyDLgGchrMkxVAS.jpg",
+    "genre_ids": [
+      14,
+      18,
+      10751,
+      12,
+      28
+    ],
+    "cached_at": "2026-06-12T05:53:49.673172"
+  },
+  "37431": {
+    "id": 37431,
+    "title": "Fino alla fine",
+    "release_date": "1995-05-12",
+    "vote_average": 4.864,
+    "poster_path": "/lzSGRw6VAEohzdOZWNvct7PAb12.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-06-12T05:53:49.674114"
+  },
+  "41383": {
+    "id": 41383,
+    "title": "少林五祖",
+    "release_date": "1974-12-25",
+    "vote_average": 7.333,
+    "poster_path": "/2KDffLqWotf3GxiF7TGsylH7Y2s.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:49.828115"
+  },
+  "42251": {
+    "id": 42251,
+    "title": "Forbidden World",
+    "release_date": "1982-05-07",
+    "vote_average": 5.272,
+    "poster_path": "/5iDgpYgCbaEs0IpUY33X4BTDwJk.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "cached_at": "2026-06-12T05:53:49.926250"
+  },
+  "39018": {
+    "id": 39018,
+    "title": "Tomahawk - Scure di guerra",
+    "release_date": "1951-02-05",
+    "vote_average": 7.0,
+    "poster_path": "/qzFWeJk9AhDs8wAQAnNEaXYnRf2.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-06-12T05:53:50.076063"
+  },
+  "42112": {
+    "id": 42112,
+    "title": "L'argent",
+    "release_date": "1983-05-18",
+    "vote_average": 6.934,
+    "poster_path": "/dultbMMwm6nPl2Pd9X3f1JUEAgB.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:50.077276"
+  },
+  "42726": {
+    "id": 42726,
+    "title": "Un uomo, una donna",
+    "release_date": "1966-05-27",
+    "vote_average": 7.4,
+    "poster_path": "/e4FpbFsijDVjV1TTPeUDusoiMSf.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-12T05:53:50.313134"
+  },
+  "40028": {
+    "id": 40028,
+    "title": "Not of This Earth",
+    "release_date": "1988-05-20",
+    "vote_average": 4.8,
+    "poster_path": "/wHSYPs9W3AmKdzeYhNxB0mtswlv.jpg",
+    "genre_ids": [
+      27,
+      35,
+      878
+    ],
+    "cached_at": "2026-06-12T05:53:50.314275"
+  },
+  "40863": {
+    "id": 40863,
+    "title": "Jackie Chan - I Miei Stunt",
+    "release_date": "1999-03-30",
+    "vote_average": 7.238,
+    "poster_path": "/eLT6kuZ4bQpUaFJ6OKH2YMvaUet.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-12T05:53:50.564340"
+  },
+  "37921": {
+    "id": 37921,
+    "title": "Prima vittoria",
+    "release_date": "1965-04-06",
+    "vote_average": 6.582,
+    "poster_path": "/yutbplwnl47SUYyJE3nlF7H5EQz.jpg",
+    "genre_ids": [
+      10752,
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:50.592045"
+  },
+  "40886": {
+    "id": 40886,
+    "title": "PiCNiC",
+    "release_date": "1996-06-15",
+    "vote_average": 6.8,
+    "poster_path": "/7gA2fQSwlR8O9nEMt3UtbEqYotT.jpg",
+    "genre_ids": [
+      18,
+      12
+    ],
+    "cached_at": "2026-06-12T05:53:50.600044"
+  },
+  "41430": {
+    "id": 41430,
+    "title": "The Dock Brief",
+    "release_date": "1962-09-25",
+    "vote_average": 6.643,
+    "poster_path": "/sajFMvHddZ0Y3l2yT2Wlkthvsej.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:50.601951"
+  },
+  "998757": {
+    "id": 998757,
+    "title": "Amerikatsi",
+    "release_date": "2022-07-21",
+    "vote_average": 7.3,
+    "poster_path": "/jwgg2CxQCDP7PGEopqCTcmtUo9z.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-06-12T05:53:50.709973"
+  },
+  "41177": {
+    "id": 41177,
+    "title": "Always: Sunset on Third Street 2",
+    "release_date": "2007-11-03",
+    "vote_average": 7.2,
+    "poster_path": "/wPTi4F9YKFHZQpK9HsS83sQhNEC.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:50.785834"
+  },
+  "420597": {
+    "id": 420597,
+    "title": "Falchi",
+    "release_date": "2017-03-02",
+    "vote_average": 5.5,
+    "poster_path": "/sOmznOEl2GpDQePedALD6f1nvpV.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-06-12T05:53:50.855584"
+  },
+  "37593": {
+    "id": 37593,
+    "title": "Stella solitaria",
+    "release_date": "1952-10-24",
+    "vote_average": 5.7,
+    "poster_path": "/zjvjgZvqRd4kzsYA515bhcd5P3P.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-06-12T05:53:51.186397"
   }
 }
