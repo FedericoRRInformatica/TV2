@@ -66499,5 +66499,150 @@
       99
     ],
     "cached_at": "2026-06-11T05:55:07.462836"
+  },
+  "16286": {
+    "id": 16286,
+    "name": "Betty \"la cozza\"",
+    "original_name": "Yo soy Betty, la fea",
+    "first_air_date": "1999-10-25",
+    "vote_average": 8.353,
+    "poster_path": "/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
+    "genre_ids": [
+      10766,
+      35,
+      18
+    ],
+    "cached_at": "2026-06-13T05:23:51.680014"
+  },
+  "16299": {
+    "id": 16299,
+    "name": "Son amores",
+    "original_name": "Son amores",
+    "first_air_date": "2002-01-28",
+    "vote_average": 5.4,
+    "poster_path": "/aZ0zzbukErHz8LupomSPMG1U1a6.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-13T05:23:51.687139"
+  },
+  "322430": {
+    "id": 322430,
+    "name": "Il Poligamo",
+    "original_name": "The Polygamist",
+    "first_air_date": "2026-06-12",
+    "vote_average": 9.0,
+    "poster_path": "/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "cached_at": "2026-06-13T05:23:51.701028"
+  },
+  "16135": {
+    "id": 16135,
+    "name": "Muñeca Brava",
+    "original_name": "Muñeca Brava",
+    "first_air_date": "1998-11-16",
+    "vote_average": 7.208,
+    "poster_path": "/cMMiFdM9KZqJAjHTisSRYSR3YlN.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10766
+    ],
+    "cached_at": "2026-06-13T05:23:51.712026"
+  },
+  "16069": {
+    "id": 16069,
+    "name": "東京ラブストーリー",
+    "original_name": "東京ラブストーリー",
+    "first_air_date": "1991-01-07",
+    "vote_average": 8.368,
+    "poster_path": "/nRoJ4Dw2uqbKP4HqhKEd5GP9vHS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-13T05:23:51.716451"
+  },
+  "16120": {
+    "id": 16120,
+    "name": "Alma Gêmea",
+    "original_name": "Alma Gêmea",
+    "first_air_date": "2005-06-20",
+    "vote_average": 6.9,
+    "poster_path": "/2HxNkrtEOgP4VEKzVBdBHHsnO6o.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      35,
+      9648
+    ],
+    "cached_at": "2026-06-13T05:23:51.718900"
+  },
+  "312493": {
+    "id": 312493,
+    "name": "Viral Hit",
+    "original_name": "喧嘩独学",
+    "first_air_date": "2026-06-11",
+    "vote_average": 7.222,
+    "poster_path": "/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "cached_at": "2026-06-13T05:23:51.727363"
+  },
+  "15915": {
+    "id": 15915,
+    "name": "爸爸閉翳",
+    "original_name": "爸爸閉翳",
+    "first_air_date": "2007-08-06",
+    "vote_average": 3.0,
+    "poster_path": "/clPP84nVX8UzqUCz0L3BRu9Q49N.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      35
+    ],
+    "cached_at": "2026-06-13T05:23:51.744021"
+  },
+  "292696": {
+    "id": 292696,
+    "name": "莫离",
+    "original_name": "莫离",
+    "first_air_date": "2026-06-09",
+    "vote_average": 9.667,
+    "poster_path": "/pRPDAGXmoUnWlRj34BHQ1Gt05ai.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-13T05:23:51.759023"
+  },
+  "315610": {
+    "id": 315610,
+    "name": "Proud",
+    "original_name": "Proud",
+    "first_air_date": "2026-06-12",
+    "vote_average": 0.0,
+    "poster_path": "/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-13T05:23:51.765431"
+  },
+  "46786": {
+    "id": 46786,
+    "name": "Bates Motel",
+    "original_name": "Bates Motel",
+    "first_air_date": "2013-03-18",
+    "vote_average": 8.1,
+    "poster_path": "/xXKcfZE7ulYxgjjYv51s0zDG69s.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "cached_at": "2026-06-13T05:23:51.795592"
   }
 }
