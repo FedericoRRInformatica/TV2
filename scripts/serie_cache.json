@@ -66644,5 +66644,194 @@
       9648
     ],
     "cached_at": "2026-06-13T05:23:51.795592"
+  },
+  "19654": {
+    "id": 19654,
+    "name": "Rose Red",
+    "original_name": "Rose Red",
+    "first_air_date": "2002-01-27",
+    "vote_average": 6.775,
+    "poster_path": "/5GvAUv97OhCLKkoK8ksEeWLhsMc.jpg",
+    "genre_ids": [
+      9648,
+      10765
+    ],
+    "cached_at": "2026-06-14T05:54:58.665042"
+  },
+  "19893": {
+    "id": 19893,
+    "name": "Celebrity Mastermind",
+    "original_name": "Celebrity Mastermind",
+    "first_air_date": "2003-12-26",
+    "vote_average": 6.0,
+    "poster_path": "/8gDoY07vXTpbTMpwChG1RsCmeMt.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-06-14T05:54:58.722363"
+  },
+  "19750": {
+    "id": 19750,
+    "name": "Churchill's People",
+    "original_name": "Churchill's People",
+    "first_air_date": "1974-12-30",
+    "vote_average": 5.0,
+    "poster_path": "/cPEqAOyP6VCRkAAEUCfqTmmJhj0.jpg",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "cached_at": "2026-06-14T05:54:58.739404"
+  },
+  "19458": {
+    "id": 19458,
+    "name": "白夜行",
+    "original_name": "白夜行",
+    "first_air_date": "2006-01-12",
+    "vote_average": 7.4,
+    "poster_path": "/xPQN7ry6qiDZF5aoaKPfC7IP1Oz.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-06-14T05:54:58.766442"
+  },
+  "18745": {
+    "id": 18745,
+    "name": "Tales of the City",
+    "original_name": "Tales of the City",
+    "first_air_date": "1993-09-28",
+    "vote_average": 7.6,
+    "poster_path": "/EfM6EHyzr2q7TWFO5uEBNssgo4.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2026-06-14T05:54:58.769176"
+  },
+  "17638": {
+    "id": 17638,
+    "name": "Más Sabe el Diablo",
+    "original_name": "Más Sabe el Diablo",
+    "first_air_date": "2009-05-25",
+    "vote_average": 8.183,
+    "poster_path": "/468xWS1crK1AKkvHXQtoIPxNNTq.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "cached_at": "2026-06-14T05:54:58.785030"
+  },
+  "125928": {
+    "id": 125928,
+    "name": "Le mie Avventure con Superman",
+    "original_name": "My Adventures with Superman",
+    "first_air_date": "2023-07-07",
+    "vote_average": 8.1,
+    "poster_path": "/aIz9V5GL5LOk76FnvdzlpuIkCq6.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "cached_at": "2026-06-14T05:54:58.794915"
+  },
+  "17546": {
+    "id": 17546,
+    "name": "C'era una volta... la Terra",
+    "original_name": "Il était une fois... notre Terre",
+    "first_air_date": "2008-12-15",
+    "vote_average": 8.5,
+    "poster_path": "/bjczmANuAbhE0olSHEZShCZKSJ5.jpg",
+    "genre_ids": [
+      16,
+      99,
+      10751
+    ],
+    "cached_at": "2026-06-14T05:54:58.796884"
+  },
+  "18301": {
+    "id": 18301,
+    "name": "Bharat Ek Khoj",
+    "original_name": "Bharat Ek Khoj",
+    "first_air_date": "1988-01-03",
+    "vote_average": 9.429,
+    "poster_path": "/eE327cvRMzngQTwMvbTSj6yoo74.jpg",
+    "genre_ids": [
+      99,
+      18
+    ],
+    "cached_at": "2026-06-14T05:54:58.808553"
+  },
+  "16413": {
+    "id": 16413,
+    "name": "ये रिश्ता क्या कहलाता है",
+    "original_name": "ये रिश्ता क्या कहलाता है",
+    "first_air_date": "2009-01-12",
+    "vote_average": 3.9,
+    "poster_path": "/y9U6187kzOigTJiAezzYA875WGV.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      10766
+    ],
+    "cached_at": "2026-06-14T05:54:58.808565"
+  },
+  "17543": {
+    "id": 17543,
+    "name": "Ring of Honor Wrestling",
+    "original_name": "Ring of Honor Wrestling",
+    "first_air_date": "2009-03-21",
+    "vote_average": 6.4,
+    "poster_path": "/kvLS3nd5YBpwIeFsdlHCffUhl3b.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-06-14T05:54:58.813122"
+  },
+  "322803": {
+    "id": 322803,
+    "name": "Outlast - Gioco di squadra: La giungla",
+    "original_name": "Outlast: The Jungle",
+    "first_air_date": "2026-06-10",
+    "vote_average": 7.5,
+    "poster_path": "/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-06-14T05:54:58.813135"
+  },
+  "18260": {
+    "id": 18260,
+    "name": "An Age of Kings",
+    "original_name": "An Age of Kings",
+    "first_air_date": "1960-04-28",
+    "vote_average": 5.25,
+    "poster_path": "/wktuD6RcbSJmAWpeT01szcRfYVV.jpg",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "cached_at": "2026-06-14T05:54:58.824530"
+  },
+  "16906": {
+    "id": 16906,
+    "name": "The Beatles Anthology",
+    "original_name": "The Beatles Anthology",
+    "first_air_date": "1995-11-19",
+    "vote_average": 8.3,
+    "poster_path": "/97zhDkOLlrkaIiIvROPsAMSqnzQ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-14T05:54:58.826467"
+  },
+  "17433": {
+    "id": 17433,
+    "name": "鹿鼎记",
+    "original_name": "鹿鼎记",
+    "first_air_date": "2008-03-25",
+    "vote_average": 5.556,
+    "poster_path": "/y8oTgupGUQyYyULvANVSTseRDMd.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-14T05:54:58.833996"
   }
 }
