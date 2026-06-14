@@ -158800,5 +158800,56 @@
       10752
     ],
     "cached_at": "2026-06-13T05:24:29.979503"
+  },
+  "28415": {
+    "id": 28415,
+    "title": "Yakuza",
+    "release_date": "1974-12-21",
+    "vote_average": 7.1,
+    "poster_path": "/wKCbsSPQETbQJ8XqdjwhtBuNmX.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-06-14T05:56:06.116010"
+  },
+  "338107": {
+    "id": 338107,
+    "title": "Chocolate City",
+    "release_date": "2015-05-22",
+    "vote_average": 5.2,
+    "poster_path": "/y3IkOh4wtMvpQFeRqc6ej4pvGeK.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-14T05:56:06.172309"
+  },
+  "1445363": {
+    "id": 1445363,
+    "title": "EPiC: Elvis Presley in Concert",
+    "release_date": "2026-02-18",
+    "vote_average": 8.3,
+    "poster_path": "/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "cached_at": "2026-06-14T05:56:06.183324"
+  },
+  "43012": {
+    "id": 43012,
+    "title": "Taras il magnifico",
+    "release_date": "1962-11-21",
+    "vote_average": 6.3,
+    "poster_path": "/nOaUQLFUkXLYy4x6pwRRCiyuYeN.jpg",
+    "genre_ids": [
+      12,
+      10749,
+      36,
+      10752,
+      18
+    ],
+    "cached_at": "2026-06-14T05:56:06.250222"
   }
 }
