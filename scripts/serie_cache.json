@@ -66833,5 +66833,105 @@
       18
     ],
     "cached_at": "2026-06-14T05:54:58.833996"
+  },
+  "21309": {
+    "id": 21309,
+    "name": "DuPont Show of the Month",
+    "original_name": "DuPont Show of the Month",
+    "first_air_date": "1957-09-29",
+    "vote_average": 7.4,
+    "poster_path": "/r6fPB95zGx5ncBZJt40xmOPJQnw.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-06-15T06:30:40.185769"
+  },
+  "78154": {
+    "id": 78154,
+    "name": "L'amica geniale",
+    "original_name": "L'amica geniale",
+    "first_air_date": "2018-11-27",
+    "vote_average": 8.093,
+    "poster_path": "/9B4NWN2lwlhdksimiAyv30hjRTQ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-15T06:30:40.196533"
+  },
+  "214875": {
+    "id": 214875,
+    "name": "Rubble & Crew",
+    "original_name": "Rubble & Crew",
+    "first_air_date": "2023-02-03",
+    "vote_average": 7.1,
+    "poster_path": "/5MA1tqT0yI57IlPBy0KRN6G2mhN.jpg",
+    "genre_ids": [
+      16,
+      10762
+    ],
+    "cached_at": "2026-06-15T06:30:40.212861"
+  },
+  "7235": {
+    "id": 7235,
+    "name": "In Plain Sight - Protezione testimoni",
+    "original_name": "In Plain Sight",
+    "first_air_date": "2008-06-01",
+    "vote_average": 7.062,
+    "poster_path": "/utJdDq3c9uRCdvYHlF5qptWLZfh.jpg",
+    "genre_ids": [
+      18,
+      10759,
+      80
+    ],
+    "cached_at": "2026-06-15T06:30:40.225736"
+  },
+  "21058": {
+    "id": 21058,
+    "name": "齊天大聖孫悟空",
+    "original_name": "齊天大聖孫悟空",
+    "first_air_date": "2002-07-10",
+    "vote_average": 7.0,
+    "poster_path": "/qXFZjsNm1o5GmMo14Cl3gtFTEAR.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-15T06:30:40.226840"
+  },
+  "20724": {
+    "id": 20724,
+    "name": "Sai de Baixo",
+    "original_name": "Sai de Baixo",
+    "first_air_date": "1996-03-31",
+    "vote_average": 8.3,
+    "poster_path": "/s5ZehoCj2uuHGHn9Xz1lZ3KfkmZ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-15T06:30:40.230141"
+  },
+  "20090": {
+    "id": 20090,
+    "name": "Nytt på nytt",
+    "original_name": "Nytt på nytt",
+    "first_air_date": "1999-04-09",
+    "vote_average": 7.042,
+    "poster_path": "/uBz0QRjJnAlRy3YSsbUDwbwuEbv.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-15T06:30:40.246192"
+  },
+  "20518": {
+    "id": 20518,
+    "name": "Tigerenten Club",
+    "original_name": "Tigerenten Club",
+    "first_air_date": "1996-01-06",
+    "vote_average": 7.0,
+    "poster_path": "/59XEuV6hkidMsxIppbInMT6vefW.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-06-15T06:30:40.249721"
   }
 }
