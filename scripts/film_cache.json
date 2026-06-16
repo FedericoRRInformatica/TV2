@@ -160421,5 +160421,188 @@
       37
     ],
     "cached_at": "2026-06-15T06:31:20.832557"
+  },
+  "35977": {
+    "id": 35977,
+    "title": "Pumpkinhead II: Blood Wings",
+    "release_date": "1995-10-20",
+    "vote_average": 5.625,
+    "poster_path": "/fZIoluMNFq1KfMc4gJH0LLXxueq.jpg",
+    "genre_ids": [
+      27,
+      14,
+      53
+    ],
+    "cached_at": "2026-06-16T06:37:36.446612"
+  },
+  "335081": {
+    "id": 335081,
+    "title": "Uno, anzi due",
+    "release_date": "2015-04-09",
+    "vote_average": 5.1,
+    "poster_path": "/a2E2EA1Wmxknhg2TaGaMBrWqzpL.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-16T06:37:36.462584"
+  },
+  "34023": {
+    "id": 34023,
+    "title": "Blood Sucking Freaks",
+    "release_date": "1976-11-03",
+    "vote_average": 4.9,
+    "poster_path": "/sRFWfces1Aa2yPRzDt4NVuYrysQ.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "cached_at": "2026-06-16T06:37:36.497853"
+  },
+  "34374": {
+    "id": 34374,
+    "title": "Assassinio su commissione",
+    "release_date": "1979-02-01",
+    "vote_average": 6.3,
+    "poster_path": "/hBx0tQAjJ5oaaDyx6QNYiB4DFUt.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "cached_at": "2026-06-16T06:37:36.553465"
+  },
+  "34024": {
+    "id": 34024,
+    "title": "Piccolo, grande Aaron",
+    "release_date": "1993-08-20",
+    "vote_average": 6.8,
+    "poster_path": "/8zoZEhMNvluYhQGOrqNMkpP4w74.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-06-16T06:37:36.568258"
+  },
+  "9956": {
+    "id": 9956,
+    "title": "Il coraggioso",
+    "release_date": "1997-07-30",
+    "vote_average": 6.049,
+    "poster_path": "/6Dvjjsazvc5cXKgdUXOcROXgDj9.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-16T06:37:36.568275"
+  },
+  "1710203": {
+    "id": 1710203,
+    "title": "Tony Hinchcliffe: Man of the People",
+    "release_date": "2026-06-09",
+    "vote_average": 3.3,
+    "poster_path": "/btK2kz5XgoMdvJfOw2axKj4P5ja.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-16T06:37:36.610881"
+  },
+  "34312": {
+    "id": 34312,
+    "title": "Sleepaway Camp III: Teenage Wasteland",
+    "release_date": "1989-08-04",
+    "vote_average": 5.4,
+    "poster_path": "/qladM9OMuGWfj2hdoj8NBpScLg9.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "cached_at": "2026-06-16T06:37:36.610899"
+  },
+  "152599": {
+    "id": 152599,
+    "title": "C'era una volta a New York",
+    "release_date": "2013-11-27",
+    "vote_average": 6.33,
+    "poster_path": "/c0R0CIjxP7D8eA4oGoJFdtBcLzk.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-16T06:37:36.618630"
+  },
+  "32961": {
+    "id": 32961,
+    "title": "L'incredibile avventura di Mr. Holland",
+    "release_date": "1951-06-28",
+    "vote_average": 7.2,
+    "poster_path": "/riqD5kJjxkJY65axW7x9IKQJAwC.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2026-06-16T06:37:36.650272"
+  },
+  "33851": {
+    "id": 33851,
+    "title": "Una preghiera per morire",
+    "release_date": "1987-09-11",
+    "vote_average": 5.866,
+    "poster_path": "/xmdB33uB49SOISghQGrD7CnWyN0.jpg",
+    "genre_ids": [
+      80,
+      18,
+      28,
+      53
+    ],
+    "cached_at": "2026-06-16T06:37:36.663247"
+  },
+  "33016": {
+    "id": 33016,
+    "title": "Benedizione mortale",
+    "release_date": "1981-08-14",
+    "vote_average": 5.569,
+    "poster_path": "/jg9M69rNHmQdBoxYSUncxINPMvA.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-06-16T06:37:37.092946"
+  },
+  "32652": {
+    "id": 32652,
+    "title": "La maschera di cera",
+    "release_date": "1933-02-18",
+    "vote_average": 6.457,
+    "poster_path": "/zhzCgD0OZicAE7qpVO1YNblt6XK.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-06-16T06:37:37.583669"
+  },
+  "36265": {
+    "id": 36265,
+    "title": "Simon del deserto",
+    "release_date": "1965-08-27",
+    "vote_average": 7.642,
+    "poster_path": "/eeAc23DwDT6HO3dSUx1czfCly2W.jpg",
+    "genre_ids": [
+      35,
+      18,
+      14
+    ],
+    "cached_at": "2026-06-16T06:37:37.893729"
+  },
+  "884129": {
+    "id": 884129,
+    "title": "(Im)perfetti Criminali",
+    "release_date": "2022-05-09",
+    "vote_average": 6.2,
+    "poster_path": "/oKlHgIyM4Ou4F0cW1R0HvgRcV1x.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2026-06-16T06:37:38.447105"
   }
 }
