@@ -66933,5 +66933,18 @@
       10764
     ],
     "cached_at": "2026-06-15T06:30:40.249721"
+  },
+  "324115": {
+    "id": 324115,
+    "name": "The Evil Lawyer",
+    "original_name": "ทนายปีศาจ",
+    "first_air_date": "2026-06-11",
+    "vote_average": 7.4,
+    "poster_path": "/oLmVnnJFdHvnaGB2asEebnbE4ly.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-06-16T06:36:59.092067"
   }
 }
