@@ -160604,5 +160604,255 @@
       80
     ],
     "cached_at": "2026-06-16T06:37:38.447105"
+  },
+  "39807": {
+    "id": 39807,
+    "title": "Doc West",
+    "release_date": "2009-09-07",
+    "vote_average": 6.2,
+    "poster_path": "/pABR4uDBhMm6HsP2fK1jkHlcybc.jpg",
+    "genre_ids": [
+      37,
+      28
+    ],
+    "cached_at": "2026-06-17T06:21:00.522302"
+  },
+  "37451": {
+    "id": 37451,
+    "title": "La locanda della sesta felicità",
+    "release_date": "1958-11-23",
+    "vote_average": 6.8,
+    "poster_path": "/88ZXg1xt9KLb0aW5gu7WRpytTrm.jpg",
+    "genre_ids": [
+      10752,
+      18
+    ],
+    "cached_at": "2026-06-17T06:21:00.549356"
+  },
+  "14120": {
+    "id": 14120,
+    "title": "La punta della lancia",
+    "release_date": "2005-10-24",
+    "vote_average": 6.3,
+    "poster_path": "/9wiiKqbVHAl7e94gXdFaKwZpmsn.jpg",
+    "genre_ids": [
+      12,
+      18,
+      36
+    ],
+    "cached_at": "2026-06-17T06:21:00.549371"
+  },
+  "38362": {
+    "id": 38362,
+    "title": "Bluff - Storia di truffe e di imbroglioni",
+    "release_date": "1976-04-15",
+    "vote_average": 7.064,
+    "poster_path": "/3XybTnFRKw0ttv5VatoZ9m6eoGY.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2026-06-17T06:21:00.552199"
+  },
+  "38688": {
+    "id": 38688,
+    "title": "Pandora",
+    "release_date": "1951-04-13",
+    "vote_average": 6.7,
+    "poster_path": "/ez960P3C06obYskoWeMwMx00DiU.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      14
+    ],
+    "cached_at": "2026-06-17T06:21:00.630146"
+  },
+  "38775": {
+    "id": 38775,
+    "title": "Marea notturna",
+    "release_date": "1961-07-01",
+    "vote_average": 6.4,
+    "poster_path": "/bd8pTcZQNRBFrShJoCQUWnJxmZJ.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      10749,
+      27
+    ],
+    "cached_at": "2026-06-17T06:21:00.630164"
+  },
+  "41597": {
+    "id": 41597,
+    "title": "Night Train to Munich",
+    "release_date": "1940-08-31",
+    "vote_average": 7.255,
+    "poster_path": "/fi6Vh72FSrps1eqKG0zj5DIv190.jpg",
+    "genre_ids": [
+      18,
+      53,
+      10752
+    ],
+    "cached_at": "2026-06-17T06:21:00.641413"
+  },
+  "96167": {
+    "id": 96167,
+    "title": "Macchie solari",
+    "release_date": "1975-01-18",
+    "vote_average": 6.0,
+    "poster_path": "/tCbzYiyNehrZWaWBplYxsHTIxZg.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "cached_at": "2026-06-17T06:21:00.653124"
+  },
+  "38783": {
+    "id": 38783,
+    "title": "Trilogia del terrore",
+    "release_date": "1975-03-04",
+    "vote_average": 6.2,
+    "poster_path": "/nE4ih0nzpqz0x154Vig0QJUc6Sr.jpg",
+    "genre_ids": [
+      27,
+      53,
+      10770
+    ],
+    "cached_at": "2026-06-17T06:21:00.683840"
+  },
+  "65851": {
+    "id": 65851,
+    "title": "Jackass 3.5 Il film uncut",
+    "release_date": "2011-04-01",
+    "vote_average": 6.361,
+    "poster_path": "/o0cILOYbqfppTLAhkI2tzA2BWtX.jpg",
+    "genre_ids": [
+      35,
+      99,
+      28
+    ],
+    "cached_at": "2026-06-17T06:21:00.720829"
+  },
+  "40761": {
+    "id": 40761,
+    "title": "La vendetta del mostro",
+    "release_date": "1955-01-17",
+    "vote_average": 5.6,
+    "poster_path": "/c6uxau2ojMyumaTHLJZGL36uccc.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "cached_at": "2026-06-17T06:21:00.753933"
+  },
+  "38766": {
+    "id": 38766,
+    "title": "Okinawa",
+    "release_date": "1951-01-04",
+    "vote_average": 5.976,
+    "poster_path": "/bSe6wRndL143Kpy5s6JbNjwfXnU.jpg",
+    "genre_ids": [
+      12,
+      18,
+      28,
+      10752
+    ],
+    "cached_at": "2026-06-17T06:21:00.760983"
+  },
+  "38271": {
+    "id": 38271,
+    "title": "Grand Hotel Excelsior",
+    "release_date": "1982-10-07",
+    "vote_average": 6.08,
+    "poster_path": "/4PEoY5oquthqwZdOrt2996ETast.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-17T06:21:00.767861"
+  },
+  "273641": {
+    "id": 273641,
+    "title": "Jackass nonno cattivo .5",
+    "release_date": "2014-06-03",
+    "vote_average": 5.92,
+    "poster_path": "/4FBfykfsiFHp3EPlG1rH7S5XwF3.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-17T06:21:01.283626"
+  },
+  "40092": {
+    "id": 40092,
+    "title": "Sogni proibiti",
+    "release_date": "1947-09-01",
+    "vote_average": 6.8,
+    "poster_path": "/3fBNnSDUNtcLclCEctuJcYGRf1L.jpg",
+    "genre_ids": [
+      35,
+      14,
+      10749
+    ],
+    "cached_at": "2026-06-17T06:21:01.474272"
+  },
+  "41391": {
+    "id": 41391,
+    "title": "Dies irae",
+    "release_date": "1943-11-13",
+    "vote_average": 8.0,
+    "poster_path": "/kpwq6jFzyqjmkOypBA2EfhSByFZ.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-06-17T06:21:01.559420"
+  },
+  "14158": {
+    "id": 14158,
+    "title": "Jackass 2.5",
+    "release_date": "2007-12-18",
+    "vote_average": 6.141,
+    "poster_path": "/qriTT0KQvvuCs73z0LyEduw6XX.jpg",
+    "genre_ids": [
+      35,
+      99
+    ],
+    "cached_at": "2026-06-17T06:21:01.571709"
+  },
+  "39037": {
+    "id": 39037,
+    "title": "Il bravo ragazzo",
+    "release_date": "2009-04-25",
+    "vote_average": 5.5,
+    "poster_path": "/xwSQ62M3B1LTpHhau4MaREIwfSy.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-06-17T06:21:01.586626"
+  },
+  "1275779": {
+    "id": 1275779,
+    "title": "Disclosure Day",
+    "release_date": "2026-06-10",
+    "vote_average": 6.771,
+    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "cached_at": "2026-06-17T06:21:01.895015"
+  },
+  "37719": {
+    "id": 37719,
+    "title": "Una notte all'opera",
+    "release_date": "1935-11-15",
+    "vote_average": 7.4,
+    "poster_path": "/18BX0ayyf2YLzUafixDdYyV6tj9.jpg",
+    "genre_ids": [
+      35,
+      10402
+    ],
+    "cached_at": "2026-06-17T06:21:02.153206"
   }
 }
