@@ -66946,5 +66946,58 @@
       18
     ],
     "cached_at": "2026-06-16T06:36:59.092067"
+  },
+  "278178": {
+    "id": 278178,
+    "name": "Ovunque tu sia",
+    "original_name": "I Will Find You",
+    "first_air_date": "2026-06-18",
+    "vote_average": 9.1,
+    "poster_path": "/9dBe3lN3LfWyBAWGXflVEVCWrpt.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      80
+    ],
+    "cached_at": "2026-06-19T06:24:26.719431"
+  },
+  "79932": {
+    "id": 79932,
+    "name": "13 novembre: Attacco a Parigi",
+    "original_name": "13 novembre : Fluctuat nec mergitur",
+    "first_air_date": "2018-06-01",
+    "vote_average": 7.947,
+    "poster_path": "/aY1XdVrSrO4iMPsNbSyNdQ5zSEj.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-19T06:24:26.814371"
+  },
+  "322974": {
+    "id": 322974,
+    "name": "Bring me the Beauties: dietro il mito della bellezza",
+    "original_name": "Bring Me the Beauties: A Model Cult",
+    "first_air_date": "2026-06-01",
+    "vote_average": 8.5,
+    "poster_path": "/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-19T06:24:26.818181"
+  },
+  "228878": {
+    "id": 228878,
+    "name": "Common Side Effects",
+    "original_name": "Common Side Effects",
+    "first_air_date": "2025-02-02",
+    "vote_average": 8.419,
+    "poster_path": "/a8X5XXP49DHrySTXJMUIN5HI1Wz.jpg",
+    "genre_ids": [
+      16,
+      18,
+      35,
+      10765
+    ],
+    "cached_at": "2026-06-19T06:24:26.819278"
   }
 }
