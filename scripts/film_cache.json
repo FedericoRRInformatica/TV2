@@ -161312,5 +161312,88 @@
       10749
     ],
     "cached_at": "2026-06-18T06:00:30.790306"
+  },
+  "47869": {
+    "id": 47869,
+    "title": "L'agenda nascosta",
+    "release_date": "1990-11-21",
+    "vote_average": 7.0,
+    "poster_path": "/lu9nbemAnmZakwu7AQ8iFd3KELe.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-06-19T06:25:00.592137"
+  },
+  "448677": {
+    "id": 448677,
+    "title": "Un viaggio indimenticabile",
+    "release_date": "2018-11-30",
+    "vote_average": 6.4,
+    "poster_path": "/1LX05mD8E0dJLhHkWQIW9m6xoRb.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-19T06:25:00.619261"
+  },
+  "711": {
+    "id": 711,
+    "title": "Scoprendo Forrester",
+    "release_date": "2000-12-21",
+    "vote_average": 7.1,
+    "poster_path": "/oiQRjbLSr5ZRlU4cJvouLi76j3Y.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-06-19T06:25:00.634174"
+  },
+  "375846": {
+    "id": 375846,
+    "title": "La suora del peccato",
+    "release_date": "2015-08-24",
+    "vote_average": 6.578,
+    "poster_path": "/jKrIlgfJPIWNeowaOZPBZuOPmq0.jpg",
+    "genre_ids": [
+      53,
+      10770
+    ],
+    "cached_at": "2026-06-19T06:25:00.638623"
+  },
+  "69579": {
+    "id": 69579,
+    "title": "Mio caro assassino",
+    "release_date": "1972-02-03",
+    "vote_average": 6.4,
+    "poster_path": "/At7NuncMGEPKf9txgBYAw79hg7a.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      27
+    ],
+    "cached_at": "2026-06-19T06:25:00.648307"
+  },
+  "978689": {
+    "id": 978689,
+    "title": "I Scream, You Scream",
+    "release_date": "2022-01-01",
+    "vote_average": 0.0,
+    "poster_path": "/ehx0LUcjTA0bX0gwerLdkKkGfjd.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-19T06:25:00.660985"
+  },
+  "75491": {
+    "id": 75491,
+    "title": "Le Chat du rabbin",
+    "release_date": "2011-05-31",
+    "vote_average": 7.0,
+    "poster_path": "/9Soz10yLjrZqH9EueWQ7B37RKXQ.jpg",
+    "genre_ids": [
+      35,
+      16
+    ],
+    "cached_at": "2026-06-19T06:25:00.662834"
   }
 }
