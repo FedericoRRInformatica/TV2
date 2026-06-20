@@ -161395,5 +161395,38 @@
       16
     ],
     "cached_at": "2026-06-19T06:25:00.662834"
+  },
+  "614945": {
+    "id": 614945,
+    "title": "Messaggi per Isabelle",
+    "release_date": "2026-06-20",
+    "vote_average": 6.773,
+    "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-06-20T05:21:02.224828"
+  },
+  "1636634": {
+    "id": 1636634,
+    "title": "La Sobrietà",
+    "release_date": "2026-04-27",
+    "vote_average": 0.0,
+    "poster_path": "/4YTfWWWeWEjwpkQwe1dKDNiBTAz.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-06-20T05:21:02.292827"
+  },
+  "1451344": {
+    "id": 1451344,
+    "title": "Husbands in Action",
+    "release_date": "2026-06-18",
+    "vote_average": 5.333,
+    "poster_path": "/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+    "genre_ids": [
+      35,
+      28
+    ],
+    "cached_at": "2026-06-20T05:21:02.314460"
   }
 }
