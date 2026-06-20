@@ -66999,5 +66999,153 @@
       10765
     ],
     "cached_at": "2026-06-19T06:24:26.819278"
+  },
+  "56336": {
+    "id": 56336,
+    "name": "The Tunnel",
+    "original_name": "The Tunnel",
+    "first_air_date": "2013-10-16",
+    "vote_average": 7.456,
+    "poster_path": "/6gNjFMFdx0AcujftDGHXSSBVkBM.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2026-06-20T05:20:10.517749"
+  },
+  "57276": {
+    "id": 57276,
+    "name": "TURN: Washington's Spies",
+    "original_name": "TURN: Washington's Spies",
+    "first_air_date": "2014-04-06",
+    "vote_average": 7.119,
+    "poster_path": "/AehTUycX0VSvCkOOkZzurLnjHsS.jpg",
+    "genre_ids": [
+      10768,
+      18
+    ],
+    "cached_at": "2026-06-20T05:20:10.542593"
+  },
+  "60637": {
+    "id": 60637,
+    "name": "La vedova nera",
+    "original_name": "Griselda Blanco: La viuda negra",
+    "first_air_date": "2014-02-23",
+    "vote_average": 7.385,
+    "poster_path": "/xkdGdQDXzL6uKDgSJRz3oJqOcrC.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      80
+    ],
+    "cached_at": "2026-06-20T05:20:10.549940"
+  },
+  "43901": {
+    "id": 43901,
+    "name": "Longmire",
+    "original_name": "Longmire",
+    "first_air_date": "2012-06-03",
+    "vote_average": 7.689,
+    "poster_path": "/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
+    "genre_ids": [
+      37,
+      80,
+      18
+    ],
+    "cached_at": "2026-06-20T05:20:10.555004"
+  },
+  "261145": {
+    "id": 261145,
+    "name": "The Amazing Digital Circus",
+    "original_name": "The Amazing Digital Circus",
+    "first_air_date": "2023-10-13",
+    "vote_average": 8.6,
+    "poster_path": "/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
+    "genre_ids": [
+      16,
+      35,
+      18,
+      10765
+    ],
+    "cached_at": "2026-06-20T05:20:10.563142"
+  },
+  "44857": {
+    "id": 44857,
+    "name": "The Mindy Project",
+    "original_name": "The Mindy Project",
+    "first_air_date": "2012-09-25",
+    "vote_average": 6.224,
+    "poster_path": "/A3txgCPox6hJlOZ0TDTOxch7rVa.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-20T05:20:10.573987"
+  },
+  "50558": {
+    "id": 50558,
+    "name": "Crisis",
+    "original_name": "Crisis",
+    "first_air_date": "2014-03-16",
+    "vote_average": 6.39,
+    "poster_path": "/uuusa88ehlW3uZEikOhDB3ldu5j.jpg",
+    "genre_ids": [
+      9648,
+      10759
+    ],
+    "cached_at": "2026-06-20T05:20:10.575448"
+  },
+  "292985": {
+    "id": 292985,
+    "name": "Hazardous History with Henry Winkler",
+    "original_name": "Hazardous History with Henry Winkler",
+    "first_air_date": "2025-06-15",
+    "vote_average": 8.1,
+    "poster_path": "/p4Yxi41CIiwZz24p6qlVBOpeGku.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-20T05:20:10.579377"
+  },
+  "44987": {
+    "id": 44987,
+    "name": "Go On",
+    "original_name": "Go On",
+    "first_air_date": "2012-08-08",
+    "vote_average": 6.464,
+    "poster_path": "/v23Z8R3phUWCTeaHiNme9yepOAG.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-20T05:20:10.584018"
+  },
+  "43097": {
+    "id": 43097,
+    "name": "Saving Hope",
+    "original_name": "Saving Hope",
+    "first_air_date": "2012-06-07",
+    "vote_average": 6.992,
+    "poster_path": "/1OGQisCT1T5ChkzZVdFqhX4O1G.jpg",
+    "genre_ids": [
+      10765,
+      18
+    ],
+    "cached_at": "2026-06-20T05:20:10.586776"
+  },
+  "46958": {
+    "id": 46958,
+    "name": "Ravenswood",
+    "original_name": "Ravenswood",
+    "first_air_date": "2013-10-22",
+    "vote_average": 7.086,
+    "poster_path": "/iyHfTSDTSkj4sIGcFCaj2LcqAim.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10765
+    ],
+    "cached_at": "2026-06-20T05:20:10.586789"
   }
 }
