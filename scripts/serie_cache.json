@@ -67147,5 +67147,32 @@
       10765
     ],
     "cached_at": "2026-06-20T05:20:10.586789"
+  },
+  "158088": {
+    "id": 158088,
+    "name": "800 metri",
+    "original_name": "800 metros",
+    "first_air_date": "2022-03-25",
+    "vote_average": 6.5,
+    "poster_path": "/dDph9LU1v6fvOkce9FvpKn6SLBP.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-21T06:07:57.535554"
+  },
+  "254002": {
+    "id": 254002,
+    "name": "Critical Role",
+    "original_name": "Critical Role",
+    "first_air_date": "2015-03-12",
+    "vote_average": 7.95,
+    "poster_path": "/keSNwdzmSgQzluKmqTI6kwDOFa7.jpg",
+    "genre_ids": [
+      10765,
+      10759,
+      35,
+      18
+    ],
+    "cached_at": "2026-06-21T06:07:57.591878"
   }
 }
