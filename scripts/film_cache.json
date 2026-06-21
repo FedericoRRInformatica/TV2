@@ -161428,5 +161428,54 @@
       28
     ],
     "cached_at": "2026-06-20T05:21:02.314460"
+  },
+  "1016848": {
+    "id": 1016848,
+    "title": "The Front Room",
+    "release_date": "2024-09-05",
+    "vote_average": 5.027,
+    "poster_path": "/w7korwejULOo8OETId219A2TJIB.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-06-21T06:08:52.548321"
+  },
+  "11306": {
+    "id": 11306,
+    "title": "Extreme Measures - Soluzioni estreme",
+    "release_date": "1996-09-27",
+    "vote_average": 6.0,
+    "poster_path": "/kD0C8HWXUf5yxj0ccXihFM0ebPK.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-06-21T06:08:52.567780"
+  },
+  "10023": {
+    "id": 10023,
+    "title": "La retata",
+    "release_date": "1987-06-26",
+    "vote_average": 6.0,
+    "poster_path": "/tL6bJuxZ5bU7D1sIrcSIF8n6dXs.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "cached_at": "2026-06-21T06:08:52.599957"
+  },
+  "10234": {
+    "id": 10234,
+    "title": "Funny Games",
+    "release_date": "1997-09-11",
+    "vote_average": 7.308,
+    "poster_path": "/n6NJWxSSTqBb69T3iTKVkvBMoBA.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "cached_at": "2026-06-21T06:08:52.607422"
   }
 }
