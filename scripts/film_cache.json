@@ -161477,5 +161477,69 @@
       53
     ],
     "cached_at": "2026-06-21T06:08:52.607422"
+  },
+  "172391": {
+    "id": 172391,
+    "title": "Khumba - Cercasi strisce disperatamente",
+    "release_date": "2013-07-18",
+    "vote_average": 6.0,
+    "poster_path": "/eXbdzvbh9zZoAh2uuBGQT3rxGE1.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751
+    ],
+    "cached_at": "2026-06-22T06:33:49.818793"
+  },
+  "1364714": {
+    "id": 1364714,
+    "title": "All'improvviso un Uomo",
+    "release_date": "2014-01-18",
+    "vote_average": 5.0,
+    "poster_path": "/zMQ0rFLsCFGN5nkaAVyTcHUODsn.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-22T06:33:49.838206"
+  },
+  "788734": {
+    "id": 788734,
+    "title": "Sick of Myself",
+    "release_date": "2022-09-30",
+    "vote_average": 7.167,
+    "poster_path": "/pzTCb9VItCG6QvBx6itcrpCjJXJ.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "cached_at": "2026-06-22T06:33:49.838947"
+  },
+  "549787": {
+    "id": 549787,
+    "title": "Tokyo Ghoul 'S'",
+    "release_date": "2019-07-19",
+    "vote_average": 6.5,
+    "poster_path": "/ewkgA5zevao7MKZizjA2ePE5TtW.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878,
+      14
+    ],
+    "cached_at": "2026-06-22T06:33:49.842009"
+  },
+  "1242265": {
+    "id": 1242265,
+    "title": "Fuze - Conto alla rovescia",
+    "release_date": "2026-03-23",
+    "vote_average": 6.454,
+    "poster_path": "/vsC9LCZepomb3Vp0dMushN14rzK.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-06-22T06:33:49.858630"
   }
 }
