@@ -67187,5 +67187,17 @@
       16
     ],
     "cached_at": "2026-06-22T06:33:08.932422"
+  },
+  "316527": {
+    "id": 316527,
+    "name": "The Dark Wizard",
+    "original_name": "The Dark Wizard",
+    "first_air_date": "2026-04-14",
+    "vote_average": 8.7,
+    "poster_path": "/phkGAfV7NTYCIv4jIFYTbCMb9xC.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-23T05:06:52.523736"
   }
 }
