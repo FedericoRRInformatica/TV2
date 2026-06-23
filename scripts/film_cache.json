@@ -161541,5 +161541,472 @@
       53
     ],
     "cached_at": "2026-06-22T06:33:49.858630"
+  },
+  "5638": {
+    "id": 5638,
+    "title": "Alice's Restaurant",
+    "release_date": "1969-08-20",
+    "vote_average": 6.253,
+    "poster_path": "/m3xifcmDpyuYfrm1tHuACBaLjlZ.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-06-23T05:07:44.044206"
+  },
+  "2576": {
+    "id": 2576,
+    "title": "Il diario di Anna Frank",
+    "release_date": "1959-03-18",
+    "vote_average": 7.2,
+    "poster_path": "/o1fUGcSNwX3AuuX6OJqtIck6e9K.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-06-23T05:07:44.057796"
+  },
+  "979": {
+    "id": 979,
+    "title": "Irréversible",
+    "release_date": "2002-05-22",
+    "vote_average": 7.179,
+    "poster_path": "/97NsFlbvlMS2RGibXWhA9p41a9S.jpg",
+    "genre_ids": [
+      18,
+      53,
+      80
+    ],
+    "cached_at": "2026-06-23T05:07:44.074491"
+  },
+  "7975": {
+    "id": 7975,
+    "title": "Ho affittato un killer",
+    "release_date": "1990-10-12",
+    "vote_average": 6.832,
+    "poster_path": "/6rlW3EQdjTMqXSBVCx4FlxO1TcB.jpg",
+    "genre_ids": [
+      35,
+      80,
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-23T05:07:44.104113"
+  },
+  "1951": {
+    "id": 1951,
+    "title": "Manderlay",
+    "release_date": "2005-06-03",
+    "vote_average": 6.9,
+    "poster_path": "/eMGvlRS5Zn4b022sWvOGXhGnJfl.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.111018"
+  },
+  "2304": {
+    "id": 2304,
+    "title": "L'uomo ferito",
+    "release_date": "1983-05-25",
+    "vote_average": 5.8,
+    "poster_path": "/pFKW9fWP4EOfaZOmQAhKnvGb5eo.jpg",
+    "genre_ids": [
+      10749,
+      80,
+      53
+    ],
+    "cached_at": "2026-06-23T05:07:44.126212"
+  },
+  "1667": {
+    "id": 1667,
+    "title": "La marcia dei pinguini",
+    "release_date": "2005-01-26",
+    "vote_average": 7.1,
+    "poster_path": "/7B8GW2eYYN9WHm2KbFnZ1y6LIRS.jpg",
+    "genre_ids": [
+      99,
+      10751
+    ],
+    "cached_at": "2026-06-23T05:07:44.129618"
+  },
+  "5991": {
+    "id": 5991,
+    "title": "L'ultima risata",
+    "release_date": "1924-12-23",
+    "vote_average": 7.762,
+    "poster_path": "/v9T05eU3tlft7vN8PAEBE5o7fAR.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.148657"
+  },
+  "2594": {
+    "id": 2594,
+    "title": "Monsieur Batignole",
+    "release_date": "2002-03-06",
+    "vote_average": 6.984,
+    "poster_path": "/8K9x7kTqJigbb2Zw5wFaehkyuY0.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.154949"
+  },
+  "6935": {
+    "id": 6935,
+    "title": "Yamakasi - I nuovi samurai",
+    "release_date": "2001-04-04",
+    "vote_average": 6.047,
+    "poster_path": "/qQiag3zDwOmrMgJ2KixEK9OyqZL.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.173114"
+  },
+  "1779": {
+    "id": 1779,
+    "title": "Roger & Me - Roger e io",
+    "release_date": "1989-09-01",
+    "vote_average": 7.092,
+    "poster_path": "/ePVEnKOMtrIfHZ6wQBfWihTvwqD.jpg",
+    "genre_ids": [
+      99,
+      36,
+      35
+    ],
+    "cached_at": "2026-06-23T05:07:44.173126"
+  },
+  "4254": {
+    "id": 4254,
+    "title": "Kal Ho Naa Ho",
+    "release_date": "2003-11-27",
+    "vote_average": 7.46,
+    "poster_path": "/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-23T05:07:44.183272"
+  },
+  "2011": {
+    "id": 2011,
+    "title": "Persepolis",
+    "release_date": "2007-06-27",
+    "vote_average": 7.881,
+    "poster_path": "/dUvdyb2rkChGjDJELiuMXpChsqg.jpg",
+    "genre_ids": [
+      16,
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.185891"
+  },
+  "822": {
+    "id": 822,
+    "title": "La sala di musica",
+    "release_date": "1958-10-10",
+    "vote_average": 7.531,
+    "poster_path": "/frSoxfPcHimjnk0SGj2ycO1vSak.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-06-23T05:07:44.196693"
+  },
+  "8997": {
+    "id": 8997,
+    "title": "L'uomo senza ombra 2",
+    "release_date": "2006-05-23",
+    "vote_average": 4.931,
+    "poster_path": "/fmGQVSnZxR4Y6m1PiT37BkGNhLw.jpg",
+    "genre_ids": [
+      27,
+      53,
+      878
+    ],
+    "cached_at": "2026-06-23T05:07:44.212258"
+  },
+  "8338": {
+    "id": 8338,
+    "title": "Blindness - Cecità",
+    "release_date": "2008-05-14",
+    "vote_average": 6.524,
+    "poster_path": "/fQUAxmeORfQ7w7cO4Bvv64bzHKQ.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      878,
+      53
+    ],
+    "cached_at": "2026-06-23T05:07:44.223513"
+  },
+  "1407": {
+    "id": 1407,
+    "title": "La Vie en Rose",
+    "release_date": "2007-02-14",
+    "vote_average": 7.37,
+    "poster_path": "/vyyUibDLpDHcrSH4f13NBTBvpgx.jpg",
+    "genre_ids": [
+      10402,
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.232107"
+  },
+  "8072": {
+    "id": 8072,
+    "title": "Agente Lemmy Caution, missione Alphaville",
+    "release_date": "1965-05-05",
+    "vote_average": 6.9,
+    "poster_path": "/fpD1SfyF2qoPB4Dh2JrBMFiVCMs.jpg",
+    "genre_ids": [
+      18,
+      878,
+      9648
+    ],
+    "cached_at": "2026-06-23T05:07:44.253430"
+  },
+  "8074": {
+    "id": 8074,
+    "title": "Due o tre cose che so di lei",
+    "release_date": "1967-03-17",
+    "vote_average": 6.2,
+    "poster_path": "/oOdfLTbvPYnPKZnjgrBixhQNeZJ.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.253443"
+  },
+  "2015": {
+    "id": 2015,
+    "title": "Secret Sunshine",
+    "release_date": "2007-05-23",
+    "vote_average": 7.2,
+    "poster_path": "/qdIKYTahcRgE87uEOE7XtSfIkRh.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.259739"
+  },
+  "5753": {
+    "id": 5753,
+    "title": "Deadly Prey",
+    "release_date": "1987-11-02",
+    "vote_average": 4.918,
+    "poster_path": "/aG4hUQ0vw56B1zx0YJJKhaMR1DT.jpg",
+    "genre_ids": [
+      28
+    ],
+    "cached_at": "2026-06-23T05:07:44.309595"
+  },
+  "394684": {
+    "id": 394684,
+    "title": "Che Dio ci perdoni",
+    "release_date": "2016-10-28",
+    "vote_average": 6.751,
+    "poster_path": "/2lWavdmzThykDGctr16Qlvy4Fgd.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.315569"
+  },
+  "5241": {
+    "id": 5241,
+    "title": "Congiunzione di due lune",
+    "release_date": "1988-04-29",
+    "vote_average": 6.035,
+    "poster_path": "/5NXP4m7hDuHnRrA72UBMbGicoh.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-23T05:07:44.333919"
+  },
+  "2428": {
+    "id": 2428,
+    "title": "La più grande storia mai raccontata",
+    "release_date": "1965-04-09",
+    "vote_average": 6.416,
+    "poster_path": "/fz9SnpXjou87dNJnThTAz63uZO3.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-06-23T05:07:44.356607"
+  },
+  "1294": {
+    "id": 1294,
+    "title": "Quattro minuti",
+    "release_date": "2006-06-23",
+    "vote_average": 6.832,
+    "poster_path": "/fOYnMQkdsDsr7JDv6TtwdPz8TPv.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-06-23T05:07:44.401925"
+  },
+  "965150": {
+    "id": 965150,
+    "title": "Aftersun",
+    "release_date": "2022-10-21",
+    "vote_average": 7.673,
+    "poster_path": "/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.403259"
+  },
+  "870": {
+    "id": 870,
+    "title": "Dolls",
+    "release_date": "2002-10-12",
+    "vote_average": 7.5,
+    "poster_path": "/gEI8JJPayOrdfy0AjdWQ92A90cc.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-23T05:07:44.427433"
+  },
+  "669": {
+    "id": 669,
+    "title": "Nanuk l'eschimese",
+    "release_date": "1922-06-11",
+    "vote_average": 7.089,
+    "poster_path": "/bxGHiszLcmfhZyvZOXs7pYxIGII.jpg",
+    "genre_ids": [
+      99,
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.449233"
+  },
+  "124726": {
+    "id": 124726,
+    "title": "Donne con le gonne",
+    "release_date": "1991-12-20",
+    "vote_average": 6.333,
+    "poster_path": "/7KRICd0MBRcnD0ik6e4Mml8TP7f.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-23T05:07:44.460146"
+  },
+  "7514": {
+    "id": 7514,
+    "title": "The Harder They Come",
+    "release_date": "1972-08-01",
+    "vote_average": 6.577,
+    "poster_path": "/nXcWgfds0E8T2pQLvgWLCiUmlV6.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10402
+    ],
+    "cached_at": "2026-06-23T05:07:44.483236"
+  },
+  "2463": {
+    "id": 2463,
+    "title": "Running out of time",
+    "release_date": "1999-09-23",
+    "vote_average": 7.3,
+    "poster_path": "/9ccrrOMnpeQm9SI0PL2E1d4stn6.jpg",
+    "genre_ids": [
+      18,
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2026-06-23T05:07:44.500297"
+  },
+  "7452": {
+    "id": 7452,
+    "title": "Il cuoco, il ladro, sua moglie e l'amante",
+    "release_date": "1989-10-13",
+    "vote_average": 7.3,
+    "poster_path": "/lPOEbF4M17hdLgBpBdEiXmNVZzU.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.523203"
+  },
+  "1023": {
+    "id": 1023,
+    "title": "Le mele di Adamo",
+    "release_date": "2005-04-15",
+    "vote_average": 7.475,
+    "poster_path": "/JBsD3z3ztidP2j3R018uRVUymK.jpg",
+    "genre_ids": [
+      18,
+      35,
+      80
+    ],
+    "cached_at": "2026-06-23T05:07:44.523731"
+  },
+  "570": {
+    "id": 570,
+    "title": "A mia sorella!",
+    "release_date": "2001-03-07",
+    "vote_average": 6.2,
+    "poster_path": "/43gChUclzNuPDuyCNIjBlDjWcNC.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.542578"
+  },
+  "1280": {
+    "id": 1280,
+    "title": "Ferro 3 - La casa vuota",
+    "release_date": "2004-10-15",
+    "vote_average": 7.823,
+    "poster_path": "/6lJR5bOtJzNrzVaHoJjM7sQBu9T.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      80
+    ],
+    "cached_at": "2026-06-23T05:07:44.544082"
+  },
+  "2009": {
+    "id": 2009,
+    "title": "4 mesi, 3 settimane, 2 giorni",
+    "release_date": "2007-08-24",
+    "vote_average": 7.544,
+    "poster_path": "/fJ2s9nAHOnYcLXxWPIpZQpH09bh.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-23T05:07:44.545002"
+  },
+  "5237": {
+    "id": 5237,
+    "title": "Demoniaca",
+    "release_date": "1992-07-11",
+    "vote_average": 6.253,
+    "poster_path": "/6yZpJyhCCJc2TrOWRM9zeMY2DLg.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-06-23T05:07:44.549237"
+  },
+  "5901": {
+    "id": 5901,
+    "title": "Il segreto",
+    "release_date": "1974-10-09",
+    "vote_average": 6.5,
+    "poster_path": "/iAf6WaW1nf9h0c3hj1LKMfb9iDz.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648
+    ],
+    "cached_at": "2026-06-23T05:07:44.552685"
   }
 }
