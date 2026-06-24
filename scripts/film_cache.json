@@ -162008,5 +162008,620 @@
       9648
     ],
     "cached_at": "2026-06-23T05:07:44.552685"
+  },
+  "9404": {
+    "id": 9404,
+    "title": "First Strike",
+    "release_date": "1996-02-10",
+    "vote_average": 6.5,
+    "poster_path": "/kcnj4MCBzLBPp3FbbQ5pMEEl6hy.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-06-24T05:05:35.887915"
+  },
+  "901121": {
+    "id": 901121,
+    "title": "Cobweb",
+    "release_date": "2023-09-27",
+    "vote_average": 6.6,
+    "poster_path": "/odCpPSXbio9EuNzS4H4tU7jqlvB.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-24T05:05:35.890341"
+  },
+  "11787": {
+    "id": 11787,
+    "title": "Harvey",
+    "release_date": "1950-12-04",
+    "vote_average": 7.679,
+    "poster_path": "/aEsym9xGxsnWXqBIuzqGJpQEZOb.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "cached_at": "2026-06-24T05:05:35.937938"
+  },
+  "11145": {
+    "id": 11145,
+    "title": "Il cavaliere elettrico",
+    "release_date": "1979-12-21",
+    "vote_average": 6.1,
+    "poster_path": "/7BMDfLI8pDqrlQbSJV35Zc6wi6Y.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35,
+      37
+    ],
+    "cached_at": "2026-06-24T05:05:35.965498"
+  },
+  "10319": {
+    "id": 10319,
+    "title": "Woyzeck",
+    "release_date": "1979-05-25",
+    "vote_average": 6.6,
+    "poster_path": "/dgTsSQmXJTa3mS7EilhGOBl7mJs.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-24T05:05:35.999410"
+  },
+  "11710": {
+    "id": 11710,
+    "title": "L'enigma di Kaspar Hauser",
+    "release_date": "1974-11-01",
+    "vote_average": 7.34,
+    "poster_path": "/ait7ArIqldVII6DHSR1c3LJOzdU.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-06-24T05:05:36.050011"
+  },
+  "8429": {
+    "id": 8429,
+    "title": "Paisà",
+    "release_date": "1946-12-10",
+    "vote_average": 7.5,
+    "poster_path": "/4e931gfu6mqjA7iv0arOOxXToH9.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "cached_at": "2026-06-24T05:05:36.050029"
+  },
+  "10299": {
+    "id": 10299,
+    "title": "Piano... piano dolce Carlotta",
+    "release_date": "1964-12-16",
+    "vote_average": 7.3,
+    "poster_path": "/juBQyqbtFDhS8Yld6R2LtzvbeF7.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-06-24T05:05:36.050038"
+  },
+  "25050": {
+    "id": 25050,
+    "title": "Still Walking - Camminando in un giorno d'estate",
+    "release_date": "2008-06-28",
+    "vote_average": 7.785,
+    "poster_path": "/8ubHo1bokxUKHZxOAUTYzK65CbR.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "cached_at": "2026-06-24T05:05:36.050049"
+  },
+  "10728": {
+    "id": 10728,
+    "title": "Faust",
+    "release_date": "1926-10-13",
+    "vote_average": 7.908,
+    "poster_path": "/wyqcaa9Cbj1G0mCD8uesGpJWFfP.jpg",
+    "genre_ids": [
+      14,
+      18,
+      27
+    ],
+    "cached_at": "2026-06-24T05:05:36.081101"
+  },
+  "77074": {
+    "id": 77074,
+    "title": "Scherzi di cuore",
+    "release_date": "1983-10-07",
+    "vote_average": 5.115,
+    "poster_path": "/ajQqLS8RHPUGWkDgZ8YauDn5lVX.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-06-24T05:05:36.081116"
+  },
+  "9581": {
+    "id": 9581,
+    "title": "全職殺手",
+    "release_date": "2001-08-03",
+    "vote_average": 6.802,
+    "poster_path": "/A8GdzMKBaXKTIMzQDZGbX9zF0ti.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-06-24T05:05:36.081124"
+  },
+  "13005": {
+    "id": 13005,
+    "title": "Where the Buffalo Roam",
+    "release_date": "1980-04-25",
+    "vote_average": 5.946,
+    "poster_path": "/8XgXvVmb5SdxWu4Enxh9ntbyate.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-24T05:05:36.098935"
+  },
+  "8744": {
+    "id": 8744,
+    "title": "Insoliti criminali",
+    "release_date": "1997-01-17",
+    "vote_average": 5.711,
+    "poster_path": "/9dreFnVa8h6DgZTQgqR9fddWgXK.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-06-24T05:05:36.098948"
+  },
+  "11387": {
+    "id": 11387,
+    "title": "Lord Jim",
+    "release_date": "1965-02-15",
+    "vote_average": 6.843,
+    "poster_path": "/o2Vvj9iXXEoCwLHIH2cnxrsgX78.jpg",
+    "genre_ids": [
+      12,
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-24T05:05:36.111877"
+  },
+  "12516": {
+    "id": 12516,
+    "title": "Sogni",
+    "release_date": "1990-05-11",
+    "vote_average": 7.746,
+    "poster_path": "/wr5wQcOMBtyp3sRCo025h2Hbnlf.jpg",
+    "genre_ids": [
+      14,
+      18
+    ],
+    "cached_at": "2026-06-24T05:05:36.115893"
+  },
+  "12496": {
+    "id": 12496,
+    "title": "Il crepuscolo del samurai",
+    "release_date": "2002-11-02",
+    "vote_average": 7.791,
+    "poster_path": "/hdM5abIbokQGPr1qtr7Feywppyc.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-24T05:05:36.122883"
+  },
+  "11326": {
+    "id": 11326,
+    "title": "Tommy",
+    "release_date": "1975-03-19",
+    "vote_average": 6.451,
+    "poster_path": "/pAImVnqBJwoFAKrcpAe17JjLGUs.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-06-24T05:05:36.122896"
+  },
+  "11477": {
+    "id": 11477,
+    "title": "La comunidad - Intrigo all'ultimo piano",
+    "release_date": "2000-09-29",
+    "vote_average": 6.908,
+    "poster_path": "/bPejOzQ3qBNCq7CRK4BfzrkkwdR.jpg",
+    "genre_ids": [
+      35,
+      53,
+      80
+    ],
+    "cached_at": "2026-06-24T05:05:36.127929"
+  },
+  "11047": {
+    "id": 11047,
+    "title": "Asterix il gallico",
+    "release_date": "1967-12-20",
+    "vote_average": 6.471,
+    "poster_path": "/5kxzlfAeiZ5g9muxe8Xubv1TJRX.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      12,
+      35
+    ],
+    "cached_at": "2026-06-24T05:05:36.160949"
+  },
+  "11293": {
+    "id": 11293,
+    "title": "Paper Moon - Luna di carta",
+    "release_date": "1973-05-09",
+    "vote_average": 7.872,
+    "poster_path": "/v44FPEcC4D1PqUOnleey7c9fHVn.jpg",
+    "genre_ids": [
+      35,
+      80,
+      18
+    ],
+    "cached_at": "2026-06-24T05:05:36.175473"
+  },
+  "11634": {
+    "id": 11634,
+    "title": "Fucking Åmål - Il Coraggio Di Amare",
+    "release_date": "1998-10-23",
+    "vote_average": 7.089,
+    "poster_path": "/z6FZFPpIqXVdrHUK3T0M7BFYp2J.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ],
+    "cached_at": "2026-06-24T05:05:36.185892"
+  },
+  "10935": {
+    "id": 10935,
+    "title": "I cancelli del cielo",
+    "release_date": "1980-11-19",
+    "vote_average": 6.7,
+    "poster_path": "/2vy58TN9vVUjmqMiEqNw8XYLwoE.jpg",
+    "genre_ids": [
+      18,
+      37,
+      36
+    ],
+    "cached_at": "2026-06-24T05:05:36.193256"
+  },
+  "10722": {
+    "id": 10722,
+    "title": "Il giorno della bestia",
+    "release_date": "1995-10-20",
+    "vote_average": 7.246,
+    "poster_path": "/3FvmW7jejFLrxDwTfxBrtY4uRIY.jpg",
+    "genre_ids": [
+      27,
+      35,
+      28
+    ],
+    "cached_at": "2026-06-24T05:05:36.193269"
+  },
+  "11656": {
+    "id": 11656,
+    "title": "La fontana della vergine",
+    "release_date": "1960-02-08",
+    "vote_average": 7.855,
+    "poster_path": "/s3Tnti7EP7KDZL3XJt2vshJQ1gh.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-06-24T05:05:36.207351"
+  },
+  "12720": {
+    "id": 12720,
+    "title": "Suicide Club",
+    "release_date": "2001-10-29",
+    "vote_average": 6.458,
+    "poster_path": "/gTwhwhfiRxgTSzcQ8sZBAoZSZ5t.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "cached_at": "2026-06-24T05:05:36.229876"
+  },
+  "10310": {
+    "id": 10310,
+    "title": "Le lacrime amare di Petra von Kant",
+    "release_date": "1972-10-05",
+    "vote_average": 7.4,
+    "poster_path": "/96zC89fZWUH6b1w9xkwtulaYRxN.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-24T05:05:36.253234"
+  },
+  "11490": {
+    "id": 11490,
+    "title": "L'enfant - Una storia d'amore",
+    "release_date": "2005-09-14",
+    "vote_average": 7.095,
+    "poster_path": "/pZKu6g7F2ILFJvKeqFK5yZWYQLa.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-24T05:05:36.274381"
+  },
+  "97051": {
+    "id": 97051,
+    "title": "Would You Rather",
+    "release_date": "2013-02-08",
+    "vote_average": 5.984,
+    "poster_path": "/unYQSQWX66qmQwUYDBaBkOOFEGm.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "cached_at": "2026-06-24T05:05:36.318379"
+  },
+  "10165": {
+    "id": 10165,
+    "title": "Paura e desiderio",
+    "release_date": "1953-03-31",
+    "vote_average": 5.395,
+    "poster_path": "/8ur8rMXApDy3pzLKsMyAo3hCGnd.jpg",
+    "genre_ids": [
+      18,
+      10752,
+      53
+    ],
+    "cached_at": "2026-06-24T05:05:36.369706"
+  },
+  "12487": {
+    "id": 12487,
+    "title": "Gozu",
+    "release_date": "2003-07-11",
+    "vote_average": 6.769,
+    "poster_path": "/zgFYoqhi8bzwuKdhc7kDpoFsJvh.jpg",
+    "genre_ids": [
+      27,
+      35,
+      80,
+      53,
+      9648
+    ],
+    "cached_at": "2026-06-24T05:05:36.381132"
+  },
+  "12239": {
+    "id": 12239,
+    "title": "Osterman Weekend",
+    "release_date": "1983-10-14",
+    "vote_average": 5.629,
+    "poster_path": "/giBLB53Jfr97nPQUYhSOpxSPaft.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "cached_at": "2026-06-24T05:05:36.381147"
+  },
+  "11190": {
+    "id": 11190,
+    "title": "Il ritorno",
+    "release_date": "2003-06-25",
+    "vote_average": 7.3,
+    "poster_path": "/6qCXtQBbSl6e9qF7yv2BCbptbTr.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2026-06-24T05:05:36.406156"
+  },
+  "8885": {
+    "id": 8885,
+    "title": "Valzer con Bashir",
+    "release_date": "2008-06-12",
+    "vote_average": 7.676,
+    "poster_path": "/d6knZ8YiFtWSLgbAFLKkijzeJAk.jpg",
+    "genre_ids": [
+      16,
+      99,
+      18,
+      10752
+    ],
+    "cached_at": "2026-06-24T05:05:36.406169"
+  },
+  "1459707": {
+    "id": 1459707,
+    "title": "Vi possiamo salvare",
+    "release_date": "2024-09-24",
+    "vote_average": 0.0,
+    "poster_path": "/yAsOjFM0rtbO24kdLld6BIZNIFN.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-06-24T05:05:36.418119"
+  },
+  "11673": {
+    "id": 11673,
+    "title": "Cyrano de Bergerac",
+    "release_date": "1990-03-28",
+    "vote_average": 7.319,
+    "poster_path": "/mpuhRBQg3wCPMl1Hgub7Y7YQ4is.jpg",
+    "genre_ids": [
+      18,
+      35,
+      36,
+      10749
+    ],
+    "cached_at": "2026-06-24T05:05:36.422581"
+  },
+  "11506": {
+    "id": 11506,
+    "title": "Il silenzio",
+    "release_date": "1963-09-23",
+    "vote_average": 7.495,
+    "poster_path": "/mtDyPb1NBwzGg7rUiIawT165RxR.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-24T05:05:36.445721"
+  },
+  "12289": {
+    "id": 12289,
+    "title": "La battaglia dei tre regni - Parte 1",
+    "release_date": "2008-07-10",
+    "vote_average": 7.112,
+    "poster_path": "/AQ2xqU3h2V9db0I4uq3phaWSVb.jpg",
+    "genre_ids": [
+      12,
+      18,
+      36,
+      28,
+      10752
+    ],
+    "cached_at": "2026-06-24T05:05:36.445744"
+  },
+  "11044": {
+    "id": 11044,
+    "title": "Il valzer del pesce freccia",
+    "release_date": "1993-01-06",
+    "vote_average": 7.157,
+    "poster_path": "/khAtpzDFZ34fu06bGJazeUcysdG.jpg",
+    "genre_ids": [
+      14,
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-24T05:05:36.452877"
+  },
+  "12206": {
+    "id": 12206,
+    "title": "Il testamento del dottor Mabuse",
+    "release_date": "1933-04-21",
+    "vote_average": 7.589,
+    "poster_path": "/xpHCJthcyhImF3A1vITDJRkSYPl.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "cached_at": "2026-06-24T05:05:36.458162"
+  },
+  "38328": {
+    "id": 38328,
+    "title": "Che ne sarà di noi",
+    "release_date": "2004-03-05",
+    "vote_average": 5.754,
+    "poster_path": "/zneNjDx7zyOhpM0RYR9foUSg6OO.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      35
+    ],
+    "cached_at": "2026-06-24T05:05:36.465855"
+  },
+  "9050": {
+    "id": 9050,
+    "title": "Storia di fantasmi cinesi 2",
+    "release_date": "1990-07-13",
+    "vote_average": 6.8,
+    "poster_path": "/hVVnTu9a8iaB8QJtUqyXXkrYuQK.jpg",
+    "genre_ids": [
+      14,
+      28,
+      35
+    ],
+    "cached_at": "2026-06-24T05:05:36.467442"
+  },
+  "11227": {
+    "id": 11227,
+    "title": "Angel-A",
+    "release_date": "2005-12-21",
+    "vote_average": 6.971,
+    "poster_path": "/ycc8PhFxQVq3feEmowOvOlIwsne.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18,
+      14
+    ],
+    "cached_at": "2026-06-24T05:05:36.471011"
+  },
+  "9051": {
+    "id": 9051,
+    "title": "10",
+    "release_date": "1979-10-05",
+    "vote_average": 5.755,
+    "poster_path": "/9nPEpz2JHoqkjX5JNfOfPKHlKyS.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-06-24T05:05:36.475947"
+  },
+  "8766": {
+    "id": 8766,
+    "title": "Hellraiser IV - La stirpe maledetta",
+    "release_date": "1996-03-08",
+    "vote_average": 5.3,
+    "poster_path": "/8xgzsWC2KjNrqhlIxAhNlvHpnPR.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2026-06-24T05:05:36.487830"
+  },
+  "9261": {
+    "id": 9261,
+    "title": "Il banchetto di nozze",
+    "release_date": "1993-03-01",
+    "vote_average": 7.234,
+    "poster_path": "/mltNFNJzBOGdi1sTfoID4csQhnS.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-24T05:05:36.488709"
+  },
+  "10832": {
+    "id": 10832,
+    "title": "Them",
+    "release_date": "2006-07-19",
+    "vote_average": 6.155,
+    "poster_path": "/vP8kCEJaAsRncnHVfSVlUQOrXZi.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-06-24T05:05:36.535563"
+  },
+  "11344": {
+    "id": 11344,
+    "title": "Bittersweet life",
+    "release_date": "2005-04-01",
+    "vote_average": 7.441,
+    "poster_path": "/bo5882JREd8LjbziR8F0h7HuOLs.jpg",
+    "genre_ids": [
+      28,
+      18,
+      80
+    ],
+    "cached_at": "2026-06-24T05:05:36.571339"
   }
 }
