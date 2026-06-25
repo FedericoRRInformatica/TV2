@@ -67223,5 +67223,54 @@
       99
     ],
     "cached_at": "2026-06-24T05:05:02.532723"
+  },
+  "275548": {
+    "id": 275548,
+    "name": "Stucky",
+    "original_name": "Stucky",
+    "first_air_date": "2024-10-30",
+    "vote_average": 8.357,
+    "poster_path": "/wN3zGoecyOwe3B1h02B6e1VWMwK.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-06-25T05:09:02.665208"
+  },
+  "1044": {
+    "id": 1044,
+    "name": "Pianeta Terra",
+    "original_name": "Planet Earth",
+    "first_air_date": "2006-03-05",
+    "vote_average": 8.628,
+    "poster_path": "/bNcNxUtZ520d5de5s78onoiSiwQ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-25T05:09:02.704640"
+  },
+  "263171": {
+    "id": 263171,
+    "name": "Kostas",
+    "original_name": "Kostas",
+    "first_air_date": "2024-09-12",
+    "vote_average": 5.417,
+    "poster_path": "/mjurmUfUyC5RF5g0N5UIbDZCXLM.jpg",
+    "genre_ids": [
+      80
+    ],
+    "cached_at": "2026-06-25T05:09:02.715503"
+  },
+  "275557": {
+    "id": 275557,
+    "name": "Wild Cherry",
+    "original_name": "Wild Cherry",
+    "first_air_date": "2025-11-15",
+    "vote_average": 4.8,
+    "poster_path": "/3gKwD9HdaS2Z92ahBhW5SPCUwS1.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-25T05:09:02.734469"
   }
 }
