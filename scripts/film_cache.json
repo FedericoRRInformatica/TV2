@@ -162623,5 +162623,54 @@
       80
     ],
     "cached_at": "2026-06-24T05:05:36.571339"
+  },
+  "30901": {
+    "id": 30901,
+    "title": "Tutti i colori del buio",
+    "release_date": "1972-02-28",
+    "vote_average": 6.628,
+    "poster_path": "/q7AU0qDlsu1H4jUIIX67lhJgur2.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-06-25T05:09:52.426374"
+  },
+  "45875": {
+    "id": 45875,
+    "title": "Trilogia Del Terrore 2",
+    "release_date": "1996-10-30",
+    "vote_average": 5.093,
+    "poster_path": "/5QFPqKCyYMIKvujRIJzFJ5LlwNs.jpg",
+    "genre_ids": [
+      27,
+      53,
+      10770
+    ],
+    "cached_at": "2026-06-25T05:09:52.427987"
+  },
+  "319757": {
+    "id": 319757,
+    "title": "La paura fa 90",
+    "release_date": "1951-10-23",
+    "vote_average": 6.625,
+    "poster_path": "/7jXkkS6rrs0OYDl3PmrVoQVSNas.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-25T05:09:52.431462"
+  },
+  "1501018": {
+    "id": 1501018,
+    "title": "Una famiglia di bastardi",
+    "release_date": "2026-06-12",
+    "vote_average": 5.356,
+    "poster_path": "/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2026-06-25T05:09:52.432515"
   }
 }
