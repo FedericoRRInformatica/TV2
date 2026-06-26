@@ -162672,5 +162672,153 @@
       80
     ],
     "cached_at": "2026-06-25T05:09:52.432515"
+  },
+  "60420": {
+    "id": 60420,
+    "title": "Like Crazy",
+    "release_date": "2011-10-28",
+    "vote_average": 6.355,
+    "poster_path": "/8eIhNKnRfayRwWChx0atZh4vGua.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-26T05:14:06.422953"
+  },
+  "82505": {
+    "id": 82505,
+    "title": "Hates - House at the End of the Street",
+    "release_date": "2012-09-21",
+    "vote_average": 5.797,
+    "poster_path": "/hqdxqqZzDDtRO0txhip6TmsZGKP.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-06-26T05:14:06.429888"
+  },
+  "38554": {
+    "id": 38554,
+    "title": "Strani miracoli",
+    "release_date": "1996-11-01",
+    "vote_average": 5.392,
+    "poster_path": "/mHc6hY6Rv7S7kS50vW2vVdHWG79.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-26T05:14:06.438073"
+  },
+  "11498": {
+    "id": 11498,
+    "title": "L'altro delitto",
+    "release_date": "1991-08-23",
+    "vote_average": 6.424,
+    "poster_path": "/zTmocszYx9syaDwejGP4dpo2GDi.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      10749
+    ],
+    "cached_at": "2026-06-26T05:14:06.466972"
+  },
+  "10551": {
+    "id": 10551,
+    "title": "Sono affari di famiglia",
+    "release_date": "1989-12-06",
+    "vote_average": 5.685,
+    "poster_path": "/8wmf0dusG2dFESaLcw3TZ24fdnr.jpg",
+    "genre_ids": [
+      80,
+      18,
+      35
+    ],
+    "cached_at": "2026-06-26T05:14:06.474782"
+  },
+  "77226": {
+    "id": 77226,
+    "title": "Camerieri",
+    "release_date": "1995-02-09",
+    "vote_average": 5.688,
+    "poster_path": "/ihe1T33JgVUwswlJqe1XUrikZ7S.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-26T05:14:06.489310"
+  },
+  "35265": {
+    "id": 35265,
+    "title": "L'imbalsamatore",
+    "release_date": "2002-09-06",
+    "vote_average": 7.196,
+    "poster_path": "/uVVkOSySrki8IinQVmeGHs4AJhB.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-06-26T05:14:06.490701"
+  },
+  "888491": {
+    "id": 888491,
+    "title": "Juice WRLD: Into the Abyss",
+    "release_date": "2021-11-12",
+    "vote_average": 7.8,
+    "poster_path": "/fmNsktc0Xbx69hgI71C0KrQpw53.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "cached_at": "2026-06-26T05:14:06.504111"
+  },
+  "12312": {
+    "id": 12312,
+    "title": "Joe Somebody",
+    "release_date": "2001-12-21",
+    "vote_average": 5.675,
+    "poster_path": "/9AJvAour6cslSMy9Q0WLd0jIJh1.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      10751,
+      18
+    ],
+    "cached_at": "2026-06-26T05:14:06.513798"
+  },
+  "12706": {
+    "id": 12706,
+    "title": "Il colpo - Analisi di una rapina",
+    "release_date": "1998-06-25",
+    "vote_average": 6.735,
+    "poster_path": "/lpbJee11H8mSnrLfxIzgsICL4Jx.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-06-26T05:14:06.518786"
+  },
+  "16172": {
+    "id": 16172,
+    "title": "Semplicemente irresistibile",
+    "release_date": "1999-02-05",
+    "vote_average": 5.465,
+    "poster_path": "/sc2a7pAKg7UrIozA0KFaBaBqqrZ.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-06-26T05:14:06.520581"
+  },
+  "22160": {
+    "id": 22160,
+    "title": "Due vite in gioco",
+    "release_date": "1984-03-02",
+    "vote_average": 5.717,
+    "poster_path": "/ryhVxd8T5RzLIXKin2ZyKqbVu41.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10749,
+      53
+    ],
+    "cached_at": "2026-06-26T05:14:07.618521"
   }
 }
