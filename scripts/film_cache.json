@@ -162820,5 +162820,169 @@
       53
     ],
     "cached_at": "2026-06-26T05:14:07.618521"
+  },
+  "1397385": {
+    "id": 1397385,
+    "title": "Little Brother",
+    "release_date": "2026-06-25",
+    "vote_average": 5.947,
+    "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-27T04:57:25.226182"
+  },
+  "467905": {
+    "id": 467905,
+    "title": "Ricchi... da morire - Delitti in famiglia",
+    "release_date": "2026-02-16",
+    "vote_average": 6.994,
+    "poster_path": "/y8cYRikwfPbsSSa0Iv0aJaAXuVm.jpg",
+    "genre_ids": [
+      35,
+      53
+    ],
+    "cached_at": "2026-06-27T04:57:25.268908"
+  },
+  "1020047": {
+    "id": 1020047,
+    "title": "La mano di Dante",
+    "release_date": "2026-06-12",
+    "vote_average": 4.938,
+    "poster_path": "/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-06-27T04:57:25.285239"
+  },
+  "775779": {
+    "id": 775779,
+    "title": "Inside North Korea: The Next Leader",
+    "release_date": "2020-11-08",
+    "vote_average": 7.0,
+    "poster_path": "/rGE2AMHAO9vN8FIKWWlYtRDykrn.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-27T04:57:25.299087"
+  },
+  "602295": {
+    "id": 602295,
+    "title": "Spiritwalker",
+    "release_date": "2021-10-17",
+    "vote_average": 6.4,
+    "poster_path": "/jsJluzrVEkQBYYkTNj3FQJ0LkAM.jpg",
+    "genre_ids": [
+      28,
+      9648,
+      53,
+      14
+    ],
+    "cached_at": "2026-06-27T04:57:25.306335"
+  },
+  "1398050": {
+    "id": 1398050,
+    "title": "Driver's Ed",
+    "release_date": "2026-05-14",
+    "vote_average": 6.9,
+    "poster_path": "/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-27T04:57:25.312987"
+  },
+  "25528": {
+    "id": 25528,
+    "title": "Guerriero americano 4 - Distruzione totale",
+    "release_date": "1990-10-30",
+    "vote_average": 5.24,
+    "poster_path": "/aj7NH6Sxia6rP61pQ1QVHeyFXYK.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-06-27T04:57:25.319546"
+  },
+  "157829": {
+    "id": 157829,
+    "title": "La scomparsa di Eleanor Rigby - Loro",
+    "release_date": "2014-05-14",
+    "vote_average": 6.163,
+    "poster_path": "/sFNyKwaZlmKax68S9sNzjsMrqDS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-27T04:57:25.363695"
+  },
+  "944195": {
+    "id": 944195,
+    "title": "Nord Corea - La dinastia Kim",
+    "release_date": "2018-05-04",
+    "vote_average": 8.0,
+    "poster_path": "/4VShQAkuwwRY4LF5A6q4zVzh0Z3.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-06-27T04:57:25.363712"
+  },
+  "249142": {
+    "id": 249142,
+    "title": "Sapore di te",
+    "release_date": "2014-01-09",
+    "vote_average": 5.8,
+    "poster_path": "/dTMrGqUDRiAryAaXfD4lyejEUuH.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-27T04:57:25.375346"
+  },
+  "863814": {
+    "id": 863814,
+    "title": "Ocean Boy",
+    "release_date": "2022-08-18",
+    "vote_average": 5.8,
+    "poster_path": "/z6Ay2MUXLo3vLhp1KB0aY6hix8A.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-27T04:57:25.386257"
+  },
+  "25682": {
+    "id": 25682,
+    "title": "Guerriero americano 3 - Agguato mortale",
+    "release_date": "1989-02-24",
+    "vote_average": 4.805,
+    "poster_path": "/p2K4vC9ncMTDotyPXASKvfv026g.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "cached_at": "2026-06-27T04:57:25.389797"
+  },
+  "519473": {
+    "id": 519473,
+    "title": "Nancy Drew e il passaggio segreto",
+    "release_date": "2019-03-15",
+    "vote_average": 6.392,
+    "poster_path": "/pctgEtYZ3rHk4NpKH3caIHQ4jjS.jpg",
+    "genre_ids": [
+      80,
+      10751,
+      9648
+    ],
+    "cached_at": "2026-06-27T04:57:25.402299"
+  },
+  "1517606": {
+    "id": 1517606,
+    "title": "Notte prima degli esami 3.0",
+    "release_date": "2026-03-19",
+    "vote_average": 6.75,
+    "poster_path": "/akMWdGoPmiBNBTCX3WpMLr8q2u3.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-27T04:57:25.424929"
   }
 }
