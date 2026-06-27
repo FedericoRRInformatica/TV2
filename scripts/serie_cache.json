@@ -67272,5 +67272,73 @@
       18
     ],
     "cached_at": "2026-06-25T05:09:02.734469"
+  },
+  "296206": {
+    "id": 296206,
+    "name": "Agent Kim Reactivated",
+    "original_name": "김부장",
+    "first_air_date": "2026-06-26",
+    "vote_average": 10.0,
+    "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      18
+    ],
+    "cached_at": "2026-06-27T04:56:50.305572"
+  },
+  "63181": {
+    "id": 63181,
+    "name": "Guardiani della Galassia",
+    "original_name": "Marvel's Guardians of the Galaxy",
+    "first_air_date": "2015-09-05",
+    "vote_average": 7.231,
+    "poster_path": "/2IgmLdgFErVv6ogefNe2qyXhdUw.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "cached_at": "2026-06-27T04:56:50.311462"
+  },
+  "75523": {
+    "id": 75523,
+    "name": "101 Dalmatian Street",
+    "original_name": "101 Dalmatian Street",
+    "first_air_date": "2019-03-18",
+    "vote_average": 7.517,
+    "poster_path": "/5meA7Ik8h9t2Bd3VR7Pw85pXECV.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      10762
+    ],
+    "cached_at": "2026-06-27T04:56:50.363220"
+  },
+  "286360": {
+    "id": 286360,
+    "name": "Il ragazzo dell'ultimo banco",
+    "original_name": "맨 끝줄 소년",
+    "first_air_date": "2026-06-26",
+    "vote_average": 9.0,
+    "poster_path": "/4HsHVDD4K3IWr6jmTL5bIkM7qPV.jpg",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "cached_at": "2026-06-27T04:56:50.373762"
+  },
+  "74074": {
+    "id": 74074,
+    "name": "Because This Is My First Life",
+    "original_name": "이번 생은 처음이라",
+    "first_air_date": "2017-10-09",
+    "vote_average": 8.2,
+    "poster_path": "/5ULjbe75ZIeWOJY3xogoDxOGzQz.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-27T04:56:50.377797"
   }
 }
