@@ -162984,5 +162984,93 @@
       35
     ],
     "cached_at": "2026-06-27T04:57:25.424929"
+  },
+  "1389709": {
+    "id": 1389709,
+    "title": "Fuori scuola",
+    "release_date": "2023-12-16",
+    "vote_average": 0.0,
+    "poster_path": "/7OQl6A9fB64d4Aq2bEmc94kZiL9.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-06-28T05:21:41.183025"
+  },
+  "482273": {
+    "id": 482273,
+    "title": "Valley Girl",
+    "release_date": "2020-05-08",
+    "vote_average": 5.6,
+    "poster_path": "/3ZdJN62RyjoQJ9S4zCbjtMQrYqE.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      10402
+    ],
+    "cached_at": "2026-06-28T05:21:41.203930"
+  },
+  "10656": {
+    "id": 10656,
+    "title": "Subway",
+    "release_date": "1985-04-10",
+    "vote_average": 6.493,
+    "poster_path": "/9nG1bIlXjxocjlmmDyTncqAJeBn.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-06-28T05:21:41.207630"
+  },
+  "70436": {
+    "id": 70436,
+    "title": "The Raven",
+    "release_date": "2012-03-09",
+    "vote_average": 6.295,
+    "poster_path": "/boE0JFhZRpWLLrKOQE6bCBZGerP.jpg",
+    "genre_ids": [
+      80,
+      53,
+      9648
+    ],
+    "cached_at": "2026-06-28T05:21:41.239226"
+  },
+  "9651": {
+    "id": 9651,
+    "title": "Supergirl - La ragazza d'acciaio",
+    "release_date": "1984-07-01",
+    "vote_average": 5.398,
+    "poster_path": "/6Lhr1nhcpLMRLuSwGPTU5lKYRoy.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28,
+      878
+    ],
+    "cached_at": "2026-06-28T05:21:41.242297"
+  },
+  "1269644": {
+    "id": 1269644,
+    "title": "L'isola dei ricordi",
+    "release_date": "2025-10-09",
+    "vote_average": 7.176,
+    "poster_path": "/b6wIO2bEe1Y9dJ3vcK7dYnxz3FT.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "cached_at": "2026-06-28T05:21:41.251565"
+  },
+  "1407861": {
+    "id": 1407861,
+    "title": "The Bayou",
+    "release_date": "2025-01-31",
+    "vote_average": 5.481,
+    "poster_path": "/v2khy7PRFCiqxRe8Vilxzc7sej8.jpg",
+    "genre_ids": [
+      53,
+      27,
+      28
+    ],
+    "cached_at": "2026-06-28T05:21:41.275318"
   }
 }
