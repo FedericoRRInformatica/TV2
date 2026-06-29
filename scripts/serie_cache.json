@@ -67352,5 +67352,44 @@
       35
     ],
     "cached_at": "2026-06-28T05:20:38.334009"
+  },
+  "289763": {
+    "id": 289763,
+    "name": "Ci vediamo domani al lavoro!",
+    "original_name": "내일도 출근!",
+    "first_air_date": "2026-06-22",
+    "vote_average": 8.4,
+    "poster_path": "/6MELksXL65sIWNMZHR8Z9nLt1DE.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-29T05:54:38.150827"
+  },
+  "295780": {
+    "id": 295780,
+    "name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
+    "original_name": "Life, Larry and the Pursuit of Unhappiness: An almost History of America",
+    "first_air_date": "2026-06-26",
+    "vote_average": 4.5,
+    "poster_path": "/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-06-29T05:54:38.164077"
+  },
+  "297712": {
+    "id": 297712,
+    "name": "오십프로",
+    "original_name": "오십프로",
+    "first_air_date": "2026-05-22",
+    "vote_average": 6.1,
+    "poster_path": "/eu8AhC5qzPgbKclpPWMF6qkCDL8.jpg",
+    "genre_ids": [
+      10759,
+      35,
+      18
+    ],
+    "cached_at": "2026-06-29T05:54:38.178044"
   }
 }
