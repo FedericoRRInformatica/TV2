@@ -163072,5 +163072,63 @@
       28
     ],
     "cached_at": "2026-06-28T05:21:41.275318"
+  },
+  "437678": {
+    "id": 437678,
+    "title": "90 BpM",
+    "release_date": "2017-02-08",
+    "vote_average": 6.5,
+    "poster_path": "/bAprdZwh6MW54gVqkdPtcPuSTfi.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-06-29T05:55:53.317285"
+  },
+  "604079": {
+    "id": 604079,
+    "title": "The Long Walk - Se ti fermi muori",
+    "release_date": "2025-09-10",
+    "vote_average": 6.9,
+    "poster_path": "/ou38U3jDXLFjwlFEOUOlH1uGPVG.jpg",
+    "genre_ids": [
+      878,
+      53,
+      27
+    ],
+    "cached_at": "2026-06-29T05:55:53.353860"
+  },
+  "1252309": {
+    "id": 1252309,
+    "title": "Chiedimi quello che vuoi",
+    "release_date": "2024-11-29",
+    "vote_average": 6.131,
+    "poster_path": "/27kRatT0llh6dyi1t74zGE2wLC7.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-06-29T05:55:53.359536"
+  },
+  "575293": {
+    "id": 575293,
+    "title": "Sotto le stelle di Parigi",
+    "release_date": "2021-04-08",
+    "vote_average": 6.7,
+    "poster_path": "/jenJTofBZU2n42iciDlDQNaYFaO.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-06-29T05:55:53.375617"
+  },
+  "1239069": {
+    "id": 1239069,
+    "title": "Solo una vita",
+    "release_date": "",
+    "vote_average": 0.0,
+    "poster_path": null,
+    "genre_ids": [],
+    "cached_at": "2026-06-29T05:55:53.381369"
   }
 }
