@@ -163130,5 +163130,18 @@
     "poster_path": null,
     "genre_ids": [],
     "cached_at": "2026-06-29T05:55:53.381369"
+  },
+  "1295400": {
+    "id": 1295400,
+    "title": "Mio fratello è un vichingo",
+    "release_date": "2025-10-09",
+    "vote_average": 7.291,
+    "poster_path": "/7U6sjWTdcpRbS6rfCyoffsN6igY.jpg",
+    "genre_ids": [
+      35,
+      80,
+      18
+    ],
+    "cached_at": "2026-06-30T05:10:04.149758"
   }
 }
