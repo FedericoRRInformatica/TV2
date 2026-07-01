@@ -67403,5 +67403,18 @@
       99
     ],
     "cached_at": "2026-06-30T05:09:19.448328"
+  },
+  "254420": {
+    "id": 254420,
+    "name": "Elle",
+    "original_name": "Elle",
+    "first_air_date": "2026-07-01",
+    "vote_average": 0.0,
+    "poster_path": "/5WkuTTsRp6u8hOqlANT2NC2cOKG.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-07-01T12:15:33.953064"
   }
 }
