@@ -163154,5 +163154,18 @@
       35
     ],
     "cached_at": "2026-07-01T05:27:28.002209"
+  },
+  "1202033": {
+    "id": 1202033,
+    "title": "Enola Holmes 3",
+    "release_date": "2026-07-01",
+    "vote_average": 10.0,
+    "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+    "genre_ids": [
+      12,
+      9648,
+      80
+    ],
+    "cached_at": "2026-07-01T12:16:34.924293"
   }
 }
