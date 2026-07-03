@@ -163167,5 +163167,126 @@
       80
     ],
     "cached_at": "2026-07-01T12:16:34.924293"
+  },
+  "965715": {
+    "id": 965715,
+    "title": "La grande guerra del Salento",
+    "release_date": "2022-05-05",
+    "vote_average": 3.8,
+    "poster_path": "/7Us2wYe81UxFncV8H1s3XfKUpQD.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-03T04:47:42.258512"
+  },
+  "1662958": {
+    "id": 1662958,
+    "title": "Louis C.K.: Ridiculous",
+    "release_date": "2026-06-30",
+    "vote_average": 7.333,
+    "poster_path": "/7HDsSxJ4Vve54cNmpk7Qtmai77n.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-03T04:47:42.274980"
+  },
+  "22094": {
+    "id": 22094,
+    "title": "L'eroe della strada",
+    "release_date": "1975-08-13",
+    "vote_average": 6.808,
+    "poster_path": "/dSldb34hJayopPAKxAI4AnJy0zG.jpg",
+    "genre_ids": [
+      18,
+      28,
+      80
+    ],
+    "cached_at": "2026-07-03T04:47:42.282647"
+  },
+  "9899": {
+    "id": 9899,
+    "title": "The Producers - Una gaia commedia neonazista",
+    "release_date": "2005-12-25",
+    "vote_average": 6.2,
+    "poster_path": "/xomTXhaGeB2nHJCKU37gCvL82hc.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-03T04:47:42.295410"
+  },
+  "5852": {
+    "id": 5852,
+    "title": "Angel Eyes - Occhi d'angelo",
+    "release_date": "2001-05-18",
+    "vote_average": 6.044,
+    "poster_path": "/zTHUvseMKZEOgZFStPDraGG2sGf.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      53
+    ],
+    "cached_at": "2026-07-03T04:47:42.323532"
+  },
+  "46009": {
+    "id": 46009,
+    "title": "La Profezia",
+    "release_date": "1999-05-07",
+    "vote_average": 3.385,
+    "poster_path": "/4ndHjMDONKjRQToowiYs1MtIKK3.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53
+    ],
+    "cached_at": "2026-07-03T04:47:42.325272"
+  },
+  "15071": {
+    "id": 15071,
+    "title": "The Contractor - Rischio supremo",
+    "release_date": "2007-05-11",
+    "vote_average": 5.5,
+    "poster_path": "/9xvLYtkCfvZPUwRA8YXcAdQF2Sg.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      53
+    ],
+    "cached_at": "2026-07-03T04:47:42.342039"
+  },
+  "179538": {
+    "id": 179538,
+    "title": "Le streghe son tornate",
+    "release_date": "2013-09-20",
+    "vote_average": 6.373,
+    "poster_path": "/gT3Xb6c7RtGJ89OJ1oQh34sbgef.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "cached_at": "2026-07-03T04:47:42.342882"
+  },
+  "399983": {
+    "id": 399983,
+    "title": "Numero Zero - Alle origini del rap italiano",
+    "release_date": "2015-12-01",
+    "vote_average": 7.7,
+    "poster_path": "/blJjH6NivSFWm3v4dOAOCHmMEI5.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-07-03T04:47:42.354858"
+  },
+  "13988": {
+    "id": 13988,
+    "title": "L'arte della guerra 2",
+    "release_date": "2008-08-12",
+    "vote_average": 4.714,
+    "poster_path": "/oKys1v7ATIHPW0zLcV1v1LGNXZI.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-07-03T04:47:42.370987"
   }
 }
