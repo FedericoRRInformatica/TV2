@@ -163288,5 +163288,213 @@
       53
     ],
     "cached_at": "2026-07-03T04:47:42.370987"
+  },
+  "1075905": {
+    "id": 1075905,
+    "title": "Hidden - Verità sepolte",
+    "release_date": "2023-02-02",
+    "vote_average": 6.5,
+    "poster_path": "/j0kKnVYKggYi521EhODIJoVPJYo.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-07-04T04:40:27.005064"
+  },
+  "1381027": {
+    "id": 1381027,
+    "title": "Good Boy",
+    "release_date": "2026-03-06",
+    "vote_average": 7.11,
+    "poster_path": "/hKhElicngwgC2onW3m8HW8BpHGD.jpg",
+    "genre_ids": [
+      53,
+      18,
+      9648
+    ],
+    "cached_at": "2026-07-04T04:40:27.069327"
+  },
+  "136418": {
+    "id": 136418,
+    "title": "Redemption - Identità nascoste",
+    "release_date": "2013-05-07",
+    "vote_average": 6.171,
+    "poster_path": "/hEvXTLIg8UXTjL6Uk5JenhcV4bv.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-07-04T04:40:27.072132"
+  },
+  "266586": {
+    "id": 266586,
+    "title": "Il ficcanaso",
+    "release_date": "1981-02-01",
+    "vote_average": 6.808,
+    "poster_path": "/iIhD6WfQA3Mkb2c5e7pp8xlefOM.jpg",
+    "genre_ids": [
+      35,
+      9648
+    ],
+    "cached_at": "2026-07-04T04:40:27.074028"
+  },
+  "1551032": {
+    "id": 1551032,
+    "title": "Succede in una notte",
+    "release_date": "2025-09-26",
+    "vote_average": 0.0,
+    "poster_path": "/qMAFHrwLN7FMz8r0mguyOqHAbV5.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-07-04T04:40:27.083682"
+  },
+  "1606533": {
+    "id": 1606533,
+    "title": "Giulio Regeni: Tutto Il Male Del Mondo",
+    "release_date": "2026-02-02",
+    "vote_average": 7.5,
+    "poster_path": "/2HNium220zA73cBfiYnjAlf0zzJ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-07-04T04:40:27.095487"
+  },
+  "110265": {
+    "id": 110265,
+    "title": "Il conte Tacchia",
+    "release_date": "1982-12-23",
+    "vote_average": 6.144,
+    "poster_path": "/bG7oNoXFigTGTN9J4vH50yzMQL2.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-04T04:40:27.097252"
+  },
+  "1457938": {
+    "id": 1457938,
+    "title": "La lezione",
+    "release_date": "2026-03-05",
+    "vote_average": 6.188,
+    "poster_path": "/4RRLD2tkiJ8YwNGAOv4ZS3Pp54z.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-04T04:40:27.105502"
+  },
+  "1472668": {
+    "id": 1472668,
+    "title": "Wick Is Pain",
+    "release_date": "2025-05-08",
+    "vote_average": 7.392,
+    "poster_path": "/ctZ9bjmCYyfFt3cUepc9axr0zHs.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-07-04T04:40:27.105519"
+  },
+  "1718300": {
+    "id": 1718300,
+    "title": "Dodo e la Principessa",
+    "release_date": "2026-06-08",
+    "vote_average": 10.0,
+    "poster_path": "/bX4y33NtLfE93khcvRKAqDNVWnW.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-04T04:40:27.105527"
+  },
+  "43417": {
+    "id": 43417,
+    "title": "I magnifici sette cavalcano ancora",
+    "release_date": "1972-08-01",
+    "vote_average": 5.6,
+    "poster_path": "/ArZpY6cMvlfqsP2HQNrz2KeVspO.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-07-04T04:40:27.105534"
+  },
+  "1430820": {
+    "id": 1430820,
+    "title": "La mattina scrivo",
+    "release_date": "2026-02-04",
+    "vote_average": 6.5,
+    "poster_path": "/kFmHMwRE4IBpDvhDqXTiT4xf7Gn.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-04T04:40:27.121022"
+  },
+  "14243": {
+    "id": 14243,
+    "title": "Wild style - stile selvaggio",
+    "release_date": "1982-08-01",
+    "vote_average": 6.1,
+    "poster_path": "/bhlf38aasEZjgdWQOzXwMhaOvGU.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-07-04T04:40:27.129614"
+  },
+  "1084244": {
+    "id": 1084244,
+    "title": "Toy Story 5",
+    "release_date": "2026-06-17",
+    "vote_average": 7.43,
+    "poster_path": "/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      12
+    ],
+    "cached_at": "2026-07-04T04:40:27.231815"
+  },
+  "12625": {
+    "id": 12625,
+    "title": "Le pistole dei magnifici sette",
+    "release_date": "1969-07-14",
+    "vote_average": 5.41,
+    "poster_path": "/us9TgPBLCqbFxfXIrdoMGwXKOUp.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-07-04T04:40:27.234361"
+  },
+  "8388": {
+    "id": 8388,
+    "title": "I tre amigos!",
+    "release_date": "1986-12-12",
+    "vote_average": 6.326,
+    "poster_path": "/7fPb7Ta43J1P1gxaEIOdFeDGFTg.jpg",
+    "genre_ids": [
+      35,
+      37,
+      28
+    ],
+    "cached_at": "2026-07-04T04:40:27.239234"
+  },
+  "966": {
+    "id": 966,
+    "title": "I magnifici sette",
+    "release_date": "1960-10-12",
+    "vote_average": 7.505,
+    "poster_path": "/lQvCYsJydrCKLYl2SYFuvTFaTqk.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-07-04T04:40:27.243581"
+  },
+  "12639": {
+    "id": 12639,
+    "title": "Il ritorno dei magnifici sette",
+    "release_date": "1966-10-19",
+    "vote_average": 6.108,
+    "poster_path": "/jCIEJz1mHs46OixoZr1gEaatDmL.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-07-04T04:40:27.263531"
   }
 }
