@@ -163558,5 +163558,45 @@
       36
     ],
     "cached_at": "2026-07-05T05:02:10.226294"
+  },
+  "290864": {
+    "id": 290864,
+    "title": "Kung Fu Jungle",
+    "release_date": "2014-10-31",
+    "vote_average": 6.827,
+    "poster_path": "/xa2pI7NwOY4gRLxc5qAO79qwHaD.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80,
+      12
+    ],
+    "cached_at": "2026-07-06T05:17:52.905341"
+  },
+  "146": {
+    "id": 146,
+    "title": "La tigre e il dragone",
+    "release_date": "2000-07-06",
+    "vote_average": 7.433,
+    "poster_path": "/fIUNtKru9wx80GuwAh0WP9xO2Du.jpg",
+    "genre_ids": [
+      12,
+      18,
+      28,
+      10749
+    ],
+    "cached_at": "2026-07-06T05:17:52.920564"
+  },
+  "1368314": {
+    "id": 1368314,
+    "title": "Passenger",
+    "release_date": "2026-05-20",
+    "vote_average": 6.203,
+    "poster_path": "/vqtX2uwAq4ziVR3V3aC2yqypR9k.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-07-06T05:17:52.992346"
   }
 }
