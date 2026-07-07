@@ -67454,5 +67454,30 @@
       18
     ],
     "cached_at": "2026-07-04T04:39:30.062546"
+  },
+  "324043": {
+    "id": 324043,
+    "name": "Big Girls Wanted: Escaping Pearadise",
+    "original_name": "Big Girls Wanted: Escaping Pearadise",
+    "first_air_date": "2026-06-10",
+    "vote_average": 1.333,
+    "poster_path": "/M4T0ColVoLCGnxdyNsSEBOuMji.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-07-07T04:57:29.289691"
+  },
+  "80446": {
+    "id": 80446,
+    "name": "The 2000s",
+    "original_name": "The 2000s",
+    "first_air_date": "2018-07-08",
+    "vote_average": 6.4,
+    "poster_path": "/vjGk5aJLsatgY55Dwh6zJEpVUFp.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-07-07T04:57:29.295500"
   }
 }
