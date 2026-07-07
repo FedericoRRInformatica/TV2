@@ -163598,5 +163598,151 @@
       53
     ],
     "cached_at": "2026-07-06T05:17:52.992346"
+  },
+  "81672": {
+    "id": 81672,
+    "title": "Appassionata",
+    "release_date": "1974-05-22",
+    "vote_average": 5.569,
+    "poster_path": "/3O6mxDvme6iJ6oiN6Oh9zUHVNTb.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-07T04:58:24.591572"
+  },
+  "11678": {
+    "id": 11678,
+    "title": "Vertical Limit",
+    "release_date": "2000-12-08",
+    "vote_average": 6.004,
+    "poster_path": "/jFEM3OXhHUXbO23ajT8qBSLWLmw.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "cached_at": "2026-07-07T04:58:24.692411"
+  },
+  "1023955": {
+    "id": 1023955,
+    "title": "Il vecchio e la bambina",
+    "release_date": "2022-04-01",
+    "vote_average": 6.5,
+    "poster_path": "/xphMJXA443lF2S53NGfyHkZHuDl.jpg",
+    "genre_ids": [
+      10751
+    ],
+    "cached_at": "2026-07-07T04:58:24.736303"
+  },
+  "187504": {
+    "id": 187504,
+    "title": "Messner",
+    "release_date": "2012-09-26",
+    "vote_average": 6.4,
+    "poster_path": "/qt4JivnKSeK6THjKf2hKWvknUk4.jpg",
+    "genre_ids": [
+      12,
+      99
+    ],
+    "cached_at": "2026-07-07T04:58:24.750311"
+  },
+  "1081003": {
+    "id": 1081003,
+    "title": "Supergirl",
+    "release_date": "2026-06-24",
+    "vote_average": 6.3,
+    "poster_path": "/stYpTwxfKWZhEHHSWh6DKZUmYNq.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "cached_at": "2026-07-07T04:58:24.754778"
+  },
+  "652846": {
+    "id": 652846,
+    "title": "Three the Movie",
+    "release_date": "2017-10-12",
+    "vote_average": 0.0,
+    "poster_path": "/vpAtduJVqqFMi3crLSDcxn4o1Fn.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10749
+    ],
+    "cached_at": "2026-07-07T04:58:24.770951"
+  },
+  "10327": {
+    "id": 10327,
+    "title": "Una bionda in carriera",
+    "release_date": "2003-07-02",
+    "vote_average": 5.721,
+    "poster_path": "/bWrn1ebgf9CHcsFYpvNccFUV5xV.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-07-07T04:58:24.773796"
+  },
+  "16985": {
+    "id": 16985,
+    "title": "Ufficialmente bionde",
+    "release_date": "2009-04-28",
+    "vote_average": 5.7,
+    "poster_path": "/qEw1dIylJE48O76rBkf4eylfiO2.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-07T04:58:24.776932"
+  },
+  "104335": {
+    "id": 104335,
+    "title": "Il corsaro nero",
+    "release_date": "1976-12-22",
+    "vote_average": 5.838,
+    "poster_path": "/5fq3VcSd4L0NF7sA6mAvuhiPw5u.jpg",
+    "genre_ids": [
+      28,
+      12
+    ],
+    "cached_at": "2026-07-07T04:58:24.781086"
+  },
+  "1529279": {
+    "id": 1529279,
+    "title": "La ragazza che ho sempre desiderato",
+    "release_date": "2025-09-20",
+    "vote_average": 8.875,
+    "poster_path": "/3zlFZlMGQ9MBSnCcPboUdNFCGmN.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10770
+    ],
+    "cached_at": "2026-07-07T04:58:24.782485"
+  },
+  "116614": {
+    "id": 116614,
+    "title": "Il sesso degli angeli",
+    "release_date": "1968-02-24",
+    "vote_average": 5.143,
+    "poster_path": "/vn53yMd7YvpMuJIdEHsBZK2Q18T.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-07-07T04:58:24.797517"
+  },
+  "56437": {
+    "id": 56437,
+    "title": "Le ragazze di Piazza di Spagna",
+    "release_date": "1952-02-01",
+    "vote_average": 6.021,
+    "poster_path": "/qLNJAorA9rxXlJCm1UFy5G5PHHy.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-07-07T04:58:24.804274"
   }
 }
