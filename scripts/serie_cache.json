@@ -67479,5 +67479,18 @@
       99
     ],
     "cached_at": "2026-07-07T04:57:29.295500"
+  },
+  "297638": {
+    "id": 297638,
+    "name": "Providence Falls",
+    "original_name": "Providence Falls",
+    "first_air_date": "2025-08-02",
+    "vote_average": 7.692,
+    "poster_path": "/9Prsw4Rez4tfjwKLZwxqzJn0F02.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "cached_at": "2026-07-08T04:18:24.522914"
   }
 }
