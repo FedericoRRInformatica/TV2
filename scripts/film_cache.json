@@ -163856,5 +163856,110 @@
       27
     ],
     "cached_at": "2026-07-08T04:19:24.190508"
+  },
+  "1493024": {
+    "id": 1493024,
+    "title": "Il Bene Comune",
+    "release_date": "2026-03-12",
+    "vote_average": 6.1,
+    "poster_path": "/nUMekW0Zs12SniJuo1L1V9OypUd.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-07-09T04:59:31.148864"
+  },
+  "594476": {
+    "id": 594476,
+    "title": "Rapiscimi",
+    "release_date": "2018-03-13",
+    "vote_average": 4.5,
+    "poster_path": "/eFaklWrZnICUDI7G7YSrvSx7kUE.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-07-09T04:59:31.155206"
+  },
+  "136984": {
+    "id": 136984,
+    "title": "The Duke",
+    "release_date": "1999-01-01",
+    "vote_average": 4.2,
+    "poster_path": "/qTU1WgVGUWNJm2H19tHvZrwDN6H.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      18
+    ],
+    "cached_at": "2026-07-09T04:59:31.161535"
+  },
+  "1278101": {
+    "id": 1278101,
+    "title": "Big World",
+    "release_date": "2024-12-27",
+    "vote_average": 8.37,
+    "poster_path": "/kvRhquopoC2idxgkRYnbVN4q2B3.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "cached_at": "2026-07-09T04:59:31.165302"
+  },
+  "54065": {
+    "id": 54065,
+    "title": "Bambola",
+    "release_date": "1996-09-01",
+    "vote_average": 4.484,
+    "poster_path": "/65vOhsbKdc6Vi9tYcXNbLAEYNkt.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-07-09T04:59:31.173518"
+  },
+  "627087": {
+    "id": 627087,
+    "title": "Lunana: il villaggio alla fine del mondo",
+    "release_date": "2019-11-16",
+    "vote_average": 7.43,
+    "poster_path": "/twBbHgCLfKuypmmzBLJjtiDtAnR.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-09T04:59:31.191997"
+  },
+  "1083381": {
+    "id": 1083381,
+    "title": "Backrooms",
+    "release_date": "2026-05-27",
+    "vote_average": 6.8,
+    "poster_path": "/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      878
+    ],
+    "cached_at": "2026-07-09T04:59:31.195253"
+  },
+  "1675962": {
+    "id": 1675962,
+    "title": "Maledetto tempo",
+    "release_date": "2026-04-18",
+    "vote_average": 5.5,
+    "poster_path": "/fBIANv1rgI7tyYaZitE2M5G4d7f.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-09T04:59:31.197232"
+  },
+  "1710008": {
+    "id": 1710008,
+    "title": "Nulla da perdere",
+    "release_date": "2026-07-08",
+    "vote_average": 2.0,
+    "poster_path": "/3dSUKms8A9J1i3OYXXhjSJW4ED9.jpg",
+    "genre_ids": [
+      18,
+      28
+    ],
+    "cached_at": "2026-07-09T04:59:31.217020"
   }
 }
