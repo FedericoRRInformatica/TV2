@@ -67492,5 +67492,31 @@
       10751
     ],
     "cached_at": "2026-07-08T04:18:24.522914"
+  },
+  "290232": {
+    "id": 290232,
+    "name": "No tengo miedo",
+    "original_name": "No tengo miedo",
+    "first_air_date": "2026-07-08",
+    "vote_average": 8.3,
+    "poster_path": "/ctDqarHjLlrKhKx1j7N4rF746qQ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-09T04:58:33.213602"
+  },
+  "46616": {
+    "id": 46616,
+    "name": "Les Revenants - The Returned",
+    "original_name": "Les Revenants",
+    "first_air_date": "2012-11-26",
+    "vote_average": 7.434,
+    "poster_path": "/12sbIsT9pJ03L5MwX8yowIMG0Un.jpg",
+    "genre_ids": [
+      9648,
+      10765,
+      18
+    ],
+    "cached_at": "2026-07-09T04:58:33.231341"
   }
 }
