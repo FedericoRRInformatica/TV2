@@ -163961,5 +163961,101 @@
       28
     ],
     "cached_at": "2026-07-09T04:59:31.217020"
+  },
+  "1533029": {
+    "id": 1533029,
+    "title": "The Loved One",
+    "release_date": "2026-02-11",
+    "vote_average": 5.0,
+    "poster_path": "/rVZQcphJRWVJgQZtWztrauB6Fwe.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-07-10T04:58:19.286426"
+  },
+  "439998": {
+    "id": 439998,
+    "title": "Omicidio all'italiana",
+    "release_date": "2017-03-02",
+    "vote_average": 6.286,
+    "poster_path": "/yMajbhnmtiXT5bfZU8Q06FRGg06.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-10T04:58:19.299087"
+  },
+  "1102883": {
+    "id": 1102883,
+    "title": "Mother Mary",
+    "release_date": "2026-04-16",
+    "vote_average": 5.595,
+    "poster_path": "/GKGvadeAmAkkY2MHLzYDUP685R.jpg",
+    "genre_ids": [
+      10402,
+      18,
+      53
+    ],
+    "cached_at": "2026-07-10T04:58:19.330003"
+  },
+  "40261": {
+    "id": 40261,
+    "title": "Il gatto dagli occhi di giada",
+    "release_date": "1977-08-06",
+    "vote_average": 5.628,
+    "poster_path": "/98tHvynfPdylJG3YcJZ0qSm7m3w.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-07-10T04:58:19.357428"
+  },
+  "11323": {
+    "id": 11323,
+    "title": "The Informant!",
+    "release_date": "2009-09-18",
+    "vote_average": 6.156,
+    "poster_path": "/mYWPBRQ4leJlFtnd5VPh5MH03LU.jpg",
+    "genre_ids": [
+      18,
+      35,
+      80
+    ],
+    "cached_at": "2026-07-10T04:58:19.390842"
+  },
+  "78192": {
+    "id": 78192,
+    "title": "Michael Jackson - The Life of an Icon",
+    "release_date": "2011-11-02",
+    "vote_average": 8.112,
+    "poster_path": "/lQ4ZvyctMs3Y1e4WEskEQpjbbp1.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "cached_at": "2026-07-10T04:58:19.396239"
+  },
+  "283317": {
+    "id": 283317,
+    "title": "Messi - Storia di un campione",
+    "release_date": "2014-09-06",
+    "vote_average": 7.455,
+    "poster_path": "/uROT3bgu8I50EyDA541aozJjYl3.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-07-10T04:58:19.422637"
+  },
+  "1052083": {
+    "id": 1052083,
+    "title": "Non morirò di fame",
+    "release_date": "2023-02-15",
+    "vote_average": 6.5,
+    "poster_path": "/q7lMYYHTS0QJgFmg6hECaqzXoXY.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-10T04:58:19.423777"
   }
 }
