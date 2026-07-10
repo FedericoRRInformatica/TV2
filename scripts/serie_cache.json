@@ -67518,5 +67518,31 @@
       18
     ],
     "cached_at": "2026-07-09T04:58:33.231341"
+  },
+  "283304": {
+    "id": 283304,
+    "name": "La casa nella prateria",
+    "original_name": "Little House on the Prairie",
+    "first_air_date": "2026-07-09",
+    "vote_average": 4.2,
+    "poster_path": "/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
+    "genre_ids": [
+      18,
+      37,
+      10751
+    ],
+    "cached_at": "2026-07-10T04:57:04.765219"
+  },
+  "236004": {
+    "id": 236004,
+    "name": "Got to Get Out",
+    "original_name": "Got to Get Out",
+    "first_air_date": "2025-04-11",
+    "vote_average": 7.3,
+    "poster_path": "/dWrjukQp60iY60VyJjahA801LMO.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-07-10T04:57:04.786791"
   }
 }
