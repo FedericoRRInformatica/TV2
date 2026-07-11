@@ -164057,5 +164057,187 @@
       18
     ],
     "cached_at": "2026-07-10T04:58:19.423777"
+  },
+  "1595852": {
+    "id": 1595852,
+    "title": "Boulevard",
+    "release_date": "2026-04-10",
+    "vote_average": 4.9,
+    "poster_path": "/6QmYPv8KkK5sscksmAWFHTO3gkF.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-07-11T04:18:15.823745"
+  },
+  "4599": {
+    "id": 4599,
+    "title": "Quando meno te lo aspetti",
+    "release_date": "2004-05-27",
+    "vote_average": 6.138,
+    "poster_path": "/qBfB8mdyaHzdfArPJz2gYAYyCZC.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "cached_at": "2026-07-11T04:18:15.938664"
+  },
+  "1317099": {
+    "id": 1317099,
+    "title": "La guitarra flamenca de Yerai Cortés",
+    "release_date": "2024-12-20",
+    "vote_average": 7.0,
+    "poster_path": "/s1t3dpcwcVSNzas4AyCjLTV9ufL.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "cached_at": "2026-07-11T04:18:15.938685"
+  },
+  "1397373": {
+    "id": 1397373,
+    "title": "Cena di classe",
+    "release_date": "2026-03-26",
+    "vote_average": 5.935,
+    "poster_path": "/tq62SABP6986u7fYJ39vnexjgFU.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-07-11T04:18:15.957351"
+  },
+  "760857": {
+    "id": 760857,
+    "title": "DannyBoy",
+    "release_date": "2020-11-04",
+    "vote_average": 6.0,
+    "poster_path": "/uhGFPIheGtRuoyuRFKcKzent2rH.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-07-11T04:18:15.968755"
+  },
+  "1723484": {
+    "id": 1723484,
+    "title": "Lino D’Italia - Storia di un itALIENO",
+    "release_date": "2026-07-08",
+    "vote_average": 6.75,
+    "poster_path": "/8oPGitXSF3KxJkqGoZjfglmG593.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-07-11T04:18:15.975221"
+  },
+  "89623": {
+    "id": 89623,
+    "title": "Leafie - La storia di un amore",
+    "release_date": "2011-07-28",
+    "vote_average": 7.832,
+    "poster_path": "/cdShxXk13BC5NHNTWjxXpYhkezd.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      18
+    ],
+    "cached_at": "2026-07-11T04:18:15.986808"
+  },
+  "16061": {
+    "id": 16061,
+    "title": "Tokyo Gore Police",
+    "release_date": "2008-10-04",
+    "vote_average": 6.0,
+    "poster_path": "/wZGjZLlHZ7vl9sO6tQZIJbt6oel.jpg",
+    "genre_ids": [
+      27,
+      28,
+      878
+    ],
+    "cached_at": "2026-07-11T04:18:15.986824"
+  },
+  "1729203": {
+    "id": 1729203,
+    "title": "Costa Concordia: Incubo in mare",
+    "release_date": "2026-07-10",
+    "vote_average": 0.0,
+    "poster_path": "/6kAcNnXbYZFSbO8c3ep1DBaX9JX.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-07-11T04:18:15.996259"
+  },
+  "54186": {
+    "id": 54186,
+    "title": "Confessions",
+    "release_date": "2010-06-04",
+    "vote_average": 7.583,
+    "poster_path": "/6QGBZO3YfPdkcNzlJBnCvJvTH3g.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648
+    ],
+    "cached_at": "2026-07-11T04:18:16.018427"
+  },
+  "58658": {
+    "id": 58658,
+    "title": "Il giorno della civetta",
+    "release_date": "1968-02-17",
+    "vote_average": 7.1,
+    "poster_path": "/6I2z4aVKJSYhMJbR9ScVloSyGH2.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-07-11T04:18:16.045363"
+  },
+  "69567": {
+    "id": 69567,
+    "title": "Black Jack",
+    "release_date": "1979-09-09",
+    "vote_average": 7.045,
+    "poster_path": "/bYXm5MiaWFMrFHOO7PXsVaf8nvj.jpg",
+    "genre_ids": [
+      12,
+      36
+    ],
+    "cached_at": "2026-07-11T04:18:16.071481"
+  },
+  "517801": {
+    "id": 517801,
+    "title": "Una gita a Roma",
+    "release_date": "2017-05-04",
+    "vote_average": 8.0,
+    "poster_path": "/sELC8NfH2VpfquflmB9KjdK5BPd.jpg",
+    "genre_ids": [
+      12
+    ],
+    "cached_at": "2026-07-11T04:18:16.098272"
+  },
+  "1429348": {
+    "id": 1429348,
+    "title": "Lo straniero",
+    "release_date": "2025-10-29",
+    "vote_average": 6.768,
+    "poster_path": "/mn7NG3TVqAPKAG4l1LcGyhl4Xk.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-07-11T04:18:16.350168"
+  },
+  "22386": {
+    "id": 22386,
+    "title": "Torna a settembre",
+    "release_date": "1961-08-09",
+    "vote_average": 6.813,
+    "poster_path": "/tnof9pMqqfHYAE2yabYSlggChQW.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-07-11T04:18:16.895090"
   }
 }
