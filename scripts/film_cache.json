@@ -164239,5 +164239,63 @@
       10749
     ],
     "cached_at": "2026-07-11T04:18:16.895090"
+  },
+  "21427": {
+    "id": 21427,
+    "title": "Una top model nel mio letto",
+    "release_date": "2006-03-29",
+    "vote_average": 5.984,
+    "poster_path": "/vxgtTEUIoJigELMiaP04tRkVPKC.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-12T04:29:22.283990"
+  },
+  "11467": {
+    "id": 11467,
+    "title": "I perfetti innamorati",
+    "release_date": "2001-07-17",
+    "vote_average": 5.712,
+    "poster_path": "/yheV0UZM1tzkq7IlRN2WcSyUdfI.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-07-12T04:29:22.294157"
+  },
+  "266035": {
+    "id": 266035,
+    "title": "Scandalosa Gilda",
+    "release_date": "1985-11-11",
+    "vote_average": 4.1,
+    "poster_path": "/vti6EGNxWvPpFX2d1m2UCVoWpPQ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-12T04:29:22.297686"
+  },
+  "795811": {
+    "id": 795811,
+    "title": "Il gioco del destino e della fantasia",
+    "release_date": "2021-04-11",
+    "vote_average": 7.206,
+    "poster_path": "/8A1e5UYU9V4WieFJ2fqg9VCQUYY.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-07-12T04:29:22.310122"
+  },
+  "31652": {
+    "id": 31652,
+    "title": "Maledetta estate",
+    "release_date": "1985-02-15",
+    "vote_average": 6.2,
+    "poster_path": "/odZykstzVq8Czg6jFFB55yRmQoj.jpg",
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "cached_at": "2026-07-12T04:29:22.319089"
   }
 }
