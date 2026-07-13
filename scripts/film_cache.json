@@ -164297,5 +164297,79 @@
       53
     ],
     "cached_at": "2026-07-12T04:29:22.319089"
+  },
+  "28973": {
+    "id": 28973,
+    "title": "Un re a New York",
+    "release_date": "1957-09-12",
+    "vote_average": 6.734,
+    "poster_path": "/tS1W7tgPWvy6CKMhP6Go3D1Mnew.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-07-13T04:34:54.283010"
+  },
+  "21968": {
+    "id": 21968,
+    "title": "Super Fly",
+    "release_date": "1972-08-04",
+    "vote_average": 6.259,
+    "poster_path": "/lCj4IZ9l8NfOEiM4zHq3BRF2LzX.jpg",
+    "genre_ids": [
+      80,
+      18,
+      28,
+      53
+    ],
+    "cached_at": "2026-07-13T04:34:54.305591"
+  },
+  "167531": {
+    "id": 167531,
+    "title": "Summer Snow",
+    "release_date": "2014-07-25",
+    "vote_average": 6.7,
+    "poster_path": "/tJlWSDxfqFIviCsB9NF2RmpSsKl.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-13T04:34:54.343372"
+  },
+  "25468": {
+    "id": 25468,
+    "title": "La mia cena con André",
+    "release_date": "1981-10-11",
+    "vote_average": 7.5,
+    "poster_path": "/63hQaENjeVU0myBLahxLX4gTuHQ.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-07-13T04:34:54.354946"
+  },
+  "25269": {
+    "id": 25269,
+    "title": "Articolo 99",
+    "release_date": "1992-03-13",
+    "vote_average": 6.2,
+    "poster_path": "/10zG5sx5SP4gxNqphPySlSEghv6.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-13T04:34:54.360964"
+  },
+  "1433": {
+    "id": 1433,
+    "title": "La spina del diavolo",
+    "release_date": "2001-04-20",
+    "vote_average": 7.289,
+    "poster_path": "/yWFhDw90QQrEGWVf1exkkAKlkhm.jpg",
+    "genre_ids": [
+      14,
+      18,
+      27,
+      53
+    ],
+    "cached_at": "2026-07-13T04:34:54.365816"
   }
 }
