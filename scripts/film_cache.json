@@ -164371,5 +164371,41 @@
       53
     ],
     "cached_at": "2026-07-13T04:34:54.365816"
+  },
+  "49361": {
+    "id": 49361,
+    "title": "Non si sevizia un paperino",
+    "release_date": "1972-09-29",
+    "vote_average": 7.328,
+    "poster_path": "/unTYv1muZv9rEWQdWdpj320BkZz.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-07-14T04:08:26.493602"
+  },
+  "75834": {
+    "id": 75834,
+    "title": "Hercules nell'inferno degli dei",
+    "release_date": "1994-11-07",
+    "vote_average": 5.6,
+    "poster_path": "/bskH8CKf3f926IrZC6tvUmyt57O.jpg",
+    "genre_ids": [
+      12,
+      14,
+      10770,
+      28
+    ],
+    "cached_at": "2026-07-14T04:08:26.516750"
+  },
+  "45958": {
+    "id": 45958,
+    "title": "Biutiful",
+    "release_date": "2010-10-20",
+    "vote_average": 7.249,
+    "poster_path": "/2RGgtKbSzhuUvQQmWpEdOfHsAu2.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-14T04:08:26.523707"
   }
 }
