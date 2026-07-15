@@ -164407,5 +164407,75 @@
       18
     ],
     "cached_at": "2026-07-14T04:08:26.523707"
+  },
+  "300475": {
+    "id": 300475,
+    "title": "Sogni di gloria",
+    "release_date": "2014-05-15",
+    "vote_average": 5.0,
+    "poster_path": "/u1wa9Vmpx8jqQ9FGr0YpmHPQ4DJ.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-07-15T04:10:09.696042"
+  },
+  "419331": {
+    "id": 419331,
+    "title": "Il sogno di Francesco",
+    "release_date": "2016-10-04",
+    "vote_average": 5.6,
+    "poster_path": "/nNNztkW71Lvqwm74FJYZRMwWacT.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-07-15T04:10:09.723991"
+  },
+  "37765": {
+    "id": 37765,
+    "title": "Asso",
+    "release_date": "1981-04-09",
+    "vote_average": 6.2,
+    "poster_path": "/8vwIz284JtxsSPNRGkTKyYWe66n.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-15T04:10:09.730018"
+  },
+  "9576": {
+    "id": 9576,
+    "title": "Tootsie",
+    "release_date": "1982-12-17",
+    "vote_average": 7.207,
+    "poster_path": "/4nkohbZJolsDR1dlR69RcuDk5vU.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-07-15T04:10:09.731143"
+  },
+  "1380316": {
+    "id": 1380316,
+    "title": "Is God Is - E così sia",
+    "release_date": "2026-05-14",
+    "vote_average": 5.9,
+    "poster_path": "/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-07-15T04:10:09.732208"
+  },
+  "42675": {
+    "id": 42675,
+    "title": "Genitori & figli - Agitare bene prima dell'uso",
+    "release_date": "2010-02-26",
+    "vote_average": 5.5,
+    "poster_path": "/pim7FiLRoeXIc8K5kBFkBY7Jxpy.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-15T04:10:09.738618"
   }
 }
