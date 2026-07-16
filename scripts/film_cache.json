@@ -164477,5 +164477,64 @@
       35
     ],
     "cached_at": "2026-07-15T04:10:09.738618"
+  },
+  "91136": {
+    "id": 91136,
+    "title": "Scuola di nudisti",
+    "release_date": "1982-07-28",
+    "vote_average": 4.409,
+    "poster_path": "/px3HBwfu0I4idmSE1pDyQUJ75z7.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-16T04:14:01.943859"
+  },
+  "1032642": {
+    "id": 1032642,
+    "title": "Divano di famiglia",
+    "release_date": "2024-07-05",
+    "vote_average": 5.585,
+    "poster_path": "/mk7He0rSuyMReKTFKGsNkjyBeVR.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-07-16T04:14:01.982714"
+  },
+  "1440050": {
+    "id": 1440050,
+    "title": "The Breadwinner",
+    "release_date": "2026-05-29",
+    "vote_average": 6.2,
+    "poster_path": "/qa29IYc4NYRFjiLwLL0exoLHhKv.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "cached_at": "2026-07-16T04:14:02.031040"
+  },
+  "81308": {
+    "id": 81308,
+    "title": "La bella mugnaia",
+    "release_date": "1955-10-27",
+    "vote_average": 5.4,
+    "poster_path": "/6cgE2o79SWczT2i3cATIl1PM8k3.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-07-16T04:14:02.033298"
+  },
+  "100812": {
+    "id": 100812,
+    "title": "Femina Ridens",
+    "release_date": "1969-08-24",
+    "vote_average": 6.8,
+    "poster_path": "/40rKfPKDYwDkMAi88AlpF4xuVRs.jpg",
+    "genre_ids": [
+      10749,
+      53
+    ],
+    "cached_at": "2026-07-16T04:14:02.034736"
   }
 }
