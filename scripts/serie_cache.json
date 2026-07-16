@@ -67598,5 +67598,58 @@
       9648
     ],
     "cached_at": "2026-07-15T04:09:13.510861"
+  },
+  "297826": {
+    "id": 297826,
+    "name": "도굴왕",
+    "original_name": "도굴왕",
+    "first_air_date": "2026-07-09",
+    "vote_average": 9.333,
+    "poster_path": "/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "cached_at": "2026-07-16T04:13:03.906610"
+  },
+  "99486": {
+    "id": 99486,
+    "name": "Tyler Perry's Young Dylan",
+    "original_name": "Tyler Perry's Young Dylan",
+    "first_air_date": "2020-02-29",
+    "vote_average": 7.7,
+    "poster_path": "/gch0Y3uJTsHhbEgMdmpDx9Wippc.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      10762
+    ],
+    "cached_at": "2026-07-16T04:13:03.961377"
+  },
+  "241882": {
+    "id": 241882,
+    "name": "Ride or Die",
+    "original_name": "Ride or Die",
+    "first_air_date": "2026-07-15",
+    "vote_average": 4.417,
+    "poster_path": "/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg",
+    "genre_ids": [
+      10759
+    ],
+    "cached_at": "2026-07-16T04:13:04.016932"
+  },
+  "278624": {
+    "id": 278624,
+    "name": "Lucky",
+    "original_name": "Lucky",
+    "first_air_date": "2026-07-14",
+    "vote_average": 5.2,
+    "poster_path": "/5TO5TP3Q6sVDw2NQ5eZ9OZ56MjB.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-07-16T04:13:04.054544"
   }
 }
