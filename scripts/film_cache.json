@@ -164536,5 +164536,52 @@
       53
     ],
     "cached_at": "2026-07-16T04:14:02.034736"
+  },
+  "49012": {
+    "id": 49012,
+    "title": "Arturo",
+    "release_date": "2011-04-08",
+    "vote_average": 5.55,
+    "poster_path": "/foUTAJurvnbUoIUbnuUk5dyHx7M.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-07-17T04:12:31.304634"
+  },
+  "12121": {
+    "id": 12121,
+    "title": "Made in America",
+    "release_date": "1993-01-06",
+    "vote_average": 5.541,
+    "poster_path": "/1NLhOZN4AcTSvEPMI3HCjTVSfvy.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-17T04:12:31.322299"
+  },
+  "22423": {
+    "id": 22423,
+    "title": "Indiziato di reato",
+    "release_date": "1991-03-15",
+    "vote_average": 6.5,
+    "poster_path": "/4FRgxRfoe0y2LGdDJHbSM1jhss5.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-07-17T04:12:31.340734"
+  },
+  "209451": {
+    "id": 209451,
+    "title": "Jersey Boys",
+    "release_date": "2014-06-18",
+    "vote_average": 6.75,
+    "poster_path": "/kz956Y83YtT6vTyg0Q40mzRe2UM.jpg",
+    "genre_ids": [
+      10402,
+      18
+    ],
+    "cached_at": "2026-07-17T04:12:31.347489"
   }
 }
