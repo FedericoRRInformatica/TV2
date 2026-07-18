@@ -164583,5 +164583,66 @@
       18
     ],
     "cached_at": "2026-07-17T04:12:31.347489"
+  },
+  "823951": {
+    "id": 823951,
+    "title": "November: I cinque giorni dopo il Bataclan",
+    "release_date": "2022-10-05",
+    "vote_average": 7.045,
+    "poster_path": "/uWnAlBWdcStL35CUYWCU3p3MB0X.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-07-18T04:04:45.001161"
+  },
+  "1668364": {
+    "id": 1668364,
+    "title": "Deseo",
+    "release_date": "2026-05-07",
+    "vote_average": 5.7,
+    "poster_path": "/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "cached_at": "2026-07-18T04:04:45.027745"
+  },
+  "1656220": {
+    "id": 1656220,
+    "title": "23.000 vite",
+    "release_date": "2026-07-02",
+    "vote_average": 4.0,
+    "poster_path": "/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-18T04:04:45.039492"
+  },
+  "1468683": {
+    "id": 1468683,
+    "title": "Heartstopper Forever",
+    "release_date": "2026-07-14",
+    "vote_average": 6.0,
+    "poster_path": "/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-07-18T04:04:45.069065"
+  },
+  "1318621": {
+    "id": 1318621,
+    "title": "Descendants: Wicked Wonderland",
+    "release_date": "2026-07-16",
+    "vote_average": 6.278,
+    "poster_path": "/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg",
+    "genre_ids": [
+      14,
+      10751,
+      10770
+    ],
+    "cached_at": "2026-07-18T04:04:45.074972"
   }
 }
