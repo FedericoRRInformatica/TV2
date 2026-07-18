@@ -67663,5 +67663,29 @@
       35
     ],
     "cached_at": "2026-07-17T04:11:17.363758"
+  },
+  "327712": {
+    "id": 327712,
+    "name": "Super Market",
+    "original_name": "Super Market",
+    "first_air_date": "2026-07-17",
+    "vote_average": 6.0,
+    "poster_path": "/wTCJnl01DaXYBny4uQs39JR6JgJ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-18T03:58:01.180923"
+  },
+  "288671": {
+    "id": 288671,
+    "name": "La mappa dei desideri",
+    "original_name": "El mapa de los anhelos",
+    "first_air_date": "2026-07-17",
+    "vote_average": 6.0,
+    "poster_path": "/yVy4Hk8mkMBC9p8rfsBIIp6KhrF.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-18T03:58:01.217931"
   }
 }
