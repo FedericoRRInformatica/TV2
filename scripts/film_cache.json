@@ -164644,5 +164644,45 @@
       10770
     ],
     "cached_at": "2026-07-18T04:04:45.074972"
+  },
+  "1587964": {
+    "id": 1587964,
+    "title": "They Fight",
+    "release_date": "2026-06-08",
+    "vote_average": 1.0,
+    "poster_path": "/u75d6VpbDyW4TNjcnLYAf0cMgU8.jpg",
+    "genre_ids": [
+      18,
+      28
+    ],
+    "cached_at": "2026-07-19T04:25:25.070671"
+  },
+  "74004": {
+    "id": 74004,
+    "title": "Piccolo grande amore",
+    "release_date": "1993-12-03",
+    "vote_average": 5.564,
+    "poster_path": "/pLPHCRHXDAVZFI9IznwDY0jApR9.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      10751
+    ],
+    "cached_at": "2026-07-19T04:25:25.121217"
+  },
+  "70338": {
+    "id": 70338,
+    "title": "Un fantafilm - Devi crescere, Timmy Turner!",
+    "release_date": "2011-07-09",
+    "vote_average": 4.826,
+    "poster_path": "/h94rbv7xBNJUgweD5pMK7cpqwMO.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      10770,
+      35,
+      10749
+    ],
+    "cached_at": "2026-07-19T04:25:25.136611"
   }
 }
