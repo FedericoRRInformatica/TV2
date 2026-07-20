@@ -164684,5 +164684,31 @@
       10749
     ],
     "cached_at": "2026-07-19T04:25:25.136611"
+  },
+  "1325734": {
+    "id": 1325734,
+    "title": "The Drama - Un segreto è per sempre",
+    "release_date": "2026-04-01",
+    "vote_average": 6.914,
+    "poster_path": "/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "cached_at": "2026-07-20T04:40:23.469797"
+  },
+  "819277": {
+    "id": 819277,
+    "title": "Midas Man",
+    "release_date": "2024-08-23",
+    "vote_average": 6.333,
+    "poster_path": "/4nAfF0Szcb72eRn9WwRFsdvZu5q.jpg",
+    "genre_ids": [
+      10402,
+      18,
+      36
+    ],
+    "cached_at": "2026-07-20T04:40:23.496080"
   }
 }
