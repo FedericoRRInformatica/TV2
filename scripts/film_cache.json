@@ -164710,5 +164710,16 @@
       36
     ],
     "cached_at": "2026-07-20T04:40:23.496080"
+  },
+  "56942": {
+    "id": 56942,
+    "title": "Family Life",
+    "release_date": "1971-11-17",
+    "vote_average": 7.269,
+    "poster_path": "/yNe2gxweidv8mZUecE6LUhXhhJP.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-21T04:19:10.049421"
   }
 }
