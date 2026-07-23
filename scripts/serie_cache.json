@@ -67716,5 +67716,31 @@
       18
     ],
     "cached_at": "2026-07-21T04:18:11.240843"
+  },
+  "329394": {
+    "id": 329394,
+    "name": "L’altro padre",
+    "original_name": "El Otro Padre",
+    "first_air_date": "2026-07-22",
+    "vote_average": 8.0,
+    "poster_path": "/mAHdy86elM3VunTnLiBtGlLOFtD.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-23T04:19:09.536044"
+  },
+  "281281": {
+    "id": 281281,
+    "name": "GIGN - Forze speciali",
+    "original_name": "GIGN",
+    "first_air_date": "2026-07-22",
+    "vote_average": 7.833,
+    "poster_path": "/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      18
+    ],
+    "cached_at": "2026-07-23T04:19:09.575076"
   }
 }
