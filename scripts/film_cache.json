@@ -164721,5 +164721,90 @@
       18
     ],
     "cached_at": "2026-07-21T04:19:10.049421"
+  },
+  "1368337": {
+    "id": 1368337,
+    "title": "Odissea",
+    "release_date": "2026-07-15",
+    "vote_average": 7.935,
+    "poster_path": "/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+    "genre_ids": [
+      12,
+      28,
+      14
+    ],
+    "cached_at": "2026-07-23T04:20:08.728851"
+  },
+  "1138621": {
+    "id": 1138621,
+    "title": "Fog of war - Il nemico nell'ombra",
+    "release_date": "2025-04-04",
+    "vote_average": 5.903,
+    "poster_path": "/ax8fMEAMsqZCJDcLTwsZfO5Sccm.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-07-23T04:20:08.734476"
+  },
+  "1722713": {
+    "id": 1722713,
+    "title": "Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo",
+    "release_date": "2026-07-10",
+    "vote_average": 7.611,
+    "poster_path": "/7MCnV8wb1tODOrM8NmWAuPWm40Y.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-07-23T04:20:08.776279"
+  },
+  "1397201": {
+    "id": 1397201,
+    "title": "ゴールデンカムイ 網走監獄襲撃編",
+    "release_date": "2026-03-13",
+    "vote_average": 7.9,
+    "poster_path": "/lcBrjK1mnPrrpLk6VtlVMMCfsLS.jpg",
+    "genre_ids": [
+      28,
+      18,
+      36,
+      12
+    ],
+    "cached_at": "2026-07-23T04:20:08.794693"
+  },
+  "1487861": {
+    "id": 1487861,
+    "title": "Elize: Le ombre di una donna",
+    "release_date": "2026-07-22",
+    "vote_average": 6.8,
+    "poster_path": "/e7ofkr5drqphDavMOC1RuOgKqIJ.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18
+    ],
+    "cached_at": "2026-07-23T04:20:08.803843"
+  },
+  "1616674": {
+    "id": 1616674,
+    "title": "Me Before Me",
+    "release_date": "2026-07-11",
+    "vote_average": 6.154,
+    "poster_path": "/2PxmDbVLKHuNEtGrpcmX7aSe4Ie.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-23T04:20:08.818151"
+  },
+  "1357449": {
+    "id": 1357449,
+    "title": "Idoli - Fino all’ultima corsa",
+    "release_date": "2026-01-23",
+    "vote_average": 7.1,
+    "poster_path": "/nwljoHP01Q12VLnNq4UnXRDDHui.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-07-23T04:20:08.818160"
   }
 }
