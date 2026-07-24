@@ -164806,5 +164806,78 @@
       10749
     ],
     "cached_at": "2026-07-23T04:20:08.818160"
+  },
+  "1620682": {
+    "id": 1620682,
+    "title": "Amore al rallentatore",
+    "release_date": "2026-07-23",
+    "vote_average": 1.0,
+    "poster_path": "/R6jDMJOrChWK598bAJolOTAZ5L.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-07-24T04:20:30.135261"
+  },
+  "279967": {
+    "id": 279967,
+    "title": "Dead Within",
+    "release_date": "2014-08-23",
+    "vote_average": 3.802,
+    "poster_path": "/1xAi5bfYNhjFPBvdgwTtmLccetk.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "cached_at": "2026-07-24T04:20:30.156811"
+  },
+  "82083": {
+    "id": 82083,
+    "title": "Rimini Rimini - Un anno dopo",
+    "release_date": "1988-09-23",
+    "vote_average": 3.724,
+    "poster_path": "/1TJ9HNTQaxzEddl8AEPGGNjBl0O.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-24T04:20:30.158353"
+  },
+  "1630409": {
+    "id": 1630409,
+    "title": "The Debt Collector",
+    "release_date": "2026-07-20",
+    "vote_average": 6.2,
+    "poster_path": "/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2026-07-24T04:20:30.160565"
+  },
+  "1004130": {
+    "id": 1004130,
+    "title": "Stalker - Prigioniera dell'incubo",
+    "release_date": "2023-03-31",
+    "vote_average": 5.8,
+    "poster_path": "/kNyEWSSVXzemoaWLlRvsJSsEZpw.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-07-24T04:20:30.169313"
+  },
+  "1080512": {
+    "id": 1080512,
+    "title": "Pandemonium",
+    "release_date": "2024-12-25",
+    "vote_average": 5.827,
+    "poster_path": "/9B7kKpmhwZH9Q9wJWSR3xpWBI5o.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "cached_at": "2026-07-24T04:20:30.172874"
   }
 }
