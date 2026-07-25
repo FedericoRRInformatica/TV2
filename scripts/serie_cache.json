@@ -67742,5 +67742,58 @@
       18
     ],
     "cached_at": "2026-07-23T04:19:09.575076"
+  },
+  "287620": {
+    "id": 287620,
+    "name": "Stuart Fails to Save the Universe",
+    "original_name": "Stuart Fails to Save the Universe",
+    "first_air_date": "2026-07-23",
+    "vote_average": 9.0,
+    "poster_path": "/iQbTbwmLX5Nh1nlH21YUJPWt3Zo.jpg",
+    "genre_ids": [
+      35,
+      10765
+    ],
+    "cached_at": "2026-07-25T04:15:54.289577"
+  },
+  "285676": {
+    "id": 285676,
+    "name": "Geordie Stories: Charlotte's New Baby",
+    "original_name": "Geordie Stories: Charlotte's New Baby",
+    "first_air_date": "2025-03-04",
+    "vote_average": 5.5,
+    "poster_path": "/rlVXnISYY99nVbR4CbWLi7TKpGi.jpg",
+    "genre_ids": [
+      10764,
+      10751
+    ],
+    "cached_at": "2026-07-25T04:15:54.308568"
+  },
+  "236400": {
+    "id": 236400,
+    "name": "Anderson Spider Silva",
+    "original_name": "Anderson Spider Silva",
+    "first_air_date": "2023-11-16",
+    "vote_average": 8.0,
+    "poster_path": "/aBwB6n8hQ5lLcc3WpCSvXqz9Pv8.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-25T04:15:54.315330"
+  },
+  "231821": {
+    "id": 231821,
+    "name": "Boog & Elliot: Il richiamo della natura",
+    "original_name": "Open Season: Call of Nature",
+    "first_air_date": "2023-11-03",
+    "vote_average": 7.0,
+    "poster_path": "/6hgNirgp2PGUxw0sbxirocnJKGY.jpg",
+    "genre_ids": [
+      16,
+      10762,
+      35,
+      10765
+    ],
+    "cached_at": "2026-07-25T04:15:54.350949"
   }
 }
