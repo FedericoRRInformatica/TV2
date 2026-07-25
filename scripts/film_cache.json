@@ -164879,5 +164879,51 @@
       18
     ],
     "cached_at": "2026-07-24T04:20:30.172874"
+  },
+  "1361774": {
+    "id": 1361774,
+    "title": "The Dink - Mago del pickleball",
+    "release_date": "2026-07-23",
+    "vote_average": 6.3,
+    "poster_path": "/vTfsGRuVSxVoPobNnviYhJ4JrC5.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-25T04:16:51.651839"
+  },
+  "1659155": {
+    "id": 1659155,
+    "title": "Los Creyentes - Oltre la verità",
+    "release_date": "2026-07-24",
+    "vote_average": 6.0,
+    "poster_path": "/pUvs1iFFMDy3sNp5dNmkRak1oxD.jpg",
+    "genre_ids": [
+      53,
+      18,
+      9648
+    ],
+    "cached_at": "2026-07-25T04:16:51.674066"
+  },
+  "949838": {
+    "id": 949838,
+    "title": "72 HOURS",
+    "release_date": "2026-07-20",
+    "vote_average": 6.115,
+    "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-25T04:16:51.676380"
+  },
+  "57114": {
+    "id": 57114,
+    "title": "Amore, bugie e calcetto",
+    "release_date": "2008-04-04",
+    "vote_average": 5.824,
+    "poster_path": "/hQQdIfS5PmQ4aoP0M3XbS0Vsmlt.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-07-25T04:16:51.695152"
   }
 }
