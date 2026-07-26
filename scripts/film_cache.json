@@ -164925,5 +164925,76 @@
       35
     ],
     "cached_at": "2026-07-25T04:16:51.695152"
+  },
+  "1732097": {
+    "id": 1732097,
+    "title": "Euphoria: A Look Back",
+    "release_date": "2026-07-24",
+    "vote_average": 6.5,
+    "poster_path": "/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-07-26T04:32:25.488306"
+  },
+  "108017": {
+    "id": 108017,
+    "title": "C'era un uomo",
+    "release_date": "1917-01-29",
+    "vote_average": 7.104,
+    "poster_path": "/pMMFQ26tXu7TXKFaA6kDkw7rEUp.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-07-26T04:32:25.582408"
+  },
+  "980431": {
+    "id": 980431,
+    "title": "Avatar Aang: l’ultimo dominatore dell’aria",
+    "release_date": "2026-07-24",
+    "vote_average": 9.255,
+    "poster_path": "/4Nil4DQfBGymHuL2Q9nQwg27orY.jpg",
+    "genre_ids": [
+      16,
+      28,
+      12,
+      14
+    ],
+    "cached_at": "2026-07-26T04:32:25.596798"
+  },
+  "656353": {
+    "id": 656353,
+    "title": "John e la musica per gli alieni",
+    "release_date": "2020-01-23",
+    "vote_average": 6.123,
+    "poster_path": "/8ofVHqDmJ47si1SHwJaAhx8nkmU.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-07-26T04:32:25.597767"
+  },
+  "10468": {
+    "id": 10468,
+    "title": "28 Giorni",
+    "release_date": "2000-04-06",
+    "vote_average": 6.157,
+    "poster_path": "/hqt1KDlSVBhIEF0Ea50wPLlYSK4.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-07-26T04:32:25.603660"
+  },
+  "147622": {
+    "id": 147622,
+    "title": "Ingeborg Holm",
+    "release_date": "1913-10-27",
+    "vote_average": 6.7,
+    "poster_path": "/1xvNugzStYyB5ZxycMiUebKb9up.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-26T04:32:25.609065"
   }
 }
