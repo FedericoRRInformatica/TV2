@@ -164996,5 +164996,29 @@
       18
     ],
     "cached_at": "2026-07-26T04:32:25.609065"
+  },
+  "1114967": {
+    "id": 1114967,
+    "title": "Good Fortune",
+    "release_date": "2025-10-14",
+    "vote_average": 6.895,
+    "poster_path": "/rywxUbd4zvHiRP7nOHeDzuQSLIZ.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "cached_at": "2026-07-27T04:41:40.848719"
+  },
+  "353571": {
+    "id": 353571,
+    "title": "Tallulah",
+    "release_date": "2016-06-02",
+    "vote_average": 6.707,
+    "poster_path": "/9kG86fYSa8Ug0o8RoT96Kce4URt.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-07-27T04:41:40.874677"
   }
 }
