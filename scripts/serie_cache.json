@@ -67821,5 +67821,31 @@
       18
     ],
     "cached_at": "2026-07-27T04:40:33.769544"
+  },
+  "296756": {
+    "id": 296756,
+    "name": "President Curtis",
+    "original_name": "President Curtis",
+    "first_air_date": "2026-07-26",
+    "vote_average": 7.1,
+    "poster_path": "/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "cached_at": "2026-07-28T04:14:42.060107"
+  },
+  "287238": {
+    "id": 287238,
+    "name": "Furious",
+    "original_name": "Furious",
+    "first_air_date": "2026-07-27",
+    "vote_average": 5.5,
+    "poster_path": "/qcTNUGkxpaFycXkItD3Jpn0Mcox.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-07-28T04:14:42.117520"
   }
 }
