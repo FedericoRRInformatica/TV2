@@ -165031,5 +165031,91 @@
       99
     ],
     "cached_at": "2026-07-28T04:15:40.599106"
+  },
+  "944194": {
+    "id": 944194,
+    "title": "Fuga in Normandia",
+    "release_date": "2023-10-06",
+    "vote_average": 6.657,
+    "poster_path": "/4QtqIHc6PMtXDq4nE1WOZ5fg45E.jpg",
+    "genre_ids": [
+      36,
+      18,
+      10752
+    ],
+    "cached_at": "2026-07-29T04:17:42.481305"
+  },
+  "22244": {
+    "id": 22244,
+    "title": "Society - The Horror",
+    "release_date": "1990-03-30",
+    "vote_average": 6.677,
+    "poster_path": "/dkNjUPxgL3fGMGE6cLHUWkjJGpr.jpg",
+    "genre_ids": [
+      35,
+      27,
+      9648
+    ],
+    "cached_at": "2026-07-29T04:17:42.511628"
+  },
+  "95519": {
+    "id": 95519,
+    "title": "Native",
+    "release_date": "2011-03-09",
+    "vote_average": 10.0,
+    "poster_path": "/tMyWDITBJ20Lubm8fDLc2H0tpnc.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "cached_at": "2026-07-29T04:17:42.527368"
+  },
+  "533992": {
+    "id": 533992,
+    "title": "Quando gli angeli dormono",
+    "release_date": "2018-09-07",
+    "vote_average": 5.548,
+    "poster_path": "/8H63RatgemerkjQs2zz0NAiKc2E.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "cached_at": "2026-07-29T04:17:42.530585"
+  },
+  "196357": {
+    "id": 196357,
+    "title": "Beket",
+    "release_date": "2009-01-23",
+    "vote_average": 5.15,
+    "poster_path": "/ycJKXEsqEFK69bgEhlLQ8zrCwHU.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-29T04:17:42.572091"
+  },
+  "57713": {
+    "id": 57713,
+    "title": "La scuola è finita",
+    "release_date": "2010-11-12",
+    "vote_average": 5.3,
+    "poster_path": "/46YfW74W4t4iaXn7uUMST83mMh7.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-29T04:17:42.593851"
+  },
+  "571648": {
+    "id": 571648,
+    "title": "Nido di vipere",
+    "release_date": "2020-02-19",
+    "vote_average": 7.066,
+    "poster_path": "/thQZ1c8rbXrVNVnPSVDUK6eehq3.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      80,
+      18
+    ],
+    "cached_at": "2026-07-29T04:17:42.599805"
   }
 }
