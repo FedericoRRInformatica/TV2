@@ -67847,5 +67847,31 @@
       80
     ],
     "cached_at": "2026-07-28T04:14:42.117520"
+  },
+  "328735": {
+    "id": 328735,
+    "name": "The Idaho Murders: Incubo al college",
+    "original_name": "The Idaho Murders: College Nightmare",
+    "first_air_date": "2026-07-29",
+    "vote_average": 5.25,
+    "poster_path": "/2Fjgxlv2ishFAaYYZLa6jccswbq.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-07-30T04:10:07.768317"
+  },
+  "247796": {
+    "id": 247796,
+    "name": "Diarra from Detroit",
+    "original_name": "Diarra from Detroit",
+    "first_air_date": "2024-03-21",
+    "vote_average": 4.9,
+    "poster_path": "/82h6c3yOXvaty7s0VNIFV8Fc3We.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-07-30T04:10:07.859524"
   }
 }
