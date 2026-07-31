@@ -67873,5 +67873,43 @@
       35
     ],
     "cached_at": "2026-07-30T04:10:07.859524"
+  },
+  "292533": {
+    "id": 292533,
+    "name": "Fúria",
+    "original_name": "Fúria",
+    "first_air_date": "2026-07-29",
+    "vote_average": 5.5,
+    "poster_path": "/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-07-31T04:27:17.178668"
+  },
+  "248226": {
+    "id": 248226,
+    "name": "La bomba sul volo Pan Am 103",
+    "original_name": "The Bombing of Pan Am 103",
+    "first_air_date": "2025-05-18",
+    "vote_average": 7.2,
+    "poster_path": "/9RR6jkc35HOJcZG3modHZwh3J3J.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-07-31T04:27:17.186405"
+  },
+  "327814": {
+    "id": 327814,
+    "name": "Il progetto finale",
+    "original_name": "Proyecto final",
+    "first_air_date": "2026-07-29",
+    "vote_average": 9.2,
+    "poster_path": "/11rCh2E4SmdT06Qr9HsBrIftoHQ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-07-31T04:27:17.210329"
   }
 }
