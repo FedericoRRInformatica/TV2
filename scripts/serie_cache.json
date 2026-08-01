@@ -67911,5 +67911,56 @@
       18
     ],
     "cached_at": "2026-07-31T04:27:17.210329"
+  },
+  "153268": {
+    "id": 153268,
+    "name": "Supernatural Academy",
+    "original_name": "Supernatural Academy",
+    "first_air_date": "2022-01-20",
+    "vote_average": 7.8,
+    "poster_path": "/9ZCngZIuBPaocJyiQHlyFecUpru.jpg",
+    "genre_ids": [
+      16,
+      10765
+    ],
+    "cached_at": "2026-08-01T04:24:01.113202"
+  },
+  "33301": {
+    "id": 33301,
+    "name": "Franklin & Bash",
+    "original_name": "Franklin & Bash",
+    "first_air_date": "2011-06-01",
+    "vote_average": 7.3,
+    "poster_path": "/so3xbOsAcG5lkxgfRjHbTFkXxM0.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-08-01T04:24:01.131042"
+  },
+  "153263": {
+    "id": 153263,
+    "name": "Cacciatori di vergini - Ken e Barbie serial killer",
+    "original_name": "Ken and Barbie Killers: The Lost Murder Tapes",
+    "first_air_date": "2021-12-12",
+    "vote_average": 7.9,
+    "poster_path": "/rlPnOc6LUj2hGoULSRwxx3fr5gA.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-08-01T04:24:01.154612"
+  },
+  "324562": {
+    "id": 324562,
+    "name": "Squatters: Get the F*** Out of My House",
+    "original_name": "Squatters: Get the F*** Out of My House",
+    "first_air_date": "2026-06-04",
+    "vote_average": 6.0,
+    "poster_path": "/yIhz2K69CdyyP5gxskI2L7AQW89.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-01T04:24:01.157198"
   }
 }
