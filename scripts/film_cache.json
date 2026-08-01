@@ -165420,5 +165420,227 @@
       35
     ],
     "cached_at": "2026-07-31T04:28:27.229888"
+  },
+  "14439": {
+    "id": 14439,
+    "title": "Le guerre del Pentagono",
+    "release_date": "1998-02-28",
+    "vote_average": 6.864,
+    "poster_path": "/qPe6EtkyONh6JuekhPZ56jRWyVV.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10752,
+      10770
+    ],
+    "cached_at": "2026-08-01T04:25:02.288925"
+  },
+  "97836": {
+    "id": 97836,
+    "title": "È nata una star?",
+    "release_date": "2012-03-23",
+    "vote_average": 4.933,
+    "poster_path": "/gjKRJYM0XcSw500cj41tgJU1K4j.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-01T04:25:02.308623"
+  },
+  "139504": {
+    "id": 139504,
+    "title": "Il comandante e la cicogna",
+    "release_date": "2012-10-18",
+    "vote_average": 6.6,
+    "poster_path": "/uyc3jrAhhAsCJbJBpILV54mkQdL.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-01T04:25:02.332023"
+  },
+  "261521": {
+    "id": 261521,
+    "title": "E fu sera e fu mattina",
+    "release_date": "2014-01-18",
+    "vote_average": 6.3,
+    "poster_path": "/geyDELgPfRSkzSQBDt99z2y9W9d.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-01T04:25:02.361944"
+  },
+  "575175": {
+    "id": 575175,
+    "title": "Senza distanza",
+    "release_date": "2018-06-05",
+    "vote_average": 6.7,
+    "poster_path": "/8Rwe5iOpUioNBO3YTX1EKO1rhZM.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-01T04:25:02.377417"
+  },
+  "234356": {
+    "id": 234356,
+    "title": "L'ultima ruota del carro",
+    "release_date": "2013-11-14",
+    "vote_average": 6.5,
+    "poster_path": "/zItWIwjckMhh5Mb1gAbUXMvr6qN.jpg",
+    "genre_ids": [
+      35,
+      18,
+      36
+    ],
+    "cached_at": "2026-08-01T04:25:02.396792"
+  },
+  "956462": {
+    "id": 956462,
+    "title": "Le voci sole",
+    "release_date": "2022-07-04",
+    "vote_average": 5.5,
+    "poster_path": "/rS6uq2Mt6RmkqdV6n5EntgNaKlF.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-01T04:25:02.396818"
+  },
+  "12823": {
+    "id": 12823,
+    "title": "Giorni e nuvole",
+    "release_date": "2007-10-26",
+    "vote_average": 6.743,
+    "poster_path": "/isxPrPTlQ5QzpHCzvFJbcs8kkOo.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ],
+    "cached_at": "2026-08-01T04:25:02.396832"
+  },
+  "42395": {
+    "id": 42395,
+    "title": "Generazione 1000 euro",
+    "release_date": "2009-04-24",
+    "vote_average": 5.777,
+    "poster_path": "/6a5YGMN2jUXa73iqgmuKvmZxBnM.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-01T04:25:02.396838"
+  },
+  "552088": {
+    "id": 552088,
+    "title": "Notti magiche",
+    "release_date": "2018-11-08",
+    "vote_average": 6.072,
+    "poster_path": "/iPfXIAQM8YacKLl9qrxGFLc9ROl.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-01T04:25:02.400506"
+  },
+  "69872": {
+    "id": 69872,
+    "title": "Il tuo vizio è una stanza chiusa e solo io ne ho la chiave",
+    "release_date": "1972-08-04",
+    "vote_average": 6.476,
+    "poster_path": "/yc5SYJvJ4JXXopzQtDuAW5KPm2q.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "cached_at": "2026-08-01T04:25:02.406556"
+  },
+  "486101": {
+    "id": 486101,
+    "title": "A casa tutti bene",
+    "release_date": "2018-02-14",
+    "vote_average": 6.206,
+    "poster_path": "/j92GNi6ooPKEDj44VdrkVM6rV1f.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-08-01T04:25:02.425587"
+  },
+  "273873": {
+    "id": 273873,
+    "title": "Esperienza",
+    "release_date": "2013-01-01",
+    "vote_average": 4.7,
+    "poster_path": "/aIBZxWBDIEmTKYSmS58pc2qhoft.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-08-01T04:25:02.503853"
+  },
+  "228290": {
+    "id": 228290,
+    "title": "Una piccola impresa meridionale",
+    "release_date": "2013-10-17",
+    "vote_average": 5.648,
+    "poster_path": "/2kMgLAQMpi3YRmP9KQ2JViV8yTk.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-01T04:25:02.777759"
+  },
+  "969424": {
+    "id": 969424,
+    "title": "Femminile singolare",
+    "release_date": "2022-05-11",
+    "vote_average": 6.0,
+    "poster_path": "/mymzsH1vIpCGlE4G9w2SN1Ppudg.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-01T04:25:02.789774"
+  },
+  "25403": {
+    "id": 25403,
+    "title": "Caro diario",
+    "release_date": "1993-11-12",
+    "vote_average": 7.326,
+    "poster_path": "/rAjbgSUvZDoy5jPbC5jD6pWvlyZ.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-08-01T04:25:03.113883"
+  },
+  "4960": {
+    "id": 4960,
+    "title": "Synecdoche, New York",
+    "release_date": "2008-10-24",
+    "vote_average": 7.532,
+    "poster_path": "/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-01T04:25:03.141738"
+  },
+  "424979": {
+    "id": 424979,
+    "title": "Little Miss Perfect",
+    "release_date": "2016-01-21",
+    "vote_average": 5.1,
+    "poster_path": "/p5iJDEjYBEdtP6qfhIq5Xd2dVXi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-01T04:25:03.549606"
+  },
+  "160790": {
+    "id": 160790,
+    "title": "Prima comunione",
+    "release_date": "1950-09-29",
+    "vote_average": 6.316,
+    "poster_path": "/9GxPrPbWDVIuWZiC6CFIEeU0Hov.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-01T04:25:03.757093"
   }
 }
