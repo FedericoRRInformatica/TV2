@@ -165642,5 +165642,50 @@
       35
     ],
     "cached_at": "2026-08-01T04:25:03.757093"
+  },
+  "1698575": {
+    "id": 1698575,
+    "title": "Snoopy presenta: Sei a casa, Snoopy",
+    "release_date": "2026-07-30",
+    "vote_average": 7.857,
+    "poster_path": "/iczBI8DAMcWdgSkMFxFzSFcSEMw.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "cached_at": "2026-08-02T04:27:38.069941"
+  },
+  "1715492": {
+    "id": 1715492,
+    "title": "Costa Concordia: incubo in mare",
+    "release_date": "2026-07-10",
+    "vote_average": 7.278,
+    "poster_path": "/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-02T04:27:38.085664"
+  },
+  "916405": {
+    "id": 916405,
+    "title": "The Quiet Girl",
+    "release_date": "2022-05-12",
+    "vote_average": 7.5,
+    "poster_path": "/c268Sxlx9LSR4taaUCrbZ7Swj7k.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-02T04:27:38.092454"
+  },
+  "1491636": {
+    "id": 1491636,
+    "title": "Più di ieri",
+    "release_date": "2025-05-29",
+    "vote_average": 0.0,
+    "poster_path": "/whVCOsoarlpevNqfIydpFL8ZjkQ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-02T04:27:38.114020"
   }
 }
