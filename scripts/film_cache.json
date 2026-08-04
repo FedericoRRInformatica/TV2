@@ -165699,5 +165699,54 @@
       14
     ],
     "cached_at": "2026-08-03T04:46:12.118525"
+  },
+  "72894": {
+    "id": 72894,
+    "title": "Il comune senso del pudore",
+    "release_date": "1976-03-09",
+    "vote_average": 5.793,
+    "poster_path": "/uTtYod2Xl4Tw2jYNb3hc09mBcAR.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-04T04:18:41.907398"
+  },
+  "8987": {
+    "id": 8987,
+    "title": "The River Wild - Il fiume della paura",
+    "release_date": "1994-09-30",
+    "vote_average": 6.459,
+    "poster_path": "/bjUTimNWqnaVtFXQ7Wy9FpZIldo.jpg",
+    "genre_ids": [
+      12,
+      53,
+      18
+    ],
+    "cached_at": "2026-08-04T04:18:41.919966"
+  },
+  "56551": {
+    "id": 56551,
+    "title": "Maledetto il giorno che t'ho incontrato",
+    "release_date": "1992-01-31",
+    "vote_average": 6.642,
+    "poster_path": "/l9AGWeX90hlxl7GykkGKjlmUCYw.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-08-04T04:18:41.932586"
+  },
+  "11612": {
+    "id": 11612,
+    "title": "Anche gli angeli mangiano fagioli",
+    "release_date": "1973-03-22",
+    "vote_average": 6.411,
+    "poster_path": "/rqYYgaHVWd5bUBCWxonq1IIzD2a.jpg",
+    "genre_ids": [
+      80,
+      28,
+      35
+    ],
+    "cached_at": "2026-08-04T04:18:41.936562"
   }
 }
