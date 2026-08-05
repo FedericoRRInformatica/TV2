@@ -165748,5 +165748,112 @@
       35
     ],
     "cached_at": "2026-08-04T04:18:41.936562"
+  },
+  "45004": {
+    "id": 45004,
+    "title": "I nuovi mostri",
+    "release_date": "1977-12-15",
+    "vote_average": 6.985,
+    "poster_path": "/zH3F2r6QiJjHfXSy1cA9vSMoPVO.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-05T04:16:13.505199"
+  },
+  "1118848": {
+    "id": 1118848,
+    "title": "Noi e loro",
+    "release_date": "2025-01-22",
+    "vote_average": 6.481,
+    "poster_path": "/ilGApFMmhEP90jsgtqYe2tRKgK.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-05T04:16:13.509400"
+  },
+  "52074": {
+    "id": 52074,
+    "title": "Nero bifamiliare",
+    "release_date": "2007-04-13",
+    "vote_average": 4.542,
+    "poster_path": "/cHyJtsjP4KLIBamMgQf8pR959aM.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-05T04:16:13.515673"
+  },
+  "1217602": {
+    "id": 1217602,
+    "title": "London Calling",
+    "release_date": "2025-09-18",
+    "vote_average": 6.459,
+    "poster_path": "/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg",
+    "genre_ids": [
+      28,
+      80,
+      35
+    ],
+    "cached_at": "2026-08-05T04:16:13.526606"
+  },
+  "1212763": {
+    "id": 1212763,
+    "title": "La casa - Il rogo del Male",
+    "release_date": "2026-07-07",
+    "vote_average": 7.429,
+    "poster_path": "/kOk4sSTUJVuC4qDUoGu1JkrJ9UT.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-08-05T04:16:13.534440"
+  },
+  "11384": {
+    "id": 11384,
+    "title": "Insieme per forza",
+    "release_date": "1991-03-08",
+    "vote_average": 6.166,
+    "poster_path": "/4P3zzlvBfrDU4khau74uje33sCa.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "cached_at": "2026-08-05T04:16:13.538413"
+  },
+  "62044": {
+    "id": 62044,
+    "title": "Commediasexi",
+    "release_date": "2006-12-14",
+    "vote_average": 4.218,
+    "poster_path": "/dQvDqXB5WEesNUyYeC54VRX8tmH.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-05T04:16:13.542540"
+  },
+  "16337": {
+    "id": 16337,
+    "title": "Non aprite quella porta - Parte 2",
+    "release_date": "1986-08-22",
+    "vote_average": 5.7,
+    "poster_path": "/l6JTlE736sl0r7egvc2tFOnurCZ.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "cached_at": "2026-08-05T04:16:13.552318"
+  },
+  "1299799": {
+    "id": 1299799,
+    "title": "Chopin, Notturno a Parigi",
+    "release_date": "2025-10-10",
+    "vote_average": 6.9,
+    "poster_path": "/ibhCjnwYJGcnaiOMU86vEgeE2Up.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10402
+    ],
+    "cached_at": "2026-08-05T04:16:13.844033"
   }
 }
