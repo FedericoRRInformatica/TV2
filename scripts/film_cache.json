@@ -165855,5 +165855,169 @@
       10402
     ],
     "cached_at": "2026-08-05T04:16:13.844033"
+  },
+  "315877": {
+    "id": 315877,
+    "title": "Franco e Ciccio superstars",
+    "release_date": "1974-01-01",
+    "vote_average": 6.25,
+    "poster_path": "/fBCtbWKHiMd5ZdZzMm1TbniVHrn.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-06T04:18:13.718928"
+  },
+  "62038": {
+    "id": 62038,
+    "title": "I soliti ignoti vent'anni dopo",
+    "release_date": "1985-12-25",
+    "vote_average": 5.25,
+    "poster_path": "/ppM4rA66dlAFU3zgNb4Aon3Fx4f.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-06T04:18:13.737837"
+  },
+  "65758": {
+    "id": 65758,
+    "title": "Chicken Park",
+    "release_date": "1996-04-05",
+    "vote_average": 3.308,
+    "poster_path": "/fLQ0GguUjx2QBEEAohnE0Q5i68o.jpg",
+    "genre_ids": [
+      35,
+      878
+    ],
+    "cached_at": "2026-08-06T04:18:13.737854"
+  },
+  "1740877": {
+    "id": 1740877,
+    "title": "Storm on Sesame Street",
+    "release_date": "2026-08-03",
+    "vote_average": 0.0,
+    "poster_path": "/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg",
+    "genre_ids": [
+      10751,
+      16
+    ],
+    "cached_at": "2026-08-06T04:18:13.774091"
+  },
+  "1156908": {
+    "id": 1156908,
+    "title": "C'è sempre un perchè",
+    "release_date": "2016-06-01",
+    "vote_average": 0.0,
+    "poster_path": "/6Kr7tEO9OlKEerqSIJShW9mjgRX.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-08-06T04:18:13.788942"
+  },
+  "331464": {
+    "id": 331464,
+    "title": "Black Beauty - Una storia di coraggio",
+    "release_date": "2015-07-16",
+    "vote_average": 6.7,
+    "poster_path": "/hMwGYesxIQ36QDJrb2XWllhiTD5.jpg",
+    "genre_ids": [
+      10751
+    ],
+    "cached_at": "2026-08-06T04:18:13.793858"
+  },
+  "1718305": {
+    "id": 1718305,
+    "title": "La Perfezione",
+    "release_date": "2023-10-10",
+    "vote_average": 7.5,
+    "poster_path": "/tZ9x02sH2HqNYNksMaw0Dy9i3Qn.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-06T04:18:13.799338"
+  },
+  "979851": {
+    "id": 979851,
+    "title": "The Ordinaries",
+    "release_date": "2023-03-30",
+    "vote_average": 6.125,
+    "poster_path": "/imP8VJGdQF2dmx0fvaFl7m9clC7.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "cached_at": "2026-08-06T04:18:13.820175"
+  },
+  "763174": {
+    "id": 763174,
+    "title": "L'Uno",
+    "release_date": "2020-11-23",
+    "vote_average": 7.0,
+    "poster_path": "/r9U8heRGuQpLZqPESWdPfbf57ZZ.jpg",
+    "genre_ids": [
+      35,
+      18,
+      878
+    ],
+    "cached_at": "2026-08-06T04:18:13.829120"
+  },
+  "32924": {
+    "id": 32924,
+    "title": "Ore contate",
+    "release_date": "1990-04-03",
+    "vote_average": 5.302,
+    "poster_path": "/e2U0Fm4eZJvi6AMou1BaAaWSgME.jpg",
+    "genre_ids": [
+      18,
+      28,
+      53,
+      10749
+    ],
+    "cached_at": "2026-08-06T04:18:13.851654"
+  },
+  "5228": {
+    "id": 5228,
+    "title": "Il gigante della strada",
+    "release_date": "1976-04-23",
+    "vote_average": 5.7,
+    "poster_path": "/mpen8R55vSVbqvXXu8yxYDPeRs1.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-08-06T04:18:14.154267"
+  },
+  "260769": {
+    "id": 260769,
+    "title": "I magnifici tre",
+    "release_date": "1961-11-10",
+    "vote_average": 5.389,
+    "poster_path": "/g3oXkwT03B26OljnDRJg0MfKWUu.jpg",
+    "genre_ids": [
+      37,
+      35
+    ],
+    "cached_at": "2026-08-06T04:18:14.408265"
+  },
+  "476968": {
+    "id": 476968,
+    "title": "Paolo, apostolo di Cristo",
+    "release_date": "2018-03-22",
+    "vote_average": 7.605,
+    "poster_path": "/vXukHqv3OQ8mYgeafn3g8vmrHr8.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-08-06T04:18:14.412966"
+  },
+  "82832": {
+    "id": 82832,
+    "title": "Velocità massima",
+    "release_date": "2002-09-03",
+    "vote_average": 5.9,
+    "poster_path": "/y0EBUkZQfTrGGgm7EDk8JPYeqRq.jpg",
+    "genre_ids": [
+      18,
+      28
+    ],
+    "cached_at": "2026-08-06T04:18:14.623073"
   }
 }
