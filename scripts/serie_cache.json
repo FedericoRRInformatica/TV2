@@ -68000,5 +68000,43 @@
       35
     ],
     "cached_at": "2026-08-05T04:15:02.961267"
+  },
+  "325022": {
+    "id": 325022,
+    "name": "GTO",
+    "original_name": "GTO",
+    "first_air_date": "2026-07-20",
+    "vote_average": 7.0,
+    "poster_path": "/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-06T04:17:04.575872"
+  },
+  "318760": {
+    "id": 318760,
+    "name": "Uno sbirro in Appennino",
+    "original_name": "Uno sbirro in Appennino",
+    "first_air_date": "2026-04-09",
+    "vote_average": 7.6,
+    "poster_path": "/l34f1K7xvpn2ENw2t3keOL8k8uH.jpg",
+    "genre_ids": [
+      80,
+      9648
+    ],
+    "cached_at": "2026-08-06T04:17:04.579016"
+  },
+  "283297": {
+    "id": 283297,
+    "name": "Sterling Point - l'isola dei segreti",
+    "original_name": "Sterling Point",
+    "first_air_date": "2026-08-05",
+    "vote_average": 6.2,
+    "poster_path": "/eRJmTnQrdmodTARDmI3z2tRFEZU.jpg",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "cached_at": "2026-08-06T04:17:04.592704"
   }
 }
