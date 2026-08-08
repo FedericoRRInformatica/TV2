@@ -166052,5 +166052,218 @@
     "poster_path": "/cxUrOGZ9iGYpKRADVNIkl8M81u2.jpg",
     "genre_ids": [],
     "cached_at": "2026-08-07T03:54:31.810523"
+  },
+  "1284041": {
+    "id": 1284041,
+    "title": "The Last House",
+    "release_date": "2026-08-06",
+    "vote_average": 6.2,
+    "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2026-08-08T02:57:42.753126"
+  },
+  "743439": {
+    "id": 743439,
+    "title": "Paw Patrol - Jet in Soccorso",
+    "release_date": "2020-09-10",
+    "vote_average": 7.091,
+    "poster_path": "/qHcn3PbjVHxBweDZxWpYH3JfugS.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "cached_at": "2026-08-08T02:57:42.797283"
+  },
+  "24748": {
+    "id": 24748,
+    "title": "Hud il selvaggio",
+    "release_date": "1963-05-24",
+    "vote_average": 7.3,
+    "poster_path": "/iEUKsK0EzVjI4004HVSPnH6JVgs.jpg",
+    "genre_ids": [
+      18,
+      37
+    ],
+    "cached_at": "2026-08-08T02:57:42.799040"
+  },
+  "88057": {
+    "id": 88057,
+    "title": "Guida alla morte per principianti",
+    "release_date": "2010-09-17",
+    "vote_average": 5.986,
+    "poster_path": "/23kFG6FCM8WJYaLxqVmUEeuu853.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-08-08T02:57:42.805310"
+  },
+  "1725055": {
+    "id": 1725055,
+    "title": "The Lift",
+    "release_date": "2026-08-02",
+    "vote_average": 0.0,
+    "poster_path": "/oWCUWm3MlDr6m6KBiuaawRc5TdY.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-08-08T02:57:42.814841"
+  },
+  "1039960": {
+    "id": 1039960,
+    "title": "Monster High 2",
+    "release_date": "2023-10-05",
+    "vote_average": 6.8,
+    "poster_path": "/9RaCErx1ofEBiUsifGFaA6F6rKt.jpg",
+    "genre_ids": [
+      14,
+      878,
+      28,
+      12
+    ],
+    "cached_at": "2026-08-08T02:57:42.814856"
+  },
+  "9796": {
+    "id": 9796,
+    "title": "Turistas",
+    "release_date": "2006-12-01",
+    "vote_average": 5.469,
+    "poster_path": "/rWHEsZGQY3QnQkLiA3wzwHBomu4.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-08-08T02:57:42.819283"
+  },
+  "342657": {
+    "id": 342657,
+    "title": "The Silenced",
+    "release_date": "2015-06-18",
+    "vote_average": 6.494,
+    "poster_path": "/bYNVf06p53bmt2buLynsnkBLpzP.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "cached_at": "2026-08-08T02:57:42.821196"
+  },
+  "15681": {
+    "id": 15681,
+    "title": "Ex",
+    "release_date": "2009-02-06",
+    "vote_average": 5.726,
+    "poster_path": "/hQ5R1mZMaAT7wuyytBHxUeXuzZC.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-08-08T02:57:42.823046"
+  },
+  "455546": {
+    "id": 455546,
+    "title": "Il segreto della sirena",
+    "release_date": "2017-05-16",
+    "vote_average": 5.4,
+    "poster_path": "/5bjKOunzhYbnYxbsvzjxrmTkIpp.jpg",
+    "genre_ids": [
+      10751
+    ],
+    "cached_at": "2026-08-08T02:57:42.826292"
+  },
+  "2039": {
+    "id": 2039,
+    "title": "Stregata dalla luna",
+    "release_date": "1987-12-16",
+    "vote_average": 6.841,
+    "poster_path": "/obF1HEfYnsPXPxF6fKfxPM1hjzh.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-08-08T02:57:42.826301"
+  },
+  "653247": {
+    "id": 653247,
+    "title": "Turuleca - La gallina canterina",
+    "release_date": "2020-01-01",
+    "vote_average": 7.1,
+    "poster_path": "/yy0jQpW3mb30WI1KkB1oCl7mG8f.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      10402,
+      12
+    ],
+    "cached_at": "2026-08-08T02:57:42.837641"
+  },
+  "499722": {
+    "id": 499722,
+    "title": "Sogno di una notte di mezza età",
+    "release_date": "2018-04-26",
+    "vote_average": 4.988,
+    "poster_path": "/uCfpGdEPKrd5f6kPw3jjewCCh2d.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "cached_at": "2026-08-08T02:57:42.842777"
+  },
+  "1327690": {
+    "id": 1327690,
+    "title": "One Mile: Chapter Two",
+    "release_date": "2026-02-27",
+    "vote_average": 6.756,
+    "poster_path": "/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "cached_at": "2026-08-08T02:57:42.909901"
+  },
+  "1327688": {
+    "id": 1327688,
+    "title": "One Mile: Chapter One",
+    "release_date": "2026-02-20",
+    "vote_average": 6.9,
+    "poster_path": "/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "cached_at": "2026-08-08T02:57:42.976476"
+  },
+  "1263532": {
+    "id": 1263532,
+    "title": "Corrida dos Bichos - La legge del branco",
+    "release_date": "2026-03-17",
+    "vote_average": 6.344,
+    "poster_path": "/rfxKM8Zp0j3HrBG8kEaNKhGEeT4.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "cached_at": "2026-08-08T02:57:43.533231"
+  },
+  "15338": {
+    "id": 15338,
+    "title": "Ace Ventura 3",
+    "release_date": "2009-03-24",
+    "vote_average": 3.367,
+    "poster_path": "/wnLBkPxGn2w8GwHw44MDDFX4R95.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      12,
+      80
+    ],
+    "cached_at": "2026-08-08T02:57:44.157902"
   }
 }
