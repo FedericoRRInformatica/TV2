@@ -166265,5 +166265,190 @@
       80
     ],
     "cached_at": "2026-08-08T02:57:44.157902"
+  },
+  "44470": {
+    "id": 44470,
+    "title": "I gusti del terrore",
+    "release_date": "1995-05-09",
+    "vote_average": 5.497,
+    "poster_path": "/zUMfAvZdYLLCg6IvgjYV5xedv5d.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "cached_at": "2026-08-09T03:05:15.509248"
+  },
+  "254258": {
+    "id": 254258,
+    "title": "Il magico mondo di Walt Disney",
+    "release_date": "2014-05-02",
+    "vote_average": 3.9,
+    "poster_path": "/ynncDrMtTAPgvU7NrJ2sPj3pCLL.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "cached_at": "2026-08-09T03:05:15.551633"
+  },
+  "38363": {
+    "id": 38363,
+    "title": "Fair Game - Caccia alla spia",
+    "release_date": "2010-05-20",
+    "vote_average": 6.455,
+    "poster_path": "/ljSspJm0zaTJ9TrhIdwlJeeWEJj.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-08-09T03:05:15.565352"
+  },
+  "2013": {
+    "id": 2013,
+    "title": "Lo scafandro e la farfalla",
+    "release_date": "2007-05-23",
+    "vote_average": 7.571,
+    "poster_path": "/qYN6kTJ9PU6LigjH7hvDztpYTud.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-08-09T03:05:15.581366"
+  },
+  "67685": {
+    "id": 67685,
+    "title": "Una ragazza per due",
+    "release_date": "2002-09-27",
+    "vote_average": 4.25,
+    "poster_path": "/rlEeNysvPY6o8fbx52Rn6kO23d9.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-08-09T03:05:15.587694"
+  },
+  "462723": {
+    "id": 462723,
+    "title": "Quando arriva l'amore",
+    "release_date": "2018-02-01",
+    "vote_average": 5.515,
+    "poster_path": "/hGoq54cSXqT5ICGGZC9F1ZXm2Xp.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-08-09T03:05:15.602926"
+  },
+  "70009": {
+    "id": 70009,
+    "title": "The River Murders - Vendetta di sangue",
+    "release_date": "2011-06-30",
+    "vote_average": 5.213,
+    "poster_path": "/2OLN4bTN420t2rKKQK8RhpnlqwH.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "cached_at": "2026-08-09T03:05:15.604530"
+  },
+  "254578": {
+    "id": 254578,
+    "title": "Il segreto del suo volto",
+    "release_date": "2014-09-25",
+    "vote_average": 6.831,
+    "poster_path": "/imOpRSPHFzisdUZ3IvD4KYbnJoq.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-09T03:05:15.619883"
+  },
+  "345934": {
+    "id": 345934,
+    "title": "The Bombing - La battaglia di Chongqing",
+    "release_date": "2018-10-26",
+    "vote_average": 5.062,
+    "poster_path": "/9A2YkTjYN6u5V0Jk9xP0K0dTQ4V.jpg",
+    "genre_ids": [
+      28,
+      18,
+      10752,
+      36
+    ],
+    "cached_at": "2026-08-09T03:05:15.636862"
+  },
+  "14458": {
+    "id": 14458,
+    "title": "Altered - Paura dallo spazio profondo",
+    "release_date": "2006-12-19",
+    "vote_average": 5.414,
+    "poster_path": "/niQq7jV4IgFcSsXYAyjYByUsZwK.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2026-08-09T03:05:15.640087"
+  },
+  "6951": {
+    "id": 6951,
+    "title": "Turner e il casinaro",
+    "release_date": "1989-07-28",
+    "vote_average": 6.323,
+    "poster_path": "/AfdHzR2bS09xDuzzGmmQKirieQX.jpg",
+    "genre_ids": [
+      28,
+      35,
+      53,
+      80,
+      10751
+    ],
+    "cached_at": "2026-08-09T03:05:16.051344"
+  },
+  "476070": {
+    "id": 476070,
+    "title": "Le meraviglie del mare",
+    "release_date": "2017-12-21",
+    "vote_average": 6.7,
+    "poster_path": "/fBzL9zQfcUQAEfNZs3K4iXQalC5.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-09T03:05:16.207887"
+  },
+  "378112": {
+    "id": 378112,
+    "title": "La fiaba infinita",
+    "release_date": "2019-10-24",
+    "vote_average": 6.886,
+    "poster_path": "/gTbFoDaBM6kLdPY8FoEGoqCv4XH.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "cached_at": "2026-08-09T03:05:16.208984"
+  },
+  "62036": {
+    "id": 62036,
+    "title": "Audace colpo dei soliti ignoti",
+    "release_date": "1959-12-19",
+    "vote_average": 6.862,
+    "poster_path": "/gV2LHaPsO2CySurC7vmLyBRjbcP.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-09T03:05:16.423600"
+  },
+  "840283": {
+    "id": 840283,
+    "title": "The Match - La grande partita",
+    "release_date": "2021-07-10",
+    "vote_average": 6.1,
+    "poster_path": "/lPgsxkN80HbifiEzvnBf3p02cI.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "cached_at": "2026-08-09T03:05:16.702833"
   }
 }
