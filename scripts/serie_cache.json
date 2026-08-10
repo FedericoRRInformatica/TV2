@@ -68102,5 +68102,32 @@
       35
     ],
     "cached_at": "2026-08-09T03:04:20.539821"
+  },
+  "220074": {
+    "id": 220074,
+    "name": "재벌X형사",
+    "original_name": "재벌X형사",
+    "first_air_date": "2024-01-26",
+    "vote_average": 7.8,
+    "poster_path": "/aLrGyfe2nbfM9PvtSYoKy5jEOJu.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648,
+      10759
+    ],
+    "cached_at": "2026-08-10T03:13:40.936316"
+  },
+  "155772": {
+    "id": 155772,
+    "name": "Rap Sh!t",
+    "original_name": "Rap Sh!t",
+    "first_air_date": "2022-07-21",
+    "vote_average": 5.7,
+    "poster_path": "/vHkgTxk0YE94AiQIbv8PfJGkxR2.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-10T03:13:40.944657"
   }
 }
