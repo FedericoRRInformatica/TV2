@@ -166450,5 +166450,418 @@
       10752
     ],
     "cached_at": "2026-08-09T03:05:16.702833"
+  },
+  "950253": {
+    "id": 950253,
+    "title": "Dr. Cheon e il talismano perduto",
+    "release_date": "2023-09-27",
+    "vote_average": 6.224,
+    "poster_path": "/5gUEkdKNOVAUZtrhOr8hL9nBH7N.jpg",
+    "genre_ids": [
+      14,
+      9648,
+      28
+    ],
+    "cached_at": "2026-08-10T03:14:42.141991"
+  },
+  "973628": {
+    "id": 973628,
+    "title": "A Normal Family",
+    "release_date": "2024-10-16",
+    "vote_average": 6.941,
+    "poster_path": "/chuNOF8p6Y1mJ0McFKa17ojXAsL.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-08-10T03:14:42.176320"
+  },
+  "877087": {
+    "id": 877087,
+    "title": "L'uomo nel furgone bianco",
+    "release_date": "2024-12-13",
+    "vote_average": 6.2,
+    "poster_path": "/A98LHlo4wvgV3d79IovLhL0KSL5.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-08-10T03:14:42.199345"
+  },
+  "844409": {
+    "id": 844409,
+    "title": "L'imprevedibile viaggio di Harold Fry",
+    "release_date": "2023-04-27",
+    "vote_average": 6.658,
+    "poster_path": "/iInpHtRvw6mAs0ceNgrFGFNXjWy.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-10T03:14:42.199359"
+  },
+  "17728": {
+    "id": 17728,
+    "title": "Wieners - Un viaggio da sballo",
+    "release_date": "2008-06-03",
+    "vote_average": 4.314,
+    "poster_path": "/5Gh4fUsR73w9S1RS9hnv37hWnTs.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-10T03:14:42.205670"
+  },
+  "94348": {
+    "id": 94348,
+    "title": "Alex Cross - La memoria del killer",
+    "release_date": "2012-10-18",
+    "vote_average": 5.133,
+    "poster_path": "/pFwsJtx4aipzhAVWw9eNTdDH32V.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80,
+      9648
+    ],
+    "cached_at": "2026-08-10T03:14:42.228715"
+  },
+  "1296504": {
+    "id": 1296504,
+    "title": "Stand Your Ground",
+    "release_date": "2025-05-09",
+    "vote_average": 4.479,
+    "poster_path": "/u4GW1qTNjooEFSXDBVDMmYb52qC.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2026-08-10T03:14:42.256720"
+  },
+  "1728056": {
+    "id": 1728056,
+    "title": "Big Chicken: il complotto del fast food",
+    "release_date": "2026-08-05",
+    "vote_average": 4.75,
+    "poster_path": "/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-10T03:14:42.262742"
+  },
+  "1123278": {
+    "id": 1123278,
+    "title": "Lazareth",
+    "release_date": "2024-05-10",
+    "vote_average": 6.031,
+    "poster_path": "/2MAABWEVTZx5dDpobKu0LUY6DxV.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-08-10T03:14:42.280361"
+  },
+  "1128546": {
+    "id": 1128546,
+    "title": "Codice Di Vendetta - Barron's Cove",
+    "release_date": "2025-06-06",
+    "vote_average": 7.059,
+    "poster_path": "/jA9YYBd9pgFvZV4BQaJL8B7yyUV.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18
+    ],
+    "cached_at": "2026-08-10T03:14:42.300243"
+  },
+  "13160": {
+    "id": 13160,
+    "title": "La sposa fantasma",
+    "release_date": "2008-02-01",
+    "vote_average": 5.501,
+    "poster_path": "/n1DmKXxg71tYSn45mU6pzRasTEm.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-10T03:14:42.320706"
+  },
+  "31289": {
+    "id": 31289,
+    "title": "Il caimano",
+    "release_date": "2006-03-24",
+    "vote_average": 6.701,
+    "poster_path": "/z7T4Fubxit7jqkSN8Z6SML8G1es.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-08-10T03:14:42.329085"
+  },
+  "467632": {
+    "id": 467632,
+    "title": "Bad Samaritan",
+    "release_date": "2018-04-19",
+    "vote_average": 6.736,
+    "poster_path": "/ojCu9SLxAPwhhC2tXtHNdrTmxCH.jpg",
+    "genre_ids": [
+      53,
+      80,
+      27,
+      18
+    ],
+    "cached_at": "2026-08-10T03:14:42.336271"
+  },
+  "1297028": {
+    "id": 1297028,
+    "title": "Rosario",
+    "release_date": "2025-05-01",
+    "vote_average": 5.495,
+    "poster_path": "/e4PQAcSbb9Wrk7FE5L5ca1Sx69M.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-08-10T03:14:42.336284"
+  },
+  "1653": {
+    "id": 1653,
+    "title": "I diari della motocicletta",
+    "release_date": "2004-02-06",
+    "vote_average": 7.413,
+    "poster_path": "/ffUDlxqw0cQYpjVLbJS9pdkQVZS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-10T03:14:42.403249"
+  },
+  "597233": {
+    "id": 597233,
+    "title": "Only - Minaccia Letale",
+    "release_date": "2020-03-06",
+    "vote_average": 5.213,
+    "poster_path": "/xF7HUKC1OTWkHrC4a0r98XnMva6.jpg",
+    "genre_ids": [
+      878,
+      18,
+      28,
+      10749
+    ],
+    "cached_at": "2026-08-10T03:14:42.438075"
+  },
+  "561318": {
+    "id": 561318,
+    "title": "Santiago, Italia",
+    "release_date": "2018-12-06",
+    "vote_average": 7.2,
+    "poster_path": "/kjSnXFg4FxMrLFq4lY5smvUjgFb.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-10T03:14:42.449244"
+  },
+  "6519": {
+    "id": 6519,
+    "title": "Hazzard",
+    "release_date": "2005-08-05",
+    "vote_average": 5.618,
+    "poster_path": "/mBDhNxRMNEqTgAZpd4A8PSvnV7f.jpg",
+    "genre_ids": [
+      35,
+      12,
+      28
+    ],
+    "cached_at": "2026-08-10T03:14:42.805894"
+  },
+  "1428857": {
+    "id": 1428857,
+    "title": "On the Hunt – La sua caccia",
+    "release_date": "2026-02-27",
+    "vote_average": 4.5,
+    "poster_path": "/e6CG4daGh4BrMMAD73els2jFk1Z.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-08-10T03:14:42.917389"
+  },
+  "56020": {
+    "id": 56020,
+    "title": "Radiofreccia",
+    "release_date": "1998-10-16",
+    "vote_average": 7.056,
+    "poster_path": "/8GFai8BRvydP1DMGWGPC68ClEdk.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-08-10T03:14:42.945176"
+  },
+  "21575": {
+    "id": 21575,
+    "title": "Il profeta",
+    "release_date": "2009-08-26",
+    "vote_average": 7.566,
+    "poster_path": "/7ZtVeZg3Ye9IdxWxYBJjp8WWykK.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-08-10T03:14:42.953956"
+  },
+  "1107325": {
+    "id": 1107325,
+    "title": "Witchboard",
+    "release_date": "2025-08-14",
+    "vote_average": 5.679,
+    "poster_path": "/itmS5KQbZehyGLSZJmMymWKwpNG.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-08-10T03:14:43.061246"
+  },
+  "323372": {
+    "id": 323372,
+    "title": "Il corpo di Anna Fritz",
+    "release_date": "2015-03-15",
+    "vote_average": 6.857,
+    "poster_path": "/hJaC0mBzPQxlm6ZngJAhgytEtHj.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-08-10T03:14:43.301370"
+  },
+  "7301": {
+    "id": 7301,
+    "title": "Lonesome Jim",
+    "release_date": "2005-11-16",
+    "vote_average": 6.092,
+    "poster_path": "/z5wh9kFxpqC6bKB7TUx7j6X7BOq.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-08-10T03:14:43.363747"
+  },
+  "42399": {
+    "id": 42399,
+    "title": "Gli amici del Bar Margherita",
+    "release_date": "2009-04-03",
+    "vote_average": 5.6,
+    "poster_path": "/yYiwydcZW5Tobs0RzQkvCKkelpy.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-08-10T03:14:43.672848"
+  },
+  "43209": {
+    "id": 43209,
+    "title": "Ong-Bak 3 - La battaglia finale",
+    "release_date": "2010-05-05",
+    "vote_average": 6.091,
+    "poster_path": "/261iDmNJ42lMNGjaPnmIyMo4B5j.jpg",
+    "genre_ids": [
+      28,
+      12,
+      36
+    ],
+    "cached_at": "2026-08-10T03:14:43.714803"
+  },
+  "1118033": {
+    "id": 1118033,
+    "title": "The Seeding",
+    "release_date": "2024-01-26",
+    "vote_average": 5.12,
+    "poster_path": "/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-08-10T03:14:43.944558"
+  },
+  "167626": {
+    "id": 167626,
+    "title": "Panarea",
+    "release_date": "1997-01-10",
+    "vote_average": 3.268,
+    "poster_path": "/y33hpQoQDCGVgG5AqOVzup51xy5.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-10T03:14:44.213642"
+  },
+  "111190": {
+    "id": 111190,
+    "title": "Two Mothers",
+    "release_date": "2013-04-03",
+    "vote_average": 6.106,
+    "poster_path": "/3DvXDm2tGg9itEMKaYFSV229yjr.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-10T03:14:44.240262"
+  },
+  "227": {
+    "id": 227,
+    "title": "I ragazzi della 56ª strada",
+    "release_date": "1983-03-25",
+    "vote_average": 7.177,
+    "poster_path": "/8RZFN5EyjDWcSgCqGGBKJT2sqX8.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-08-10T03:14:44.367471"
+  },
+  "346684": {
+    "id": 346684,
+    "title": "Sulle ali delle aquile",
+    "release_date": "2016-06-17",
+    "vote_average": 5.704,
+    "poster_path": "/Okh5b09jJZT9mYcavYmHVxYIU5.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "cached_at": "2026-08-10T03:14:44.421376"
+  },
+  "25793": {
+    "id": 25793,
+    "title": "Precious",
+    "release_date": "2009-11-06",
+    "vote_average": 7.315,
+    "poster_path": "/lep9QeZvy5hUaUCnh9t9ceNJQDi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-10T03:14:44.547443"
+  },
+  "27381": {
+    "id": 27381,
+    "title": "Amore all'ultimo morso",
+    "release_date": "1992-09-25",
+    "vote_average": 6.182,
+    "poster_path": "/tYZH8EPBvfKgTSsnMVwmTyOL7Qe.jpg",
+    "genre_ids": [
+      35,
+      27,
+      80,
+      28,
+      10749
+    ],
+    "cached_at": "2026-08-10T03:14:44.776926"
+  },
+  "12205": {
+    "id": 12205,
+    "title": "Acqua scura - Dark Water",
+    "release_date": "2002-01-19",
+    "vote_average": 6.83,
+    "poster_path": "/hAZLRGIt9mDCxA3nU0V5ws82bnL.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-08-10T03:14:44.971081"
   }
 }
