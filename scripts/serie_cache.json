@@ -68129,5 +68129,43 @@
       35
     ],
     "cached_at": "2026-08-10T03:13:40.944657"
+  },
+  "285078": {
+    "id": 285078,
+    "name": "Profondo Nero Di Carlo Lucarelli",
+    "original_name": "Profondo Nero Di Carlo Lucarelli",
+    "first_air_date": "2015-01-01",
+    "vote_average": 0.0,
+    "poster_path": "/bQ278fQIaLUO2LCpWcoaf3Kfest.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-11T03:06:24.383733"
+  },
+  "210805": {
+    "id": 210805,
+    "name": "Tyler Perry's Zatima",
+    "original_name": "Tyler Perry's Zatima",
+    "first_air_date": "2022-09-21",
+    "vote_average": 8.1,
+    "poster_path": "/umB3MJQ79ZRvgO9uqpo6bsWl6vk.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-08-11T03:06:24.400208"
+  },
+  "256748": {
+    "id": 256748,
+    "name": "Haha, You Clowns",
+    "original_name": "Haha, You Clowns",
+    "first_air_date": "2025-10-19",
+    "vote_average": 7.5,
+    "poster_path": "/5baap1Y3pED0HltMRnUDW6w9Bny.jpg",
+    "genre_ids": [
+      35,
+      16
+    ],
+    "cached_at": "2026-08-11T03:06:24.413519"
   }
 }
