@@ -166863,5 +166863,514 @@
       53
     ],
     "cached_at": "2026-08-10T03:14:44.971081"
+  },
+  "19255": {
+    "id": 19255,
+    "title": "American Life",
+    "release_date": "2009-06-05",
+    "vote_average": 6.663,
+    "poster_path": "/iMVeuvxs9kI1qJxvkYVLVrCxzMP.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "cached_at": "2026-08-11T03:07:23.818789"
+  },
+  "4012": {
+    "id": 4012,
+    "title": "The Believer",
+    "release_date": "2001-08-23",
+    "vote_average": 6.9,
+    "poster_path": "/doe1zmrCRCSRkC3EdalFiUZhMxn.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-11T03:07:23.867866"
+  },
+  "341689": {
+    "id": 341689,
+    "title": "La ragazza del punk innamorato",
+    "release_date": "2017-10-06",
+    "vote_average": 5.988,
+    "poster_path": "/uCyvCHcWtYiX2WHbxXG69E1BcX6.jpg",
+    "genre_ids": [
+      35,
+      10402,
+      10749,
+      878
+    ],
+    "cached_at": "2026-08-11T03:07:23.880068"
+  },
+  "29794": {
+    "id": 29794,
+    "title": "Howling II - L'ululato",
+    "release_date": "1985-08-28",
+    "vote_average": 4.878,
+    "poster_path": "/tj9FRyIH58DpBdubcXswOJ3eP28.jpg",
+    "genre_ids": [
+      53,
+      27,
+      35
+    ],
+    "cached_at": "2026-08-11T03:07:23.897199"
+  },
+  "586742": {
+    "id": 586742,
+    "title": "Dreambuilders - La fabbrica dei sogni",
+    "release_date": "2020-02-06",
+    "vote_average": 7.5,
+    "poster_path": "/oRNDrJI0hCAaC9eaoFT9zRhDhE5.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751
+    ],
+    "cached_at": "2026-08-11T03:07:23.905631"
+  },
+  "10685": {
+    "id": 10685,
+    "title": "The Watcher",
+    "release_date": "2000-09-08",
+    "vote_average": 5.14,
+    "poster_path": "/d6BmvyYK77bFAK3QPiffvp0TLVB.jpg",
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "cached_at": "2026-08-11T03:07:23.929918"
+  },
+  "89455": {
+    "id": 89455,
+    "title": "Passioni e desideri",
+    "release_date": "2012-07-25",
+    "vote_average": 5.707,
+    "poster_path": "/xqT8WHsPGolm5shjYWspUwY50fo.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-08-11T03:07:23.929939"
+  },
+  "27902": {
+    "id": 27902,
+    "title": "Amore al primo tuffo",
+    "release_date": "2005-11-01",
+    "vote_average": 5.152,
+    "poster_path": "/vAh8KW4lazUYLtFcgXrkyjNXTpk.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-08-11T03:07:23.956788"
+  },
+  "519120": {
+    "id": 519120,
+    "title": "Troppa grazia",
+    "release_date": "2018-11-22",
+    "vote_average": 5.88,
+    "poster_path": "/lySuo056TBzUgFfOeFb6jkCP72R.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-08-11T03:07:23.956804"
+  },
+  "899139": {
+    "id": 899139,
+    "title": "Salaryman",
+    "release_date": "2021-11-18",
+    "vote_average": 3.5,
+    "poster_path": "/8tev4BZLLIseCIw1xMZmmQye7qq.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-11T03:07:23.973576"
+  },
+  "82696": {
+    "id": 82696,
+    "title": "Il matrimonio che vorrei",
+    "release_date": "2012-08-07",
+    "vote_average": 6.3,
+    "poster_path": "/ocGo1EppaebEzSxeyXgRYf8mRul.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "cached_at": "2026-08-11T03:07:23.983843"
+  },
+  "158182": {
+    "id": 158182,
+    "title": "Un giorno devi andare",
+    "release_date": "2013-01-21",
+    "vote_average": 6.3,
+    "poster_path": "/jrev43dDMMmr1iLl69HoxHOHuas.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-08-11T03:07:24.013454"
+  },
+  "44897": {
+    "id": 44897,
+    "title": "Matrimoni e altri disastri",
+    "release_date": "2010-04-23",
+    "vote_average": 5.236,
+    "poster_path": "/1Re6tPytooXNRAwfwWkWOnZY1pW.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-08-11T03:07:24.013467"
+  },
+  "115276": {
+    "id": 115276,
+    "title": "Pusher",
+    "release_date": "2012-10-12",
+    "vote_average": 5.256,
+    "poster_path": "/76smwe97T28S25GIglipMEparS3.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2026-08-11T03:07:24.013478"
+  },
+  "1046639": {
+    "id": 1046639,
+    "title": "I racconti della domenica",
+    "release_date": "2022-11-10",
+    "vote_average": 6.143,
+    "poster_path": "/vwzYHgNVrLlm92qpzeaF8Cu3Hpt.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-11T03:07:24.021052"
+  },
+  "18897": {
+    "id": 18897,
+    "title": "Non ti voltare",
+    "release_date": "2009-06-03",
+    "vote_average": 5.628,
+    "poster_path": "/jZUvfCRplXVDe1ptci3qknN0hvl.jpg",
+    "genre_ids": [
+      18,
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-08-11T03:07:24.042202"
+  },
+  "482981": {
+    "id": 482981,
+    "title": "A proposito di Rose",
+    "release_date": "2019-04-12",
+    "vote_average": 6.768,
+    "poster_path": "/w3DdmLSd3GBFDL29gX72qfoC44X.jpg",
+    "genre_ids": [
+      10402,
+      35,
+      18
+    ],
+    "cached_at": "2026-08-11T03:07:24.055360"
+  },
+  "554909": {
+    "id": 554909,
+    "title": "L'inquilina del piano di sopra",
+    "release_date": "1978-01-01",
+    "vote_average": 6.333,
+    "poster_path": "/2YZVf4fODY4Si0vdxM9w6VZSUmw.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-11T03:07:24.066541"
+  },
+  "37526": {
+    "id": 37526,
+    "title": "The Dentist 2",
+    "release_date": "1998-12-11",
+    "vote_average": 5.0,
+    "poster_path": "/9Rgf6PHyxGex4eIXGboarclXO5x.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "cached_at": "2026-08-11T03:07:24.074841"
+  },
+  "76025": {
+    "id": 76025,
+    "title": "Shame",
+    "release_date": "2011-10-02",
+    "vote_average": 6.936,
+    "poster_path": "/eqQ8hZpBrBjZ7BMpaOtSFXSHVyG.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-11T03:07:24.086901"
+  },
+  "563103": {
+    "id": 563103,
+    "title": "Door Lock",
+    "release_date": "2018-12-05",
+    "vote_average": 7.434,
+    "poster_path": "/AbQGbP8QsUse2LuEh0zkWwU14Pq.jpg",
+    "genre_ids": [
+      53,
+      80,
+      9648
+    ],
+    "cached_at": "2026-08-11T03:07:24.107780"
+  },
+  "269148": {
+    "id": 269148,
+    "title": "Samba",
+    "release_date": "2014-10-15",
+    "vote_average": 6.349,
+    "poster_path": "/hT4wVr4kuvbWiV7IXhN1bJNFj9M.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-08-11T03:07:24.133868"
+  },
+  "61667": {
+    "id": 61667,
+    "title": "Habemus Papam",
+    "release_date": "2011-04-15",
+    "vote_average": 6.774,
+    "poster_path": "/i2HcmPMgEsip5R5141Hq5QLfZSx.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-08-11T03:07:24.133885"
+  },
+  "445583": {
+    "id": 445583,
+    "title": "Questione di karma",
+    "release_date": "2017-03-09",
+    "vote_average": 5.8,
+    "poster_path": "/3PQ3CXBQce5OPBD3cPRis58XxqA.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-11T03:07:24.168765"
+  },
+  "8881": {
+    "id": 8881,
+    "title": "Che - L'argentino",
+    "release_date": "2008-09-05",
+    "vote_average": 6.805,
+    "poster_path": "/qRYOvS25iXtjsICuCBNglYCH7qc.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "cached_at": "2026-08-11T03:07:24.266023"
+  },
+  "56085": {
+    "id": 56085,
+    "title": "Camouflage - Professione detective",
+    "release_date": "2001-01-09",
+    "vote_average": 4.403,
+    "poster_path": "/bXxLmNSoG5Z3BXijxSFkNDwJuUO.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "cached_at": "2026-08-11T03:07:24.286005"
+  },
+  "458109": {
+    "id": 458109,
+    "title": "Doppia colpa",
+    "release_date": "2018-04-06",
+    "vote_average": 5.58,
+    "poster_path": "/uhlxMiobcl1rGje4f82W0VyDqv8.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      80
+    ],
+    "cached_at": "2026-08-11T03:07:24.286018"
+  },
+  "1359201": {
+    "id": 1359201,
+    "title": "Paradiso in vendita",
+    "release_date": "2025-07-24",
+    "vote_average": 5.0,
+    "poster_path": "/yo8StC0KM5pdnY1e7M3Iyfzah0D.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-08-11T03:07:24.289785"
+  },
+  "63316": {
+    "id": 63316,
+    "title": "Senza arte né parte",
+    "release_date": "2011-05-06",
+    "vote_average": 5.382,
+    "poster_path": "/3ye0DAzFkP2YvkSuqmkBlWVeR2z.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-11T03:07:24.307812"
+  },
+  "339397": {
+    "id": 339397,
+    "title": "Café Society",
+    "release_date": "2016-05-11",
+    "vote_average": 6.439,
+    "poster_path": "/td2ywEwbI0eDtL8fsZcoAhCO0VH.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-08-11T03:07:24.346419"
+  },
+  "17631": {
+    "id": 17631,
+    "title": "Pranzo di ferragosto",
+    "release_date": "2008-04-30",
+    "vote_average": 6.8,
+    "poster_path": "/lg9pyxNgyG6en9GW2qfdYLCwNwb.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-11T03:07:24.347696"
+  },
+  "393868": {
+    "id": 393868,
+    "title": "La coppia dei campioni",
+    "release_date": "2016-04-28",
+    "vote_average": 4.444,
+    "poster_path": "/wYCdGMJfonAo7YtsfrvhkLPpjNR.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-11T03:07:24.355899"
+  },
+  "531593": {
+    "id": 531593,
+    "title": "Reprisal",
+    "release_date": "2018-08-31",
+    "vote_average": 5.2,
+    "poster_path": "/AiRrAJn4MvZxsmaDwEo8gw4FmQh.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "cached_at": "2026-08-11T03:07:24.544204"
+  },
+  "78854": {
+    "id": 78854,
+    "title": "Scialla! (Stai sereno)",
+    "release_date": "2011-11-18",
+    "vote_average": 6.4,
+    "poster_path": "/RwyeBE6i44VVmr3QXR9zwL1G9b.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-11T03:07:25.023477"
+  },
+  "8880": {
+    "id": 8880,
+    "title": "Che - Guerriglia",
+    "release_date": "2008-12-12",
+    "vote_average": 6.637,
+    "poster_path": "/2vjRe8558aHvGGbO5zRHk7bzibs.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "cached_at": "2026-08-11T03:07:25.295818"
+  },
+  "11298": {
+    "id": 11298,
+    "title": "L'ululato",
+    "release_date": "1981-01-21",
+    "vote_average": 6.596,
+    "poster_path": "/29MGeGh8ply91ppaAMJoKQxU37J.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-08-11T03:07:25.575831"
+  },
+  "2029": {
+    "id": 2029,
+    "title": "Tanguy",
+    "release_date": "2001-11-21",
+    "vote_average": 5.969,
+    "poster_path": "/twnzCGzKYnsl5TI1QTfijlkzf2e.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-11T03:07:25.821116"
+  },
+  "315872": {
+    "id": 315872,
+    "title": "Mia madre",
+    "release_date": "2015-04-16",
+    "vote_average": 6.598,
+    "poster_path": "/fkTsusFtFE5qvYkzFIben1aKsTn.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-11T03:07:26.163374"
+  },
+  "52451": {
+    "id": 52451,
+    "title": "I tre moschettieri",
+    "release_date": "2011-08-31",
+    "vote_average": 5.8,
+    "poster_path": "/ezzXBKA5fkW5zjjT51helgBmxvj.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "cached_at": "2026-08-11T03:07:26.433127"
+  },
+  "59046": {
+    "id": 59046,
+    "title": "Mio cognato",
+    "release_date": "2003-09-25",
+    "vote_average": 6.288,
+    "poster_path": "/sJjOIZBaYG58V5SKw7w3C1qQThz.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-08-11T03:07:26.456630"
+  },
+  "1043905": {
+    "id": 1043905,
+    "title": "Dirty Angels",
+    "release_date": "2024-12-11",
+    "vote_average": 6.13,
+    "poster_path": "/1y3TG8N8zwwMxqh0qzdyDs3IyCq.jpg",
+    "genre_ids": [
+      18,
+      53,
+      10752
+    ],
+    "cached_at": "2026-08-11T03:07:26.537151"
+  },
+  "26583": {
+    "id": 26583,
+    "title": "The Keeper",
+    "release_date": "2009-10-03",
+    "vote_average": 5.0,
+    "poster_path": "/gdk015b9zxIwipDcXBZQMK6NCXN.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-08-11T03:07:26.560864"
   }
 }
