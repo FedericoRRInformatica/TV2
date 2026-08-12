@@ -167372,5 +167372,125 @@
       53
     ],
     "cached_at": "2026-08-11T03:07:26.560864"
+  },
+  "23521": {
+    "id": 23521,
+    "title": "Daffy Duck's Quackbusters - Agenzia acchiappafantasmi",
+    "release_date": "1988-09-24",
+    "vote_average": 6.763,
+    "poster_path": "/yjq0WGDHJHBiaUzsYZ8OZLNQiO7.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "cached_at": "2026-08-12T03:26:41.798427"
+  },
+  "160885": {
+    "id": 160885,
+    "title": "Tel chi el telùn",
+    "release_date": "1999-05-12",
+    "vote_average": 7.912,
+    "poster_path": "/428vjrQpsNWSutMkB9Zndp6nIBq.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-12T03:26:41.814350"
+  },
+  "28569": {
+    "id": 28569,
+    "title": "Splendore nell'erba",
+    "release_date": "1961-10-10",
+    "vote_average": 7.463,
+    "poster_path": "/a7chK7fQxEZzMMbsaaMPLNpPY1r.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-08-12T03:26:41.815374"
+  },
+  "38970": {
+    "id": 38970,
+    "title": "Ricordati di me",
+    "release_date": "2003-02-11",
+    "vote_average": 5.829,
+    "poster_path": "/xuVUKWjSkY5LntEBwAHCXMO1Tei.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "cached_at": "2026-08-12T03:26:41.832161"
+  },
+  "139826": {
+    "id": 139826,
+    "title": "Un problema d'onore",
+    "release_date": "1995-03-18",
+    "vote_average": 5.879,
+    "poster_path": "/wQfP0juGwqU6ZiXvC0MsnSwnQld.jpg",
+    "genre_ids": [
+      37,
+      10770
+    ],
+    "cached_at": "2026-08-12T03:26:41.846148"
+  },
+  "230213": {
+    "id": 230213,
+    "title": "Finn - Musica per un sogno",
+    "release_date": "2013-12-11",
+    "vote_average": 6.4,
+    "poster_path": "/nbLv30xEcSVFA6vH9FmMO4UEWwr.jpg",
+    "genre_ids": [
+      10751
+    ],
+    "cached_at": "2026-08-12T03:26:41.851850"
+  },
+  "1527482": {
+    "id": 1527482,
+    "title": "Din Don 9: Paesani spaesati",
+    "release_date": "2025-08-10",
+    "vote_average": 0.0,
+    "poster_path": "/yWYS7tSlEfIcJq0Y8aF0s6MCxoz.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-12T03:26:41.860888"
+  },
+  "26452": {
+    "id": 26452,
+    "title": "Hercules",
+    "release_date": "1983-08-12",
+    "vote_average": 4.932,
+    "poster_path": "/9a6mv3mEE1dRiUXuYneGgTtU2CZ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "cached_at": "2026-08-12T03:26:41.880351"
+  },
+  "1612018": {
+    "id": 1612018,
+    "title": "Jackass: Best and Last",
+    "release_date": "2026-06-25",
+    "vote_average": 7.133,
+    "poster_path": "/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+    "genre_ids": [
+      28,
+      35,
+      99
+    ],
+    "cached_at": "2026-08-12T03:26:41.881907"
+  },
+  "1523439": {
+    "id": 1523439,
+    "title": "Din Don 8: Viaggio di nozze a Cinecittà World",
+    "release_date": "2025-08-03",
+    "vote_average": 7.0,
+    "poster_path": "/bNWcnWpM0g7inLYo175a3w2oYh8.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-12T03:26:42.685790"
   }
 }
