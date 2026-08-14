@@ -167797,5 +167797,109 @@
       10749
     ],
     "cached_at": "2026-08-13T03:29:54.885524"
+  },
+  "539529": {
+    "id": 539529,
+    "title": "Notturno",
+    "release_date": "2020-09-09",
+    "vote_average": 6.683,
+    "poster_path": "/gUs5syG57q6BV2A7Sr4eBzL1pTr.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-14T03:27:02.514505"
+  },
+  "137475": {
+    "id": 137475,
+    "title": "Tre cuccioli e un anello",
+    "release_date": "2011-11-15",
+    "vote_average": 5.149,
+    "poster_path": "/alJk1JGhq8kZ8IIX0rvmsoMSRZ0.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      10749
+    ],
+    "cached_at": "2026-08-14T03:27:02.524100"
+  },
+  "945657": {
+    "id": 945657,
+    "title": "Titanic 666 - Acque infestate",
+    "release_date": "2022-04-15",
+    "vote_average": 5.5,
+    "poster_path": "/16KbLINXQRvIZi9cN3pTaaDG3qI.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      27
+    ],
+    "cached_at": "2026-08-14T03:27:02.542510"
+  },
+  "82080": {
+    "id": 82080,
+    "title": "Rimini Rimini",
+    "release_date": "1987-02-27",
+    "vote_average": 4.799,
+    "poster_path": "/2hhcgZdSBIgsT8vjgo7xITHuvb7.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-14T03:27:02.557720"
+  },
+  "61303": {
+    "id": 61303,
+    "title": "Infelici e contenti",
+    "release_date": "1992-12-18",
+    "vote_average": 5.862,
+    "poster_path": "/79GLUxBs82mJKon0UFp0nQRNulk.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-14T03:27:02.575548"
+  },
+  "1315843": {
+    "id": 1315843,
+    "title": "Un papà nei guai",
+    "release_date": "2026-04-23",
+    "vote_average": 5.0,
+    "poster_path": "/s99RBLQXE0GaqrlprP1HwV5HOQO.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-14T03:27:02.580643"
+  },
+  "73244": {
+    "id": 73244,
+    "title": "7 km da Gerusalemme",
+    "release_date": "2007-05-04",
+    "vote_average": 5.5,
+    "poster_path": "/zTcRV2MANPTPSHtemce8VmXWNU8.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-14T03:27:02.584140"
+  },
+  "450513": {
+    "id": 450513,
+    "title": "Ovunque tu sarai",
+    "release_date": "2017-04-06",
+    "vote_average": 5.6,
+    "poster_path": "/rUyF2r6vigHvGobMurdcpxpSCMJ.jpg",
+    "genre_ids": [
+      35,
+      12
+    ],
+    "cached_at": "2026-08-14T03:27:02.594568"
+  },
+  "530964": {
+    "id": 530964,
+    "title": "The Insufferable Groo",
+    "release_date": "2018-06-07",
+    "vote_average": 5.0,
+    "poster_path": "/bC3jR5dQfgFxPvqUqvjE8S1iXPi.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-14T03:27:02.598762"
   }
 }
