@@ -68191,5 +68191,18 @@
       18
     ],
     "cached_at": "2026-08-13T03:28:49.090857"
+  },
+  "309798": {
+    "id": 309798,
+    "name": "La mia brillante carriera",
+    "original_name": "My Brilliant Career",
+    "first_air_date": "2026-08-13",
+    "vote_average": 4.0,
+    "poster_path": "/biuErDJnNoxKccF7NHGCRIyaGIo.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "cached_at": "2026-08-15T02:15:29.256239"
   }
 }
