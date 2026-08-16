@@ -168472,5 +168472,39 @@
       53
     ],
     "cached_at": "2026-08-15T02:16:30.251323"
+  },
+  "650726": {
+    "id": 650726,
+    "title": "L'italiano che inventò il cinema",
+    "release_date": "2019-12-14",
+    "vote_average": 0.0,
+    "poster_path": "/hSi8M70NGTOu387Ze3iMQRBSArR.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-16T02:23:36.175470"
+  },
+  "729798": {
+    "id": 729798,
+    "title": "Essere Robin Williams",
+    "release_date": "2020-09-01",
+    "vote_average": 6.986,
+    "poster_path": "/2J0NyQyWUpR0WCP78NoPSmDGgpZ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-16T02:23:36.196449"
+  },
+  "53155": {
+    "id": 53155,
+    "title": "Il trucido e lo sbirro",
+    "release_date": "1976-08-27",
+    "vote_average": 6.8,
+    "poster_path": "/7I5vFaoYDccjDWewpAFdgUaHmW5.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "cached_at": "2026-08-16T02:23:36.231911"
   }
 }
