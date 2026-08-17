@@ -68217,5 +68217,30 @@
       18
     ],
     "cached_at": "2026-08-16T02:22:33.565432"
+  },
+  "68427": {
+    "id": 68427,
+    "name": "Marte",
+    "original_name": "Mars",
+    "first_air_date": "2016-11-14",
+    "vote_average": 7.061,
+    "poster_path": "/fMsMlzgo65ZpcJ2QisjpjYFL97I.jpg",
+    "genre_ids": [
+      10765,
+      10759
+    ],
+    "cached_at": "2026-08-17T02:21:19.212035"
+  },
+  "113411": {
+    "id": 113411,
+    "name": "L'alligatore",
+    "original_name": "L'alligatore",
+    "first_air_date": "2020-11-25",
+    "vote_average": 7.6,
+    "poster_path": "/hmmhM8nKfEJmHHAFMzBXBRYxBqC.jpg",
+    "genre_ids": [
+      80
+    ],
+    "cached_at": "2026-08-17T02:21:19.251512"
   }
 }
