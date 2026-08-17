@@ -168506,5 +168506,106 @@
       80
     ],
     "cached_at": "2026-08-16T02:23:36.231911"
+  },
+  "9592": {
+    "id": 9592,
+    "title": "Open Water 2 - Alla deriva",
+    "release_date": "2006-07-10",
+    "vote_average": 5.5,
+    "poster_path": "/jvpK14mLh47wUYJFx0eLYD8Euk0.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "cached_at": "2026-08-17T02:22:22.887359"
+  },
+  "10107": {
+    "id": 10107,
+    "title": "Il cane pompiere",
+    "release_date": "2007-04-04",
+    "vote_average": 6.2,
+    "poster_path": "/uIUATlvkNZkQVkydX9wIYaVDd0E.jpg",
+    "genre_ids": [
+      10751,
+      35
+    ],
+    "cached_at": "2026-08-17T02:22:22.923164"
+  },
+  "12635": {
+    "id": 12635,
+    "title": "Backbeat - Tutti hanno bisogno di amore",
+    "release_date": "1994-04-01",
+    "vote_average": 6.1,
+    "poster_path": "/5g7wAW4LGnHbKMahBkYAF15pxJM.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-08-17T02:22:22.936403"
+  },
+  "10424": {
+    "id": 10424,
+    "title": "Gli occhi del delitto",
+    "release_date": "1992-11-06",
+    "vote_average": 6.1,
+    "poster_path": "/bm0mvfHsu8rFdMjQ84tPhutEji5.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2026-08-17T02:22:22.951205"
+  },
+  "2575": {
+    "id": 2575,
+    "title": "Il sarto di Panama",
+    "release_date": "2001-02-11",
+    "vote_average": 5.987,
+    "poster_path": "/niPfFan25oXhUfig7RYrZWw9tw6.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-08-17T02:22:22.954064"
+  },
+  "22023": {
+    "id": 22023,
+    "title": "Frontiera",
+    "release_date": "1982-01-29",
+    "vote_average": 6.045,
+    "poster_path": "/nplUk6p9QWH6Byqd6g9L39gD3Wl.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-08-17T02:22:22.966167"
+  },
+  "420707": {
+    "id": 420707,
+    "title": "Open Water 3 - Cage Dive",
+    "release_date": "2017-08-11",
+    "vote_average": 4.592,
+    "poster_path": "/rIZghtlmR1DpQ2UCnkcwMmHqhOj.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-08-17T02:22:22.969156"
+  },
+  "811592": {
+    "id": 811592,
+    "title": "Una sola possibilità",
+    "release_date": "2021-11-05",
+    "vote_average": 6.704,
+    "poster_path": "/fAvZ9E2S5eH9T7AWBlB0ZgqSNdF.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80,
+      10752
+    ],
+    "cached_at": "2026-08-17T02:22:23.525866"
   }
 }
