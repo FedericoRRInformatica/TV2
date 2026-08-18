@@ -68242,5 +68242,19 @@
       80
     ],
     "cached_at": "2026-08-17T02:21:19.251512"
+  },
+  "95350": {
+    "id": 95350,
+    "name": "Lanterns",
+    "original_name": "Lanterns",
+    "first_air_date": "2026-08-16",
+    "vote_average": 7.9,
+    "poster_path": "/8JT1dA5QkJkHk0Du0rbK2bTc2cw.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10765
+    ],
+    "cached_at": "2026-08-18T02:17:22.715463"
   }
 }
