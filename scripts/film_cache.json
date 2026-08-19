@@ -168641,5 +168641,55 @@
       18
     ],
     "cached_at": "2026-08-18T02:18:29.309798"
+  },
+  "1408208": {
+    "id": 1408208,
+    "title": "Exit 8",
+    "release_date": "2025-08-03",
+    "vote_average": 7.0,
+    "poster_path": "/7IkfaPA5v3PmACvfebQkpubHOy1.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-08-19T02:21:03.540709"
+  },
+  "25673": {
+    "id": 25673,
+    "title": "Un posto al sole",
+    "release_date": "1951-06-12",
+    "vote_average": 7.3,
+    "poster_path": "/gMJWg1REheoBXRuppQwZT7kkNZO.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      80
+    ],
+    "cached_at": "2026-08-19T02:21:03.583049"
+  },
+  "950063": {
+    "id": 950063,
+    "title": "Il diavolo alla porta",
+    "release_date": "2022-04-01",
+    "vote_average": 6.667,
+    "poster_path": "/cd4n38adySpFP6ANJQBoNdgMJZ3.jpg",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ],
+    "cached_at": "2026-08-19T02:21:03.602093"
+  },
+  "47796": {
+    "id": 47796,
+    "title": "Mamma Roma",
+    "release_date": "1962-09-22",
+    "vote_average": 7.874,
+    "poster_path": "/8ueRp1xACnhWCc9pmgimugBsSTc.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-19T02:21:03.612280"
   }
 }
