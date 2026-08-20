@@ -168691,5 +168691,90 @@
       18
     ],
     "cached_at": "2026-08-19T02:21:03.612280"
+  },
+  "1688804": {
+    "id": 1688804,
+    "title": "Freefall: la resa dei conti per Boeing",
+    "release_date": "2026-08-14",
+    "vote_average": 7.0,
+    "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-20T02:20:20.547521"
+  },
+  "12778": {
+    "id": 12778,
+    "title": "Caro zio Joe",
+    "release_date": "1994-03-04",
+    "vote_average": 6.152,
+    "poster_path": "/vxdWVU6igLKQNEzZXG49j6BmD3i.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-20T02:20:20.620682"
+  },
+  "35831": {
+    "id": 35831,
+    "title": "Belfagor - Il fantasma del Louvre",
+    "release_date": "2001-04-03",
+    "vote_average": 4.6,
+    "poster_path": "/mxKtSBIWctPT9FtPA08R5TFXbqj.jpg",
+    "genre_ids": [
+      14,
+      9648,
+      27
+    ],
+    "cached_at": "2026-08-20T02:20:20.636402"
+  },
+  "1418582": {
+    "id": 1418582,
+    "title": "Quindici giorni",
+    "release_date": "2026-06-18",
+    "vote_average": 6.9,
+    "poster_path": "/7SkSZOAHPJbks40PQYwIH2bV1f2.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-08-20T02:20:20.658867"
+  },
+  "946215": {
+    "id": 946215,
+    "title": "In the Fire",
+    "release_date": "2023-09-14",
+    "vote_average": 4.636,
+    "poster_path": "/ikXZOSlAMDyKsVfwezVrEpExGMu.jpg",
+    "genre_ids": [
+      53,
+      18,
+      27,
+      37
+    ],
+    "cached_at": "2026-08-20T02:20:20.673737"
+  },
+  "621648": {
+    "id": 621648,
+    "title": "Ci alzeremo all'alba",
+    "release_date": "2018-12-07",
+    "vote_average": 0.0,
+    "poster_path": "/5ityjMaZrf8GNn4Gwr6VlILfLaC.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-08-20T02:20:20.686336"
+  },
+  "96714": {
+    "id": 96714,
+    "title": "Diaz - Non pulire questo sangue",
+    "release_date": "2012-04-13",
+    "vote_average": 7.171,
+    "poster_path": "/bQO6eKsccYaGiZxSVkf0RU58viE.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-08-20T02:20:20.688069"
   }
 }
