@@ -68268,5 +68268,19 @@
       18
     ],
     "cached_at": "2026-08-19T02:20:05.636169"
+  },
+  "228421": {
+    "id": 228421,
+    "name": "Average Joe: Un uomo ordinario",
+    "original_name": "Average Joe",
+    "first_air_date": "2023-06-26",
+    "vote_average": 7.4,
+    "poster_path": "/jsLYlsWA3CsE7V1owlSqfU9QzVG.jpg",
+    "genre_ids": [
+      35,
+      18,
+      80
+    ],
+    "cached_at": "2026-08-20T02:18:57.965613"
   }
 }
