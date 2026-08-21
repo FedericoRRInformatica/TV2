@@ -68282,5 +68282,31 @@
       80
     ],
     "cached_at": "2026-08-20T02:18:57.965613"
+  },
+  "312523": {
+    "id": 312523,
+    "name": "SとX﻿",
+    "original_name": "SとX﻿",
+    "first_air_date": "2026-08-20",
+    "vote_average": 0.0,
+    "poster_path": "/vHp5N6Tq2fzEVp7eZ7vK04SRmzM.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-21T02:25:00.721552"
+  },
+  "303351": {
+    "id": 303351,
+    "name": "Blodsoffer",
+    "original_name": "Blodsoffer",
+    "first_air_date": "2026-08-20",
+    "vote_average": 3.0,
+    "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "cached_at": "2026-08-21T02:25:00.765871"
   }
 }
