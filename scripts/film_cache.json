@@ -168776,5 +168776,116 @@
       36
     ],
     "cached_at": "2026-08-20T02:20:20.688069"
+  },
+  "11780": {
+    "id": 11780,
+    "title": "Rob Roy",
+    "release_date": "1995-04-13",
+    "vote_average": 6.718,
+    "poster_path": "/kWI2rF6RAnRtEjfBlZgsXumgOm5.jpg",
+    "genre_ids": [
+      12,
+      36,
+      18,
+      28,
+      10752
+    ],
+    "cached_at": "2026-08-21T02:25:58.364426"
+  },
+  "11171": {
+    "id": 11171,
+    "title": "Mysterious Skin",
+    "release_date": "2005-03-30",
+    "vote_average": 7.713,
+    "poster_path": "/u545NoA7CDcF6N3MknExrIUKp00.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-21T02:25:58.422575"
+  },
+  "1232569": {
+    "id": 1232569,
+    "title": "Pinocchio: Unstrung",
+    "release_date": "2026-07-22",
+    "vote_average": 7.6,
+    "poster_path": "/c8IC2lORaymJyTuYwCqhN25vMx8.jpg",
+    "genre_ids": [
+      27,
+      14,
+      9648
+    ],
+    "cached_at": "2026-08-21T02:25:58.424383"
+  },
+  "10360": {
+    "id": 10360,
+    "title": "Hunger",
+    "release_date": "2008-05-15",
+    "vote_average": 7.243,
+    "poster_path": "/4sjI4Finutm1IFP1nYrq0VcPRgN.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-08-21T02:25:58.452021"
+  },
+  "47909": {
+    "id": 47909,
+    "title": "Poetry",
+    "release_date": "2010-05-13",
+    "vote_average": 7.546,
+    "poster_path": "/n7XlC9McqIFbawFZNk1THH9VEsv.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-21T02:25:58.459074"
+  },
+  "1649": {
+    "id": 1649,
+    "title": "Un mitico viaggio",
+    "release_date": "1991-07-19",
+    "vote_average": 6.3,
+    "poster_path": "/hAMK1Pr30Jf3s6SGWPCIQnenuyS.jpg",
+    "genre_ids": [
+      12,
+      35,
+      878
+    ],
+    "cached_at": "2026-08-21T02:25:58.479377"
+  },
+  "1626188": {
+    "id": 1626188,
+    "title": "NOVAK DJOKOVIC: IL LUPO D'INVERNO",
+    "release_date": "2026-08-20",
+    "vote_average": 0.0,
+    "poster_path": "/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-21T02:25:58.485415"
+  },
+  "1419406": {
+    "id": 1419406,
+    "title": "The Shadow's Edge - Colpo su colpo",
+    "release_date": "2025-08-16",
+    "vote_average": 8.117,
+    "poster_path": "/aTq2VZLuQzwfCPiBlWeJG8z6XKD.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-08-21T02:25:58.520421"
+  },
+  "1206077": {
+    "id": 1206077,
+    "title": "L'anima in pace",
+    "release_date": "2024-01-18",
+    "vote_average": 6.3,
+    "poster_path": "/yMVCITwtk9CVc9PYFItqcrumKvo.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-21T02:25:58.524615"
   }
 }
