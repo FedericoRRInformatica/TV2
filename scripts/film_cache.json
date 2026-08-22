@@ -168887,5 +168887,154 @@
       18
     ],
     "cached_at": "2026-08-21T02:25:58.524615"
+  },
+  "301201": {
+    "id": 301201,
+    "title": "Cam Girl",
+    "release_date": "2014-05-22",
+    "vote_average": 4.514,
+    "poster_path": "/fWOhRXSF0KpLfoGP9ywkHGIqJAJ.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-08-22T02:18:19.765938"
+  },
+  "71689": {
+    "id": 71689,
+    "title": "Phineas e Ferb: Il film - Nella seconda dimensione",
+    "release_date": "2011-08-05",
+    "vote_average": 7.109,
+    "poster_path": "/dz10uAaofaARR3mmdL0ykEGfZro.jpg",
+    "genre_ids": [
+      28,
+      12,
+      16,
+      35,
+      10751,
+      878,
+      10770
+    ],
+    "cached_at": "2026-08-22T02:18:19.804656"
+  },
+  "999136": {
+    "id": 999136,
+    "title": "Non Entrare",
+    "release_date": "2026-03-19",
+    "vote_average": 6.3,
+    "poster_path": "/3JhzYNimCs38NwXXOQaqSOqeATE.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-08-22T02:18:19.808146"
+  },
+  "65048": {
+    "id": 65048,
+    "title": "Le quattro giornate di Napoli",
+    "release_date": "1962-11-16",
+    "vote_average": 7.555,
+    "poster_path": "/80WvaRxLx1p43x6rwKMangz4BZV.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "cached_at": "2026-08-22T02:18:19.817156"
+  },
+  "1621552": {
+    "id": 1621552,
+    "title": "La captura",
+    "release_date": "2026-08-21",
+    "vote_average": 7.1,
+    "poster_path": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+    "genre_ids": [
+      80,
+      28,
+      53
+    ],
+    "cached_at": "2026-08-22T02:18:19.841271"
+  },
+  "1676318": {
+    "id": 1676318,
+    "title": "Elevator Boys: Ritorno Agli Anni 90",
+    "release_date": "2026-08-18",
+    "vote_average": 6.0,
+    "poster_path": "/bMnSUtEYA9lxtfXayuXzG5N5swv.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-08-22T02:18:19.841285"
+  },
+  "5968": {
+    "id": 5968,
+    "title": "La signora in rosso",
+    "release_date": "1984-08-15",
+    "vote_average": 6.29,
+    "poster_path": "/lEYzgfbuwt6bl0Nkn4jpGZNXcnI.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-08-22T02:18:19.852336"
+  },
+  "42201": {
+    "id": 42201,
+    "title": "Arriva un cavaliere libero e selvaggio",
+    "release_date": "1978-10-25",
+    "vote_average": 6.122,
+    "poster_path": "/5CvuALoM50psdrZ1ioRH5FisEKn.jpg",
+    "genre_ids": [
+      37,
+      18,
+      10749
+    ],
+    "cached_at": "2026-08-22T02:18:19.874089"
+  },
+  "58166": {
+    "id": 58166,
+    "title": "Lezioni di sogni",
+    "release_date": "2011-02-24",
+    "vote_average": 6.95,
+    "poster_path": "/k8HbXXZQV8Ci3uJefHSTNjnJMft.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-22T02:18:19.878217"
+  },
+  "1375157": {
+    "id": 1375157,
+    "title": "Il ladro di stelle cadenti",
+    "release_date": "2024-10-17",
+    "vote_average": 8.4,
+    "poster_path": "/yqSWtxk1EAR7xXlykfF4zTiGaYj.jpg",
+    "genre_ids": [
+      14,
+      35
+    ],
+    "cached_at": "2026-08-22T02:18:19.880600"
+  },
+  "44874": {
+    "id": 44874,
+    "title": "Barbie e la magia della moda",
+    "release_date": "2010-09-14",
+    "vote_average": 7.261,
+    "poster_path": "/knUfB0aMWrZTxEfuUokVf0reNeX.jpg",
+    "genre_ids": [
+      10751,
+      16
+    ],
+    "cached_at": "2026-08-22T02:18:19.883124"
+  },
+  "761772": {
+    "id": 761772,
+    "title": "Louis van Beethoven",
+    "release_date": "2020-08-01",
+    "vote_average": 6.706,
+    "poster_path": "/qiMpBl1Ny5lyxlyTvOmYjpo0Lv4.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-08-22T02:18:19.891511"
   }
 }
