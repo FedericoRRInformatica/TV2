@@ -68308,5 +68308,35 @@
       9648
     ],
     "cached_at": "2026-08-21T02:25:00.765871"
+  },
+  "204137": {
+    "id": 204137,
+    "name": "The Doomies",
+    "original_name": "The Doomies",
+    "first_air_date": "2026-06-26",
+    "vote_average": 8.0,
+    "poster_path": "/zTUuiutD2Kj8lwd552uX8dzxA24.jpg",
+    "genre_ids": [
+      16,
+      10765,
+      10759,
+      35,
+      10751
+    ],
+    "cached_at": "2026-08-23T02:25:09.741053"
+  },
+  "73536": {
+    "id": 73536,
+    "name": "Dinotopia",
+    "original_name": "Dinotopia",
+    "first_air_date": "2002-05-12",
+    "vote_average": 6.466,
+    "poster_path": "/4tHOStqnM1ZBN9KTFLd1XdOiuIj.jpg",
+    "genre_ids": [
+      10759,
+      10751,
+      10765
+    ],
+    "cached_at": "2026-08-23T02:25:09.777043"
   }
 }
