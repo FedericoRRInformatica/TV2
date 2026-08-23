@@ -169036,5 +169036,153 @@
       36
     ],
     "cached_at": "2026-08-22T02:18:19.891511"
+  },
+  "76486": {
+    "id": 76486,
+    "title": "La cambiale",
+    "release_date": "1959-11-19",
+    "vote_average": 6.611,
+    "poster_path": "/opPyZ5MRHfNdSv2p9MEoTUznNZ0.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-23T02:26:02.889155"
+  },
+  "419192": {
+    "id": 419192,
+    "title": "McLaren",
+    "release_date": "2016-02-14",
+    "vote_average": 7.412,
+    "poster_path": "/zvGipOPJ03Vfqte6jhC6qRppNiM.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-23T02:26:02.889170"
+  },
+  "18550": {
+    "id": 18550,
+    "title": "Inseguiti",
+    "release_date": "1996-07-19",
+    "vote_average": 5.732,
+    "poster_path": "/sIhH8rP6QlgX6LTfSL7pOs76OM6.jpg",
+    "genre_ids": [
+      28
+    ],
+    "cached_at": "2026-08-23T02:26:02.910193"
+  },
+  "10553": {
+    "id": 10553,
+    "title": "Il mio nome è Remo Williams",
+    "release_date": "1985-10-11",
+    "vote_average": 6.265,
+    "poster_path": "/wjnYDLydZK7z6InNWcGUC1Vj7co.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35
+    ],
+    "cached_at": "2026-08-23T02:26:02.923555"
+  },
+  "1941": {
+    "id": 1941,
+    "title": "Exodus",
+    "release_date": "1960-12-15",
+    "vote_average": 6.656,
+    "poster_path": "/7CNLAzPYUUOavpPVhfR3IK8OWEA.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "cached_at": "2026-08-23T02:26:02.936222"
+  },
+  "427910": {
+    "id": 427910,
+    "title": "Navy Seals - Pagati per morire",
+    "release_date": "1990-07-20",
+    "vote_average": 5.407,
+    "poster_path": "/kqNcu4jEXnzxaii7mVhd53dkGYT.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "cached_at": "2026-08-23T02:26:02.940687"
+  },
+  "41579": {
+    "id": 41579,
+    "title": "Papà ti aggiusto io!",
+    "release_date": "1994-06-17",
+    "vote_average": 5.3,
+    "poster_path": "/r1Y9B7IbaLuCfos355EoF2kk4ar.jpg",
+    "genre_ids": [
+      35,
+      80,
+      10751
+    ],
+    "cached_at": "2026-08-23T02:26:02.963078"
+  },
+  "56122": {
+    "id": 56122,
+    "title": "L'oro di Napoli",
+    "release_date": "1954-12-03",
+    "vote_average": 7.343,
+    "poster_path": "/f9HlZKuT8YLsj9tVBuISP4wJkIj.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-08-23T02:26:02.966561"
+  },
+  "18190": {
+    "id": 18190,
+    "title": "Incubo d'amore",
+    "release_date": "1994-05-06",
+    "vote_average": 6.696,
+    "poster_path": "/kOBelfbaJ78Of9YJHOjlnzKp5N4.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2026-08-23T02:26:03.490217"
+  },
+  "36233": {
+    "id": 36233,
+    "title": "Posse - La leggenda di Jessie Lee",
+    "release_date": "1993-05-14",
+    "vote_average": 5.415,
+    "poster_path": "/5za9XTnSwdktusBH4SAxvd1TXXP.jpg",
+    "genre_ids": [
+      28,
+      12,
+      37,
+      18
+    ],
+    "cached_at": "2026-08-23T02:26:03.891321"
+  },
+  "1058": {
+    "id": 1058,
+    "title": "All'ultimo respiro",
+    "release_date": "1983-05-13",
+    "vote_average": 5.878,
+    "poster_path": "/dV04aXjc3Xi1WCzpfPmq3ea00Nu.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      28
+    ],
+    "cached_at": "2026-08-23T02:26:04.142638"
+  },
+  "10909": {
+    "id": 10909,
+    "title": "Kalifornia",
+    "release_date": "1993-06-24",
+    "vote_average": 6.581,
+    "poster_path": "/yAq2qTnDsBZJ9M51UXoBISNbGa6.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "cached_at": "2026-08-23T02:26:04.431106"
   }
 }
