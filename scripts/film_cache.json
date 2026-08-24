@@ -169184,5 +169184,77 @@
       80
     ],
     "cached_at": "2026-08-23T02:26:04.431106"
+  },
+  "11679": {
+    "id": 11679,
+    "title": "xXx: The Next Level",
+    "release_date": "2005-04-27",
+    "vote_average": 5.096,
+    "poster_path": "/bA50qxdhjZUZrs0M9Y4hggt4SRU.jpg",
+    "genre_ids": [
+      28,
+      12,
+      80,
+      53
+    ],
+    "cached_at": "2026-08-24T02:25:27.304789"
+  },
+  "1178913": {
+    "id": 1178913,
+    "title": "Senza età",
+    "release_date": "2023-09-21",
+    "vote_average": 0.0,
+    "poster_path": "/mpkbN1dwNBth4c4AtJCUO3wKpDN.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-24T02:25:27.324053"
+  },
+  "54427": {
+    "id": 54427,
+    "title": "È già ieri",
+    "release_date": "2004-01-16",
+    "vote_average": 6.603,
+    "poster_path": "/qkTdoEsyqZAdKvhVCtcJuMhQ9HO.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "cached_at": "2026-08-24T02:25:27.384493"
+  },
+  "260090": {
+    "id": 260090,
+    "title": "Sfrattato cerca casa equo canone",
+    "release_date": "1983-09-02",
+    "vote_average": 5.9,
+    "poster_path": "/cJ5SDE8ezfzjfZqZX0L1POfM9mR.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-24T02:25:27.392358"
+  },
+  "1537": {
+    "id": 1537,
+    "title": "Ipotesi di reato",
+    "release_date": "2002-04-07",
+    "vote_average": 6.281,
+    "poster_path": "/j1YICeubS78KroICxrcplSPKcb.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2026-08-24T02:25:27.403869"
+  },
+  "31203": {
+    "id": 31203,
+    "title": "Il piccolo Nicolas e i suoi genitori",
+    "release_date": "2009-09-30",
+    "vote_average": 6.084,
+    "poster_path": "/bSwIsOGPxSpzJyHMB3SOmqiXfZw.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "cached_at": "2026-08-24T02:25:27.440045"
   }
 }
