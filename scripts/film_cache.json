@@ -169256,5 +169256,193 @@
       10751
     ],
     "cached_at": "2026-08-24T02:25:27.440045"
+  },
+  "1409853": {
+    "id": 1409853,
+    "title": "Le regole del serial killer",
+    "release_date": "2026-05-08",
+    "vote_average": 6.4,
+    "poster_path": "/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
+    "genre_ids": [
+      28,
+      53,
+      10770
+    ],
+    "cached_at": "2026-08-25T02:19:53.127000"
+  },
+  "39681": {
+    "id": 39681,
+    "title": "Les 7 jours du talion",
+    "release_date": "2010-06-22",
+    "vote_average": 6.277,
+    "poster_path": "/9jKnm8gxSdVm2JObLy5MdpYd1fk.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "cached_at": "2026-08-25T02:19:53.138542"
+  },
+  "848062": {
+    "id": 848062,
+    "title": "Son of Fukushima",
+    "release_date": "2021-01-19",
+    "vote_average": 8.0,
+    "poster_path": "/vVZfrExYjQkcQv7NJ7aBEBsGewu.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-25T02:19:53.144518"
+  },
+  "871722": {
+    "id": 871722,
+    "title": "Il profumo del mirto",
+    "release_date": "2021-09-11",
+    "vote_average": 10.0,
+    "poster_path": "/jqQxRceEmMeEhHn4B3RdNr6ErQG.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-25T02:19:53.151929"
+  },
+  "210047": {
+    "id": 210047,
+    "title": "Fredda è la notte",
+    "release_date": "2013-09-20",
+    "vote_average": 5.4,
+    "poster_path": "/rhWC1upwICtEaHgZ5aaICePLV1s.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-08-25T02:19:53.160944"
+  },
+  "727001": {
+    "id": 727001,
+    "title": "Spaccapietre",
+    "release_date": "2020-09-17",
+    "vote_average": 6.2,
+    "poster_path": "/lhKzxRXY9DU70fWNFcn4OZ8gnPQ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-25T02:19:53.163682"
+  },
+  "743135": {
+    "id": 743135,
+    "title": "Chi ha paura del dottor Kramer?",
+    "release_date": "2020-10-10",
+    "vote_average": 5.8,
+    "poster_path": "/f0UPZSwi8n4TIBcrVnFzr6g2v8Q.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-25T02:19:53.164883"
+  },
+  "61463": {
+    "id": 61463,
+    "title": "Aspettando il sole",
+    "release_date": "2008-01-01",
+    "vote_average": 7.111,
+    "poster_path": "/d6XQLkWe7F8XnwW0YGnkLRGIGWD.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-08-25T02:19:53.179092"
+  },
+  "581940": {
+    "id": 581940,
+    "title": "Bene ma non benissimo",
+    "release_date": "2019-04-04",
+    "vote_average": 7.3,
+    "poster_path": "/39OKp2by9ZMBCqqPqTDmQeOXTjC.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-25T02:19:53.189071"
+  },
+  "150151": {
+    "id": 150151,
+    "title": "Il Bi e il Ba",
+    "release_date": "1986-03-07",
+    "vote_average": 6.853,
+    "poster_path": "/pF3g9ttaeIqO7bvVCt7SfB3Mi2w.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-25T02:19:53.208044"
+  },
+  "588648": {
+    "id": 588648,
+    "title": "Dragonkeeper",
+    "release_date": "2024-04-11",
+    "vote_average": 7.6,
+    "poster_path": "/rgBHNpiLZMPzFHyTJruQQ3IT7Lp.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      28,
+      12,
+      14
+    ],
+    "cached_at": "2026-08-25T02:19:53.270285"
+  },
+  "62702": {
+    "id": 62702,
+    "title": "Casablanca, Casablanca",
+    "release_date": "1985-02-16",
+    "vote_average": 6.3,
+    "poster_path": "/xxSXpA0xkEGuyCRZ58EYgqpBvyk.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-25T02:19:53.290799"
+  },
+  "1392621": {
+    "id": 1392621,
+    "title": "Come il sale Nell'acqua",
+    "release_date": "2024-04-10",
+    "vote_average": 10.0,
+    "poster_path": "/w5qq9G5AVoeFOYyG5JXNxoLaDUa.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-25T02:19:53.316541"
+  },
+  "82372": {
+    "id": 82372,
+    "title": "Il Prof. Dott. Guido Tersilli primario della Clinica Villa Celeste convenzionata con la Mutua",
+    "release_date": "1969-12-19",
+    "vote_average": 6.5,
+    "poster_path": "/5hbcmN2ECmqOJEnk8vMif3TKFdi.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-08-25T02:19:53.322483"
+  },
+  "524635": {
+    "id": 524635,
+    "title": "La cronologia dell’acqua",
+    "release_date": "2025-10-15",
+    "vote_average": 6.797,
+    "poster_path": "/tuYSqA5U5KwpJjzv3O91fq6cR7o.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-25T02:19:53.684824"
+  },
+  "1472406": {
+    "id": 1472406,
+    "title": "Il dolore nascosto",
+    "release_date": "2024-11-22",
+    "vote_average": 10.0,
+    "poster_path": "/kg2L7rppv1c8RlsLZoZErg4offr.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-25T02:19:54.080217"
   }
 }
