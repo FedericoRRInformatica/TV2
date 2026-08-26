@@ -169444,5 +169444,211 @@
       18
     ],
     "cached_at": "2026-08-25T02:19:54.080217"
+  },
+  "17043": {
+    "id": 17043,
+    "title": "Missione coccodrillo",
+    "release_date": "2002-07-26",
+    "vote_average": 5.391,
+    "poster_path": "/rimxeUecmk2UXxyC1EqgxjaODGV.jpg",
+    "genre_ids": [
+      10751,
+      12,
+      35,
+      28
+    ],
+    "cached_at": "2026-08-26T02:28:08.548357"
+  },
+  "1380612": {
+    "id": 1380612,
+    "title": "LUX VERA 6023",
+    "release_date": "2024-09-21",
+    "vote_average": 0.0,
+    "poster_path": "/zYggKb6vr99Liks9QDccUGDJQbN.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-26T02:28:08.570868"
+  },
+  "14047": {
+    "id": 14047,
+    "title": "The Great Debaters - Il potere della parola",
+    "release_date": "2007-12-25",
+    "vote_average": 7.267,
+    "poster_path": "/orxz3m6bo7UC1yA2I0T86B7ENs5.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-26T02:28:08.585719"
+  },
+  "39373": {
+    "id": 39373,
+    "title": "Jack Hunter e la stella del paradiso",
+    "release_date": "2009-01-06",
+    "vote_average": 6.5,
+    "poster_path": "/wSrOPgDqdLuqL5cmQ0AgJ1FtUpg.jpg",
+    "genre_ids": [
+      12,
+      28
+    ],
+    "cached_at": "2026-08-26T02:28:08.596053"
+  },
+  "206": {
+    "id": 206,
+    "title": "Paradise Found",
+    "release_date": "2003-01-01",
+    "vote_average": 6.452,
+    "poster_path": "/i5tYnEeCAPODbEbbwYmNd8Y9seA.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-26T02:28:08.618545"
+  },
+  "1739186": {
+    "id": 1739186,
+    "title": "Untold: The Testimony of Vince Young",
+    "release_date": "2026-08-25",
+    "vote_average": 7.2,
+    "poster_path": "/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-26T02:28:08.646550"
+  },
+  "434336": {
+    "id": 434336,
+    "title": "The Sunshine Makers",
+    "release_date": "2015-11-01",
+    "vote_average": 6.8,
+    "poster_path": "/d55zpzt7c2Oai8rKoW0stOVS5NB.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-26T02:28:08.663942"
+  },
+  "285923": {
+    "id": 285923,
+    "title": "Grindhouse",
+    "release_date": "2007-04-06",
+    "vote_average": 7.003,
+    "poster_path": "/aeM8N7f8wyuXwGaN8asrkp0rXHr.jpg",
+    "genre_ids": [
+      53,
+      28,
+      27
+    ],
+    "cached_at": "2026-08-26T02:28:08.670235"
+  },
+  "554": {
+    "id": 554,
+    "title": "Kukushka - Disertare non è reato",
+    "release_date": "2002-09-12",
+    "vote_average": 7.099,
+    "poster_path": "/fYFe8mf3AIpE2cNve2qMqUx7k7o.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ],
+    "cached_at": "2026-08-26T02:28:08.671527"
+  },
+  "13766": {
+    "id": 13766,
+    "title": "Space Camp - Gravità zero",
+    "release_date": "1986-06-06",
+    "vote_average": 5.9,
+    "poster_path": "/jIbmNYjuA8C3QEcTAtiaatwuRfq.jpg",
+    "genre_ids": [
+      10751,
+      12,
+      878
+    ],
+    "cached_at": "2026-08-26T02:28:08.674458"
+  },
+  "20055": {
+    "id": 20055,
+    "title": "The Betrayed",
+    "release_date": "2008-09-27",
+    "vote_average": 5.568,
+    "poster_path": "/ypozb9oWIDZZIwDQZo0s7JgMa6K.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2026-08-26T02:28:08.678876"
+  },
+  "553592": {
+    "id": 553592,
+    "title": "Queen Bees - Emozioni senza età",
+    "release_date": "2021-06-11",
+    "vote_average": 5.962,
+    "poster_path": "/peYRpielBbRHMGNYJnWyCsG7apA.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "cached_at": "2026-08-26T02:28:08.687877"
+  },
+  "721073": {
+    "id": 721073,
+    "title": "Ammèn",
+    "release_date": "2020-07-02",
+    "vote_average": 4.8,
+    "poster_path": "/3O4UQjJ7VWc7mc2U6TjjUAIQqw6.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-26T02:28:08.793258"
+  },
+  "1108427": {
+    "id": 1108427,
+    "title": "Oceania",
+    "release_date": "2026-07-08",
+    "vote_average": 6.086,
+    "poster_path": "/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      35,
+      12
+    ],
+    "cached_at": "2026-08-26T02:28:08.806592"
+  },
+  "417456": {
+    "id": 417456,
+    "title": "8 Bit Generation: The Commodore Wars",
+    "release_date": "2016-05-09",
+    "vote_average": 6.6,
+    "poster_path": "/4oW2aI8Ydla8QZVxrdAmyvMMaad.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-08-26T02:28:09.207244"
+  },
+  "1556300": {
+    "id": 1556300,
+    "title": "True American Horror",
+    "release_date": "2023-11-11",
+    "vote_average": 5.8,
+    "poster_path": "/risz27UZmHY4ZbYB1XNDqbJAgZ0.jpg",
+    "genre_ids": [
+      99,
+      27
+    ],
+    "cached_at": "2026-08-26T02:28:09.313658"
+  },
+  "152397": {
+    "id": 152397,
+    "title": "Poker Generation",
+    "release_date": "2012-04-13",
+    "vote_average": 3.8,
+    "poster_path": "/eUBXZxWznyWIs0G5Xc66McoMswb.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-26T02:28:09.717903"
   }
 }
