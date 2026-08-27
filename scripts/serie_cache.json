@@ -68350,5 +68350,29 @@
       99
     ],
     "cached_at": "2026-08-24T02:24:24.483645"
+  },
+  "1795": {
+    "id": 1795,
+    "name": "Jackass",
+    "original_name": "Jackass",
+    "first_air_date": "2000-04-12",
+    "vote_average": 6.651,
+    "poster_path": "/q8O8ElquAya9SugLNH6N5TWNE4h.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-27T11:03:33.684115"
+  },
+  "688": {
+    "id": 688,
+    "name": "West Wing - Tutti gli uomini del Presidente",
+    "original_name": "The West Wing",
+    "first_air_date": "1999-09-22",
+    "vote_average": 8.261,
+    "poster_path": "/yqDWr5NAE7m1IWrygYwLyEB6pN0.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-27T11:03:33.695288"
   }
 }
