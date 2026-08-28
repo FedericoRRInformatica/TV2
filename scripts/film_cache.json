@@ -169853,5 +169853,208 @@
       53
     ],
     "cached_at": "2026-08-27T11:06:06.118918"
+  },
+  "833205": {
+    "id": 833205,
+    "title": "Americanish",
+    "release_date": "2023-10-06",
+    "vote_average": 6.2,
+    "poster_path": "/2eOlUw35Z2kXw5420Axnquhcy5K.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ],
+    "cached_at": "2026-08-28T12:38:10.056584"
+  },
+  "169818": {
+    "id": 169818,
+    "title": "Annibale",
+    "release_date": "1959-12-21",
+    "vote_average": 5.6,
+    "poster_path": "/2pH5GeyXqMSOcfsmhdtuljqhHKL.jpg",
+    "genre_ids": [
+      36,
+      12,
+      18
+    ],
+    "cached_at": "2026-08-28T12:38:10.066765"
+  },
+  "20681": {
+    "id": 20681,
+    "title": "I mastini della guerra",
+    "release_date": "1980-12-17",
+    "vote_average": 5.836,
+    "poster_path": "/zMs1c6Dtea7PzUZCjuCd3r9qayW.jpg",
+    "genre_ids": [
+      53,
+      28,
+      12
+    ],
+    "cached_at": "2026-08-28T12:38:10.120263"
+  },
+  "15805": {
+    "id": 15805,
+    "title": "Batman & Mr. Freeze: SubZero",
+    "release_date": "1998-02-11",
+    "vote_average": 6.919,
+    "poster_path": "/liQt8E1X1ZZfKHCh7n189ZJq2j6.jpg",
+    "genre_ids": [
+      16,
+      28,
+      80
+    ],
+    "cached_at": "2026-08-28T12:38:10.149324"
+  },
+  "101853": {
+    "id": 101853,
+    "title": "Costantino il grande",
+    "release_date": "1961-02-02",
+    "vote_average": 5.286,
+    "poster_path": "/eryg42i8gvSWqxmI6tQ5aK11dXN.jpg",
+    "genre_ids": [
+      12,
+      18,
+      36
+    ],
+    "cached_at": "2026-08-28T12:38:10.186659"
+  },
+  "1407548": {
+    "id": 1407548,
+    "title": "Illusione",
+    "release_date": "2026-05-07",
+    "vote_average": 5.9,
+    "poster_path": "/rxDFV66LmAtvz61JeFwdUJGG7dv.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2026-08-28T12:38:10.186677"
+  },
+  "1088548": {
+    "id": 1088548,
+    "title": "Amarga Navidad",
+    "release_date": "2026-03-20",
+    "vote_average": 6.27,
+    "poster_path": "/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-08-28T12:38:10.193237"
+  },
+  "471474": {
+    "id": 471474,
+    "title": "Batman contro Jack lo squartatore",
+    "release_date": "2018-01-12",
+    "vote_average": 6.699,
+    "poster_path": "/aH5pRT9nFMwYzm53oJTPfnrfmfD.jpg",
+    "genre_ids": [
+      53,
+      28,
+      16,
+      878
+    ],
+    "cached_at": "2026-08-28T12:38:10.200403"
+  },
+  "1461254": {
+    "id": 1461254,
+    "title": "살목지",
+    "release_date": "2026-04-08",
+    "vote_average": 5.958,
+    "poster_path": "/uVJyWlSPCWftRUXRM6lxTqOzPY6.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-08-28T12:38:10.206249"
+  },
+  "76589": {
+    "id": 76589,
+    "title": "Justice League: Doom",
+    "release_date": "2012-02-28",
+    "vote_average": 7.413,
+    "poster_path": "/jmEAGjDAIZdQQNASygPsATBgKBC.jpg",
+    "genre_ids": [
+      28,
+      16,
+      878,
+      14
+    ],
+    "cached_at": "2026-08-28T12:38:10.210288"
+  },
+  "1395353": {
+    "id": 1395353,
+    "title": "La gioia",
+    "release_date": "2026-02-12",
+    "vote_average": 6.672,
+    "poster_path": "/bki9jjde5qwdLZ0YgOSnhL3ZyBV.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-28T12:38:10.240286"
+  },
+  "589754": {
+    "id": 589754,
+    "title": "The Last Warrior - La spada magica",
+    "release_date": "2020-12-24",
+    "vote_average": 6.705,
+    "poster_path": "/ua6UTfb8ExJSzvZ0npX9sR0i4j1.jpg",
+    "genre_ids": [
+      14,
+      12,
+      35
+    ],
+    "cached_at": "2026-08-28T12:38:10.246819"
+  },
+  "1374949": {
+    "id": 1374949,
+    "title": "Ho visto un re",
+    "release_date": "2025-04-30",
+    "vote_average": 7.1,
+    "poster_path": "/70zJmxsu8zKoWHVdQZMxECHzf5I.jpg",
+    "genre_ids": [
+      35,
+      36
+    ],
+    "cached_at": "2026-08-28T12:38:10.264872"
+  },
+  "1631807": {
+    "id": 1631807,
+    "title": "La donna senza passato",
+    "release_date": "2026-08-28",
+    "vote_average": 0.0,
+    "poster_path": "/t4vQEOJ665oIUWmHFOKjL2icUWR.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      18,
+      53
+    ],
+    "cached_at": "2026-08-28T12:38:10.594824"
+  },
+  "1549128": {
+    "id": 1549128,
+    "title": "Stella gemella",
+    "release_date": "2026-05-14",
+    "vote_average": 2.0,
+    "poster_path": "/bplj5wOuhfXrilWV8VCKstVubNG.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-28T12:38:11.033090"
+  },
+  "860508": {
+    "id": 860508,
+    "title": "L'uomo dei sussurri",
+    "release_date": "2026-08-28",
+    "vote_average": 5.3,
+    "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-08-28T12:38:11.308088"
   }
 }
