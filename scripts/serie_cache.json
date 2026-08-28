@@ -68374,5 +68374,43 @@
       18
     ],
     "cached_at": "2026-08-27T11:03:33.695288"
+  },
+  "330540": {
+    "id": 330540,
+    "name": "Dalliance",
+    "original_name": "Dalliance",
+    "first_air_date": "2026-08-27",
+    "vote_average": 0.0,
+    "poster_path": "/oUwy6xIffGNp94bkiqowBDM9W1S.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-28T12:37:08.052074"
+  },
+  "326879": {
+    "id": 326879,
+    "name": "The Airport Chaplain",
+    "original_name": "The Airport Chaplain",
+    "first_air_date": "2026-08-26",
+    "vote_average": 4.8,
+    "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-28T12:37:08.115947"
+  },
+  "290193": {
+    "id": 290193,
+    "name": "Mousetrap - Identità rubata",
+    "original_name": "들쥐",
+    "first_air_date": "2026-08-28",
+    "vote_average": 0.0,
+    "poster_path": "/z1xv9CKt7HmXgS6azNB563mU2FB.jpg",
+    "genre_ids": [
+      9648,
+      80,
+      18
+    ],
+    "cached_at": "2026-08-28T12:37:08.118600"
   }
 }
