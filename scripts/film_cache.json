@@ -170056,5 +170056,79 @@
       53
     ],
     "cached_at": "2026-08-28T12:38:11.308088"
+  },
+  "20360": {
+    "id": 20360,
+    "title": "Sposerò mia moglie",
+    "release_date": "2007-03-23",
+    "vote_average": 6.2,
+    "poster_path": "/dO0F66lM1jehIH5bsooKSbdz7xG.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-08-29T07:46:32.481209"
+  },
+  "4939": {
+    "id": 4939,
+    "title": "Non mandarmi fiori!",
+    "release_date": "1964-10-14",
+    "vote_average": 6.779,
+    "poster_path": "/oGxKkgyhcVl6B56tpSD9mnqcswR.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-08-29T07:46:32.536835"
+  },
+  "2669": {
+    "id": 2669,
+    "title": "Il Bounty",
+    "release_date": "1984-05-04",
+    "vote_average": 6.76,
+    "poster_path": "/d5SYrwV211TEDCWyFrno8BroUe3.jpg",
+    "genre_ids": [
+      28,
+      18,
+      36
+    ],
+    "cached_at": "2026-08-29T07:46:32.536852"
+  },
+  "1266800": {
+    "id": 1266800,
+    "title": "Il figlio del deserto",
+    "release_date": "2026-04-08",
+    "vote_average": 7.7,
+    "poster_path": "/mnbJSXLJGegbwl05TASP7WorxB4.jpg",
+    "genre_ids": [
+      12,
+      10751
+    ],
+    "cached_at": "2026-08-29T07:46:32.580652"
+  },
+  "1757519": {
+    "id": 1757519,
+    "title": "Sano come un pesce",
+    "release_date": "2026-03-12",
+    "vote_average": 0.0,
+    "poster_path": "/44Zbzq2eW3guftOlLTfWoUQAUMs.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-29T07:46:32.583034"
+  },
+  "370665": {
+    "id": 370665,
+    "title": "Dilwale",
+    "release_date": "2015-12-18",
+    "vote_average": 6.6,
+    "poster_path": "/pYgPu6hhOr61knwbestTx4vSdMb.jpg",
+    "genre_ids": [
+      80,
+      28,
+      35
+    ],
+    "cached_at": "2026-08-29T07:46:32.584165"
   }
 }
