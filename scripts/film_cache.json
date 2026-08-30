@@ -170130,5 +170130,28 @@
       35
     ],
     "cached_at": "2026-08-29T07:46:32.584165"
+  },
+  "94129": {
+    "id": 94129,
+    "title": "Babysitter - Un maledetto pasticcio",
+    "release_date": "1975-10-15",
+    "vote_average": 4.333,
+    "poster_path": "/dA5xj0bVJyT2Ky0tYdl0YVc3vCQ.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "cached_at": "2026-08-30T06:23:41.297299"
+  },
+  "1663996": {
+    "id": 1663996,
+    "title": "L'amore sta bene su tutto",
+    "release_date": "2026-05-06",
+    "vote_average": 4.0,
+    "poster_path": "/uGevFszuvC2yVGb3foshoPQNhgP.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-30T06:23:41.342180"
   }
 }
