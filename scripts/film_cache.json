@@ -170153,5 +170153,86 @@
       35
     ],
     "cached_at": "2026-08-30T06:23:41.342180"
+  },
+  "530286": {
+    "id": 530286,
+    "title": "Amami",
+    "release_date": "1993-03-05",
+    "vote_average": 4.333,
+    "poster_path": "/lGmCkfhUvmsQAQrJOb4Ttw3N0hG.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-31T06:54:41.528075"
+  },
+  "41668": {
+    "id": 41668,
+    "title": "Fantozzi - Il ritorno",
+    "release_date": "1996-12-20",
+    "vote_average": 5.8,
+    "poster_path": "/sL0Ay3GQZRup2xOPkL63qujgzgh.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-31T06:54:41.528105"
+  },
+  "407439": {
+    "id": 407439,
+    "title": "Maria Maddalena",
+    "release_date": "2018-03-15",
+    "vote_average": 6.302,
+    "poster_path": "/lmY20jvmBgIP9Kax34XVnSsoLjf.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-08-31T06:54:41.553972"
+  },
+  "41669": {
+    "id": 41669,
+    "title": "Fantozzi 2000 - La clonazione",
+    "release_date": "1999-12-23",
+    "vote_average": 5.1,
+    "poster_path": "/4L3RIGmtmucY2cYRHu2ThsIlIiv.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-31T06:54:41.567654"
+  },
+  "220177": {
+    "id": 220177,
+    "title": "Psycosissimo",
+    "release_date": "1961-02-11",
+    "vote_average": 6.7,
+    "poster_path": "/toqZ1QshGLNqNd6IdqTyWImJf4h.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-08-31T06:54:41.598881"
+  },
+  "1439808": {
+    "id": 1439808,
+    "title": "Hadestown: The Musical",
+    "release_date": "2026-07-23",
+    "vote_average": 8.9,
+    "poster_path": "/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
+    "genre_ids": [
+      18,
+      14,
+      10749
+    ],
+    "cached_at": "2026-08-31T06:54:41.600579"
+  },
+  "626": {
+    "id": 626,
+    "title": "Un chien andalou",
+    "release_date": "1929-06-05",
+    "vote_average": 7.393,
+    "poster_path": "/3Bond31VV0nRi5o1iL3i5r2s0HG.jpg",
+    "genre_ids": [
+      14,
+      27,
+      53
+    ],
+    "cached_at": "2026-08-31T06:54:41.601898"
   }
 }
