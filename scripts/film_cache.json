@@ -170234,5 +170234,104 @@
       53
     ],
     "cached_at": "2026-08-31T06:54:41.601898"
+  },
+  "1338972": {
+    "id": 1338972,
+    "title": "Pitfall",
+    "release_date": "2025-05-29",
+    "vote_average": 6.6,
+    "poster_path": "/xlkd8rmU3DMFKqCGOchAH1avrfM.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53
+    ],
+    "cached_at": "2026-09-01T06:10:20.103615"
+  },
+  "471880": {
+    "id": 471880,
+    "title": "Gatta Cenerentola",
+    "release_date": "2017-09-14",
+    "vote_average": 7.022,
+    "poster_path": "/nOsUW2vJ8NRtordn0kO9LXlr95h.jpg",
+    "genre_ids": [
+      16,
+      80,
+      53
+    ],
+    "cached_at": "2026-09-01T06:10:20.176019"
+  },
+  "1287479": {
+    "id": 1287479,
+    "title": "Malediction",
+    "release_date": "2023-01-01",
+    "vote_average": 0.0,
+    "poster_path": "/t8Ptgg8rqDqkniqLLx98HjA8yLX.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-09-01T06:10:20.196263"
+  },
+  "1279493": {
+    "id": 1279493,
+    "title": "La vendetta perfetta - Bear Country",
+    "release_date": "2026-06-18",
+    "vote_average": 6.112,
+    "poster_path": "/nDHdFt5EtpZRk8bRkJowruVXqGP.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-09-01T06:10:20.197430"
+  },
+  "1560520": {
+    "id": 1560520,
+    "title": "Batman: Knightfall Part 1: Knightfall",
+    "release_date": "2026-06-23",
+    "vote_average": 9.109,
+    "poster_path": "/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+    "genre_ids": [
+      16,
+      28,
+      12,
+      878,
+      80,
+      18
+    ],
+    "cached_at": "2026-09-01T06:10:20.216484"
+  },
+  "1245859": {
+    "id": 1245859,
+    "title": "Savage House",
+    "release_date": "2026-06-05",
+    "vote_average": 7.1,
+    "poster_path": "/uF2qGFP5uL7UWk9h1xDZpWV2P8t.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-09-01T06:10:20.228097"
+  },
+  "438449": {
+    "id": 438449,
+    "title": "The Work",
+    "release_date": "2017-03-11",
+    "vote_average": 7.488,
+    "poster_path": "/yxPk4a44miDk17tNpqhrwnrf3DZ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-09-01T06:10:20.238202"
+  },
+  "876573": {
+    "id": 876573,
+    "title": "Nati morti",
+    "release_date": "2021-03-08",
+    "vote_average": 6.2,
+    "poster_path": "/ig1vHnN3LFfJaatsxzBxpx98rx.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-09-01T06:10:20.239315"
   }
 }
