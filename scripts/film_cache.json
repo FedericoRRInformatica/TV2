@@ -170333,5 +170333,88 @@
       27
     ],
     "cached_at": "2026-09-01T06:10:20.239315"
+  },
+  "26337": {
+    "id": 26337,
+    "title": "China Moon - Luna di sangue",
+    "release_date": "1994-03-04",
+    "vote_average": 6.102,
+    "poster_path": "/slNOLd9yPKDruqVGKEpCLKcN3Fr.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      80
+    ],
+    "cached_at": "2026-09-02T05:36:04.568535"
+  },
+  "931628": {
+    "id": 931628,
+    "title": "Berlin Nobody",
+    "release_date": "2024-06-28",
+    "vote_average": 5.557,
+    "poster_path": "/mfvfFge4O7hQP6NNrUjIJm14WZG.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "cached_at": "2026-09-02T05:36:04.599938"
+  },
+  "1438958": {
+    "id": 1438958,
+    "title": "Antartica - Quasi una fiaba",
+    "release_date": "2026-05-14",
+    "vote_average": 4.7,
+    "poster_path": "/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-02T05:36:04.610127"
+  },
+  "1063879": {
+    "id": 1063879,
+    "title": "Vermin",
+    "release_date": "2023-12-27",
+    "vote_average": 6.528,
+    "poster_path": "/1YJvWOqP7fX1SV4vd2klV7LdZBx.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-09-02T05:36:04.622534"
+  },
+  "1201262": {
+    "id": 1201262,
+    "title": "Grafted - Corpi estranei",
+    "release_date": "2024-09-12",
+    "vote_average": 5.8,
+    "poster_path": "/u53wFzLoJD7om52Hjma8G27LS2h.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-09-02T05:36:04.640340"
+  },
+  "777726": {
+    "id": 777726,
+    "title": "Marx può aspettare",
+    "release_date": "2021-07-15",
+    "vote_average": 7.174,
+    "poster_path": "/3hIlXYPIsOgdYhN84Gz9PgpDhhU.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-09-02T05:36:04.644540"
+  },
+  "1110034": {
+    "id": 1110034,
+    "title": "Kraken",
+    "release_date": "2026-02-06",
+    "vote_average": 6.312,
+    "poster_path": "/uUCVGVWnBgIf6NV3AqHpJcCBC8T.jpg",
+    "genre_ids": [
+      27,
+      28,
+      53
+    ],
+    "cached_at": "2026-09-02T05:36:04.659386"
   }
 }
