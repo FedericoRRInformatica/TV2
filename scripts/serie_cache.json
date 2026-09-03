@@ -68437,5 +68437,55 @@
       18
     ],
     "cached_at": "2026-08-31T06:50:45.675464"
+  },
+  "135144": {
+    "id": 135144,
+    "name": "JAPAN SINKS: People of Hope",
+    "original_name": "日本沈没ー希望のひとー",
+    "first_air_date": "2021-10-10",
+    "vote_average": 6.5,
+    "poster_path": "/r8gBxlJ8Hb6VZRhPZmQnZVwGXgE.jpg",
+    "genre_ids": [
+      10765,
+      18,
+      10768
+    ],
+    "cached_at": "2026-09-03T05:35:25.555160"
+  },
+  "293432": {
+    "id": 293432,
+    "name": "19番目のカルテ",
+    "original_name": "19番目のカルテ",
+    "first_air_date": "2025-07-13",
+    "vote_average": 7.75,
+    "poster_path": "/kQl9lIhurDIMU4FWNvy1sL1T5PB.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-03T05:35:25.591463"
+  },
+  "257885": {
+    "id": 257885,
+    "name": "Miss Fallaci",
+    "original_name": "Miss Fallaci",
+    "first_air_date": "2025-02-18",
+    "vote_average": 6.5,
+    "poster_path": "/kgHnPBJiQluvoVuSKloO3ZNRQFm.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-03T05:35:25.627477"
+  },
+  "290234": {
+    "id": 290234,
+    "name": "Male d'amore",
+    "original_name": "Mal de amores",
+    "first_air_date": "2026-09-02",
+    "vote_average": 8.0,
+    "poster_path": "/qX1LFh0ZlxQxVGVyKrDxzhPopfU.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-03T05:35:25.652746"
   }
 }
