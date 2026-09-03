@@ -170416,5 +170416,130 @@
       53
     ],
     "cached_at": "2026-09-02T05:36:04.659386"
+  },
+  "73753": {
+    "id": 73753,
+    "title": "Il presidente del Borgorosso Football Club",
+    "release_date": "1970-10-16",
+    "vote_average": 6.398,
+    "poster_path": "/uUTwInnbm1zmKvg4i38IkTLijjF.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-03T05:36:22.612049"
+  },
+  "1476682": {
+    "id": 1476682,
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "release_date": "2026-07-09",
+    "vote_average": 6.5,
+    "poster_path": "/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-03T05:36:22.613450"
+  },
+  "1378": {
+    "id": 1378,
+    "title": "Shortbus - Dove tutto è permesso",
+    "release_date": "2006-10-04",
+    "vote_average": 6.265,
+    "poster_path": "/2FoWIaDJdM8XErkXV9hLQiGzgOo.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      35
+    ],
+    "cached_at": "2026-09-03T05:36:22.617950"
+  },
+  "210079": {
+    "id": 210079,
+    "title": "Oltre il guado",
+    "release_date": "2013-06-21",
+    "vote_average": 5.33,
+    "poster_path": "/q1kuipvVbUZHTkEFwD4HCqxXpD9.jpg",
+    "genre_ids": [
+      53,
+      27,
+      9648
+    ],
+    "cached_at": "2026-09-03T05:36:22.633238"
+  },
+  "793387": {
+    "id": 793387,
+    "title": "Holy Night – I cacciatori di demoni",
+    "release_date": "2025-04-30",
+    "vote_average": 6.944,
+    "poster_path": "/7MGnHpfhF8savUsrUJoI8Q7dTk9.jpg",
+    "genre_ids": [
+      28,
+      14,
+      27,
+      53
+    ],
+    "cached_at": "2026-09-03T05:36:22.641408"
+  },
+  "1386315": {
+    "id": 1386315,
+    "title": "The Runner",
+    "release_date": "2026-09-03",
+    "vote_average": 5.939,
+    "poster_path": "/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-09-03T05:36:22.648188"
+  },
+  "1164892": {
+    "id": 1164892,
+    "title": "Escape",
+    "release_date": "2024-03-15",
+    "vote_average": 5.582,
+    "poster_path": "/75YBLsA38KAJfL4D4plgcmquAE1.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "cached_at": "2026-09-03T05:36:22.651771"
+  },
+  "8984": {
+    "id": 8984,
+    "title": "Rivelazioni",
+    "release_date": "1994-12-09",
+    "vote_average": 6.248,
+    "poster_path": "/rPLWDhLsniJIIPwiiKOv0T83HaZ.jpg",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ],
+    "cached_at": "2026-09-03T05:36:22.651785"
+  },
+  "238367": {
+    "id": 238367,
+    "title": "Colpo di fulmine",
+    "release_date": "1985-09-27",
+    "vote_average": 4.667,
+    "poster_path": "/eD1rN1DcOVqNjuSwtOLQaTUQ5Pb.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-03T05:36:22.658680"
+  },
+  "1731694": {
+    "id": 1731694,
+    "title": "LEGO Star Wars: The Mandalorian",
+    "release_date": "2026-09-02",
+    "vote_average": 8.5,
+    "poster_path": "/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+    "genre_ids": [
+      16,
+      878,
+      12,
+      10751,
+      28
+    ],
+    "cached_at": "2026-09-03T05:36:22.698776"
   }
 }
