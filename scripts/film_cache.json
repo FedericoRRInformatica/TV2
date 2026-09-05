@@ -170629,5 +170629,191 @@
       27
     ],
     "cached_at": "2026-09-04T05:42:00.780725"
+  },
+  "421928": {
+    "id": 421928,
+    "title": "Luck-Key",
+    "release_date": "2016-10-13",
+    "vote_average": 7.168,
+    "poster_path": "/32ZO0IREGvASVhb2XPnlYNgkCtX.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "cached_at": "2026-09-05T05:30:08.479329"
+  },
+  "64577": {
+    "id": 64577,
+    "title": "Il sole nella pelle",
+    "release_date": "1971-04-09",
+    "vote_average": 5.6,
+    "poster_path": "/cQ3rPaUDDy5zubPGgx5VylB7KXM.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-09-05T05:30:08.491436"
+  },
+  "47848": {
+    "id": 47848,
+    "title": "Profumo di donna",
+    "release_date": "1974-12-20",
+    "vote_average": 7.4,
+    "poster_path": "/2j2HPkBILG3VyVl9zTorfGLlkDB.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-09-05T05:30:08.530890"
+  },
+  "1340076": {
+    "id": 1340076,
+    "title": "Invasione Domestica - Romanzo senza Titolo",
+    "release_date": "2026-01-27",
+    "vote_average": 5.6,
+    "poster_path": "/iaKhChAalVScxM5LCoz75RiQPvM.jpg",
+    "genre_ids": [
+      35,
+      28,
+      53,
+      10749,
+      27
+    ],
+    "cached_at": "2026-09-05T05:30:08.544594"
+  },
+  "469019": {
+    "id": 469019,
+    "title": "Jim e Andy",
+    "release_date": "2017-09-05",
+    "vote_average": 7.454,
+    "poster_path": "/kKzopOFXz9YfsCTqg3XpF0GoypX.jpg",
+    "genre_ids": [
+      99,
+      18,
+      35
+    ],
+    "cached_at": "2026-09-05T05:30:08.618352"
+  },
+  "551758": {
+    "id": 551758,
+    "title": "Daddy's Girl",
+    "release_date": "2018-10-04",
+    "vote_average": 5.7,
+    "poster_path": "/p5I19rXX5NkTjyCYwFPyJA5W03w.jpg",
+    "genre_ids": [
+      27,
+      80,
+      53
+    ],
+    "cached_at": "2026-09-05T05:30:08.625104"
+  },
+  "1137844": {
+    "id": 1137844,
+    "title": "Mayday",
+    "release_date": "2026-09-02",
+    "vote_average": 7.167,
+    "poster_path": "/hEPE2DP26os4LRcajwfR7l3UOv6.jpg",
+    "genre_ids": [
+      35,
+      28
+    ],
+    "cached_at": "2026-09-05T05:30:08.639760"
+  },
+  "1752159": {
+    "id": 1752159,
+    "title": "Turning Point: Generazione 11 settembre",
+    "release_date": "2026-09-02",
+    "vote_average": 7.3,
+    "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-09-05T05:30:08.656513"
+  },
+  "59336": {
+    "id": 59336,
+    "title": "Io la conoscevo bene",
+    "release_date": "1965-12-01",
+    "vote_average": 7.457,
+    "poster_path": "/xjuLin7tmWDOSoAzpsMPNHo5kXQ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-05T05:30:08.677823"
+  },
+  "462996": {
+    "id": 462996,
+    "title": "Love, Kennedy",
+    "release_date": "2017-06-02",
+    "vote_average": 7.731,
+    "poster_path": "/1D4aZJk7OefGwKlakQvYU8GeBIz.jpg",
+    "genre_ids": [
+      10751,
+      18
+    ],
+    "cached_at": "2026-09-05T05:30:08.684866"
+  },
+  "1384216": {
+    "id": 1384216,
+    "title": "The Dog Stars - Le stelle dopo la fine",
+    "release_date": "2026-08-26",
+    "vote_average": 6.721,
+    "poster_path": "/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
+    "genre_ids": [
+      878,
+      12,
+      53
+    ],
+    "cached_at": "2026-09-05T05:30:08.686087"
+  },
+  "666622": {
+    "id": 666622,
+    "title": "Lasciarsi un giorno a Roma",
+    "release_date": "2021-11-30",
+    "vote_average": 6.6,
+    "poster_path": "/2dMW9M2dKZTyuRexWN43RpJYa4.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "cached_at": "2026-09-05T05:30:08.701236"
+  },
+  "250480": {
+    "id": 250480,
+    "title": "Le avventure di Winnie the Pooh",
+    "release_date": "1977-03-11",
+    "vote_average": 7.245,
+    "poster_path": "/5hAfYOiePgJcvJJjfXIZkZqeCtb.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12
+    ],
+    "cached_at": "2026-09-05T05:30:09.092391"
+  },
+  "1312390": {
+    "id": 1312390,
+    "title": "Nel tepore del ballo",
+    "release_date": "2026-04-30",
+    "vote_average": 6.6,
+    "poster_path": "/ng9NBZ5qAJ4k4KlvQWgxKTuM1XT.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-05T05:30:09.595199"
+  },
+  "212794": {
+    "id": 212794,
+    "title": "Perdono",
+    "release_date": "1966-12-06",
+    "vote_average": 5.364,
+    "poster_path": "/4X9OgFzLxxqfjpbxgxgMtdUbekG.jpg",
+    "genre_ids": [
+      35,
+      10402
+    ],
+    "cached_at": "2026-09-05T05:30:10.130018"
   }
 }
