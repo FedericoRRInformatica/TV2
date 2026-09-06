@@ -170815,5 +170815,64 @@
       10402
     ],
     "cached_at": "2026-09-05T05:30:10.130018"
+  },
+  "1698863": {
+    "id": 1698863,
+    "title": "The Odyssey",
+    "release_date": "2026-07-03",
+    "vote_average": 4.026,
+    "poster_path": "/b0z3ViIC5AkbJoqxmTpqyjgmoJs.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "cached_at": "2026-09-06T05:43:44.365795"
+  },
+  "298973": {
+    "id": 298973,
+    "title": "His Motorbike, Her Island",
+    "release_date": "1986-04-26",
+    "vote_average": 7.766,
+    "poster_path": "/2yUN50OHeJLaMcu5nO1D2nX5frr.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-09-06T05:43:44.384214"
+  },
+  "26275": {
+    "id": 26275,
+    "title": "Kamikaze Girls",
+    "release_date": "2004-05-29",
+    "vote_average": 7.1,
+    "poster_path": "/7Ltjksp85LxXa3tuhn7UCBV4c8q.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-06T05:43:44.387194"
+  },
+  "26955": {
+    "id": 26955,
+    "title": "Oasis",
+    "release_date": "2002-08-09",
+    "vote_average": 7.735,
+    "poster_path": "/pWKdRKC0QGieK5d3ju8tiQYwpKS.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-09-06T05:43:44.394125"
+  },
+  "41245": {
+    "id": 41245,
+    "title": "Peppermint Candy",
+    "release_date": "2000-01-01",
+    "vote_average": 7.506,
+    "poster_path": "/6YXTpkvFc9puTJlDKeD7jobLM1S.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-06T05:43:44.945393"
   }
 }
