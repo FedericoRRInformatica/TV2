@@ -68487,5 +68487,43 @@
       18
     ],
     "cached_at": "2026-09-03T05:35:25.652746"
+  },
+  "292558": {
+    "id": 292558,
+    "name": "Tutta la verità delle mie bugie",
+    "original_name": "Toda la verdad de mis mentiras",
+    "first_air_date": "2026-08-28",
+    "vote_average": 7.2,
+    "poster_path": "/xrXT1n7o77XOVsQKAoS7lIg2emc.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-09-06T05:42:43.610490"
+  },
+  "34634": {
+    "id": 34634,
+    "name": "La febbre dell'oro",
+    "original_name": "Gold Rush",
+    "first_air_date": "2010-12-03",
+    "vote_average": 7.152,
+    "poster_path": "/nIVHL5VBp0nkuQwizNcFRMbmx3j.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-09-06T05:42:43.691280"
+  },
+  "225221": {
+    "id": 225221,
+    "name": "Nightsleeper - Fuori controllo",
+    "original_name": "Nightsleeper",
+    "first_air_date": "2024-09-15",
+    "vote_average": 6.766,
+    "poster_path": "/twMzmcKkJpftjhYyrPXETddN08R.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-09-06T05:42:43.706861"
   }
 }
