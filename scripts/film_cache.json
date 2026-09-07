@@ -170874,5 +170874,301 @@
       18
     ],
     "cached_at": "2026-09-06T05:43:44.945393"
+  },
+  "42473": {
+    "id": 42473,
+    "title": "Tom Sawyer",
+    "release_date": "1973-03-15",
+    "vote_average": 6.461,
+    "poster_path": "/In4e2cLbkemK8t2bBfisgT0iqU.jpg",
+    "genre_ids": [
+      10751,
+      10402,
+      12
+    ],
+    "cached_at": "2026-09-07T05:54:59.798805"
+  },
+  "41952": {
+    "id": 41952,
+    "title": "Legge criminale",
+    "release_date": "1989-04-28",
+    "vote_average": 5.619,
+    "poster_path": "/pdPo5BKZBHZ8oPjkJfo2fXLTQvH.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-09-07T05:54:59.804018"
+  },
+  "52886": {
+    "id": 52886,
+    "title": "Castaway, la ragazza venerdì",
+    "release_date": "1986-03-05",
+    "vote_average": 6.3,
+    "poster_path": "/fGzT2asVTSz0oduNa1w6MJ6uhHp.jpg",
+    "genre_ids": [
+      12,
+      10749,
+      18
+    ],
+    "cached_at": "2026-09-07T05:54:59.807252"
+  },
+  "13515": {
+    "id": 13515,
+    "title": "Riflessi di paura",
+    "release_date": "2008-08-14",
+    "vote_average": 6.307,
+    "poster_path": "/112belWwyZoAuGJVLhixeP9unVZ.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "cached_at": "2026-09-07T05:54:59.835359"
+  },
+  "40082": {
+    "id": 40082,
+    "title": "I re del mambo",
+    "release_date": "1992-02-28",
+    "vote_average": 6.378,
+    "poster_path": "/z453xzceHYUqGDVFzG5LI5KWkHy.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-09-07T05:54:59.836986"
+  },
+  "17590": {
+    "id": 17590,
+    "title": "Trappola mortale",
+    "release_date": "1982-03-19",
+    "vote_average": 6.686,
+    "poster_path": "/dYp3RaNmmEsUUEGuxNo6sba8hgZ.jpg",
+    "genre_ids": [
+      35,
+      80,
+      18
+    ],
+    "cached_at": "2026-09-07T05:54:59.845827"
+  },
+  "1249423": {
+    "id": 1249423,
+    "title": "Black Dog",
+    "release_date": "2024-06-15",
+    "vote_average": 7.1,
+    "poster_path": "/jFXcB5vOc1P2pu1EbjRumOcb62b.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-07T05:54:59.875168"
+  },
+  "75141": {
+    "id": 75141,
+    "title": "Huckleberry Finn",
+    "release_date": "1974-05-24",
+    "vote_average": 5.969,
+    "poster_path": "/g4yl5xXpz8Yf0BUc1K42qOZop0H.jpg",
+    "genre_ids": [
+      10402,
+      10751,
+      12
+    ],
+    "cached_at": "2026-09-07T05:54:59.875192"
+  },
+  "52809": {
+    "id": 52809,
+    "title": "La banda del gobbo",
+    "release_date": "1977-08-18",
+    "vote_average": 6.9,
+    "poster_path": "/4Nr4AoEnUxNstanMbTjwxWqcPBD.jpg",
+    "genre_ids": [
+      53,
+      28,
+      80
+    ],
+    "cached_at": "2026-09-07T05:54:59.875202"
+  },
+  "32059": {
+    "id": 32059,
+    "title": "Un detective... particolare",
+    "release_date": "1989-01-13",
+    "vote_average": 5.0,
+    "poster_path": "/EGQxj53WaYMVxHDlUzVWAf3tCh.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      53,
+      35
+    ],
+    "cached_at": "2026-09-07T05:54:59.875209"
+  },
+  "46992": {
+    "id": 46992,
+    "title": "Hilary and Jackie",
+    "release_date": "1998-12-30",
+    "vote_average": 6.598,
+    "poster_path": "/aE2NJH2sllQTmbpN6laKuM7NXYy.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-09-07T05:54:59.883267"
+  },
+  "14804": {
+    "id": 14804,
+    "title": "Vitus",
+    "release_date": "2006-02-02",
+    "vote_average": 7.378,
+    "poster_path": "/1J9hCGQZwjph1QNrgxoBJfQx9LS.jpg",
+    "genre_ids": [
+      10402,
+      18
+    ],
+    "cached_at": "2026-09-07T05:54:59.915143"
+  },
+  "9946": {
+    "id": 9946,
+    "title": "Giorni contati - End of Days",
+    "release_date": "1999-11-24",
+    "vote_average": 6.1,
+    "poster_path": "/cR4GIxx4fNPhBdR5qTCYZ85FrZ9.jpg",
+    "genre_ids": [
+      28,
+      27,
+      14
+    ],
+    "cached_at": "2026-09-07T05:54:59.915158"
+  },
+  "34594": {
+    "id": 34594,
+    "title": "Un franco, 14 pesetas",
+    "release_date": "2006-03-19",
+    "vote_average": 6.492,
+    "poster_path": "/nbxndlfCBb3jspjS1mhm1gMoT5s.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-09-07T05:54:59.939968"
+  },
+  "52912": {
+    "id": 52912,
+    "title": "La banda del trucido",
+    "release_date": "1977-03-18",
+    "vote_average": 5.8,
+    "poster_path": "/ivAyaxtJp73rK3TJRr4MUEHDVQj.jpg",
+    "genre_ids": [
+      80
+    ],
+    "cached_at": "2026-09-07T05:54:59.943969"
+  },
+  "88634": {
+    "id": 88634,
+    "title": "Come Mona Lisa",
+    "release_date": "2000-05-01",
+    "vote_average": 5.967,
+    "poster_path": "/cc0jR6Wjk1BqhS08wLqdUgz4I38.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-07T05:55:00.078406"
+  },
+  "3587": {
+    "id": 3587,
+    "title": "Bogus - L'amico immaginario",
+    "release_date": "1996-09-06",
+    "vote_average": 5.808,
+    "poster_path": "/5WAJQxYiD4MdkImIxsRoF7wVLoG.jpg",
+    "genre_ids": [
+      14,
+      35,
+      10751
+    ],
+    "cached_at": "2026-09-07T05:55:00.111516"
+  },
+  "1257778": {
+    "id": 1257778,
+    "title": "Just Breathe - Fuori controllo",
+    "release_date": "2025-11-06",
+    "vote_average": 6.1,
+    "poster_path": "/vXtJKt9vJTyMclwCsNKPMD8JC63.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-09-07T05:55:00.132989"
+  },
+  "282297": {
+    "id": 282297,
+    "title": "Cowspiracy - Il segreto della sostenibilità ambientale",
+    "release_date": "2014-07-01",
+    "vote_average": 7.626,
+    "poster_path": "/36AWs3v35KNCcbhoEqbwfKoTjpB.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-09-07T05:55:00.145503"
+  },
+  "24831": {
+    "id": 24831,
+    "title": "Piraña",
+    "release_date": "1978-08-03",
+    "vote_average": 5.953,
+    "poster_path": "/oaz0Le3fT3R8jzlkXkNV7JAsd7x.jpg",
+    "genre_ids": [
+      27,
+      878,
+      35
+    ],
+    "cached_at": "2026-09-07T05:55:00.146675"
+  },
+  "55306": {
+    "id": 55306,
+    "title": "L'oro di Ulisse",
+    "release_date": "1997-06-13",
+    "vote_average": 6.495,
+    "poster_path": "/qeShABhOWCwbII44DTygTCJvva9.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-07T05:55:00.149900"
+  },
+  "1204680": {
+    "id": 1204680,
+    "title": "Coyote vs. Acme",
+    "release_date": "2026-08-20",
+    "vote_average": 7.6,
+    "poster_path": "/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
+    "genre_ids": [
+      35,
+      12,
+      10751
+    ],
+    "cached_at": "2026-09-07T05:55:00.310646"
+  },
+  "22682": {
+    "id": 22682,
+    "title": "Come far carriera senza lavorare",
+    "release_date": "1967-03-09",
+    "vote_average": 6.683,
+    "poster_path": "/v236if29S62v70DY9NUSbFMjdc7.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-09-07T05:55:00.788729"
+  },
+  "335778": {
+    "id": 335778,
+    "title": "Risorto",
+    "release_date": "2016-02-18",
+    "vote_average": 6.3,
+    "poster_path": "/mwHC59sSy2YXDoeClj2JLUazglk.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      36,
+      9648
+    ],
+    "cached_at": "2026-09-07T05:55:00.897341"
   }
 }
