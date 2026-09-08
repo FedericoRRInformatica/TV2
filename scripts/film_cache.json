@@ -171170,5 +171170,39 @@
       9648
     ],
     "cached_at": "2026-09-07T05:55:00.897341"
+  },
+  "1156189": {
+    "id": 1156189,
+    "title": "Ryuichi Sakamoto | Opus",
+    "release_date": "2023-12-27",
+    "vote_average": 7.738,
+    "poster_path": "/fw0NchjBAQKz90klk4xNlw0xxuy.jpg",
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "cached_at": "2026-09-08T05:46:40.723163"
+  },
+  "370982": {
+    "id": 370982,
+    "title": "Un posto sicuro",
+    "release_date": "2015-12-03",
+    "vote_average": 6.0,
+    "poster_path": "/o2Z575edqny67vfOShTFFzARG1v.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-08T05:46:40.732659"
+  },
+  "74000": {
+    "id": 74000,
+    "title": "South Kensington",
+    "release_date": "2001-12-17",
+    "vote_average": 5.1,
+    "poster_path": "/hxUNh9n9bFAWdwp7QtRdlxv8Ynw.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-08T05:46:40.752303"
   }
 }
