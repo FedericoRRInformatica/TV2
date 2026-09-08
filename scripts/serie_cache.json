@@ -68538,5 +68538,32 @@
       9648
     ],
     "cached_at": "2026-09-07T05:52:45.683781"
+  },
+  "289560": {
+    "id": 289560,
+    "name": "CIA",
+    "original_name": "CIA",
+    "first_air_date": "2026-02-23",
+    "vote_average": 8.615,
+    "poster_path": "/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-09-08T05:45:41.048925"
+  },
+  "206344": {
+    "id": 206344,
+    "name": "Vortex: crimini dal passato",
+    "original_name": "Vortex",
+    "first_air_date": "2023-01-02",
+    "vote_average": 6.8,
+    "poster_path": "/oYzNhRU2TFWrqeW6umtdhv11ePH.jpg",
+    "genre_ids": [
+      80,
+      10765,
+      18
+    ],
+    "cached_at": "2026-09-08T05:45:41.070648"
   }
 }
