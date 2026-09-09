@@ -171204,5 +171204,98 @@
       35
     ],
     "cached_at": "2026-09-08T05:46:40.752303"
+  },
+  "859619": {
+    "id": 859619,
+    "title": "William the Conqueror",
+    "release_date": "2015-01-01",
+    "vote_average": 5.8,
+    "poster_path": "/c2IyBRuI3czazvWG5hDcQWtCERv.jpg",
+    "genre_ids": [
+      99,
+      36,
+      18
+    ],
+    "cached_at": "2026-09-09T05:51:14.796866"
+  },
+  "881680": {
+    "id": 881680,
+    "title": "Frank Miller: American Genius",
+    "release_date": "2024-06-10",
+    "vote_average": 7.0,
+    "poster_path": "/xcVc5RdduDlbSsz8wPnamOSLeMH.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-09-09T05:51:14.805632"
+  },
+  "300761": {
+    "id": 300761,
+    "title": "Kobe Bryant's Muse",
+    "release_date": "2015-02-28",
+    "vote_average": 7.8,
+    "poster_path": "/p9jpl4brgiymBSBod61hAV7ONKn.jpg",
+    "genre_ids": [
+      99,
+      10770
+    ],
+    "cached_at": "2026-09-09T05:51:14.857113"
+  },
+  "1739206": {
+    "id": 1739206,
+    "title": "Untold Mr. T: Ho pietà per gli stolti",
+    "release_date": "2026-09-08",
+    "vote_average": 8.111,
+    "poster_path": "/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-09-09T05:51:14.859536"
+  },
+  "11798": {
+    "id": 11798,
+    "title": "This Is England",
+    "release_date": "2007-04-27",
+    "vote_average": 7.479,
+    "poster_path": "/pxV1iJME2D2VoI1un0mLpX2rBjm.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-09-09T05:51:14.860090"
+  },
+  "82368": {
+    "id": 82368,
+    "title": "Il mattatore",
+    "release_date": "1960-02-11",
+    "vote_average": 7.216,
+    "poster_path": "/a7KuAdk5pLNmCbZfESUXUtz3wlM.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-09T05:51:14.869654"
+  },
+  "9885": {
+    "id": 9885,
+    "title": "Wolf Creek",
+    "release_date": "2005-09-16",
+    "vote_average": 6.227,
+    "poster_path": "/7dQIg8mkKbLZfpPK8hQxzntieaO.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-09-09T05:51:14.894329"
+  },
+  "367524": {
+    "id": 367524,
+    "title": "Kareem: Minority of One",
+    "release_date": "2015-11-03",
+    "vote_average": 7.2,
+    "poster_path": "/fXDMgTFoklwoueJHHKaGoiybaaP.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-09-09T05:51:15.537967"
   }
 }
