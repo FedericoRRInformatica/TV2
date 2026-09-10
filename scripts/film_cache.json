@@ -171297,5 +171297,130 @@
       99
     ],
     "cached_at": "2026-09-09T05:51:15.537967"
+  },
+  "1373445": {
+    "id": 1373445,
+    "title": "V/H/S/Halloween",
+    "release_date": "2025-09-19",
+    "vote_average": 6.225,
+    "poster_path": "/bvMKSZtN8KAdtlKoYbEi1Zhyaou.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-09-10T05:45:25.284350"
+  },
+  "108101": {
+    "id": 108101,
+    "title": "Arabella: l'angelo nero",
+    "release_date": "1989-09-08",
+    "vote_average": 5.516,
+    "poster_path": "/jU9BrgT8HzKxUMbkQFvZRxzIdWD.jpg",
+    "genre_ids": [
+      53,
+      80,
+      27
+    ],
+    "cached_at": "2026-09-10T05:45:25.288995"
+  },
+  "81539": {
+    "id": 81539,
+    "title": "La trappola dell'innocenza",
+    "release_date": "2011-12-13",
+    "vote_average": 4.923,
+    "poster_path": "/yLNwcSzDJ6dAaENPPDZNAr268Rg.jpg",
+    "genre_ids": [
+      9648,
+      10770,
+      53,
+      80,
+      18
+    ],
+    "cached_at": "2026-09-10T05:45:25.305923"
+  },
+  "1107166": {
+    "id": 1107166,
+    "title": "Psycho Killer",
+    "release_date": "2026-02-20",
+    "vote_average": 6.674,
+    "poster_path": "/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
+    "genre_ids": [
+      80,
+      27,
+      9648
+    ],
+    "cached_at": "2026-09-10T05:45:25.309517"
+  },
+  "45024": {
+    "id": 45024,
+    "title": "Policarpo, ufficiale di scrittura",
+    "release_date": "1959-03-18",
+    "vote_average": 7.375,
+    "poster_path": "/lAn0SIODT2rO3liy3gD3312itrC.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-10T05:45:25.320244"
+  },
+  "1440098": {
+    "id": 1440098,
+    "title": "Marfil - Gli Opposti",
+    "release_date": "2026-09-09",
+    "vote_average": 7.0,
+    "poster_path": "/w4g7RSF7YcH1pvSv67CgMwFVVVY.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      53
+    ],
+    "cached_at": "2026-09-10T05:45:25.338114"
+  },
+  "1442922": {
+    "id": 1442922,
+    "title": "Un anno di scuola",
+    "release_date": "2026-04-09",
+    "vote_average": 6.74,
+    "poster_path": "/8kGEfpIabMiaWpdMkTcNFclld5W.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-10T05:45:25.364026"
+  },
+  "12208": {
+    "id": 12208,
+    "title": "James Bond 007 - Casino Royale",
+    "release_date": "1967-04-18",
+    "vote_average": 5.242,
+    "poster_path": "/ofvKQYHaeFSD7Dtmx7yzt2v2adN.jpg",
+    "genre_ids": [
+      12,
+      28,
+      35
+    ],
+    "cached_at": "2026-09-10T05:45:25.366319"
+  },
+  "345922": {
+    "id": 345922,
+    "title": "Botte da prof",
+    "release_date": "2017-02-16",
+    "vote_average": 6.04,
+    "poster_path": "/8TVXZAXuK0lMHS8yHgJnqjYVWiU.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-10T05:45:25.373642"
+  },
+  "1522689": {
+    "id": 1522689,
+    "title": "Why Did I Get Married Again?",
+    "release_date": "2026-09-08",
+    "vote_average": 7.667,
+    "poster_path": "/bgZN3gniRohjfKdsw1Q7EGBAyqz.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "cached_at": "2026-09-10T05:45:25.400211"
   }
 }
