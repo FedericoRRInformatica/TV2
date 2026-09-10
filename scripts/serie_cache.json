@@ -68578,5 +68578,55 @@
       35
     ],
     "cached_at": "2026-09-09T05:50:07.845256"
+  },
+  "334539": {
+    "id": 334539,
+    "name": "Dolore e Psiche",
+    "original_name": "Dolore e Psiche",
+    "first_air_date": "2026-09-01",
+    "vote_average": 0.0,
+    "poster_path": "/aSoUrOqul225Pbrg9dXcL7cAjsv.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-09-10T05:44:25.809281"
+  },
+  "133174": {
+    "id": 133174,
+    "name": "All the Queen's Men",
+    "original_name": "All the Queen's Men",
+    "first_air_date": "2021-09-09",
+    "vote_average": 8.4,
+    "poster_path": "/uo7unmhOjl60cOQQ1YA82QmXKxN.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-10T05:44:25.817600"
+  },
+  "327817": {
+    "id": 327817,
+    "name": "Let’s Marry Harry",
+    "original_name": "Let’s Marry Harry",
+    "first_air_date": "2026-08-05",
+    "vote_average": 10.0,
+    "poster_path": "/oV3Kr8qV9ta1RYqtk35ajYmrFax.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-09-10T05:44:25.870847"
+  },
+  "258230": {
+    "id": 258230,
+    "name": "Last Seen",
+    "original_name": "Last Seen",
+    "first_air_date": "2026-09-09",
+    "vote_average": 9.3,
+    "poster_path": "/1Hfzson9qIWnTn6fkIXwkwUuUAr.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2026-09-10T05:44:25.874740"
   }
 }
