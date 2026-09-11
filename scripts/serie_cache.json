@@ -68628,5 +68628,78 @@
       9648
     ],
     "cached_at": "2026-09-10T05:44:25.874740"
+  },
+  "325755": {
+    "id": 325755,
+    "name": "Il gusto amaro del tradimento",
+    "original_name": "De Eetclub",
+    "first_air_date": "2026-09-10",
+    "vote_average": 10.0,
+    "poster_path": "/kGqVIxC0FH4AbbBXjaVFqXQ3Azz.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-11T05:44:21.994628"
+  },
+  "300507": {
+    "id": 300507,
+    "name": "Crew Girl",
+    "original_name": "Crew Girl",
+    "first_air_date": "2026-09-10",
+    "vote_average": 7.4,
+    "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-11T05:44:22.023984"
+  },
+  "85159": {
+    "id": 85159,
+    "name": "7 Days Out",
+    "original_name": "7 Days Out",
+    "first_air_date": "2018-12-21",
+    "vote_average": 5.6,
+    "poster_path": "/qaOCo51dpaLP2olD7ihKJbmviO1.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-09-11T05:44:22.037276"
+  },
+  "115171": {
+    "id": 115171,
+    "name": "Fratelli Caputo",
+    "original_name": "Fratelli Caputo",
+    "first_air_date": "2020-12-23",
+    "vote_average": 7.2,
+    "poster_path": "/pTlVdBR2CQfL4PCjDDybOx3lreI.jpg",
+    "genre_ids": [
+      10751
+    ],
+    "cached_at": "2026-09-11T05:44:22.049762"
+  },
+  "196906": {
+    "id": 196906,
+    "name": "Doctor Lawyer",
+    "original_name": "닥터로이어",
+    "first_air_date": "2022-06-03",
+    "vote_average": 7.3,
+    "poster_path": "/p1OhsIuTUmJ4sL1nPa4BKFaiOND.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-09-11T05:44:22.082146"
+  },
+  "40505": {
+    "id": 40505,
+    "name": "The Exes",
+    "original_name": "The Exes",
+    "first_air_date": "2011-11-30",
+    "vote_average": 6.603,
+    "poster_path": "/ngvNlJKZ0mb9Y9dym0tXxnfE3Hi.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-11T05:44:22.095224"
   }
 }
