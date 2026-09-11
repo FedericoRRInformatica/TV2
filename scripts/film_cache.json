@@ -171422,5 +171422,194 @@
       18
     ],
     "cached_at": "2026-09-10T05:45:25.400211"
+  },
+  "42661": {
+    "id": 42661,
+    "title": "I vichinghi",
+    "release_date": "1958-06-11",
+    "vote_average": 7.024,
+    "poster_path": "/ofcBfOwUEWZKBgqSpgpqK7kUiIY.jpg",
+    "genre_ids": [
+      12,
+      36,
+      28
+    ],
+    "cached_at": "2026-09-11T05:45:17.270138"
+  },
+  "671041": {
+    "id": 671041,
+    "title": "Il fantastico viaggio di Margot & Marguerite",
+    "release_date": "2020-07-14",
+    "vote_average": 6.262,
+    "poster_path": "/dneHtelc4qqqOJzzaGzpixjA88W.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-11T05:45:17.276403"
+  },
+  "329806": {
+    "id": 329806,
+    "title": "Il sogno di Zorro",
+    "release_date": "1975-08-16",
+    "vote_average": 4.5,
+    "poster_path": "/wA38yXuG5qENhc9PJeNMmZH3fG6.jpg",
+    "genre_ids": [
+      37,
+      35
+    ],
+    "cached_at": "2026-09-11T05:45:17.304845"
+  },
+  "15213": {
+    "id": 15213,
+    "title": "Piccolo grande eroe",
+    "release_date": "2006-08-04",
+    "vote_average": 6.086,
+    "poster_path": "/89VqP9rgrLNoL1ILDLHWtS9tMJM.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "cached_at": "2026-09-11T05:45:17.354935"
+  },
+  "9270": {
+    "id": 9270,
+    "title": "Brick - Dose mortale",
+    "release_date": "2006-03-31",
+    "vote_average": 6.819,
+    "poster_path": "/tOIgAVEQGKcMQFyZwuHJBRFXL5L.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      80
+    ],
+    "cached_at": "2026-09-11T05:45:17.402205"
+  },
+  "1093237": {
+    "id": 1093237,
+    "title": "Hurry Up Tomorrow",
+    "release_date": "2025-05-14",
+    "vote_average": 4.975,
+    "poster_path": "/9W44XSMYbjXdlXcQhD104zPhhhJ.jpg",
+    "genre_ids": [
+      18,
+      10402,
+      53
+    ],
+    "cached_at": "2026-09-11T05:45:17.402221"
+  },
+  "10132": {
+    "id": 10132,
+    "title": "Talk Radio",
+    "release_date": "1988-12-23",
+    "vote_average": 7.051,
+    "poster_path": "/ob7QiaErrbMNF2C4xp8DhZSC5PI.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-11T05:45:17.413072"
+  },
+  "62585": {
+    "id": 62585,
+    "title": "FF.SS. cioè '...che mi hai portato a fare sopra a Posillipo se non mi vuoi più bene?'",
+    "release_date": "1983-12-16",
+    "vote_average": 6.553,
+    "poster_path": "/o6oT09vKGLxcKLk9UyIUg3XyNvf.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-11T05:45:17.422931"
+  },
+  "1511358": {
+    "id": 1511358,
+    "title": "Innamorarsi e altre pessime idee",
+    "release_date": "2026-05-28",
+    "vote_average": 5.5,
+    "poster_path": "/dHNhObz0STAR5Vg0TNMQzGWZiI1.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-09-11T05:45:17.424942"
+  },
+  "238365": {
+    "id": 238365,
+    "title": "Il tenente dei carabinieri",
+    "release_date": "1986-02-13",
+    "vote_average": 5.5,
+    "poster_path": "/r6pgu2Z4x6BusjSqEfXZAtLECTC.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-11T05:45:17.451345"
+  },
+  "66700": {
+    "id": 66700,
+    "title": "Cose da pazzi",
+    "release_date": "2005-03-25",
+    "vote_average": 7.027,
+    "poster_path": "/uriyxstbJUbRx36R5gTU4RzkrSL.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-11T05:45:17.456589"
+  },
+  "58082": {
+    "id": 58082,
+    "title": "L'uomo perfetto",
+    "release_date": "2005-04-29",
+    "vote_average": 6.066,
+    "poster_path": "/jVFgvL8E9mufQGXfu5oRWqfY9w6.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-09-11T05:45:17.456602"
+  },
+  "62243": {
+    "id": 62243,
+    "title": "I giorni contati",
+    "release_date": "1962-04-05",
+    "vote_average": 7.1,
+    "poster_path": "/dVrvW9NX5cSQyRuzrmGtdxe0QKs.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-11T05:45:17.458529"
+  },
+  "1096642": {
+    "id": 1096642,
+    "title": "L'attachement - La tenerezza",
+    "release_date": "2025-02-19",
+    "vote_average": 7.146,
+    "poster_path": "/x5yrKvkEK5lU5Kn7HpU3sxPwqiB.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-11T05:45:17.507940"
+  },
+  "149479": {
+    "id": 149479,
+    "title": "Giuseppe Verdi",
+    "release_date": "1953-12-22",
+    "vote_average": 6.8,
+    "poster_path": "/2vWBEFvPEAyqgsv92OAxJACSqlQ.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-09-11T05:45:17.947930"
+  },
+  "25124": {
+    "id": 25124,
+    "title": "功夫廚神",
+    "release_date": "2009-02-19",
+    "vote_average": 5.477,
+    "poster_path": "/ar4OpI2E1DmC7nvUz1O349CfEZp.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "cached_at": "2026-09-11T05:45:18.179155"
   }
 }
