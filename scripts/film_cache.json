@@ -171814,5 +171814,92 @@
       53
     ],
     "cached_at": "2026-09-12T05:32:23.498795"
+  },
+  "544814": {
+    "id": 544814,
+    "title": "Miss Baek",
+    "release_date": "2018-10-11",
+    "vote_average": 7.4,
+    "poster_path": "/tc7yFafglAE6VoxYvnefGm8ExcA.jpg",
+    "genre_ids": [
+      18,
+      53,
+      80
+    ],
+    "cached_at": "2026-09-13T05:51:55.882737"
+  },
+  "554175": {
+    "id": 554175,
+    "title": "Derren Brown: Sacrifice",
+    "release_date": "2018-10-19",
+    "vote_average": 7.19,
+    "poster_path": "/rMaVBzNauRw8BXqqBnSf90YyH8j.jpg",
+    "genre_ids": [
+      99,
+      9648
+    ],
+    "cached_at": "2026-09-13T05:51:55.954376"
+  },
+  "1134463": {
+    "id": 1134463,
+    "title": "Dreams",
+    "release_date": "2025-07-10",
+    "vote_average": 6.2,
+    "poster_path": "/esUbQvYaiQKBOuXvIwRFgoJErcu.jpg",
+    "genre_ids": [
+      10749,
+      53,
+      18
+    ],
+    "cached_at": "2026-09-13T05:51:55.969137"
+  },
+  "675568": {
+    "id": 675568,
+    "title": "You Die - scarica l'app, poi muori",
+    "release_date": "2018-10-16",
+    "vote_average": 5.4,
+    "poster_path": "/cvG8wGq7AjoifP44JItQbRYzAP8.jpg",
+    "genre_ids": [
+      27,
+      18,
+      53
+    ],
+    "cached_at": "2026-09-13T05:51:55.970790"
+  },
+  "421456": {
+    "id": 421456,
+    "title": "Dilili a Parigi",
+    "release_date": "2018-10-10",
+    "vote_average": 6.624,
+    "poster_path": "/7WnxjsDVDRuSuT0CyZs3BogaKCe.jpg",
+    "genre_ids": [
+      16,
+      12
+    ],
+    "cached_at": "2026-09-13T05:51:55.980356"
+  },
+  "833335": {
+    "id": 833335,
+    "title": "Futura",
+    "release_date": "2021-10-21",
+    "vote_average": 7.357,
+    "poster_path": "/1dk5fzCG0NUWJEoNHY0rQ44T5WB.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-09-13T05:51:55.998119"
+  },
+  "14522": {
+    "id": 14522,
+    "title": "Black Beauty",
+    "release_date": "1994-07-29",
+    "vote_average": 6.724,
+    "poster_path": "/5uH60FBDPQoyAnc4uvU0fIB8JXv.jpg",
+    "genre_ids": [
+      10751,
+      12,
+      18
+    ],
+    "cached_at": "2026-09-13T05:51:56.430436"
   }
 }
