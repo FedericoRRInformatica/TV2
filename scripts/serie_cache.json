@@ -68713,5 +68713,32 @@
       10764
     ],
     "cached_at": "2026-09-12T05:31:06.146325"
+  },
+  "93888": {
+    "id": 93888,
+    "name": "Criminal: Francia",
+    "original_name": "Criminal: France",
+    "first_air_date": "2019-09-20",
+    "vote_average": 6.766,
+    "poster_path": "/obK8muZnzfml0PMyKtQjLVEMcg8.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "cached_at": "2026-09-13T05:49:55.405965"
+  },
+  "314939": {
+    "id": 314939,
+    "name": "Un amore diverso dal tuo",
+    "original_name": "너 말고 다른 연애",
+    "first_air_date": "2026-09-12",
+    "vote_average": 0.0,
+    "poster_path": "/hu6LZxlNELRiMCc1EO6GiV3ax9j.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-09-13T05:49:55.436258"
   }
 }
