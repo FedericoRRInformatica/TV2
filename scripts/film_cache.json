@@ -171901,5 +171901,76 @@
       18
     ],
     "cached_at": "2026-09-13T05:51:56.430436"
+  },
+  "1024621": {
+    "id": 1024621,
+    "title": "Chihiro",
+    "release_date": "2023-02-23",
+    "vote_average": 7.149,
+    "poster_path": "/aF0CmJl2rP7MvKxgNzKdKOk03rJ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-14T05:58:58.827672"
+  },
+  "68053": {
+    "id": 68053,
+    "title": "Sbatti il mostro in prima pagina",
+    "release_date": "1972-10-19",
+    "vote_average": 7.66,
+    "poster_path": "/6md5Qi325LRVx17KAhHj8PAZ39b.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-09-14T05:58:58.846952"
+  },
+  "129564": {
+    "id": 129564,
+    "title": "La proprietà non è più un furto",
+    "release_date": "1973-10-03",
+    "vote_average": 7.3,
+    "poster_path": "/wUw9Jfx8AkdGMGD3Zg07yFfLZnC.jpg",
+    "genre_ids": [
+      35,
+      53
+    ],
+    "cached_at": "2026-09-14T05:58:58.893264"
+  },
+  "1288445": {
+    "id": 1288445,
+    "title": "Mutiny - Inverti la rotta",
+    "release_date": "2026-08-19",
+    "vote_average": 6.416,
+    "poster_path": "/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-09-14T05:58:58.895301"
+  },
+  "233470": {
+    "id": 233470,
+    "title": "Jamesy Boy",
+    "release_date": "2014-01-03",
+    "vote_average": 6.392,
+    "poster_path": "/fJCMNxUnYfOmej5FhXSOeMX2jSD.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10749
+    ],
+    "cached_at": "2026-09-14T05:58:58.909637"
+  },
+  "26973": {
+    "id": 26973,
+    "title": "Pretty Baby",
+    "release_date": "1978-04-05",
+    "vote_average": 6.976,
+    "poster_path": "/smBDqEIwEZbtOYdAEVpY0QYJyRG.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-14T05:58:58.922355"
   }
 }
