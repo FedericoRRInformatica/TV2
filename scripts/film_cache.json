@@ -171972,5 +171972,102 @@
       18
     ],
     "cached_at": "2026-09-14T05:58:58.922355"
+  },
+  "265189": {
+    "id": 265189,
+    "title": "Forza maggiore",
+    "release_date": "2014-08-15",
+    "vote_average": 6.83,
+    "poster_path": "/7UHMndiKxO2gHUZ6nSKWYIcCiqh.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-15T06:00:24.835573"
+  },
+  "73065": {
+    "id": 73065,
+    "title": "L'umanoide",
+    "release_date": "1979-04-11",
+    "vote_average": 3.7,
+    "poster_path": "/x5W9QMs2fv11y5at7IjGqeYm40S.jpg",
+    "genre_ids": [
+      14,
+      878
+    ],
+    "cached_at": "2026-09-15T06:00:24.835591"
+  },
+  "489925": {
+    "id": 489925,
+    "title": "Eighth Grade - Terza Media",
+    "release_date": "2018-01-19",
+    "vote_average": 7.143,
+    "poster_path": "/jzOy1VxHChi21E6JZsLZRwnDkTS.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-09-15T06:00:24.902532"
+  },
+  "159474": {
+    "id": 159474,
+    "title": "La viaccia",
+    "release_date": "1961-06-13",
+    "vote_average": 6.298,
+    "poster_path": "/x0kjfRJHgeKexlg4xrwB0uiwudw.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-15T06:00:24.928223"
+  },
+  "49365": {
+    "id": 49365,
+    "title": "Scarlatti - Il thriller",
+    "release_date": "1988-04-22",
+    "vote_average": 6.094,
+    "poster_path": "/kcrrQA3fgZdjbTW1nZ1F4Sp7SMj.jpg",
+    "genre_ids": [
+      9648,
+      27,
+      53
+    ],
+    "cached_at": "2026-09-15T06:00:24.928239"
+  },
+  "42220": {
+    "id": 42220,
+    "title": "In nome del Papa re",
+    "release_date": "1977-12-03",
+    "vote_average": 6.658,
+    "poster_path": "/U67gLOBL54TxvkSWKC6wgolnef.jpg",
+    "genre_ids": [
+      36,
+      18
+    ],
+    "cached_at": "2026-09-15T06:00:24.941555"
+  },
+  "176707": {
+    "id": 176707,
+    "title": "Una rosa de Francia",
+    "release_date": "2006-02-03",
+    "vote_average": 4.8,
+    "poster_path": "/eUKekLMuG8Ylz1EBFH3LGjRuTzb.jpg",
+    "genre_ids": [
+      18,
+      80,
+      10749
+    ],
+    "cached_at": "2026-09-15T06:00:24.942359"
+  },
+  "1101383": {
+    "id": 1101383,
+    "title": "La fine di Oak Street",
+    "release_date": "2026-08-12",
+    "vote_average": 6.349,
+    "poster_path": "/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
+    "genre_ids": [
+      878,
+      9648,
+      53
+    ],
+    "cached_at": "2026-09-15T06:00:24.950607"
   }
 }
