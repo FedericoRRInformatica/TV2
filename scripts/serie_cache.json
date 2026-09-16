@@ -68740,5 +68740,45 @@
       35
     ],
     "cached_at": "2026-09-13T05:49:55.436258"
+  },
+  "83462": {
+    "id": 83462,
+    "name": "Terrorism Close Calls",
+    "original_name": "Terrorism Close Calls",
+    "first_air_date": "2018-10-26",
+    "vote_average": 6.9,
+    "poster_path": "/bLYSR6qHtt2kLxpgqRQ2hYUuVel.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-09-16T05:49:21.287764"
+  },
+  "39483": {
+    "id": 39483,
+    "name": "Major Crimes",
+    "original_name": "Major Crimes",
+    "first_air_date": "2012-08-13",
+    "vote_average": 7.369,
+    "poster_path": "/fZ502JXujnxVtprmigTO2jA205P.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-09-16T05:49:21.319716"
+  },
+  "327414": {
+    "id": 327414,
+    "name": "Monkey Wrench",
+    "original_name": "Monkey Wrench",
+    "first_air_date": "2022-07-17",
+    "vote_average": 8.0,
+    "poster_path": "/bZZnN2Mf9hcpCZStK0xbZ7zabYU.jpg",
+    "genre_ids": [
+      16,
+      10765,
+      10759,
+      35
+    ],
+    "cached_at": "2026-09-16T05:49:21.358098"
   }
 }
