@@ -68780,5 +68780,70 @@
       35
     ],
     "cached_at": "2026-09-16T05:49:21.358098"
+  },
+  "332657": {
+    "id": 332657,
+    "name": "Route 187",
+    "original_name": "Route 187",
+    "first_air_date": "2026-09-16",
+    "vote_average": 10.0,
+    "poster_path": "/yfP9A3IaKE00U1ap1y7wAoZRzeC.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-09-17T05:55:27.652816"
+  },
+  "252105": {
+    "id": 252105,
+    "name": "Golden Axe",
+    "original_name": "Golden Axe",
+    "first_air_date": "2026-09-16",
+    "vote_average": 10.0,
+    "poster_path": "/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
+    "genre_ids": [
+      16,
+      10765
+    ],
+    "cached_at": "2026-09-17T05:55:27.712901"
+  },
+  "273207": {
+    "id": 273207,
+    "name": "Neagley",
+    "original_name": "Neagley",
+    "first_air_date": "2026-09-16",
+    "vote_average": 6.9,
+    "poster_path": "/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      80
+    ],
+    "cached_at": "2026-09-17T05:55:27.738672"
+  },
+  "239385": {
+    "id": 239385,
+    "name": "The Manipulated",
+    "original_name": "조각도시",
+    "first_air_date": "2025-11-05",
+    "vote_average": 8.381,
+    "poster_path": "/pwin3qnVXs9tD3nU5hkl70wO1dx.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-09-17T05:55:27.744187"
+  },
+  "332401": {
+    "id": 332401,
+    "name": "City of Blood",
+    "original_name": "City of Blood",
+    "first_air_date": "2026-09-16",
+    "vote_average": 10.0,
+    "poster_path": "/uDrW8sRRkh8P7N0l19BNrCrG6CW.jpg",
+    "genre_ids": [
+      9648
+    ],
+    "cached_at": "2026-09-17T05:55:27.749216"
   }
 }
