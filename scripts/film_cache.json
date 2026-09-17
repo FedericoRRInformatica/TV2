@@ -172283,5 +172283,365 @@
       9648
     ],
     "cached_at": "2026-09-16T05:50:19.077476"
+  },
+  "9681": {
+    "id": 9681,
+    "title": "Casanova",
+    "release_date": "2005-12-25",
+    "vote_average": 6.461,
+    "poster_path": "/4HNqfq4fhL8DeoRUjY4sINbQp8y.jpg",
+    "genre_ids": [
+      12,
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-09-17T05:57:06.330371"
+  },
+  "58519": {
+    "id": 58519,
+    "title": "Simpatici & antipatici",
+    "release_date": "1998-02-20",
+    "vote_average": 5.403,
+    "poster_path": "/2qiftOWa74wgsnNWX9NUk0ZLrJJ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-17T05:57:06.360395"
+  },
+  "1577457": {
+    "id": 1577457,
+    "title": "Franco Battiato: Il lungo viaggio",
+    "release_date": "2026-02-02",
+    "vote_average": 7.128,
+    "poster_path": "/3090IzGzstklsl19mCqzl5q2W5G.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "cached_at": "2026-09-17T05:57:06.369969"
+  },
+  "760158": {
+    "id": 760158,
+    "title": "Mantícora",
+    "release_date": "2022-12-09",
+    "vote_average": 6.8,
+    "poster_path": "/q0aBTr5powKFlD08cQ5FqKkC4VQ.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-09-17T05:57:06.373643"
+  },
+  "11144": {
+    "id": 11144,
+    "title": "Lo chiamavano Bulldozer",
+    "release_date": "1978-09-15",
+    "vote_average": 6.876,
+    "poster_path": "/68OVqIvg1yMW4gliOgpWZ8ReN11.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "cached_at": "2026-09-17T05:57:06.397676"
+  },
+  "23535": {
+    "id": 23535,
+    "title": "Classe 1999",
+    "release_date": "1990-04-01",
+    "vote_average": 6.04,
+    "poster_path": "/j4AaCqkAGLlRbJqhjYPEFisgnWV.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "cached_at": "2026-09-17T05:57:06.409030"
+  },
+  "37169": {
+    "id": 37169,
+    "title": "The Human Centipede (First Sequence)",
+    "release_date": "2009-10-31",
+    "vote_average": 5.164,
+    "poster_path": "/gMtjxIkEi0hnTV5lPHbgeZ4ZpUZ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-09-17T05:57:06.409046"
+  },
+  "1397053": {
+    "id": 1397053,
+    "title": "L'amore, in teoria",
+    "release_date": "2025-04-24",
+    "vote_average": 5.634,
+    "poster_path": "/lBvXR0oHJQhoBiYhHVz25ExqksT.jpg",
+    "genre_ids": [
+      10749
+    ],
+    "cached_at": "2026-09-17T05:57:06.425668"
+  },
+  "1550797": {
+    "id": 1550797,
+    "title": "Lanny & Wayne - Protocollo Palla di Neve",
+    "release_date": "2025-11-27",
+    "vote_average": 6.803,
+    "poster_path": "/qY6yMoE3UOeRB4UKWjFRUy5LOeX.jpg",
+    "genre_ids": [
+      16,
+      35,
+      14,
+      10751
+    ],
+    "cached_at": "2026-09-17T05:57:06.430679"
+  },
+  "1499984": {
+    "id": 1499984,
+    "title": "Gladiator Underground",
+    "release_date": "2025-08-22",
+    "vote_average": 7.7,
+    "poster_path": "/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
+    "genre_ids": [
+      28
+    ],
+    "cached_at": "2026-09-17T05:57:06.448574"
+  },
+  "48852": {
+    "id": 48852,
+    "title": "I ragazzi del coro",
+    "release_date": "1977-12-23",
+    "vote_average": 5.443,
+    "poster_path": "/jfYbTFSZKvHUWmk8bI9VXHi7IJO.jpg",
+    "genre_ids": [
+      35,
+      80,
+      18
+    ],
+    "cached_at": "2026-09-17T05:57:06.462213"
+  },
+  "215765": {
+    "id": 215765,
+    "title": "Sono morta... e vi ammazzo",
+    "release_date": "1989-07-07",
+    "vote_average": 4.143,
+    "poster_path": "/oBnF4OeE67VvBpOfQa4UrtQw7JW.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-17T05:57:06.478525"
+  },
+  "22373": {
+    "id": 22373,
+    "title": "Saturno contro",
+    "release_date": "2007-02-23",
+    "vote_average": 6.9,
+    "poster_path": "/qpzR06PrVDaJGBaSngEMUhVhhw.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-17T05:57:06.598081"
+  },
+  "8831": {
+    "id": 8831,
+    "title": "Timecop - Indagine dal futuro",
+    "release_date": "1994-09-15",
+    "vote_average": 6.04,
+    "poster_path": "/gKDImt2uon6s91zy2ipcjH5Mb51.jpg",
+    "genre_ids": [
+      53,
+      878,
+      28
+    ],
+    "cached_at": "2026-09-17T05:57:06.614823"
+  },
+  "1703943": {
+    "id": 1703943,
+    "title": "Marra Stadi San Siro 2025",
+    "release_date": "2026-05-29",
+    "vote_average": 0.0,
+    "poster_path": "/5tWHQyBOQeSuCT81CXy7fGZxieG.jpg",
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "cached_at": "2026-09-17T05:57:06.789735"
+  },
+  "80701": {
+    "id": 80701,
+    "title": "Il maestro e Margherita",
+    "release_date": "1972-07-15",
+    "vote_average": 5.348,
+    "poster_path": "/wmE1wXjGYybSlBvM516sbiOQ29m.jpg",
+    "genre_ids": [
+      18,
+      14,
+      10749
+    ],
+    "cached_at": "2026-09-17T05:57:06.973530"
+  },
+  "1451078": {
+    "id": 1451078,
+    "title": "Raakaasa",
+    "release_date": "2026-04-03",
+    "vote_average": 6.2,
+    "poster_path": "/kVhfkvu1d0i4QCMLHKdtZChhSN2.jpg",
+    "genre_ids": [
+      14,
+      35
+    ],
+    "cached_at": "2026-09-17T05:57:06.996280"
+  },
+  "76489": {
+    "id": 76489,
+    "title": "I tre marmittoni",
+    "release_date": "2012-04-13",
+    "vote_average": 5.827,
+    "poster_path": "/tUrznQGbXjy4UOat9Nvp0iBhb5M.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-17T05:57:07.096710"
+  },
+  "2899": {
+    "id": 2899,
+    "title": "Asterix & Obelix - Missione Cleopatra",
+    "release_date": "2002-01-30",
+    "vote_average": 7.367,
+    "poster_path": "/vQXW2POKkxf2meQJW8SxcxBSn4d.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      35,
+      12
+    ],
+    "cached_at": "2026-09-17T05:57:07.101080"
+  },
+  "5125": {
+    "id": 5125,
+    "title": "Rendition - Detenzione illegale",
+    "release_date": "2007-09-07",
+    "vote_average": 6.421,
+    "poster_path": "/wxFxMdLHFiQXm8egBfgncUL2XCl.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-09-17T05:57:07.523450"
+  },
+  "42425": {
+    "id": 42425,
+    "title": "A spasso nel tempo",
+    "release_date": "1996-12-13",
+    "vote_average": 5.195,
+    "poster_path": "/iMKjxF3LfJnWXqZN76PDZPDKiN7.jpg",
+    "genre_ids": [
+      12,
+      35,
+      878
+    ],
+    "cached_at": "2026-09-17T05:57:07.764783"
+  },
+  "397567": {
+    "id": 397567,
+    "title": "신과함께-죄와 벌",
+    "release_date": "2017-12-20",
+    "vote_average": 8.063,
+    "poster_path": "/z54zrEXAKd5u1SCPNOIAKgvGXte.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      14,
+      53
+    ],
+    "cached_at": "2026-09-17T05:57:07.804765"
+  },
+  "8054": {
+    "id": 8054,
+    "title": "Parnassus - L'uomo che voleva ingannare il diavolo",
+    "release_date": "2009-10-01",
+    "vote_average": 6.386,
+    "poster_path": "/tY3jugwp5jqYCZRJ0icvRlzX74S.jpg",
+    "genre_ids": [
+      12,
+      14,
+      9648
+    ],
+    "cached_at": "2026-09-17T05:57:08.062553"
+  },
+  "13006": {
+    "id": 13006,
+    "title": "Detective Stone",
+    "release_date": "1992-05-01",
+    "vote_average": 5.956,
+    "poster_path": "/gvI6pqRQyQQvULbC6QF7Ohd5bdz.jpg",
+    "genre_ids": [
+      878,
+      28,
+      80,
+      53,
+      27
+    ],
+    "cached_at": "2026-09-17T05:57:08.236749"
+  },
+  "51917": {
+    "id": 51917,
+    "title": "Tutta la vita davanti",
+    "release_date": "2008-03-28",
+    "vote_average": 6.565,
+    "poster_path": "/kmoSWKB2pgnUyN1E9RP5ETU0q20.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-09-17T05:57:08.496445"
+  },
+  "70008": {
+    "id": 70008,
+    "title": "Tactical Force - Teste di cuoio",
+    "release_date": "2011-12-01",
+    "vote_average": 5.538,
+    "poster_path": "/4pDQqh3q1VNBFCs8eANeAxrn6nB.jpg",
+    "genre_ids": [
+      28,
+      53,
+      35,
+      80
+    ],
+    "cached_at": "2026-09-17T05:57:08.705062"
+  },
+  "505159": {
+    "id": 505159,
+    "title": "Chris Rock: Tamborine",
+    "release_date": "2018-02-14",
+    "vote_average": 6.416,
+    "poster_path": "/AdL5Vu9GcBlyC9T9bowojEOFs8X.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-17T05:57:08.749975"
+  },
+  "1290432": {
+    "id": 1290432,
+    "title": "Vita privata",
+    "release_date": "2025-09-27",
+    "vote_average": 5.471,
+    "poster_path": "/fEarUwhoamTqGkk3KI3n9K9lgQp.jpg",
+    "genre_ids": [
+      9648,
+      80,
+      18
+    ],
+    "cached_at": "2026-09-17T05:57:08.894092"
+  },
+  "62593": {
+    "id": 62593,
+    "title": "Iago",
+    "release_date": "2009-02-27",
+    "vote_average": 5.03,
+    "poster_path": "/r1V4XlqEEbP16TF4F2jGFWvBfuA.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-09-17T05:57:08.906286"
   }
 }
