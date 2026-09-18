@@ -68845,5 +68845,42 @@
       9648
     ],
     "cached_at": "2026-09-17T05:55:27.749216"
+  },
+  "298008": {
+    "id": 298008,
+    "name": "ダウンタイム",
+    "original_name": "ダウンタイム",
+    "first_air_date": "2026-09-17",
+    "vote_average": 0.0,
+    "poster_path": "/zUp3F7qtpJIUMsf31DDLNx1xOdS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-18T05:42:17.926183"
+  },
+  "299939": {
+    "id": 299939,
+    "name": "Monster: La storia di Lizzie Borden",
+    "original_name": "Monster: The Lizzie Borden Story",
+    "first_air_date": "2026-09-17",
+    "vote_average": 8.0,
+    "poster_path": "/unEtLaqVmShnmzKMDTZz569cgQm.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-09-18T05:42:17.960290"
+  },
+  "332282": {
+    "id": 332282,
+    "name": "Physical Messico: da 100 a 1",
+    "original_name": "Habilidad física: 100-México",
+    "first_air_date": "2026-09-16",
+    "vote_average": 7.0,
+    "poster_path": "/1XlmHy8pD2XQg0cttKA5xHt5sYh.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-09-18T05:42:17.982277"
   }
 }
