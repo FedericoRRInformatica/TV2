@@ -173010,5 +173010,303 @@
       53
     ],
     "cached_at": "2026-09-18T05:43:49.254579"
+  },
+  "1679085": {
+    "id": 1679085,
+    "title": "KING MARRACASH",
+    "release_date": "2026-05-25",
+    "vote_average": 5.4,
+    "poster_path": "/fu4qJ18VpxvFjY1abZ13xlVS2id.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "cached_at": "2026-09-19T05:38:24.051898"
+  },
+  "1656489": {
+    "id": 1656489,
+    "title": "Sultana",
+    "release_date": "2026-04-17",
+    "vote_average": 5.5,
+    "poster_path": "/wDebpR4NplIM8EteAGfd51Zdisu.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-09-19T05:38:24.056641"
+  },
+  "25132": {
+    "id": 25132,
+    "title": "Il mistero della pietra magica",
+    "release_date": "2009-08-21",
+    "vote_average": 5.89,
+    "poster_path": "/6WFM4day3gq1Vz2XHSegGypWaly.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      35,
+      12,
+      878
+    ],
+    "cached_at": "2026-09-19T05:38:24.058921"
+  },
+  "1450527": {
+    "id": 1450527,
+    "title": "Frutti proibiti",
+    "release_date": "2026-03-26",
+    "vote_average": 5.842,
+    "poster_path": "/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "cached_at": "2026-09-19T05:38:24.101451"
+  },
+  "42889": {
+    "id": 42889,
+    "title": "The Virginity Hit - La prima volta è online",
+    "release_date": "2010-09-24",
+    "vote_average": 4.404,
+    "poster_path": "/krUYZAjEZ5n5GL7tuLoQGfxja0S.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-19T05:38:24.108871"
+  },
+  "29402": {
+    "id": 29402,
+    "title": "Mr. Sardonicus",
+    "release_date": "1961-10-08",
+    "vote_average": 6.288,
+    "poster_path": "/ez4rSZu4WemlZVtm8Ss09U2Udoo.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "cached_at": "2026-09-19T05:38:24.121058"
+  },
+  "1224440": {
+    "id": 1224440,
+    "title": "Smart Working",
+    "release_date": "2026-06-04",
+    "vote_average": 7.667,
+    "poster_path": "/qim9z1ZZWoGh5iDGicKgmrnfiXg.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-19T05:38:24.147145"
+  },
+  "312428": {
+    "id": 312428,
+    "title": "Un Natale stupefacente",
+    "release_date": "2014-12-18",
+    "vote_average": 5.7,
+    "poster_path": "/2HIRDQsNnHDyHLp0mwufjRE8bSb.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-19T05:38:24.148546"
+  },
+  "1641629": {
+    "id": 1641629,
+    "title": "Io+Te - Soli contro tutti",
+    "release_date": "2026-09-18",
+    "vote_average": 5.6,
+    "poster_path": "/xXz5B7vDKLPfUVSQxFXfbw8seif.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-09-19T05:38:24.150337"
+  },
+  "57389": {
+    "id": 57389,
+    "title": "Le quattro volte",
+    "release_date": "2010-05-28",
+    "vote_average": 7.471,
+    "poster_path": "/hCgtAYG53uRdvET4O482paUGMuK.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-19T05:38:24.155568"
+  },
+  "1576922": {
+    "id": 1576922,
+    "title": "Candice Renoir - Chacun dirige l'eau vers son moulin",
+    "release_date": "2022-12-30",
+    "vote_average": 7.75,
+    "poster_path": "/uDsZSCKtDLPKIaeo834ESj4A0xq.jpg",
+    "genre_ids": [
+      10770,
+      80,
+      35
+    ],
+    "cached_at": "2026-09-19T05:38:24.172695"
+  },
+  "1353263": {
+    "id": 1353263,
+    "title": "The Bibi Files",
+    "release_date": "2024-12-13",
+    "vote_average": 7.078,
+    "poster_path": "/aZTt7g857dGU9YUIIMHd5yNSKnY.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-09-19T05:38:24.173993"
+  },
+  "468221": {
+    "id": 468221,
+    "title": "Super vacanze di Natale",
+    "release_date": "2017-12-14",
+    "vote_average": 3.0,
+    "poster_path": "/j377rUWGkxZ4N5bwURAxYpC3l2u.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-19T05:38:24.177483"
+  },
+  "20723": {
+    "id": 20723,
+    "title": "F.B.I. operazione gatto",
+    "release_date": "1965-12-02",
+    "vote_average": 6.595,
+    "poster_path": "/mPw6kUhE6Rqne5O9Osjetmgc5H2.jpg",
+    "genre_ids": [
+      10751,
+      80,
+      35
+    ],
+    "cached_at": "2026-09-19T05:38:24.184517"
+  },
+  "53915": {
+    "id": 53915,
+    "title": "Come te nessuno mai",
+    "release_date": "1999-10-01",
+    "vote_average": 5.909,
+    "poster_path": "/jSCsgdAdGUPy6nr5W5cy4Lp8NU7.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-09-19T05:38:24.184527"
+  },
+  "37527": {
+    "id": 37527,
+    "title": "Dr. Giggles",
+    "release_date": "1992-10-23",
+    "vote_average": 5.533,
+    "poster_path": "/ngWpGf02M4RKeE4JwZbImBbtSt6.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "cached_at": "2026-09-19T05:38:24.191303"
+  },
+  "1514863": {
+    "id": 1514863,
+    "title": "Best of the Best",
+    "release_date": "2026-09-18",
+    "vote_average": 6.0,
+    "poster_path": "/Zm5i6MmXp5cfIT3LffiuAX1uZ6.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-19T05:38:24.197752"
+  },
+  "1359375": {
+    "id": 1359375,
+    "title": "Nottefonda",
+    "release_date": "2025-05-08",
+    "vote_average": 7.5,
+    "poster_path": "/KVL3FHeztJsGqjNvkvQbjSFCrO.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-19T05:38:24.201534"
+  },
+  "51162": {
+    "id": 51162,
+    "title": "Winnie the Pooh - Nuove avventure nel Bosco dei Cento Acri",
+    "release_date": "2011-04-06",
+    "vote_average": 6.905,
+    "poster_path": "/iHAjJ8kfKToiUd68gzTpNgsCUDu.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      35
+    ],
+    "cached_at": "2026-09-19T05:38:24.260932"
+  },
+  "15596": {
+    "id": 15596,
+    "title": "A scuola con papà",
+    "release_date": "1986-06-13",
+    "vote_average": 6.333,
+    "poster_path": "/wPnzG3atd16wqm5SSgmOKcOvuAL.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-19T05:38:24.285714"
+  },
+  "29702": {
+    "id": 29702,
+    "title": "Tenebre",
+    "release_date": "1982-10-28",
+    "vote_average": 6.8,
+    "poster_path": "/AhY5T88mB9yS2WVf5SQTFi0JE12.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-09-19T05:38:24.292356"
+  },
+  "32352": {
+    "id": 32352,
+    "title": "L'urlo",
+    "release_date": "1970-05-01",
+    "vote_average": 4.786,
+    "poster_path": "/zJl75mD8IliG06Me31Cwa4JgrJQ.jpg",
+    "genre_ids": [
+      35,
+      14,
+      12
+    ],
+    "cached_at": "2026-09-19T05:38:24.298393"
+  },
+  "752880": {
+    "id": 752880,
+    "title": "Tinsman Road",
+    "release_date": "2025-03-28",
+    "vote_average": 7.5,
+    "poster_path": "/x9Yt3fxEl5ITDK1BZCxhwpIsXSD.jpg",
+    "genre_ids": [
+      18,
+      27,
+      9648
+    ],
+    "cached_at": "2026-09-19T05:38:24.301709"
+  },
+  "53342": {
+    "id": 53342,
+    "title": "Delitto al Blue Gay",
+    "release_date": "1984-08-15",
+    "vote_average": 5.5,
+    "poster_path": "/1H1GTiPT5e9SBeoniJQmoeAPdia.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2026-09-19T05:38:25.261916"
+  },
+  "1174603": {
+    "id": 1174603,
+    "title": "Io, Tevere - Le radici del mare",
+    "release_date": "2023-06-23",
+    "vote_average": 0.0,
+    "poster_path": "/jNAiQWHLgwEDQIpWrkepehmJZOB.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-09-19T05:38:25.651946"
   }
 }
