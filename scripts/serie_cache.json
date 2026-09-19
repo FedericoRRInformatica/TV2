@@ -68882,5 +68882,57 @@
       10764
     ],
     "cached_at": "2026-09-18T05:42:17.982277"
+  },
+  "9921": {
+    "id": 9921,
+    "name": "Barnyard - Ritorno al cortile",
+    "original_name": "Back at the Barnyard",
+    "first_air_date": "2007-09-29",
+    "vote_average": 6.849,
+    "poster_path": "/kPz0egBHxlhbJp8458w6yqysVrh.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10762
+    ],
+    "cached_at": "2026-09-19T05:36:56.701213"
+  },
+  "295089": {
+    "id": 295089,
+    "name": "Lalka",
+    "original_name": "Lalka",
+    "first_air_date": "2026-09-16",
+    "vote_average": 5.2,
+    "poster_path": "/vIfM0x2zl4sjj6UYaQR5uUeZXIh.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-19T05:36:56.704149"
+  },
+  "59427": {
+    "id": 59427,
+    "name": "Avengers Assemble",
+    "original_name": "Marvel's Avengers",
+    "first_air_date": "2013-05-26",
+    "vote_average": 7.54,
+    "poster_path": "/aVYPq7FSvsdNQOXVIFnndXJPCXn.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10765
+    ],
+    "cached_at": "2026-09-19T05:36:56.721761"
+  },
+  "255055": {
+    "id": 255055,
+    "name": "DOC - USA",
+    "original_name": "Doc",
+    "first_air_date": "2025-01-07",
+    "vote_average": 7.3,
+    "poster_path": "/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-19T05:36:56.725417"
   }
 }
