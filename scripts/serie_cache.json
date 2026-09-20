@@ -68934,5 +68934,41 @@
       18
     ],
     "cached_at": "2026-09-19T05:36:56.725417"
+  },
+  "335651": {
+    "id": 335651,
+    "name": "Saman: La verità nascosta",
+    "original_name": "Saman: La verità nascosta",
+    "first_air_date": "2026-09-18",
+    "vote_average": 0.0,
+    "poster_path": "/6D29DxNuXQszdafrjEvBJ2V4eRL.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-09-20T05:55:26.374716"
+  },
+  "312663": {
+    "id": 312663,
+    "name": "黑白清道夫",
+    "original_name": "黑白清道夫",
+    "first_air_date": "2026-09-17",
+    "vote_average": 6.0,
+    "poster_path": "/mZ0rPTMe9XfrWRUAeoJzr62cyIa.jpg",
+    "genre_ids": [
+      10759,
+      35,
+      80
+    ],
+    "cached_at": "2026-09-20T05:55:26.375402"
+  },
+  "289980": {
+    "id": 289980,
+    "name": "Destination X - Scopri la meta",
+    "original_name": "Destination X",
+    "first_air_date": "2025-05-27",
+    "vote_average": 7.458,
+    "poster_path": "/srKrtD3BWCYDar3IEZlXbQh5YEl.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-09-20T05:55:26.376919"
   }
 }
