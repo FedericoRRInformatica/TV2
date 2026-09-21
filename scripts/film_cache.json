@@ -173489,5 +173489,172 @@
       99
     ],
     "cached_at": "2026-09-20T05:57:04.190993"
+  },
+  "15067": {
+    "id": 15067,
+    "title": "Il buono, il matto, il cattivo",
+    "release_date": "2008-07-16",
+    "vote_average": 7.155,
+    "poster_path": "/hrbj07VHayIbTbmVqSYOHkAJSmD.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35,
+      37
+    ],
+    "cached_at": "2026-09-21T06:03:01.497916"
+  },
+  "18252": {
+    "id": 18252,
+    "title": "Ritorno dalla 4ª dimensione",
+    "release_date": "1985-08-09",
+    "vote_average": 6.271,
+    "poster_path": "/9gce0dT47QbPZWAWF958829FfsQ.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      14,
+      878
+    ],
+    "cached_at": "2026-09-21T06:03:01.502686"
+  },
+  "393877": {
+    "id": 393877,
+    "title": "A.R.C.H.I.E. - Un robot a quattro zampe",
+    "release_date": "2016-04-19",
+    "vote_average": 6.0,
+    "poster_path": "/sCMxe5hfRZT11OgQ8W1ygl7Uxq2.jpg",
+    "genre_ids": [
+      10751,
+      878,
+      35
+    ],
+    "cached_at": "2026-09-21T06:03:01.513304"
+  },
+  "1549292": {
+    "id": 1549292,
+    "title": "LEGO Disney Frozen: Operazione Pulcinella di mare",
+    "release_date": "2025-10-23",
+    "vote_average": 6.327,
+    "poster_path": "/40BJAJXABBWmt37CZCZW8fPpaRT.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "cached_at": "2026-09-21T06:03:01.516201"
+  },
+  "1151272": {
+    "id": 1151272,
+    "title": "Sirāt",
+    "release_date": "2025-06-06",
+    "vote_average": 6.8,
+    "poster_path": "/8efaBs8Ovt21zgbkDoR9eZqorp.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-09-21T06:03:01.519297"
+  },
+  "16608": {
+    "id": 16608,
+    "title": "La proposta",
+    "release_date": "2005-10-06",
+    "vote_average": 7.005,
+    "poster_path": "/403XmH33nDqlrhweAJ0vaYZSlg3.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "cached_at": "2026-09-21T06:03:01.527637"
+  },
+  "41515": {
+    "id": 41515,
+    "title": "L'orso Yoghi",
+    "release_date": "2010-12-17",
+    "vote_average": 5.563,
+    "poster_path": "/8zA7OK9JwuBNHI3WFAhHExCV4ka.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      16,
+      12
+    ],
+    "cached_at": "2026-09-21T06:03:01.535315"
+  },
+  "2652": {
+    "id": 2652,
+    "title": "Hard Candy",
+    "release_date": "2006-04-14",
+    "vote_average": 6.804,
+    "poster_path": "/gimV8YHMISY4ixpJX3xled3RzGt.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-09-21T06:03:01.542152"
+  },
+  "1430077": {
+    "id": 1430077,
+    "title": "Hokum",
+    "release_date": "2026-04-29",
+    "vote_average": 6.858,
+    "poster_path": "/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-09-21T06:03:01.542165"
+  },
+  "11902": {
+    "id": 11902,
+    "title": "Underground",
+    "release_date": "1995-10-25",
+    "vote_average": 7.697,
+    "poster_path": "/ezHMQbXy45XbYgJhXy8v9LHwQ6w.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10752
+    ],
+    "cached_at": "2026-09-21T06:03:01.549144"
+  },
+  "15014": {
+    "id": 15014,
+    "title": "Bianca",
+    "release_date": "1984-02-23",
+    "vote_average": 7.519,
+    "poster_path": "/lnXZLkJ3MFgAFAiyVJGfTUykNkU.jpg",
+    "genre_ids": [
+      18,
+      35,
+      9648
+    ],
+    "cached_at": "2026-09-21T06:03:01.554804"
+  },
+  "25913": {
+    "id": 25913,
+    "title": "Balto 2 - Il mistero del lupo",
+    "release_date": "2002-04-30",
+    "vote_average": 6.366,
+    "poster_path": "/jQrDOU52OddV1LFaIfPscMnafQc.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      12
+    ],
+    "cached_at": "2026-09-21T06:03:02.323731"
+  },
+  "21991": {
+    "id": 21991,
+    "title": "Hollywood, Vermont",
+    "release_date": "2000-08-26",
+    "vote_average": 6.283,
+    "poster_path": "/x0lUkVvI59WxmWNShWNsA2wYCK8.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-09-21T06:03:02.342647"
   }
 }
