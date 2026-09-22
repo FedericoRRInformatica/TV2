@@ -173656,5 +173656,189 @@
       18
     ],
     "cached_at": "2026-09-21T06:03:02.342647"
+  },
+  "1492": {
+    "id": 1492,
+    "title": "1492 - La conquista del paradiso",
+    "release_date": "1992-08-09",
+    "vote_average": 6.294,
+    "poster_path": "/v1iWKDrl6odE3uEfWVwnDNT6vtI.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      36
+    ],
+    "cached_at": "2026-09-22T05:59:31.101203"
+  },
+  "3589": {
+    "id": 3589,
+    "title": "Avvenne... domani",
+    "release_date": "1944-03-31",
+    "vote_average": 6.778,
+    "poster_path": "/hWKQ54scA6qCU6Wtl3euUJJCKAq.jpg",
+    "genre_ids": [
+      14,
+      35,
+      10749
+    ],
+    "cached_at": "2026-09-22T05:59:31.142868"
+  },
+  "41477": {
+    "id": 41477,
+    "title": "Lone Wolf and Cub: Baby Cart in Peril",
+    "release_date": "1972-12-30",
+    "vote_average": 7.256,
+    "poster_path": "/1FzDRJBT4AWbDPkK943Exisu3Cg.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "cached_at": "2026-09-22T05:59:31.157854"
+  },
+  "989474": {
+    "id": 989474,
+    "title": "Borgo",
+    "release_date": "2024-04-17",
+    "vote_average": 6.805,
+    "poster_path": "/48xwJpo5tecapOAEq0Gio1LQ3Q1.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-09-22T05:59:31.160049"
+  },
+  "41482": {
+    "id": 41482,
+    "title": "Lone Wolf and Cub: Baby Cart in the Land of Demons",
+    "release_date": "1973-08-11",
+    "vote_average": 7.248,
+    "poster_path": "/ek4DtdiywAYT9EYdVrv5aXOfteS.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53,
+      12
+    ],
+    "cached_at": "2026-09-22T05:59:31.163592"
+  },
+  "103731": {
+    "id": 103731,
+    "title": "Mud",
+    "release_date": "2013-04-26",
+    "vote_average": 7.059,
+    "poster_path": "/d0MUrWlDpsmGLIqitZUIffLzGl0.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-22T05:59:31.169688"
+  },
+  "45491": {
+    "id": 45491,
+    "title": "Sex and Zen - Il tappeto da preghiera di carne",
+    "release_date": "1991-11-30",
+    "vote_average": 6.192,
+    "poster_path": "/bGWNjcR7xl73h3Lq5YOjZGqwhh3.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "cached_at": "2026-09-22T05:59:31.183782"
+  },
+  "1198899": {
+    "id": 1198899,
+    "title": "Agent Recon",
+    "release_date": "2024-06-21",
+    "vote_average": 3.938,
+    "poster_path": "/fxxPAowtYuGj4WHrNqbPTfLHRLF.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "cached_at": "2026-09-22T05:59:31.192215"
+  },
+  "1125978": {
+    "id": 1125978,
+    "title": "Hideo Kojima: Connecting Worlds",
+    "release_date": "2023-06-17",
+    "vote_average": 6.63,
+    "poster_path": "/zRE0oHu3L0AceA80SGgHjic5OZA.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-09-22T05:59:31.195847"
+  },
+  "41486": {
+    "id": 41486,
+    "title": "Lone Wolf and Cub: White Heaven in Hell",
+    "release_date": "1974-04-24",
+    "vote_average": 7.123,
+    "poster_path": "/awPGJfTT62colbNItgiUpjKILkK.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14,
+      18,
+      53
+    ],
+    "cached_at": "2026-09-22T05:59:31.209972"
+  },
+  "11699": {
+    "id": 11699,
+    "title": "Il cattivo tenente - Ultima chiamata New Orleans",
+    "release_date": "2009-09-11",
+    "vote_average": 6.181,
+    "poster_path": "/jDwUVDdRDqyomGCCAOwzl0468Ag.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-09-22T05:59:31.212052"
+  },
+  "41474": {
+    "id": 41474,
+    "title": "Lone Wolf and Cub: Baby Cart to Hades",
+    "release_date": "1972-09-02",
+    "vote_average": 7.089,
+    "poster_path": "/fLxu2d43DgtDDN3TlM9JYfF6csw.jpg",
+    "genre_ids": [
+      18,
+      28,
+      12,
+      53
+    ],
+    "cached_at": "2026-09-22T05:59:31.217991"
+  },
+  "630656": {
+    "id": 630656,
+    "title": "The Death and Return of Superman",
+    "release_date": "2019-10-01",
+    "vote_average": 6.741,
+    "poster_path": "/qdEhhPYsfIeWSNTfzHShHOkDfDD.jpg",
+    "genre_ids": [
+      878,
+      12,
+      16,
+      28,
+      18
+    ],
+    "cached_at": "2026-09-22T05:59:31.262306"
+  },
+  "316154": {
+    "id": 316154,
+    "title": "The Bad Batch",
+    "release_date": "2017-06-23",
+    "vote_average": 5.256,
+    "poster_path": "/bh5Xu1CNemtpCDuiRuaCN1yySPy.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878,
+      53,
+      10749
+    ],
+    "cached_at": "2026-09-22T05:59:31.756681"
   }
 }
