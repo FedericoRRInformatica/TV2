@@ -68999,5 +68999,18 @@
       35
     ],
     "cached_at": "2026-09-21T06:01:55.525284"
+  },
+  "285418": {
+    "id": 285418,
+    "name": "Youth",
+    "original_name": "Youth",
+    "first_air_date": "2026-09-21",
+    "vote_average": 7.2,
+    "poster_path": "/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-09-22T05:58:28.919985"
   }
 }
