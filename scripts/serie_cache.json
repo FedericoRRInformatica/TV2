@@ -69012,5 +69012,66 @@
       18
     ],
     "cached_at": "2026-09-22T05:58:28.919985"
+  },
+  "214945": {
+    "id": 214945,
+    "name": "Fallen",
+    "original_name": "Fallen",
+    "first_air_date": "2024-08-12",
+    "vote_average": 6.589,
+    "poster_path": "/pXALS4b7W5yEwlGHQ5ThE4ZXRmJ.jpg",
+    "genre_ids": [
+      10765
+    ],
+    "cached_at": "2026-09-23T05:42:41.317996"
+  },
+  "250203": {
+    "id": 250203,
+    "name": "Brothers",
+    "original_name": "Brothers",
+    "first_air_date": "2026-09-22",
+    "vote_average": 10.0,
+    "poster_path": "/7Q9aUMSVkMJxpeUVCVzWIFFgMMh.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-23T05:42:41.319866"
+  },
+  "275102": {
+    "id": 275102,
+    "name": "Scandalo e passione",
+    "original_name": "스캔들",
+    "first_air_date": "2026-09-18",
+    "vote_average": 6.6,
+    "poster_path": "/x5M34OdrBgl3TQqtnm3R1HYSr9B.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-23T05:42:41.352073"
+  },
+  "312557": {
+    "id": 312557,
+    "name": "Minerva - La scuola",
+    "original_name": "Minerva - La scuola",
+    "first_air_date": "2026-09-22",
+    "vote_average": 7.7,
+    "poster_path": "/cTTXRklz5tJWX6wrN3XrjHo34H1.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2026-09-23T05:42:41.381772"
+  },
+  "320760": {
+    "id": 320760,
+    "name": "So chi sei",
+    "original_name": "Seni Tanıyorum",
+    "first_air_date": "2026-09-17",
+    "vote_average": 7.3,
+    "poster_path": "/tgBRNtynz81e0DE4bWo8XwTbCw9.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-23T05:42:41.397653"
   }
 }
