@@ -174253,5 +174253,117 @@
       28
     ],
     "cached_at": "2026-09-24T06:00:04.484053"
+  },
+  "1599": {
+    "id": 1599,
+    "title": "I Heart Huckabees - Le strane coincidenze della vita",
+    "release_date": "2004-09-10",
+    "vote_average": 6.302,
+    "poster_path": "/aeHnaEXxezf0M7GXPGPTzATGz7q.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-09-25T06:01:24.548921"
+  },
+  "16820": {
+    "id": 16820,
+    "title": "F/X 2 - Replay di un omicidio",
+    "release_date": "1991-04-16",
+    "vote_average": 6.325,
+    "poster_path": "/74gPTDkRdnsSEG0sClDePCDxrST.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-09-25T06:01:24.552080"
+  },
+  "9873": {
+    "id": 9873,
+    "title": "F/X - Effetto mortale",
+    "release_date": "1986-02-07",
+    "vote_average": 6.582,
+    "poster_path": "/3SOrASInRKmz1Bl5Ed1jQpahlv8.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-09-25T06:01:24.590668"
+  },
+  "63313": {
+    "id": 63313,
+    "title": "Tatanka",
+    "release_date": "2011-05-06",
+    "vote_average": 5.16,
+    "poster_path": "/wrb0PB4ajr34hxQbk9frsKOcrXg.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-09-25T06:01:24.606763"
+  },
+  "1255795": {
+    "id": 1255795,
+    "title": "Putin",
+    "release_date": "2025-01-09",
+    "vote_average": 6.086,
+    "poster_path": "/j3Q2MrpmaOrKfN2pInNvRNhYa4G.jpg",
+    "genre_ids": [
+      53,
+      80,
+      14
+    ],
+    "cached_at": "2026-09-25T06:01:24.608038"
+  },
+  "42305": {
+    "id": 42305,
+    "title": "Dove vai sono guai!",
+    "release_date": "1963-11-28",
+    "vote_average": 6.839,
+    "poster_path": "/8heWgVmjmHd7QBP25cf0NzQsH9V.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-25T06:01:24.612922"
+  },
+  "262848": {
+    "id": 262848,
+    "title": "Fantasmi V - Ravager",
+    "release_date": "2016-10-07",
+    "vote_average": 4.8,
+    "poster_path": "/4Chl1M4V5uqHiYD1FznqtdN9vha.jpg",
+    "genre_ids": [
+      27,
+      14,
+      28,
+      878
+    ],
+    "cached_at": "2026-09-25T06:01:24.635109"
+  },
+  "16555": {
+    "id": 16555,
+    "title": "Daddy's Little Girls",
+    "release_date": "2007-02-14",
+    "vote_average": 6.9,
+    "poster_path": "/c2AOyqAbfJ9dKJBOgYEzNnXrbcb.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-09-25T06:01:24.662062"
+  },
+  "284457": {
+    "id": 284457,
+    "title": "Twin Peaks: The Missing Pieces",
+    "release_date": "2014-07-16",
+    "vote_average": 7.221,
+    "poster_path": "/xQevnHeRxlQTfXQ5RxXJE4PnVUO.jpg",
+    "genre_ids": [
+      53,
+      18,
+      9648
+    ],
+    "cached_at": "2026-09-25T06:01:24.877275"
   }
 }
