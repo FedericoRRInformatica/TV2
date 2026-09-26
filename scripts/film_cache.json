@@ -174365,5 +174365,173 @@
       9648
     ],
     "cached_at": "2026-09-25T06:01:24.877275"
+  },
+  "570468": {
+    "id": 570468,
+    "title": "Celebrità",
+    "release_date": "1981-01-01",
+    "vote_average": 6.667,
+    "poster_path": "/hvNDK2f1NpG4bEzNI2UvVCiPoXx.jpg",
+    "genre_ids": [
+      10402,
+      18
+    ],
+    "cached_at": "2026-09-26T06:00:25.673606"
+  },
+  "880644": {
+    "id": 880644,
+    "title": "Tutti i Sospetti su mio Padre",
+    "release_date": "2021-10-02",
+    "vote_average": 5.75,
+    "poster_path": "/2gfPjlZZz6NlkpIEG2YB5XZS4fR.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "cached_at": "2026-09-26T06:00:25.694719"
+  },
+  "28387": {
+    "id": 28387,
+    "title": "Scalciando e strillando",
+    "release_date": "1995-10-06",
+    "vote_average": 6.193,
+    "poster_path": "/lOte2cTL5u5wa3GLbZb9OCqFAgO.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-09-26T06:00:25.696989"
+  },
+  "1492640": {
+    "id": 1492640,
+    "title": "UNABOMBER",
+    "release_date": "2026-09-25",
+    "vote_average": 7.2,
+    "poster_path": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "cached_at": "2026-09-26T06:00:25.718016"
+  },
+  "41659": {
+    "id": 41659,
+    "title": "My Life - Questa mia vita",
+    "release_date": "1993-11-12",
+    "vote_average": 6.7,
+    "poster_path": "/pT0ZWPm6G4XqpJR3DfeMEjW79QZ.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-09-26T06:00:25.719386"
+  },
+  "807070": {
+    "id": 807070,
+    "title": "Vortex",
+    "release_date": "2021-10-16",
+    "vote_average": 7.12,
+    "poster_path": "/whm2iZLEqh7yMqDWwGVr3ooJX8Z.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-26T06:00:25.742376"
+  },
+  "8951": {
+    "id": 8951,
+    "title": "Non pensarci",
+    "release_date": "2008-04-04",
+    "vote_average": 6.549,
+    "poster_path": "/rMhqzVogQLvTAjlzmj8KGSNub4w.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-26T06:00:25.759946"
+  },
+  "426793": {
+    "id": 426793,
+    "title": "Parallel",
+    "release_date": "2018-04-10",
+    "vote_average": 6.0,
+    "poster_path": "/eUi9srjugUumdUK8sGO9ndMFXgI.jpg",
+    "genre_ids": [
+      878,
+      14,
+      27
+    ],
+    "cached_at": "2026-09-26T06:00:25.788337"
+  },
+  "103122": {
+    "id": 103122,
+    "title": "Pierino contro tutti",
+    "release_date": "1981-09-19",
+    "vote_average": 5.67,
+    "poster_path": "/r7Pyv6f0r2jgnKb2nFR2jWLIUBW.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-26T06:00:25.826918"
+  },
+  "1103678": {
+    "id": 1103678,
+    "title": "E i figli dopo di loro",
+    "release_date": "2024-12-04",
+    "vote_average": 6.354,
+    "poster_path": "/vPHVVs6VTrsR69sBrU656gUeDoU.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-26T06:00:26.248160"
+  },
+  "65654": {
+    "id": 65654,
+    "title": "Sognando la California",
+    "release_date": "1992-12-18",
+    "vote_average": 5.359,
+    "poster_path": "/ybq2uYJvXH7zkBmpHbJRWusquRn.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-26T06:00:26.596528"
+  },
+  "1382513": {
+    "id": 1382513,
+    "title": "Hen - Storia di una Gallina",
+    "release_date": "2026-02-20",
+    "vote_average": 7.1,
+    "poster_path": "/6VAHRoUQLfNXG8mYz3NVgT0ADFd.jpg",
+    "genre_ids": [
+      12,
+      18
+    ],
+    "cached_at": "2026-09-26T06:00:27.050024"
+  },
+  "9282": {
+    "id": 9282,
+    "title": "Ore 11.14 - Destino fatale",
+    "release_date": "2004-08-20",
+    "vote_average": 6.809,
+    "poster_path": "/73GTzsA3lUqv5MvioccGV5UJwuG.jpg",
+    "genre_ids": [
+      53,
+      35,
+      80
+    ],
+    "cached_at": "2026-09-26T06:00:27.073305"
+  },
+  "1423191": {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-16",
+    "vote_average": 7.3,
+    "poster_path": "/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
+    "genre_ids": [
+      27,
+      878,
+      12
+    ],
+    "cached_at": "2026-09-26T06:00:27.798680"
   }
 }
