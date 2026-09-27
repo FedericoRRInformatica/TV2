@@ -174533,5 +174533,113 @@
       12
     ],
     "cached_at": "2026-09-26T06:00:27.798680"
+  },
+  "1377237": {
+    "id": 1377237,
+    "title": "The Rush - Corsa contro il tempo",
+    "release_date": "2026-09-07",
+    "vote_average": 7.6,
+    "poster_path": "/ze4xBMZVulLZhychR3i4Izyj6W0.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "cached_at": "2026-09-27T06:27:16.297775"
+  },
+  "29973": {
+    "id": 29973,
+    "title": "Cobb",
+    "release_date": "1994-12-02",
+    "vote_average": 5.668,
+    "poster_path": "/clOqh9is8vWZvX6AUjF4HtLdQMj.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-27T06:27:16.316318"
+  },
+  "14931": {
+    "id": 14931,
+    "title": "Miami Blues",
+    "release_date": "1990-04-20",
+    "vote_average": 6.024,
+    "poster_path": "/8LCCL24LtM2KEDzBE8JLhoe1gsN.jpg",
+    "genre_ids": [
+      80,
+      53,
+      35
+    ],
+    "cached_at": "2026-09-27T06:27:16.316325"
+  },
+  "9786": {
+    "id": 9786,
+    "title": "Art School Confidential - I segreti della scuola d'arte",
+    "release_date": "2006-05-05",
+    "vote_average": 6.1,
+    "poster_path": "/96WPlFqKvL5hT4n0zVgcOJSusm0.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-09-27T06:27:16.316690"
+  },
+  "48961": {
+    "id": 48961,
+    "title": "Zucchero, miele e peperoncino",
+    "release_date": "1980-10-03",
+    "vote_average": 5.977,
+    "poster_path": "/o1QUDhO0HAfCO1YaQBMHISiIFZp.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-27T06:27:16.331726"
+  },
+  "332270": {
+    "id": 332270,
+    "title": "Resistance - La battaglia di Sebastopoli",
+    "release_date": "2015-04-02",
+    "vote_average": 7.276,
+    "poster_path": "/duoNoNUTdviNyuY204OrPCirZyL.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      10749
+    ],
+    "cached_at": "2026-09-27T06:27:16.340052"
+  },
+  "43548": {
+    "id": 43548,
+    "title": "Ricchi, ricchissimi... praticamente in mutande",
+    "release_date": "1982-01-15",
+    "vote_average": 5.694,
+    "poster_path": "/rYY2HStpHN4a9wzAgzAsU4Be4mf.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-27T06:27:16.341078"
+  },
+  "653606": {
+    "id": 653606,
+    "title": "L'ultimo turno",
+    "release_date": "2020-09-25",
+    "vote_average": 5.717,
+    "poster_path": "/76x4TVjygz9t0GG9YLcrmiRck95.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-09-27T06:27:16.351309"
+  },
+  "25189": {
+    "id": 25189,
+    "title": "L'amore ha due facce",
+    "release_date": "1996-11-15",
+    "vote_average": 6.716,
+    "poster_path": "/gkccDBN4069xZP3CwoyfmcE6LvD.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-09-27T06:27:17.283850"
   }
 }
