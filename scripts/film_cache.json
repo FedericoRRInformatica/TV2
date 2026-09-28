@@ -174641,5 +174641,191 @@
       10749
     ],
     "cached_at": "2026-09-27T06:27:17.283850"
+  },
+  "21407": {
+    "id": 21407,
+    "title": "The Collector",
+    "release_date": "2009-07-09",
+    "vote_average": 6.625,
+    "poster_path": "/e33HSokiAxhj8ptpAr2xAU4jnd8.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-09-28T06:34:30.871796"
+  },
+  "605294": {
+    "id": 605294,
+    "title": "Corsa di primavera",
+    "release_date": "1989-09-15",
+    "vote_average": 7.0,
+    "poster_path": "/uAASKju6tQublSmhNqD0iLuJ8B3.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-28T06:34:30.936431"
+  },
+  "11692": {
+    "id": 11692,
+    "title": "Pluto Nash",
+    "release_date": "2002-08-16",
+    "vote_average": 4.371,
+    "poster_path": "/6quWataSG39pDKd1AdCZpYlk6m8.jpg",
+    "genre_ids": [
+      28,
+      35,
+      878
+    ],
+    "cached_at": "2026-09-28T06:34:30.973058"
+  },
+  "766702": {
+    "id": 766702,
+    "title": "Dio salvi la regina",
+    "release_date": "2020-09-30",
+    "vote_average": 7.2,
+    "poster_path": "/eUwj0PAwNXWRuyOy4sYtYqI5cwW.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-28T06:34:31.014190"
+  },
+  "121507": {
+    "id": 121507,
+    "title": "La ripetente fa l'occhietto al preside",
+    "release_date": "1980-08-14",
+    "vote_average": 5.7,
+    "poster_path": "/cgRImjgfYzYCkwYYzRy0vg2ce9h.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-28T06:34:31.019044"
+  },
+  "1782117": {
+    "id": 1782117,
+    "title": "Rotten Tree",
+    "release_date": "2026-09-23",
+    "vote_average": 0.0,
+    "poster_path": "/1WLI75LGTS1fHC7HgaPnNmSspO0.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-28T06:34:31.024170"
+  },
+  "11362": {
+    "id": 11362,
+    "title": "Montecristo",
+    "release_date": "2002-01-23",
+    "vote_average": 7.7,
+    "poster_path": "/2zExI1foqA3JsnHaaDp1AgnSYVU.jpg",
+    "genre_ids": [
+      12,
+      18,
+      36,
+      28
+    ],
+    "cached_at": "2026-09-28T06:34:31.043588"
+  },
+  "820859": {
+    "id": 820859,
+    "title": "L'ultimo giorno del toro",
+    "release_date": "2018-07-20",
+    "vote_average": 5.7,
+    "poster_path": "/dFNAqaX3Cslh4XzrIy2HWFqBEpk.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-09-28T06:34:31.050596"
+  },
+  "17336": {
+    "id": 17336,
+    "title": "Fighting",
+    "release_date": "2009-04-24",
+    "vote_average": 6.0,
+    "poster_path": "/1jkMYIu0mCfOW96p0hcK4GNsPOP.jpg",
+    "genre_ids": [
+      28,
+      80,
+      10749,
+      18
+    ],
+    "cached_at": "2026-09-28T06:34:31.059540"
+  },
+  "1115544": {
+    "id": 1115544,
+    "title": "Mike & Nick & Nick & Alice",
+    "release_date": "2026-03-14",
+    "vote_average": 6.7,
+    "poster_path": "/FVYfy7sJLMS4ivsynwBnCWKFgw.jpg",
+    "genre_ids": [
+      35,
+      878,
+      28
+    ],
+    "cached_at": "2026-09-28T06:34:31.079298"
+  },
+  "85435": {
+    "id": 85435,
+    "title": "Tre uomini e una pecora",
+    "release_date": "2012-01-05",
+    "vote_average": 5.7,
+    "poster_path": "/2FoJKrEvVjz0qZZYPbP8j5MpvwW.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-09-28T06:34:31.099157"
+  },
+  "1750432": {
+    "id": 1750432,
+    "title": "Spidey and the Avengers: Halloween Team-Up!",
+    "release_date": "2026-09-24",
+    "vote_average": 10.0,
+    "poster_path": "/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+    "genre_ids": [
+      16,
+      12,
+      14,
+      10751
+    ],
+    "cached_at": "2026-09-28T06:34:31.105823"
+  },
+  "252178": {
+    "id": 252178,
+    "title": "'71",
+    "release_date": "2014-10-10",
+    "vote_average": 6.8,
+    "poster_path": "/fRprvPWy7zkBFrFZsMTAvyT6J3V.jpg",
+    "genre_ids": [
+      53,
+      28,
+      18,
+      10752
+    ],
+    "cached_at": "2026-09-28T06:34:31.118253"
+  },
+  "618344": {
+    "id": 618344,
+    "title": "Justice League Dark: Apokolips War",
+    "release_date": "2020-05-05",
+    "vote_average": 8.2,
+    "poster_path": "/5cmSUUHvWsYuNZy1JXG7PU9a7DA.jpg",
+    "genre_ids": [
+      16,
+      28,
+      12,
+      14
+    ],
+    "cached_at": "2026-09-28T06:34:31.138317"
+  },
+  "137220": {
+    "id": 137220,
+    "title": "Napoli... Serenata Calibro 9",
+    "release_date": "1978-12-08",
+    "vote_average": 6.7,
+    "poster_path": "/rMHDjUNaxXiWRkk6f55sE7n9coI.jpg",
+    "genre_ids": [
+      80
+    ],
+    "cached_at": "2026-09-28T06:34:31.143196"
   }
 }
