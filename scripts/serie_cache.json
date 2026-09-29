@@ -69182,5 +69182,56 @@
     "poster_path": "/pql0YUeKrcHaJd41nYgkpB4xeHA.jpg",
     "genre_ids": [],
     "cached_at": "2026-09-27T06:26:26.850892"
+  },
+  "273866": {
+    "id": 273866,
+    "name": "The Other Bennet Sister",
+    "original_name": "The Other Bennet Sister",
+    "first_air_date": "2026-03-15",
+    "vote_average": 8.2,
+    "poster_path": "/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-09-29T06:42:22.052058"
+  },
+  "100575": {
+    "id": 100575,
+    "name": "Tyler Perry's Ruthless",
+    "original_name": "Tyler Perry's Ruthless",
+    "first_air_date": "2020-03-19",
+    "vote_average": 8.5,
+    "poster_path": "/c2sBZga1A6cQnKfsDjSXddhmkad.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-29T06:42:22.052077"
+  },
+  "77459": {
+    "id": 77459,
+    "name": "The Passage",
+    "original_name": "The Passage",
+    "first_air_date": "2019-01-14",
+    "vote_average": 7.0,
+    "poster_path": "/np1jcUOCjTGpoIzKwCnV35zxu5B.jpg",
+    "genre_ids": [
+      10765,
+      10759,
+      18
+    ],
+    "cached_at": "2026-09-29T06:42:22.084644"
+  },
+  "134": {
+    "id": 134,
+    "name": "Spazio 1999",
+    "original_name": "Space: 1999",
+    "first_air_date": "1975-09-04",
+    "vote_average": 7.1,
+    "poster_path": "/4h2ZtSm6Nex33r3B75jkLZ8TlYm.jpg",
+    "genre_ids": [
+      10765
+    ],
+    "cached_at": "2026-09-29T06:42:22.109137"
   }
 }
