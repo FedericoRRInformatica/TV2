@@ -174827,5 +174827,110 @@
       80
     ],
     "cached_at": "2026-09-28T06:34:31.143196"
+  },
+  "9759": {
+    "id": 9759,
+    "title": "Cellular",
+    "release_date": "2004-09-06",
+    "vote_average": 6.4,
+    "poster_path": "/eb6XcHtM3ni3LTEWJpRRHHVtogG.jpg",
+    "genre_ids": [
+      28,
+      53,
+      18,
+      80
+    ],
+    "cached_at": "2026-09-29T06:43:20.667505"
+  },
+  "852445": {
+    "id": 852445,
+    "title": "Acid",
+    "release_date": "2023-09-20",
+    "vote_average": 5.7,
+    "poster_path": "/mIf1eZOjppp4BcfhNSR7Z4KAHR4.jpg",
+    "genre_ids": [
+      18,
+      878,
+      14
+    ],
+    "cached_at": "2026-09-29T06:43:20.679053"
+  },
+  "2771": {
+    "id": 2771,
+    "title": "American Splendor",
+    "release_date": "2003-08-15",
+    "vote_average": 7.152,
+    "poster_path": "/rPLMxuk82AiqDiwEUVJ6E7WpjYs.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-09-29T06:43:20.705342"
+  },
+  "13389": {
+    "id": 13389,
+    "title": "Sfida senza regole",
+    "release_date": "2008-09-11",
+    "vote_average": 5.9,
+    "poster_path": "/pGwCHQ7iScJNvZnWjpCVCkfFd7W.jpg",
+    "genre_ids": [
+      80,
+      53,
+      9648,
+      18
+    ],
+    "cached_at": "2026-09-29T06:43:20.712123"
+  },
+  "1643768": {
+    "id": 1643768,
+    "title": "Il mio nome è Carlo",
+    "release_date": "2026-09-27",
+    "vote_average": 6.5,
+    "poster_path": "/dAnK3dm6AqEltMrG2NlZq18qrqt.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "cached_at": "2026-09-29T06:43:20.716344"
+  },
+  "230266": {
+    "id": 230266,
+    "title": "Miss Julie",
+    "release_date": "2014-09-07",
+    "vote_average": 5.6,
+    "poster_path": "/td1kPDXt1gOIebguHH4u6JD1jhh.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-09-29T06:43:20.729623"
+  },
+  "480001": {
+    "id": 480001,
+    "title": "L'arte della difesa personale",
+    "release_date": "2019-07-12",
+    "vote_average": 6.6,
+    "poster_path": "/zwEDuTmB1Ii1IoOe7qfh29ZLF3T.jpg",
+    "genre_ids": [
+      35,
+      53,
+      18,
+      9648
+    ],
+    "cached_at": "2026-09-29T06:43:20.731818"
+  },
+  "369557": {
+    "id": 369557,
+    "title": "Sing Street",
+    "release_date": "2016-03-11",
+    "vote_average": 7.857,
+    "poster_path": "/pjLzfbOQDOKSOa9JdfzpB3C8fTN.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      10402,
+      35
+    ],
+    "cached_at": "2026-09-29T06:43:20.732962"
   }
 }
