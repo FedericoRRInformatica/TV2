@@ -69233,5 +69233,90 @@
       10765
     ],
     "cached_at": "2026-09-29T06:42:22.109137"
+  },
+  "2560": {
+    "id": 2560,
+    "name": "UFO",
+    "original_name": "UFO",
+    "first_air_date": "1970-09-16",
+    "vote_average": 7.7,
+    "poster_path": "/yMli4dKEXuTUv2fdpDfeDjbnRwm.jpg",
+    "genre_ids": [
+      10765,
+      18,
+      10759
+    ],
+    "cached_at": "2026-09-30T06:29:12.617031"
+  },
+  "318918": {
+    "id": 318918,
+    "name": "LEGO ONE PIECE",
+    "original_name": "LEGO ONE PIECE",
+    "first_air_date": "2026-09-29",
+    "vote_average": 8.714,
+    "poster_path": "/AuhrT2YLjhcsVUhLg6SS2Ig3EBC.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765,
+      35,
+      10751
+    ],
+    "cached_at": "2026-09-30T06:29:12.672477"
+  },
+  "66149": {
+    "id": 66149,
+    "name": "The Powerpuff Girls",
+    "original_name": "The Powerpuff Girls",
+    "first_air_date": "2016-04-04",
+    "vote_average": 5.0,
+    "poster_path": "/qY1BRZ0ign3wRLX1Q526viC9UYl.jpg",
+    "genre_ids": [
+      35,
+      16,
+      10759,
+      10762,
+      10751
+    ],
+    "cached_at": "2026-09-30T06:29:12.742301"
+  },
+  "304842": {
+    "id": 304842,
+    "name": "The Drop: A Snowfall Saga",
+    "original_name": "The Drop: A Snowfall Saga",
+    "first_air_date": "2026-09-08",
+    "vote_average": 7.9,
+    "poster_path": "/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-09-30T06:29:12.775368"
+  },
+  "41372": {
+    "id": 41372,
+    "name": "Gino il Pollo perso nella rete",
+    "original_name": "Gino il Pollo perso nella rete",
+    "first_air_date": "2006-01-01",
+    "vote_average": 9.0,
+    "poster_path": "/uzkstcWWomEN4QFrOQIuU6KwZYo.jpg",
+    "genre_ids": [
+      16,
+      10762
+    ],
+    "cached_at": "2026-09-30T06:29:12.788415"
+  },
+  "32729": {
+    "id": 32729,
+    "name": "No Ordinary Family",
+    "original_name": "No Ordinary Family",
+    "first_air_date": "2010-09-28",
+    "vote_average": 7.0,
+    "poster_path": "/2Hytyjin1oa8kwpPDTpRiEQvXpL.jpg",
+    "genre_ids": [
+      18,
+      10765,
+      35
+    ],
+    "cached_at": "2026-09-30T06:29:12.789484"
   }
 }
