@@ -175092,5 +175092,106 @@
       53
     ],
     "cached_at": "2026-09-30T06:31:18.668612"
+  },
+  "11504": {
+    "id": 11504,
+    "title": "Cose dell'altro mondo",
+    "release_date": "1991-10-04",
+    "vote_average": 4.7,
+    "poster_path": "/nZhNteROTjSYBLSbmowDqyVjPIw.jpg",
+    "genre_ids": [
+      28,
+      35,
+      10751,
+      878
+    ],
+    "cached_at": "2026-10-01T07:04:29.792344"
+  },
+  "1263012": {
+    "id": 1263012,
+    "title": "Il filo del ricatto -  Dead Man's Wire",
+    "release_date": "2026-01-09",
+    "vote_average": 6.5,
+    "poster_path": "/oJ6NJSGFvhwlzFebNy5oMyW61Fv.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-10-01T07:04:29.829960"
+  },
+  "1290792": {
+    "id": 1290792,
+    "title": "One Spoon of Chocolate",
+    "release_date": "2026-05-01",
+    "vote_average": 5.5,
+    "poster_path": "/ybO8oLgpXRhaPmHI6C2FUpxSRrK.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "cached_at": "2026-10-01T07:04:29.834810"
+  },
+  "9638": {
+    "id": 9638,
+    "title": "Fantasmi",
+    "release_date": "1979-03-28",
+    "vote_average": 6.493,
+    "poster_path": "/kmjMYHMHfa1ZPtZlgmHUgcQyZqH.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "cached_at": "2026-10-01T07:04:29.839437"
+  },
+  "1508701": {
+    "id": 1508701,
+    "title": "...che Dio perdona a tutti",
+    "release_date": "2026-04-02",
+    "vote_average": 6.208,
+    "poster_path": "/tj7kgHJsIQIu9Ly4tsLLBER76BX.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-10-01T07:04:29.840970"
+  },
+  "914": {
+    "id": 914,
+    "title": "Il grande dittatore",
+    "release_date": "1940-10-15",
+    "vote_average": 8.3,
+    "poster_path": "/6jiWvgyT2BxWPuVyRl43n2RBZiD.jpg",
+    "genre_ids": [
+      35,
+      10752
+    ],
+    "cached_at": "2026-10-01T07:04:29.851520"
+  },
+  "15158": {
+    "id": 15158,
+    "title": "Fantasmi II",
+    "release_date": "1988-07-08",
+    "vote_average": 6.2,
+    "poster_path": "/zBPp1SXNcl4mpdZDGAn6Ska4KMI.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2026-10-01T07:04:29.856652"
+  },
+  "599": {
+    "id": 599,
+    "title": "Viale del tramonto",
+    "release_date": "1950-08-10",
+    "vote_average": 8.274,
+    "poster_path": "/nx6FlG1BMRYrHkUeQ2jJ1o3qL6n.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-01T07:04:30.350220"
   }
 }
