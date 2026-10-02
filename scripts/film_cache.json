@@ -175193,5 +175193,232 @@
       18
     ],
     "cached_at": "2026-10-01T07:04:30.350220"
+  },
+  "11576": {
+    "id": 11576,
+    "title": "Questo pazzo, pazzo, pazzo, pazzo mondo",
+    "release_date": "1963-11-07",
+    "vote_average": 7.0,
+    "poster_path": "/v8jDaZHw3a9vnGdIPdVqrsaBiiE.jpg",
+    "genre_ids": [
+      12,
+      35,
+      80
+    ],
+    "cached_at": "2026-10-02T06:52:02.074043"
+  },
+  "121342": {
+    "id": 121342,
+    "title": "Giovannona Coscialunga disonorata con onore",
+    "release_date": "1973-04-12",
+    "vote_average": 5.946,
+    "poster_path": "/iJ9oy9JiZRDSUeee7JVWqoyuBwH.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-02T06:52:02.080487"
+  },
+  "1458215": {
+    "id": 1458215,
+    "title": "Cash Out 3: Il ladro gentiluomo",
+    "release_date": "2026-07-31",
+    "vote_average": 5.6,
+    "poster_path": "/dJLz27v39wdrLEsEmNaB6v2sC8z.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-10-02T06:52:02.097288"
+  },
+  "58403": {
+    "id": 58403,
+    "title": "Cornetti alla crema",
+    "release_date": "1981-09-11",
+    "vote_average": 5.712,
+    "poster_path": "/mmAqvmgeRmOuKEgSvynaJmk2mkf.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-02T06:52:02.103133"
+  },
+  "592136": {
+    "id": 592136,
+    "title": "Kevin Hart: Irresponsible",
+    "release_date": "2019-04-02",
+    "vote_average": 6.7,
+    "poster_path": "/fpFsj2IQekSi9cjOlRyBiIoLBY4.jpg",
+    "genre_ids": [
+      35,
+      99,
+      10770
+    ],
+    "cached_at": "2026-10-02T06:52:02.108423"
+  },
+  "37430": {
+    "id": 37430,
+    "title": "Conan the Barbarian",
+    "release_date": "2011-08-17",
+    "vote_average": 5.315,
+    "poster_path": "/sSMjZmOtqzlRTYSUFPmIXTV4rhh.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "cached_at": "2026-10-02T06:52:02.114836"
+  },
+  "257087": {
+    "id": 257087,
+    "title": "Verità sepolte",
+    "release_date": "2016-04-21",
+    "vote_average": 4.9,
+    "poster_path": "/rbqYjuu5pVIrN0Rd0S1GHzdRX5d.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-10-02T06:52:02.122204"
+  },
+  "11157": {
+    "id": 11157,
+    "title": "She-Devil - Lei, il diavolo",
+    "release_date": "1989-12-08",
+    "vote_average": 6.0,
+    "poster_path": "/zRPCtIyFyKY53JEsr4hUnQFvzfg.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-02T06:52:02.127196"
+  },
+  "23752": {
+    "id": 23752,
+    "title": "Lo strizzacervelli",
+    "release_date": "1988-01-15",
+    "vote_average": 5.467,
+    "poster_path": "/n1oNq3P0loSzZGhxtU0y1z8CL19.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-02T06:52:02.129881"
+  },
+  "31651": {
+    "id": 31651,
+    "title": "Il campo",
+    "release_date": "1990-09-21",
+    "vote_average": 7.0,
+    "poster_path": "/ppF5pUheNoL0EPuGRIEnHz1ewp7.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-02T06:52:02.132389"
+  },
+  "159121": {
+    "id": 159121,
+    "title": "Paulette",
+    "release_date": "2012-10-04",
+    "vote_average": 6.453,
+    "poster_path": "/s18cdLY9D1Qoj2X4au7TCt7RzZ8.jpg",
+    "genre_ids": [
+      80,
+      35
+    ],
+    "cached_at": "2026-10-02T06:52:02.139371"
+  },
+  "366681": {
+    "id": 366681,
+    "title": "Effetti indesiderati",
+    "release_date": "2015-10-22",
+    "vote_average": 4.3,
+    "poster_path": "/jZVIIbuYsWhudHRpcKiHcKpW5LV.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-02T06:52:02.139381"
+  },
+  "1121694": {
+    "id": 1121694,
+    "title": "Fanum – Ombre dal passato",
+    "release_date": "2024-10-20",
+    "vote_average": 10.0,
+    "poster_path": "/uZoEeSvlEkwXjpp6s0X164dkinP.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-10-02T06:52:02.139387"
+  },
+  "42668": {
+    "id": 42668,
+    "title": "Alessandro il grande",
+    "release_date": "1956-03-28",
+    "vote_average": 6.1,
+    "poster_path": "/rF5q7zY99oLmI3hjiCR1616sX6X.jpg",
+    "genre_ids": [
+      12,
+      36,
+      18,
+      10752
+    ],
+    "cached_at": "2026-10-02T06:52:02.178267"
+  },
+  "106915": {
+    "id": 106915,
+    "title": "Giggi il bullo",
+    "release_date": "1982-08-20",
+    "vote_average": 5.5,
+    "poster_path": "/nF5Hpr6q5nFCST7CUXmfiqfBi0N.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-02T06:52:02.212965"
+  },
+  "1214684": {
+    "id": 1214684,
+    "title": "Il bacio della donna ragno",
+    "release_date": "2025-10-09",
+    "vote_average": 5.8,
+    "poster_path": "/1eysShwFUghfepBwajhJMX4ln5j.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      53,
+      10402
+    ],
+    "cached_at": "2026-10-02T06:52:02.227117"
+  },
+  "1307118": {
+    "id": 1307118,
+    "title": "Soulm8te",
+    "release_date": "2026-07-31",
+    "vote_average": 7.4,
+    "poster_path": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2026-10-02T06:52:02.228034"
+  },
+  "15474": {
+    "id": 15474,
+    "title": "Una bracciata per la vittoria",
+    "release_date": "2003-02-27",
+    "vote_average": 6.8,
+    "poster_path": "/4gf6tspHI8Doh0hTYaC4mf1Zm87.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-02T06:52:02.236733"
+  },
+  "10824": {
+    "id": 10824,
+    "title": "Candyman 2 - L'inferno nello specchio",
+    "release_date": "1995-03-17",
+    "vote_average": 5.469,
+    "poster_path": "/3FG259Uun7QgiAVZtsKZMgwrPZs.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-10-02T06:52:02.241842"
   }
 }
