@@ -69343,5 +69343,83 @@
       10751
     ],
     "cached_at": "2026-10-01T07:02:29.344225"
+  },
+  "333016": {
+    "id": 333016,
+    "name": "Outside",
+    "original_name": "Outside",
+    "first_air_date": "2026-09-28",
+    "vote_average": 5.25,
+    "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-10-02T06:51:10.851088"
+  },
+  "337115": {
+    "id": 337115,
+    "name": "Ingorgo",
+    "original_name": "Ingorgo",
+    "first_air_date": "2026-10-02",
+    "vote_average": 0.0,
+    "poster_path": null,
+    "genre_ids": [],
+    "cached_at": "2026-10-02T06:51:10.867240"
+  },
+  "294895": {
+    "id": 294895,
+    "name": "Meet Iron Man and His Awesome Friends",
+    "original_name": "Meet Iron Man and His Awesome Friends",
+    "first_air_date": "2025-07-14",
+    "vote_average": 3.8,
+    "poster_path": "/bWkjUTWpn80glmaukmnmgMm85z0.jpg",
+    "genre_ids": [
+      10762,
+      16,
+      10759,
+      10765
+    ],
+    "cached_at": "2026-10-02T06:51:10.908299"
+  },
+  "271855": {
+    "id": 271855,
+    "name": "Sandokan",
+    "original_name": "Sandokan",
+    "first_air_date": "2025-12-01",
+    "vote_average": 7.595,
+    "poster_path": "/tZm1od3P9PrM9bEhHqVqAMcmAN5.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      10768
+    ],
+    "cached_at": "2026-10-02T06:51:10.909634"
+  },
+  "66980": {
+    "id": 66980,
+    "name": "Babylon Berlin",
+    "original_name": "Babylon Berlin",
+    "first_air_date": "2017-10-13",
+    "vote_average": 7.742,
+    "poster_path": "/jYShWyYllx9DhOS6d92mN2yVsbA.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "cached_at": "2026-10-02T06:51:10.920277"
+  },
+  "237052": {
+    "id": 237052,
+    "name": "Lost Station Girls: Il mostro della stazione",
+    "original_name": "Les Disparues de la gare",
+    "first_air_date": "2025-10-08",
+    "vote_average": 7.6,
+    "poster_path": "/rluDNclq0gQaQjbDuTDvsnYSXxs.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-10-02T06:51:10.925934"
   }
 }
