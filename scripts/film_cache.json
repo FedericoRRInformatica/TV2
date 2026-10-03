@@ -175420,5 +175420,66 @@
       53
     ],
     "cached_at": "2026-10-02T06:52:02.241842"
+  },
+  "1752355": {
+    "id": 1752355,
+    "title": "Schumacher '94 - Die Geburt einer Legende",
+    "release_date": "2026-10-02",
+    "vote_average": 9.167,
+    "poster_path": "/o09Z2TPQLkLg2zE6U9PUF17RmGf.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-10-03T06:16:51.408543"
+  },
+  "1458857": {
+    "id": 1458857,
+    "title": "Doing Life",
+    "release_date": "2026-10-02",
+    "vote_average": 6.273,
+    "poster_path": "/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-10-03T06:16:51.413373"
+  },
+  "10306": {
+    "id": 10306,
+    "title": "Poltergeist III - Ci risiamo",
+    "release_date": "1988-06-10",
+    "vote_average": 5.2,
+    "poster_path": "/vtz5TOsZef10xFkFNffcSf8kf4t.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-10-03T06:16:51.418370"
+  },
+  "19953": {
+    "id": 19953,
+    "title": "L'ammiraglio è uno strano pesce",
+    "release_date": "1964-03-28",
+    "vote_average": 6.2,
+    "poster_path": "/dc3h4eNWQnUXH5c2MWB3F3907AN.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      10752,
+      14
+    ],
+    "cached_at": "2026-10-03T06:16:51.433856"
+  },
+  "27983": {
+    "id": 27983,
+    "title": "Appuntamento sotto il letto",
+    "release_date": "1968-04-24",
+    "vote_average": 6.86,
+    "poster_path": "/90uZS4QcF7QzXoVHrQI5iFPNEUi.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-03T06:16:51.811347"
   }
 }
