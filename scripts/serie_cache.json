@@ -69421,5 +69421,55 @@
       18
     ],
     "cached_at": "2026-10-02T06:51:10.925934"
+  },
+  "298505": {
+    "id": 298505,
+    "name": "Coven Academy - L'accademia delle streghe",
+    "original_name": "Coven Academy",
+    "first_air_date": "2026-10-01",
+    "vote_average": 9.4,
+    "poster_path": "/fRY6P6lWpwyI97WpKIf8mfaWFkZ.jpg",
+    "genre_ids": [
+      9648,
+      18,
+      35
+    ],
+    "cached_at": "2026-10-03T06:15:58.551000"
+  },
+  "330200": {
+    "id": 330200,
+    "name": "Peccato",
+    "original_name": "Peccato",
+    "first_air_date": "2026-10-02",
+    "vote_average": 0.0,
+    "poster_path": "/kgpbj2EQOVHYa18TN4oNW6N4crk.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-03T06:15:58.573811"
+  },
+  "279185": {
+    "id": 279185,
+    "name": "The Torment",
+    "original_name": "Zmora",
+    "first_air_date": "2026-10-02",
+    "vote_average": 0.0,
+    "poster_path": "/32NMmkX5G8vmDXgxJRxKpRmZLVP.jpg",
+    "genre_ids": [
+      80
+    ],
+    "cached_at": "2026-10-03T06:15:58.621226"
+  },
+  "56305": {
+    "id": 56305,
+    "name": "Bourdain: cucine segrete",
+    "original_name": "Anthony Bourdain: Parts Unknown",
+    "first_air_date": "2013-04-14",
+    "vote_average": 7.7,
+    "poster_path": "/qg7lcydNf8DBVFIFK3XEuccv1jf.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-10-03T06:15:58.634573"
   }
 }
