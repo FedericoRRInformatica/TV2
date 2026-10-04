@@ -175481,5 +175481,92 @@
       35
     ],
     "cached_at": "2026-10-03T06:16:51.811347"
+  },
+  "22949": {
+    "id": 22949,
+    "title": "Daddy Sitter",
+    "release_date": "2009-11-24",
+    "vote_average": 5.557,
+    "poster_path": "/xdpJr7jux0AOoqlAlZFX6nznVFd.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "cached_at": "2026-10-04T06:42:58.105192"
+  },
+  "13888": {
+    "id": 13888,
+    "title": "Ritorno alla laguna blu",
+    "release_date": "1991-08-02",
+    "vote_average": 6.162,
+    "poster_path": "/bpYrMXzXWEbWdYnLrrBsVCvTNof.jpg",
+    "genre_ids": [
+      12,
+      18
+    ],
+    "cached_at": "2026-10-04T06:42:58.165596"
+  },
+  "507244": {
+    "id": 507244,
+    "title": "Afterburn",
+    "release_date": "2025-08-20",
+    "vote_average": 6.215,
+    "poster_path": "/b3WEH04kXovouxZt8nInYi5qENc.jpg",
+    "genre_ids": [
+      28,
+      878,
+      35
+    ],
+    "cached_at": "2026-10-04T06:42:58.199237"
+  },
+  "13595": {
+    "id": 13595,
+    "title": "Airheads - Una band da lanciare",
+    "release_date": "1994-08-05",
+    "vote_average": 6.223,
+    "poster_path": "/aZkz39T1HM1qSc9Y8d8vCtCgg6X.jpg",
+    "genre_ids": [
+      35,
+      80,
+      10402
+    ],
+    "cached_at": "2026-10-04T06:42:58.215393"
+  },
+  "1455079": {
+    "id": 1455079,
+    "title": "Tra amore e inganni",
+    "release_date": "2026-04-09",
+    "vote_average": 7.3,
+    "poster_path": "/ymyrJJ4mRBYLcBXXOkm7qe3fnee.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-10-04T06:42:58.217652"
+  },
+  "13573": {
+    "id": 13573,
+    "title": "Il delitto Fitzgerald",
+    "release_date": "2003-05-15",
+    "vote_average": 6.5,
+    "poster_path": "/oNGoJIS30WyV6TdMZnBy1TIR3Sl.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-10-04T06:42:58.220573"
+  },
+  "73499": {
+    "id": 73499,
+    "title": "The Double",
+    "release_date": "2011-10-27",
+    "vote_average": 5.834,
+    "poster_path": "/fxncnRwIQySloY5l7ebWrcxq5hU.jpg",
+    "genre_ids": [
+      28,
+      18,
+      80
+    ],
+    "cached_at": "2026-10-04T06:42:58.227059"
   }
 }
