@@ -69496,5 +69496,30 @@
       99
     ],
     "cached_at": "2026-10-04T06:42:03.031057"
+  },
+  "231801": {
+    "id": 231801,
+    "name": "GET JIRO",
+    "original_name": "GET JIRO",
+    "first_air_date": "2026-10-04",
+    "vote_average": 7.7,
+    "poster_path": "/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+    "genre_ids": [
+      16,
+      10759
+    ],
+    "cached_at": "2026-10-05T06:43:08.701229"
+  },
+  "42699": {
+    "id": 42699,
+    "name": "Decalogo",
+    "original_name": "Dekalog",
+    "first_air_date": "1989-12-10",
+    "vote_average": 8.3,
+    "poster_path": "/v390wlQKSVpnuGuM3ynruH6PX7x.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-05T06:43:08.733709"
   }
 }
