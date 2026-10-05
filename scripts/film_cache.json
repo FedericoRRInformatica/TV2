@@ -175568,5 +175568,52 @@
       80
     ],
     "cached_at": "2026-10-04T06:42:58.227059"
+  },
+  "14905": {
+    "id": 14905,
+    "title": "Benvenuti a Sarajevo",
+    "release_date": "1997-05-09",
+    "vote_average": 6.5,
+    "poster_path": "/CvgjPoTM2yv5jTFlnpEuh8qbTl.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      36
+    ],
+    "cached_at": "2026-10-05T06:45:31.645227"
+  },
+  "19827": {
+    "id": 19827,
+    "title": "Una strana coppia di suoceri",
+    "release_date": "1979-06-15",
+    "vote_average": 6.613,
+    "poster_path": "/1TKif0gajjeW1iJQ2b88XCvqnUV.jpg",
+    "genre_ids": [
+      35,
+      12
+    ],
+    "cached_at": "2026-10-05T06:45:31.714274"
+  },
+  "13550": {
+    "id": 13550,
+    "title": "Changeling",
+    "release_date": "1980-03-28",
+    "vote_average": 6.984,
+    "poster_path": "/AgraSzA9qcTRHJhJ0ZLVQLo7bcm.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-10-05T06:45:31.721536"
+  },
+  "1758536": {
+    "id": 1758536,
+    "title": "The Widower: 'Til Death Do Us Part",
+    "release_date": "2026-09-30",
+    "vote_average": 6.625,
+    "poster_path": "/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-10-05T06:45:31.732370"
   }
 }
