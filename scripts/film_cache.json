@@ -175615,5 +175615,67 @@
       99
     ],
     "cached_at": "2026-10-05T06:45:31.732370"
+  },
+  "340": {
+    "id": 340,
+    "title": "Ogni cosa è illuminata",
+    "release_date": "2005-09-05",
+    "vote_average": 7.251,
+    "poster_path": "/je9Gt9JrpD5gCGw8H6wr5hA6BS4.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-10-06T07:24:31.376981"
+  },
+  "8011": {
+    "id": 8011,
+    "title": "Highlander 3",
+    "release_date": "1994-11-29",
+    "vote_average": 4.754,
+    "poster_path": "/wugz8igURz0Z4oTB89G292Xgcsi.jpg",
+    "genre_ids": [
+      14,
+      28,
+      12
+    ],
+    "cached_at": "2026-10-06T07:24:31.468751"
+  },
+  "62713": {
+    "id": 62713,
+    "title": "Madonna che silenzio c'è stasera",
+    "release_date": "1982-09-01",
+    "vote_average": 6.8,
+    "poster_path": "/rIAWxbAsTy5ApDkG6JQnH7JmdgW.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-06T07:24:31.514086"
+  },
+  "48492": {
+    "id": 48492,
+    "title": "Detective Dee e il mistero della fiamma fantasma",
+    "release_date": "2010-09-18",
+    "vote_average": 6.6,
+    "poster_path": "/3ozWCILiFBkAlfNBX0fCrDnYevQ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      9648
+    ],
+    "cached_at": "2026-10-06T07:24:31.534606"
+  },
+  "36758": {
+    "id": 36758,
+    "title": "Ritratto di signora",
+    "release_date": "1996-10-17",
+    "vote_average": 5.942,
+    "poster_path": "/8OII0xVdwYdfSTECQvQZvuyJxwu.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-10-06T07:24:31.536322"
   }
 }
