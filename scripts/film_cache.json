@@ -175677,5 +175677,78 @@
       10749
     ],
     "cached_at": "2026-10-06T07:24:31.536322"
+  },
+  "1596335": {
+    "id": 1596335,
+    "title": "The AI Doc: Or How I Became an Apocaloptimist",
+    "release_date": "2026-03-27",
+    "vote_average": 7.0,
+    "poster_path": "/A610QT1gWjhJ1dJrXP9qMm4JMLr.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-10-07T07:03:11.950959"
+  },
+  "32678": {
+    "id": 32678,
+    "title": "Dead Man Running",
+    "release_date": "2009-01-29",
+    "vote_average": 5.8,
+    "poster_path": "/kgP6YevcqMzWKFR7FokqtFoO7ZD.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-10-07T07:03:11.973425"
+  },
+  "19494": {
+    "id": 19494,
+    "title": "Dalle 9 alle 5... orario continuato",
+    "release_date": "1980-12-18",
+    "vote_average": 7.0,
+    "poster_path": "/7YnNbRBRyCJciVbFjPcRpuTNwyX.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-07T07:03:11.991807"
+  },
+  "8342": {
+    "id": 8342,
+    "title": "No Man's Land",
+    "release_date": "2001-05-12",
+    "vote_average": 7.5,
+    "poster_path": "/dgda6UEokoSxoVok6c424A2jHGI.jpg",
+    "genre_ids": [
+      28,
+      36,
+      10752
+    ],
+    "cached_at": "2026-10-07T07:03:11.991817"
+  },
+  "8194": {
+    "id": 8194,
+    "title": "Guida per riconoscere i tuoi santi",
+    "release_date": "2006-09-29",
+    "vote_average": 6.5,
+    "poster_path": "/2E8kH5BcCtm3dGf9jCQhd0Ztnt7.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-10-07T07:03:12.002527"
+  },
+  "1788735": {
+    "id": 1788735,
+    "title": "Family Guy Happy Hell-o-ween",
+    "release_date": "2026-10-05",
+    "vote_average": 6.0,
+    "poster_path": "/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+    "genre_ids": [
+      16,
+      27
+    ],
+    "cached_at": "2026-10-07T07:03:12.007446"
   }
 }
