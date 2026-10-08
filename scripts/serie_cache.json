@@ -69521,5 +69521,58 @@
       18
     ],
     "cached_at": "2026-10-05T06:43:08.733709"
+  },
+  "305551": {
+    "id": 305551,
+    "name": "メリーベリーラブ",
+    "original_name": "メリーベリーラブ",
+    "first_air_date": "2026-10-07",
+    "vote_average": 9.0,
+    "poster_path": "/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-10-08T07:10:36.647329"
+  },
+  "288673": {
+    "id": 288673,
+    "name": "Carrie",
+    "original_name": "Carrie",
+    "first_air_date": "2026-10-07",
+    "vote_average": 8.656,
+    "poster_path": "/6otg7YqOkS8DxQO02yCGs6dwMsu.jpg",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "cached_at": "2026-10-08T07:10:36.654818"
+  },
+  "290233": {
+    "id": 290233,
+    "name": "Dentro il cerchio",
+    "original_name": "El Círculo",
+    "first_air_date": "2026-10-07",
+    "vote_average": 9.0,
+    "poster_path": "/u2PDaI3BYtGg0YO0rOKnycDwxld.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2026-10-08T07:10:36.668152"
+  },
+  "312693": {
+    "id": 312693,
+    "name": "Small Prophets",
+    "original_name": "Small Prophets",
+    "first_air_date": "2026-02-09",
+    "vote_average": 8.1,
+    "poster_path": "/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg",
+    "genre_ids": [
+      35,
+      18,
+      9648
+    ],
+    "cached_at": "2026-10-08T07:10:36.673349"
   }
 }
