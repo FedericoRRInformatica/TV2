@@ -175750,5 +175750,91 @@
       27
     ],
     "cached_at": "2026-10-07T07:03:12.007446"
+  },
+  "1291595": {
+    "id": 1291595,
+    "title": "Insidious - Fuori dall’Altrove",
+    "release_date": "2026-08-19",
+    "vote_average": 7.452,
+    "poster_path": "/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-10-08T07:11:44.866834"
+  },
+  "1317149": {
+    "id": 1317149,
+    "title": "I Swear",
+    "release_date": "2025-09-22",
+    "vote_average": 8.3,
+    "poster_path": "/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-10-08T07:11:44.866847"
+  },
+  "1238188": {
+    "id": 1238188,
+    "title": "Il prigioniero",
+    "release_date": "2025-09-12",
+    "vote_average": 6.6,
+    "poster_path": "/oZxGVrH6fIlQfIsmUlGNYd6mPLw.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-10-08T07:11:44.906491"
+  },
+  "56142": {
+    "id": 56142,
+    "title": "Gruppo di famiglia in un interno",
+    "release_date": "1974-12-20",
+    "vote_average": 7.4,
+    "poster_path": "/aKTailFr6wWkhS2PWKVFWm29ESK.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-10-08T07:11:44.906515"
+  },
+  "1711956": {
+    "id": 1711956,
+    "title": "Mateo",
+    "release_date": "2026-06-03",
+    "vote_average": 0.0,
+    "poster_path": "/cEktGsCaL4vVMV5nyKlNUPBXhPo.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "cached_at": "2026-10-08T07:11:44.918230"
+  },
+  "137333": {
+    "id": 137333,
+    "title": "Uncanny",
+    "release_date": "2015-01-31",
+    "vote_average": 5.887,
+    "poster_path": "/w9bUDD6uT3Fhs8L34nfMj18uqcR.jpg",
+    "genre_ids": [
+      878,
+      53
+    ],
+    "cached_at": "2026-10-08T07:11:44.938465"
+  },
+  "74643": {
+    "id": 74643,
+    "title": "The Artist",
+    "release_date": "2011-10-12",
+    "vote_average": 7.431,
+    "poster_path": "/bq9mk5b7yIQG9vi2ZAozmd2LXuj.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "cached_at": "2026-10-08T07:11:44.951550"
   }
 }
