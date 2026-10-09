@@ -175836,5 +175836,91 @@
       10749
     ],
     "cached_at": "2026-10-08T07:11:44.951550"
+  },
+  "1248832": {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-09-28",
+    "vote_average": 7.5,
+    "poster_path": "/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-10-09T07:16:38.601436"
+  },
+  "1148365": {
+    "id": 1148365,
+    "title": "Matchbox: Il film",
+    "release_date": "2026-10-05",
+    "vote_average": 8.0,
+    "poster_path": "/JFawNsqIqIZbmfn7Ud7oUvJMMm.jpg",
+    "genre_ids": [
+      28,
+      35,
+      12
+    ],
+    "cached_at": "2026-10-09T07:16:38.614474"
+  },
+  "1620080": {
+    "id": 1620080,
+    "title": "Less of a Stranger",
+    "release_date": "2026-09-21",
+    "vote_average": 0.0,
+    "poster_path": "/5lxcAE2DLtK8bFfCXOV9TM13RDq.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-10-09T07:16:38.618647"
+  },
+  "19458": {
+    "id": 19458,
+    "title": "Programma protezione principesse",
+    "release_date": "2009-06-08",
+    "vote_average": 6.645,
+    "poster_path": "/93KTxLRU2IIywRUBPaVMUxCyVj9.jpg",
+    "genre_ids": [
+      10751,
+      10770,
+      35,
+      18
+    ],
+    "cached_at": "2026-10-09T07:16:38.635675"
+  },
+  "1101412": {
+    "id": 1101412,
+    "title": "Fall 2: Deadpoint",
+    "release_date": "2026-09-01",
+    "vote_average": 7.171,
+    "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-10-09T07:16:38.639379"
+  },
+  "1292415": {
+    "id": 1292415,
+    "title": "Beast",
+    "release_date": "2026-04-10",
+    "vote_average": 7.542,
+    "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "cached_at": "2026-10-09T07:16:38.666716"
+  },
+  "133805": {
+    "id": 133805,
+    "title": "Lo sguardo di Satana - Carrie",
+    "release_date": "2013-10-16",
+    "vote_average": 6.1,
+    "poster_path": "/z3bhHzHyyMfEyXcdrDTbbqYi3De.jpg",
+    "genre_ids": [
+      18,
+      27
+    ],
+    "cached_at": "2026-10-09T07:16:38.669584"
   }
 }
