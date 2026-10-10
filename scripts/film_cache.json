@@ -175922,5 +175922,100 @@
       27
     ],
     "cached_at": "2026-10-09T07:16:38.669584"
+  },
+  "1560020": {
+    "id": 1560020,
+    "title": "Piccolo miracolo",
+    "release_date": "2026-06-25",
+    "vote_average": 4.5,
+    "poster_path": "/yORPBlonS8FKOvx9QqkcKSDrRQx.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-10T06:53:09.191764"
+  },
+  "832130": {
+    "id": 832130,
+    "title": "Fate Vobis",
+    "release_date": "2018-04-01",
+    "vote_average": 4.0,
+    "poster_path": "/jCBklR92S07aA4xr6FGD5UGZc4X.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-10T06:53:09.220620"
+  },
+  "63492": {
+    "id": 63492,
+    "title": "(S)ex list",
+    "release_date": "2011-09-30",
+    "vote_average": 6.462,
+    "poster_path": "/tekcUNQWBq0qY9OV9JPJ4QNgaw9.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-10-10T06:53:09.220627"
+  },
+  "900379": {
+    "id": 900379,
+    "title": "Il cielo brucia",
+    "release_date": "2023-04-20",
+    "vote_average": 6.8,
+    "poster_path": "/hg7wkoaK9FrcvWjsw6tJAqy7Wq5.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ],
+    "cached_at": "2026-10-10T06:53:09.226808"
+  },
+  "1055221": {
+    "id": 1055221,
+    "title": "Itaca Nel Sole - Cercando Gian Piero Motti",
+    "release_date": "2018-03-07",
+    "vote_average": 10.0,
+    "poster_path": "/iVuN3e80Imlfs953t89KYOI6y3a.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-10-10T06:53:09.244252"
+  },
+  "1236045": {
+    "id": 1236045,
+    "title": "Animals",
+    "release_date": "2026-10-09",
+    "vote_average": 7.008,
+    "poster_path": "/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2026-10-10T06:53:09.255603"
+  },
+  "56370": {
+    "id": 56370,
+    "title": "Berlinguer ti voglio bene",
+    "release_date": "1977-10-06",
+    "vote_average": 6.716,
+    "poster_path": "/aGniRaPGCpFnsgSAZXVgTLJk7PD.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-10T06:53:09.256326"
+  },
+  "72197": {
+    "id": 72197,
+    "title": "Pirati! Briganti da strapazzo",
+    "release_date": "2012-03-12",
+    "vote_average": 6.5,
+    "poster_path": "/jnvUTGTlUfgijdOXis2MxIa9yJ2.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      35
+    ],
+    "cached_at": "2026-10-10T06:53:09.258302"
   }
 }
