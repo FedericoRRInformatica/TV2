@@ -69587,5 +69587,57 @@
       18
     ],
     "cached_at": "2026-10-09T07:15:36.773851"
+  },
+  "290750": {
+    "id": 290750,
+    "name": "L'amore è cieco: Paesi Bassi",
+    "original_name": "Love Is Blind: Nederland",
+    "first_air_date": "2026-09-30",
+    "vote_average": 0.0,
+    "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-10-10T06:52:02.538724"
+  },
+  "284833": {
+    "id": 284833,
+    "name": "Avatar: I sette rifugi",
+    "original_name": "Avatar: Seven Havens",
+    "first_air_date": "2026-10-09",
+    "vote_average": 9.158,
+    "poster_path": "/cw0nZlGdxPro0J9aZYO1tz2fZKY.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765,
+      10751
+    ],
+    "cached_at": "2026-10-10T06:52:02.595954"
+  },
+  "337905": {
+    "id": 337905,
+    "name": "Nord Sud Ovest Est: La leggendaria storia degli 883",
+    "original_name": "Nord Sud Ovest Est: La leggendaria storia degli 883",
+    "first_air_date": "2026-10-09",
+    "vote_average": 0.0,
+    "poster_path": "/pkkbp6idHq6CQ2DWl99OkN61fR0.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-10T06:52:02.609984"
+  },
+  "134373": {
+    "id": 134373,
+    "name": "The Sex Lives of College Girls",
+    "original_name": "The Sex Lives of College Girls",
+    "first_air_date": "2021-11-18",
+    "vote_average": 7.2,
+    "poster_path": "/wThMl6AhneaNw78XHC7fupBxNle.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-10-10T06:52:02.647851"
   }
 }
