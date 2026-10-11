@@ -69639,5 +69639,18 @@
       18
     ],
     "cached_at": "2026-10-10T06:52:02.647851"
+  },
+  "333101": {
+    "id": 333101,
+    "name": "L'isola del tesoro",
+    "original_name": "Treasure Island",
+    "first_air_date": "2026-10-11",
+    "vote_average": 1.0,
+    "poster_path": "/o79kVEpMG6FSr5qyiBmVuc3IGWD.jpg",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "cached_at": "2026-10-11T06:57:02.652624"
   }
 }
