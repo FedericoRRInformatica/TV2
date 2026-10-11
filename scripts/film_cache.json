@@ -176017,5 +176017,54 @@
       35
     ],
     "cached_at": "2026-10-10T06:53:09.258302"
+  },
+  "421759": {
+    "id": 421759,
+    "title": "Una telecamera per due",
+    "release_date": "2016-11-23",
+    "vote_average": 5.7,
+    "poster_path": "/c8VrxCL42EejLOWbzSfkLoLix5Q.jpg",
+    "genre_ids": [
+      10770,
+      10749,
+      18,
+      35
+    ],
+    "cached_at": "2026-10-11T06:58:06.672838"
+  },
+  "1193010": {
+    "id": 1193010,
+    "title": "Gli immortali",
+    "release_date": "2023-10-26",
+    "vote_average": 4.8,
+    "poster_path": "/a1NWn2BMRo3phVOMu4kdyODdqku.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-11T06:58:06.675571"
+  },
+  "339404": {
+    "id": 339404,
+    "title": "Un uragano all'improvviso",
+    "release_date": "2017-09-01",
+    "vote_average": 5.4,
+    "poster_path": "/9bBI3XU2isGutOpBpwsr9p5aRjB.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-10-11T06:58:06.686926"
+  },
+  "293646": {
+    "id": 293646,
+    "title": "The 33",
+    "release_date": "2015-08-06",
+    "vote_average": 6.401,
+    "poster_path": "/dW4YpEQE0FVs8GtlM1nt1p9nxeK.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-10-11T06:58:06.743627"
   }
 }
