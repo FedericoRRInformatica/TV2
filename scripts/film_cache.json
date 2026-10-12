@@ -176066,5 +176066,53 @@
       36
     ],
     "cached_at": "2026-10-11T06:58:06.743627"
+  },
+  "41291": {
+    "id": 41291,
+    "title": "Un sogno lungo un giorno",
+    "release_date": "1982-02-11",
+    "vote_average": 5.948,
+    "poster_path": "/7qZKyhzXKSGbXqMdzdTlV8Mfwme.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-10-12T07:10:23.955610"
+  },
+  "42656": {
+    "id": 42656,
+    "title": "Focaccia Blues",
+    "release_date": "2009-04-17",
+    "vote_average": 4.6,
+    "poster_path": "/1XQx6IZKtn1q8HIH89Cj9yH6cST.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-12T07:10:23.970585"
+  },
+  "137315": {
+    "id": 137315,
+    "title": "Tutti i santi giorni",
+    "release_date": "2012-10-10",
+    "vote_average": 6.8,
+    "poster_path": "/4hzXIun9ybWqGb7ZSj3TRMaGFXC.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ],
+    "cached_at": "2026-10-12T07:10:23.982332"
+  },
+  "762433": {
+    "id": 762433,
+    "title": "Zeros and Ones",
+    "release_date": "2021-11-18",
+    "vote_average": 4.7,
+    "poster_path": "/ooTRekOy3oxGxagS2zL70aPNdqa.jpg",
+    "genre_ids": [
+      10752,
+      53
+    ],
+    "cached_at": "2026-10-12T07:10:23.994431"
   }
 }
