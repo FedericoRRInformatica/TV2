@@ -69652,5 +69652,18 @@
       10759
     ],
     "cached_at": "2026-10-11T06:57:02.652624"
+  },
+  "83673": {
+    "id": 83673,
+    "name": "Piccoli geni",
+    "original_name": "Brainchild",
+    "first_air_date": "2018-11-02",
+    "vote_average": 7.0,
+    "poster_path": "/iyN3cnppEpLGBHj2xT3pF6J5Ee6.jpg",
+    "genre_ids": [
+      99,
+      10762
+    ],
+    "cached_at": "2026-10-12T07:08:44.669194"
   }
 }
