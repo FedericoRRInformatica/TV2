@@ -69665,5 +69665,31 @@
       10762
     ],
     "cached_at": "2026-10-12T07:08:44.669194"
+  },
+  "60948": {
+    "id": 60948,
+    "name": "12 Monkeys",
+    "original_name": "12 Monkeys",
+    "first_air_date": "2015-01-16",
+    "vote_average": 7.435,
+    "poster_path": "/w5u1PqBYfDyfrlkxADTA38jYG3I.jpg",
+    "genre_ids": [
+      10765,
+      18
+    ],
+    "cached_at": "2026-10-13T07:32:57.029306"
+  },
+  "155495": {
+    "id": 155495,
+    "name": "Then You Run",
+    "original_name": "Then You Run",
+    "first_air_date": "2023-07-07",
+    "vote_average": 5.1,
+    "poster_path": "/c6Eb0ZxmnZM1YJN5MLiDiAZSNPh.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-10-13T07:32:57.065255"
   }
 }
