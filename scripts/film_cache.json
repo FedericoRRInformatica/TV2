@@ -176114,5 +176114,124 @@
       53
     ],
     "cached_at": "2026-10-12T07:10:23.994431"
+  },
+  "74725": {
+    "id": 74725,
+    "title": "Kill List",
+    "release_date": "2011-09-02",
+    "vote_average": 6.2,
+    "poster_path": "/MI3avw90gT1BdTU8rfe6IlIvoX.jpg",
+    "genre_ids": [
+      27,
+      53,
+      80
+    ],
+    "cached_at": "2026-10-13T07:34:23.746639"
+  },
+  "48572": {
+    "id": 48572,
+    "title": "Red State",
+    "release_date": "2011-08-19",
+    "vote_average": 6.0,
+    "poster_path": "/nHILcBEXMHrk9r8rpKDo58POwgD.jpg",
+    "genre_ids": [
+      27,
+      28,
+      53
+    ],
+    "cached_at": "2026-10-13T07:34:23.765070"
+  },
+  "949536": {
+    "id": 949536,
+    "title": "Kill Code",
+    "release_date": "2026-04-16",
+    "vote_average": 4.738,
+    "poster_path": "/bXvSKLCillha6wxY0yxoRCM2WQl.jpg",
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "cached_at": "2026-10-13T07:34:23.782638"
+  },
+  "1607127": {
+    "id": 1607127,
+    "title": "One Last Shot",
+    "release_date": "2026-09-22",
+    "vote_average": 7.453,
+    "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-10-13T07:34:23.823678"
+  },
+  "1393326": {
+    "id": 1393326,
+    "title": "Ghost in the Cell",
+    "release_date": "2026-04-16",
+    "vote_average": 7.0,
+    "poster_path": "/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg",
+    "genre_ids": [
+      27,
+      35,
+      53
+    ],
+    "cached_at": "2026-10-13T07:34:23.834570"
+  },
+  "3089": {
+    "id": 3089,
+    "title": "Il fiume rosso",
+    "release_date": "1948-09-17",
+    "vote_average": 7.343,
+    "poster_path": "/iFMQYOl0tZ03cvNWTTUluI4Jt7T.jpg",
+    "genre_ids": [
+      37,
+      18,
+      12
+    ],
+    "cached_at": "2026-10-13T07:34:23.845105"
+  },
+  "10480": {
+    "id": 10480,
+    "title": "Betty Love",
+    "release_date": "2000-08-30",
+    "vote_average": 6.069,
+    "poster_path": "/gbGMkYQpSkEEe5dP5NBoQGBIkX5.jpg",
+    "genre_ids": [
+      35,
+      80,
+      53,
+      18
+    ],
+    "cached_at": "2026-10-13T07:34:23.854321"
+  },
+  "1480295": {
+    "id": 1480295,
+    "title": "Project: Affinity",
+    "release_date": "2025-11-27",
+    "vote_average": 6.8,
+    "poster_path": "/WKwQOPh2mQPRL12jSu2yFHk4A7.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53,
+      9648
+    ],
+    "cached_at": "2026-10-13T07:34:23.859693"
+  },
+  "276902": {
+    "id": 276902,
+    "title": "Cut Bank - Crimine chiama crimine",
+    "release_date": "2014-10-04",
+    "vote_average": 5.8,
+    "poster_path": "/hP5N3R8qqe7JT4N3esgh23GOpCN.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2026-10-13T07:34:23.874177"
   }
 }
