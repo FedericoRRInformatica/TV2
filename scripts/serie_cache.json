@@ -69691,5 +69691,17 @@
       80
     ],
     "cached_at": "2026-10-13T07:32:57.065255"
+  },
+  "335536": {
+    "id": 335536,
+    "name": "TYSON",
+    "original_name": "TYSON",
+    "first_air_date": "2026-10-13",
+    "vote_average": 0.0,
+    "poster_path": "/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-10-14T05:57:30.509293"
   }
 }
