@@ -176233,5 +176233,91 @@
       53
     ],
     "cached_at": "2026-10-13T07:34:23.874177"
+  },
+  "9346": {
+    "id": 9346,
+    "title": "Risky Business - Fuori i vecchi... i figli ballano",
+    "release_date": "1983-08-05",
+    "vote_average": 6.6,
+    "poster_path": "/5LEXDE2WFtPLIUSUnEXZhmcLn72.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "cached_at": "2026-10-14T05:58:37.762345"
+  },
+  "48941": {
+    "id": 48941,
+    "title": "Vajont - La diga del disonore",
+    "release_date": "2001-10-12",
+    "vote_average": 6.6,
+    "poster_path": "/wQqyttmmrHzgmHxxYp1D2u0BiIK.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-14T05:58:37.834200"
+  },
+  "1302904": {
+    "id": 1302904,
+    "title": "Amori & incantesimi 2",
+    "release_date": "2026-09-09",
+    "vote_average": 6.326,
+    "poster_path": "/fj4qveRGXSBTGBJHVSZfILDafOJ.jpg",
+    "genre_ids": [
+      10749,
+      14,
+      35
+    ],
+    "cached_at": "2026-10-14T05:58:37.847054"
+  },
+  "9517": {
+    "id": 9517,
+    "title": "Bully",
+    "release_date": "2001-06-15",
+    "vote_average": 6.7,
+    "poster_path": "/vMJ2WHBbK4Jr3eDuF1e7O6lbC8m.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-10-14T05:58:37.860299"
+  },
+  "2998": {
+    "id": 2998,
+    "title": "Zabriskie Point",
+    "release_date": "1970-03-26",
+    "vote_average": 7.0,
+    "poster_path": "/jeiAz4xDtcxwFEykG2RabdTbHPU.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-14T05:58:37.878099"
+  },
+  "1498729": {
+    "id": 1498729,
+    "title": "Brunello - Il visionario garbato",
+    "release_date": "2025-12-09",
+    "vote_average": 6.071,
+    "poster_path": "/kpnsAPMYzLxDPNv4yIxACCWQ6qg.jpg",
+    "genre_ids": [
+      99,
+      18
+    ],
+    "cached_at": "2026-10-14T05:58:37.891536"
+  },
+  "1160003": {
+    "id": 1160003,
+    "title": "Night of the Hunted: La caccia",
+    "release_date": "2023-10-12",
+    "vote_average": 6.129,
+    "poster_path": "/2bjA42z4yZPMG6QuCEaazxUTwvr.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-10-14T05:58:38.159228"
   }
 }
