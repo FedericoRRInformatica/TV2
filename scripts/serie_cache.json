@@ -69703,5 +69703,30 @@
       99
     ],
     "cached_at": "2026-10-14T05:57:30.509293"
+  },
+  "336418": {
+    "id": 336418,
+    "name": "I Delitti del Cimitero degli Animali: Storia di un fantasma",
+    "original_name": "The Pet Cemetery Murders: A Ghost Story",
+    "first_air_date": "2026-10-11",
+    "vote_average": 5.5,
+    "poster_path": "/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-10-15T05:43:49.161695"
+  },
+  "213375": {
+    "id": 213375,
+    "name": "VisionQuest",
+    "original_name": "VisionQuest",
+    "first_air_date": "2026-10-13",
+    "vote_average": 9.0,
+    "poster_path": "/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg",
+    "genre_ids": [
+      10765,
+      18
+    ],
+    "cached_at": "2026-10-15T05:43:49.179820"
   }
 }

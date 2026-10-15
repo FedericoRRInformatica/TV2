@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:Serie TV VixSrc (123876 Episodi)
+#PLAYLIST:Serie TV VixSrc (123888 Episodi)
 
 
 # Popolari
@@ -19,22 +19,10 @@ https://vixsrc.to/tv/288673/1/6?lang=it/series/
 https://vixsrc.to/tv/288673/1/7?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/6otg7YqOkS8DxQO02yCGs6dwMsu.jpg" group-title="SerieTV - Popolari",Carrie S01 E08
 https://vixsrc.to/tv/288673/1/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8JT1dA5QkJkHk0Du0rbK2bTc2cw.jpg" group-title="SerieTV - Popolari",Lanterns S01 E01
-https://vixsrc.to/tv/95350/1/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8JT1dA5QkJkHk0Du0rbK2bTc2cw.jpg" group-title="SerieTV - Popolari",Lanterns S01 E02
-https://vixsrc.to/tv/95350/1/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8JT1dA5QkJkHk0Du0rbK2bTc2cw.jpg" group-title="SerieTV - Popolari",Lanterns S01 E03
-https://vixsrc.to/tv/95350/1/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8JT1dA5QkJkHk0Du0rbK2bTc2cw.jpg" group-title="SerieTV - Popolari",Lanterns S01 E04
-https://vixsrc.to/tv/95350/1/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8JT1dA5QkJkHk0Du0rbK2bTc2cw.jpg" group-title="SerieTV - Popolari",Lanterns S01 E05
-https://vixsrc.to/tv/95350/1/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8JT1dA5QkJkHk0Du0rbK2bTc2cw.jpg" group-title="SerieTV - Popolari",Lanterns S01 E06
-https://vixsrc.to/tv/95350/1/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8JT1dA5QkJkHk0Du0rbK2bTc2cw.jpg" group-title="SerieTV - Popolari",Lanterns S01 E07
-https://vixsrc.to/tv/95350/1/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8JT1dA5QkJkHk0Du0rbK2bTc2cw.jpg" group-title="SerieTV - Popolari",Lanterns S01 E08
-https://vixsrc.to/tv/95350/1/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Popolari",VisionQuest S01 E01
+https://vixsrc.to/tv/213375/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Popolari",VisionQuest S01 E02
+https://vixsrc.to/tv/213375/1/2?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg" group-title="SerieTV - Popolari",MobLand S01 E01
 https://vixsrc.to/tv/247718/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg" group-title="SerieTV - Popolari",MobLand S01 E02
@@ -691,6 +679,596 @@ https://vixsrc.to/tv/79744/8/16?lang=it/series/
 https://vixsrc.to/tv/79744/8/17?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" group-title="SerieTV - Popolari",The Rookie S08 E18
 https://vixsrc.to/tv/79744/8/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E01
+https://vixsrc.to/tv/44006/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E02
+https://vixsrc.to/tv/44006/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E03
+https://vixsrc.to/tv/44006/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E04
+https://vixsrc.to/tv/44006/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E05
+https://vixsrc.to/tv/44006/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E06
+https://vixsrc.to/tv/44006/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E07
+https://vixsrc.to/tv/44006/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E08
+https://vixsrc.to/tv/44006/1/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E09
+https://vixsrc.to/tv/44006/1/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E10
+https://vixsrc.to/tv/44006/1/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E11
+https://vixsrc.to/tv/44006/1/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E12
+https://vixsrc.to/tv/44006/1/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E13
+https://vixsrc.to/tv/44006/1/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E14
+https://vixsrc.to/tv/44006/1/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E15
+https://vixsrc.to/tv/44006/1/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E16
+https://vixsrc.to/tv/44006/1/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E17
+https://vixsrc.to/tv/44006/1/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E18
+https://vixsrc.to/tv/44006/1/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E19
+https://vixsrc.to/tv/44006/1/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E20
+https://vixsrc.to/tv/44006/1/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E21
+https://vixsrc.to/tv/44006/1/21?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E22
+https://vixsrc.to/tv/44006/1/22?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E23
+https://vixsrc.to/tv/44006/1/23?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S01 E24
+https://vixsrc.to/tv/44006/1/24?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E01
+https://vixsrc.to/tv/44006/2/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E02
+https://vixsrc.to/tv/44006/2/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E03
+https://vixsrc.to/tv/44006/2/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E04
+https://vixsrc.to/tv/44006/2/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E05
+https://vixsrc.to/tv/44006/2/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E06
+https://vixsrc.to/tv/44006/2/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E07
+https://vixsrc.to/tv/44006/2/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E08
+https://vixsrc.to/tv/44006/2/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E09
+https://vixsrc.to/tv/44006/2/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E10
+https://vixsrc.to/tv/44006/2/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E11
+https://vixsrc.to/tv/44006/2/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E12
+https://vixsrc.to/tv/44006/2/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E13
+https://vixsrc.to/tv/44006/2/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E14
+https://vixsrc.to/tv/44006/2/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E15
+https://vixsrc.to/tv/44006/2/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E16
+https://vixsrc.to/tv/44006/2/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E17
+https://vixsrc.to/tv/44006/2/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E18
+https://vixsrc.to/tv/44006/2/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E19
+https://vixsrc.to/tv/44006/2/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E20
+https://vixsrc.to/tv/44006/2/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E21
+https://vixsrc.to/tv/44006/2/21?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S02 E22
+https://vixsrc.to/tv/44006/2/22?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E01
+https://vixsrc.to/tv/44006/3/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E02
+https://vixsrc.to/tv/44006/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E03
+https://vixsrc.to/tv/44006/3/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E04
+https://vixsrc.to/tv/44006/3/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E05
+https://vixsrc.to/tv/44006/3/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E06
+https://vixsrc.to/tv/44006/3/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E07
+https://vixsrc.to/tv/44006/3/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E08
+https://vixsrc.to/tv/44006/3/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E09
+https://vixsrc.to/tv/44006/3/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E10
+https://vixsrc.to/tv/44006/3/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E11
+https://vixsrc.to/tv/44006/3/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E12
+https://vixsrc.to/tv/44006/3/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E13
+https://vixsrc.to/tv/44006/3/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E14
+https://vixsrc.to/tv/44006/3/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E15
+https://vixsrc.to/tv/44006/3/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E16
+https://vixsrc.to/tv/44006/3/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E17
+https://vixsrc.to/tv/44006/3/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E18
+https://vixsrc.to/tv/44006/3/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E19
+https://vixsrc.to/tv/44006/3/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E20
+https://vixsrc.to/tv/44006/3/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E21
+https://vixsrc.to/tv/44006/3/21?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E22
+https://vixsrc.to/tv/44006/3/22?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S03 E23
+https://vixsrc.to/tv/44006/3/23?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E01
+https://vixsrc.to/tv/44006/4/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E02
+https://vixsrc.to/tv/44006/4/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E03
+https://vixsrc.to/tv/44006/4/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E04
+https://vixsrc.to/tv/44006/4/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E05
+https://vixsrc.to/tv/44006/4/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E06
+https://vixsrc.to/tv/44006/4/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E07
+https://vixsrc.to/tv/44006/4/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E08
+https://vixsrc.to/tv/44006/4/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E09
+https://vixsrc.to/tv/44006/4/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E10
+https://vixsrc.to/tv/44006/4/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E11
+https://vixsrc.to/tv/44006/4/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E12
+https://vixsrc.to/tv/44006/4/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E13
+https://vixsrc.to/tv/44006/4/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E14
+https://vixsrc.to/tv/44006/4/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E15
+https://vixsrc.to/tv/44006/4/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E16
+https://vixsrc.to/tv/44006/4/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E17
+https://vixsrc.to/tv/44006/4/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E18
+https://vixsrc.to/tv/44006/4/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E19
+https://vixsrc.to/tv/44006/4/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E20
+https://vixsrc.to/tv/44006/4/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E21
+https://vixsrc.to/tv/44006/4/21?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E22
+https://vixsrc.to/tv/44006/4/22?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S04 E23
+https://vixsrc.to/tv/44006/4/23?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E01
+https://vixsrc.to/tv/44006/5/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E02
+https://vixsrc.to/tv/44006/5/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E03
+https://vixsrc.to/tv/44006/5/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E04
+https://vixsrc.to/tv/44006/5/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E05
+https://vixsrc.to/tv/44006/5/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E06
+https://vixsrc.to/tv/44006/5/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E07
+https://vixsrc.to/tv/44006/5/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E08
+https://vixsrc.to/tv/44006/5/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E09
+https://vixsrc.to/tv/44006/5/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E10
+https://vixsrc.to/tv/44006/5/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E11
+https://vixsrc.to/tv/44006/5/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E12
+https://vixsrc.to/tv/44006/5/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E13
+https://vixsrc.to/tv/44006/5/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E14
+https://vixsrc.to/tv/44006/5/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E15
+https://vixsrc.to/tv/44006/5/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E16
+https://vixsrc.to/tv/44006/5/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E17
+https://vixsrc.to/tv/44006/5/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E18
+https://vixsrc.to/tv/44006/5/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E19
+https://vixsrc.to/tv/44006/5/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E20
+https://vixsrc.to/tv/44006/5/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E21
+https://vixsrc.to/tv/44006/5/21?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S05 E22
+https://vixsrc.to/tv/44006/5/22?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E01
+https://vixsrc.to/tv/44006/6/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E02
+https://vixsrc.to/tv/44006/6/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E03
+https://vixsrc.to/tv/44006/6/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E04
+https://vixsrc.to/tv/44006/6/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E05
+https://vixsrc.to/tv/44006/6/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E06
+https://vixsrc.to/tv/44006/6/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E07
+https://vixsrc.to/tv/44006/6/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E08
+https://vixsrc.to/tv/44006/6/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E09
+https://vixsrc.to/tv/44006/6/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E10
+https://vixsrc.to/tv/44006/6/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E11
+https://vixsrc.to/tv/44006/6/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E12
+https://vixsrc.to/tv/44006/6/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E13
+https://vixsrc.to/tv/44006/6/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E14
+https://vixsrc.to/tv/44006/6/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E15
+https://vixsrc.to/tv/44006/6/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E16
+https://vixsrc.to/tv/44006/6/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E17
+https://vixsrc.to/tv/44006/6/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E18
+https://vixsrc.to/tv/44006/6/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E19
+https://vixsrc.to/tv/44006/6/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E20
+https://vixsrc.to/tv/44006/6/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E21
+https://vixsrc.to/tv/44006/6/21?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E22
+https://vixsrc.to/tv/44006/6/22?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S06 E23
+https://vixsrc.to/tv/44006/6/23?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E01
+https://vixsrc.to/tv/44006/7/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E02
+https://vixsrc.to/tv/44006/7/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E03
+https://vixsrc.to/tv/44006/7/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E04
+https://vixsrc.to/tv/44006/7/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E05
+https://vixsrc.to/tv/44006/7/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E06
+https://vixsrc.to/tv/44006/7/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E07
+https://vixsrc.to/tv/44006/7/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E08
+https://vixsrc.to/tv/44006/7/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E09
+https://vixsrc.to/tv/44006/7/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E10
+https://vixsrc.to/tv/44006/7/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E11
+https://vixsrc.to/tv/44006/7/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E12
+https://vixsrc.to/tv/44006/7/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E13
+https://vixsrc.to/tv/44006/7/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E14
+https://vixsrc.to/tv/44006/7/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E15
+https://vixsrc.to/tv/44006/7/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E16
+https://vixsrc.to/tv/44006/7/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E17
+https://vixsrc.to/tv/44006/7/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E18
+https://vixsrc.to/tv/44006/7/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E19
+https://vixsrc.to/tv/44006/7/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E20
+https://vixsrc.to/tv/44006/7/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E21
+https://vixsrc.to/tv/44006/7/21?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S07 E22
+https://vixsrc.to/tv/44006/7/22?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E01
+https://vixsrc.to/tv/44006/8/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E02
+https://vixsrc.to/tv/44006/8/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E03
+https://vixsrc.to/tv/44006/8/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E04
+https://vixsrc.to/tv/44006/8/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E05
+https://vixsrc.to/tv/44006/8/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E06
+https://vixsrc.to/tv/44006/8/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E07
+https://vixsrc.to/tv/44006/8/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E08
+https://vixsrc.to/tv/44006/8/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E09
+https://vixsrc.to/tv/44006/8/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E10
+https://vixsrc.to/tv/44006/8/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E11
+https://vixsrc.to/tv/44006/8/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E12
+https://vixsrc.to/tv/44006/8/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E13
+https://vixsrc.to/tv/44006/8/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E14
+https://vixsrc.to/tv/44006/8/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E15
+https://vixsrc.to/tv/44006/8/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E16
+https://vixsrc.to/tv/44006/8/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E17
+https://vixsrc.to/tv/44006/8/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E18
+https://vixsrc.to/tv/44006/8/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E19
+https://vixsrc.to/tv/44006/8/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S08 E20
+https://vixsrc.to/tv/44006/8/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E01
+https://vixsrc.to/tv/44006/9/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E02
+https://vixsrc.to/tv/44006/9/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E03
+https://vixsrc.to/tv/44006/9/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E04
+https://vixsrc.to/tv/44006/9/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E05
+https://vixsrc.to/tv/44006/9/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E06
+https://vixsrc.to/tv/44006/9/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E07
+https://vixsrc.to/tv/44006/9/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E08
+https://vixsrc.to/tv/44006/9/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E09
+https://vixsrc.to/tv/44006/9/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E10
+https://vixsrc.to/tv/44006/9/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E11
+https://vixsrc.to/tv/44006/9/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E12
+https://vixsrc.to/tv/44006/9/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E13
+https://vixsrc.to/tv/44006/9/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E14
+https://vixsrc.to/tv/44006/9/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E15
+https://vixsrc.to/tv/44006/9/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S09 E16
+https://vixsrc.to/tv/44006/9/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E01
+https://vixsrc.to/tv/44006/10/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E02
+https://vixsrc.to/tv/44006/10/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E03
+https://vixsrc.to/tv/44006/10/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E04
+https://vixsrc.to/tv/44006/10/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E05
+https://vixsrc.to/tv/44006/10/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E06
+https://vixsrc.to/tv/44006/10/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E07
+https://vixsrc.to/tv/44006/10/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E08
+https://vixsrc.to/tv/44006/10/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E09
+https://vixsrc.to/tv/44006/10/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E10
+https://vixsrc.to/tv/44006/10/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E11
+https://vixsrc.to/tv/44006/10/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E12
+https://vixsrc.to/tv/44006/10/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E13
+https://vixsrc.to/tv/44006/10/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E14
+https://vixsrc.to/tv/44006/10/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E15
+https://vixsrc.to/tv/44006/10/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E16
+https://vixsrc.to/tv/44006/10/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E17
+https://vixsrc.to/tv/44006/10/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E18
+https://vixsrc.to/tv/44006/10/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E19
+https://vixsrc.to/tv/44006/10/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E20
+https://vixsrc.to/tv/44006/10/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E21
+https://vixsrc.to/tv/44006/10/21?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S10 E22
+https://vixsrc.to/tv/44006/10/22?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E01
+https://vixsrc.to/tv/44006/11/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E02
+https://vixsrc.to/tv/44006/11/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E03
+https://vixsrc.to/tv/44006/11/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E04
+https://vixsrc.to/tv/44006/11/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E05
+https://vixsrc.to/tv/44006/11/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E06
+https://vixsrc.to/tv/44006/11/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E07
+https://vixsrc.to/tv/44006/11/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E08
+https://vixsrc.to/tv/44006/11/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E09
+https://vixsrc.to/tv/44006/11/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E10
+https://vixsrc.to/tv/44006/11/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E11
+https://vixsrc.to/tv/44006/11/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E12
+https://vixsrc.to/tv/44006/11/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E13
+https://vixsrc.to/tv/44006/11/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E14
+https://vixsrc.to/tv/44006/11/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E15
+https://vixsrc.to/tv/44006/11/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E16
+https://vixsrc.to/tv/44006/11/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E17
+https://vixsrc.to/tv/44006/11/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E18
+https://vixsrc.to/tv/44006/11/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E19
+https://vixsrc.to/tv/44006/11/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E20
+https://vixsrc.to/tv/44006/11/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E21
+https://vixsrc.to/tv/44006/11/21?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S11 E22
+https://vixsrc.to/tv/44006/11/22?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S12 E01
+https://vixsrc.to/tv/44006/12/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S12 E02
+https://vixsrc.to/tv/44006/12/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S12 E03
+https://vixsrc.to/tv/44006/12/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S12 E04
+https://vixsrc.to/tv/44006/12/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S12 E05
+https://vixsrc.to/tv/44006/12/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S12 E06
+https://vixsrc.to/tv/44006/12/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S12 E07
+https://vixsrc.to/tv/44006/12/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S12 E08
+https://vixsrc.to/tv/44006/12/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S12 E09
+https://vixsrc.to/tv/44006/12/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S12 E10
+https://vixsrc.to/tv/44006/12/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S12 E11
+https://vixsrc.to/tv/44006/12/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S12 E12
+https://vixsrc.to/tv/44006/12/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S12 E13
+https://vixsrc.to/tv/44006/12/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E01
+https://vixsrc.to/tv/44006/13/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E02
+https://vixsrc.to/tv/44006/13/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E03
+https://vixsrc.to/tv/44006/13/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E04
+https://vixsrc.to/tv/44006/13/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E05
+https://vixsrc.to/tv/44006/13/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E06
+https://vixsrc.to/tv/44006/13/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E07
+https://vixsrc.to/tv/44006/13/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E08
+https://vixsrc.to/tv/44006/13/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E09
+https://vixsrc.to/tv/44006/13/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E10
+https://vixsrc.to/tv/44006/13/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E11
+https://vixsrc.to/tv/44006/13/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E12
+https://vixsrc.to/tv/44006/13/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E13
+https://vixsrc.to/tv/44006/13/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E14
+https://vixsrc.to/tv/44006/13/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E15
+https://vixsrc.to/tv/44006/13/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E16
+https://vixsrc.to/tv/44006/13/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E17
+https://vixsrc.to/tv/44006/13/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E18
+https://vixsrc.to/tv/44006/13/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E19
+https://vixsrc.to/tv/44006/13/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E20
+https://vixsrc.to/tv/44006/13/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E21
+https://vixsrc.to/tv/44006/13/21?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S13 E22
+https://vixsrc.to/tv/44006/13/22?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E01
+https://vixsrc.to/tv/44006/14/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E02
+https://vixsrc.to/tv/44006/14/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E03
+https://vixsrc.to/tv/44006/14/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E04
+https://vixsrc.to/tv/44006/14/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E05
+https://vixsrc.to/tv/44006/14/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E06
+https://vixsrc.to/tv/44006/14/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E07
+https://vixsrc.to/tv/44006/14/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E08
+https://vixsrc.to/tv/44006/14/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E09
+https://vixsrc.to/tv/44006/14/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E10
+https://vixsrc.to/tv/44006/14/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E11
+https://vixsrc.to/tv/44006/14/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E12
+https://vixsrc.to/tv/44006/14/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E13
+https://vixsrc.to/tv/44006/14/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E14
+https://vixsrc.to/tv/44006/14/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E15
+https://vixsrc.to/tv/44006/14/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E16
+https://vixsrc.to/tv/44006/14/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E17
+https://vixsrc.to/tv/44006/14/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E18
+https://vixsrc.to/tv/44006/14/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E19
+https://vixsrc.to/tv/44006/14/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E20
+https://vixsrc.to/tv/44006/14/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg" group-title="SerieTV - Popolari",Chicago Fire S14 E21
+https://vixsrc.to/tv/44006/14/21?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E01
 https://vixsrc.to/tv/1413/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E02
@@ -5485,362 +6063,6 @@ https://vixsrc.to/tv/1622/15/18?lang=it/series/
 https://vixsrc.to/tv/1622/15/19?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg" group-title="SerieTV - Popolari",Supernatural S15 E20
 https://vixsrc.to/tv/1622/15/20?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E01
-https://vixsrc.to/tv/1408/1/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E02
-https://vixsrc.to/tv/1408/1/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E03
-https://vixsrc.to/tv/1408/1/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E04
-https://vixsrc.to/tv/1408/1/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E05
-https://vixsrc.to/tv/1408/1/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E06
-https://vixsrc.to/tv/1408/1/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E07
-https://vixsrc.to/tv/1408/1/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E08
-https://vixsrc.to/tv/1408/1/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E09
-https://vixsrc.to/tv/1408/1/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E10
-https://vixsrc.to/tv/1408/1/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E11
-https://vixsrc.to/tv/1408/1/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E12
-https://vixsrc.to/tv/1408/1/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E13
-https://vixsrc.to/tv/1408/1/13?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E14
-https://vixsrc.to/tv/1408/1/14?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E15
-https://vixsrc.to/tv/1408/1/15?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E16
-https://vixsrc.to/tv/1408/1/16?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E17
-https://vixsrc.to/tv/1408/1/17?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E18
-https://vixsrc.to/tv/1408/1/18?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E19
-https://vixsrc.to/tv/1408/1/19?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E20
-https://vixsrc.to/tv/1408/1/20?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E21
-https://vixsrc.to/tv/1408/1/21?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S01 E22
-https://vixsrc.to/tv/1408/1/22?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E01
-https://vixsrc.to/tv/1408/2/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E02
-https://vixsrc.to/tv/1408/2/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E03
-https://vixsrc.to/tv/1408/2/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E04
-https://vixsrc.to/tv/1408/2/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E05
-https://vixsrc.to/tv/1408/2/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E06
-https://vixsrc.to/tv/1408/2/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E07
-https://vixsrc.to/tv/1408/2/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E08
-https://vixsrc.to/tv/1408/2/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E09
-https://vixsrc.to/tv/1408/2/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E10
-https://vixsrc.to/tv/1408/2/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E11
-https://vixsrc.to/tv/1408/2/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E12
-https://vixsrc.to/tv/1408/2/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E13
-https://vixsrc.to/tv/1408/2/13?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E14
-https://vixsrc.to/tv/1408/2/14?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E15
-https://vixsrc.to/tv/1408/2/15?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E16
-https://vixsrc.to/tv/1408/2/16?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E17
-https://vixsrc.to/tv/1408/2/17?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E18
-https://vixsrc.to/tv/1408/2/18?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E19
-https://vixsrc.to/tv/1408/2/19?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E20
-https://vixsrc.to/tv/1408/2/20?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E21
-https://vixsrc.to/tv/1408/2/21?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E22
-https://vixsrc.to/tv/1408/2/22?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E23
-https://vixsrc.to/tv/1408/2/23?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S02 E24
-https://vixsrc.to/tv/1408/2/24?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E01
-https://vixsrc.to/tv/1408/3/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E02
-https://vixsrc.to/tv/1408/3/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E03
-https://vixsrc.to/tv/1408/3/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E04
-https://vixsrc.to/tv/1408/3/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E05
-https://vixsrc.to/tv/1408/3/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E06
-https://vixsrc.to/tv/1408/3/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E07
-https://vixsrc.to/tv/1408/3/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E08
-https://vixsrc.to/tv/1408/3/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E09
-https://vixsrc.to/tv/1408/3/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E10
-https://vixsrc.to/tv/1408/3/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E11
-https://vixsrc.to/tv/1408/3/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E12
-https://vixsrc.to/tv/1408/3/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E13
-https://vixsrc.to/tv/1408/3/13?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E14
-https://vixsrc.to/tv/1408/3/14?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E15
-https://vixsrc.to/tv/1408/3/15?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E16
-https://vixsrc.to/tv/1408/3/16?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E17
-https://vixsrc.to/tv/1408/3/17?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E18
-https://vixsrc.to/tv/1408/3/18?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E19
-https://vixsrc.to/tv/1408/3/19?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E20
-https://vixsrc.to/tv/1408/3/20?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E21
-https://vixsrc.to/tv/1408/3/21?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E22
-https://vixsrc.to/tv/1408/3/22?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E23
-https://vixsrc.to/tv/1408/3/23?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S03 E24
-https://vixsrc.to/tv/1408/3/24?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E01
-https://vixsrc.to/tv/1408/4/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E02
-https://vixsrc.to/tv/1408/4/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E03
-https://vixsrc.to/tv/1408/4/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E04
-https://vixsrc.to/tv/1408/4/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E05
-https://vixsrc.to/tv/1408/4/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E06
-https://vixsrc.to/tv/1408/4/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E07
-https://vixsrc.to/tv/1408/4/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E08
-https://vixsrc.to/tv/1408/4/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E09
-https://vixsrc.to/tv/1408/4/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E10
-https://vixsrc.to/tv/1408/4/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E11
-https://vixsrc.to/tv/1408/4/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E12
-https://vixsrc.to/tv/1408/4/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E13
-https://vixsrc.to/tv/1408/4/13?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E14
-https://vixsrc.to/tv/1408/4/14?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E15
-https://vixsrc.to/tv/1408/4/15?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S04 E16
-https://vixsrc.to/tv/1408/4/16?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E01
-https://vixsrc.to/tv/1408/5/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E02
-https://vixsrc.to/tv/1408/5/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E03
-https://vixsrc.to/tv/1408/5/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E04
-https://vixsrc.to/tv/1408/5/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E05
-https://vixsrc.to/tv/1408/5/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E06
-https://vixsrc.to/tv/1408/5/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E07
-https://vixsrc.to/tv/1408/5/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E08
-https://vixsrc.to/tv/1408/5/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E09
-https://vixsrc.to/tv/1408/5/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E10
-https://vixsrc.to/tv/1408/5/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E11
-https://vixsrc.to/tv/1408/5/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E12
-https://vixsrc.to/tv/1408/5/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E13
-https://vixsrc.to/tv/1408/5/13?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E14
-https://vixsrc.to/tv/1408/5/14?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E15
-https://vixsrc.to/tv/1408/5/15?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E16
-https://vixsrc.to/tv/1408/5/16?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E17
-https://vixsrc.to/tv/1408/5/17?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E18
-https://vixsrc.to/tv/1408/5/18?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E19
-https://vixsrc.to/tv/1408/5/19?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E20
-https://vixsrc.to/tv/1408/5/20?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E21
-https://vixsrc.to/tv/1408/5/21?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E22
-https://vixsrc.to/tv/1408/5/22?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E23
-https://vixsrc.to/tv/1408/5/23?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S05 E24
-https://vixsrc.to/tv/1408/5/24?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E01
-https://vixsrc.to/tv/1408/6/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E02
-https://vixsrc.to/tv/1408/6/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E03
-https://vixsrc.to/tv/1408/6/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E04
-https://vixsrc.to/tv/1408/6/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E05
-https://vixsrc.to/tv/1408/6/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E06
-https://vixsrc.to/tv/1408/6/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E07
-https://vixsrc.to/tv/1408/6/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E08
-https://vixsrc.to/tv/1408/6/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E09
-https://vixsrc.to/tv/1408/6/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E10
-https://vixsrc.to/tv/1408/6/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E11
-https://vixsrc.to/tv/1408/6/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E12
-https://vixsrc.to/tv/1408/6/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E13
-https://vixsrc.to/tv/1408/6/13?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E14
-https://vixsrc.to/tv/1408/6/14?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E15
-https://vixsrc.to/tv/1408/6/15?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E16
-https://vixsrc.to/tv/1408/6/16?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E17
-https://vixsrc.to/tv/1408/6/17?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E18
-https://vixsrc.to/tv/1408/6/18?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E19
-https://vixsrc.to/tv/1408/6/19?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E20
-https://vixsrc.to/tv/1408/6/20?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E21
-https://vixsrc.to/tv/1408/6/21?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S06 E22
-https://vixsrc.to/tv/1408/6/22?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E01
-https://vixsrc.to/tv/1408/7/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E02
-https://vixsrc.to/tv/1408/7/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E03
-https://vixsrc.to/tv/1408/7/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E04
-https://vixsrc.to/tv/1408/7/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E05
-https://vixsrc.to/tv/1408/7/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E06
-https://vixsrc.to/tv/1408/7/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E07
-https://vixsrc.to/tv/1408/7/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E08
-https://vixsrc.to/tv/1408/7/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E09
-https://vixsrc.to/tv/1408/7/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E10
-https://vixsrc.to/tv/1408/7/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E11
-https://vixsrc.to/tv/1408/7/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E12
-https://vixsrc.to/tv/1408/7/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E13
-https://vixsrc.to/tv/1408/7/13?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E14
-https://vixsrc.to/tv/1408/7/14?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E15
-https://vixsrc.to/tv/1408/7/15?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E16
-https://vixsrc.to/tv/1408/7/16?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E17
-https://vixsrc.to/tv/1408/7/17?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E18
-https://vixsrc.to/tv/1408/7/18?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E19
-https://vixsrc.to/tv/1408/7/19?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E20
-https://vixsrc.to/tv/1408/7/20?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E21
-https://vixsrc.to/tv/1408/7/21?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E22
-https://vixsrc.to/tv/1408/7/22?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S07 E23
-https://vixsrc.to/tv/1408/7/23?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E01
-https://vixsrc.to/tv/1408/8/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E02
-https://vixsrc.to/tv/1408/8/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E03
-https://vixsrc.to/tv/1408/8/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E04
-https://vixsrc.to/tv/1408/8/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E05
-https://vixsrc.to/tv/1408/8/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E06
-https://vixsrc.to/tv/1408/8/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E07
-https://vixsrc.to/tv/1408/8/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E08
-https://vixsrc.to/tv/1408/8/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E09
-https://vixsrc.to/tv/1408/8/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E10
-https://vixsrc.to/tv/1408/8/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E11
-https://vixsrc.to/tv/1408/8/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E12
-https://vixsrc.to/tv/1408/8/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E13
-https://vixsrc.to/tv/1408/8/13?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E14
-https://vixsrc.to/tv/1408/8/14?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E15
-https://vixsrc.to/tv/1408/8/15?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E16
-https://vixsrc.to/tv/1408/8/16?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E17
-https://vixsrc.to/tv/1408/8/17?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E18
-https://vixsrc.to/tv/1408/8/18?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E19
-https://vixsrc.to/tv/1408/8/19?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E20
-https://vixsrc.to/tv/1408/8/20?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E21
-https://vixsrc.to/tv/1408/8/21?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E22
-https://vixsrc.to/tv/1408/8/22?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="SerieTV - Popolari",Dr. House - Medical Division S08 E23
-https://vixsrc.to/tv/1408/8/23?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/mCA9VTvNNMalJ0WBoUcjxMh4UJV.jpg" group-title="SerieTV - Popolari",NCIS - Unità anticrimine S01 E01
 https://vixsrc.to/tv/4614/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/mCA9VTvNNMalJ0WBoUcjxMh4UJV.jpg" group-title="SerieTV - Popolari",NCIS - Unità anticrimine S01 E02
@@ -11799,6 +12021,30 @@ https://vixsrc.to/tv/456/36/17?lang=it/series/
 https://vixsrc.to/tv/456/36/18?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fxLooktejTUqCvZl9ARhKMFNpbf.jpg" group-title="SerieTV - Popolari",I Simpson S37 E02
 https://vixsrc.to/tv/456/37/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wV4mY6juLwvLZEWV0f6Suku5yFC.jpg" group-title="SerieTV - Popolari",Sesamo apriti! S01 E01
+https://vixsrc.to/tv/502/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wV4mY6juLwvLZEWV0f6Suku5yFC.jpg" group-title="SerieTV - Popolari",Sesamo apriti! S01 E02
+https://vixsrc.to/tv/502/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wV4mY6juLwvLZEWV0f6Suku5yFC.jpg" group-title="SerieTV - Popolari",Sesamo apriti! S01 E03
+https://vixsrc.to/tv/502/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wV4mY6juLwvLZEWV0f6Suku5yFC.jpg" group-title="SerieTV - Popolari",Sesamo apriti! S01 E04
+https://vixsrc.to/tv/502/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wV4mY6juLwvLZEWV0f6Suku5yFC.jpg" group-title="SerieTV - Popolari",Sesamo apriti! S02 E01
+https://vixsrc.to/tv/502/2/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wV4mY6juLwvLZEWV0f6Suku5yFC.jpg" group-title="SerieTV - Popolari",Sesamo apriti! S02 E02
+https://vixsrc.to/tv/502/2/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wV4mY6juLwvLZEWV0f6Suku5yFC.jpg" group-title="SerieTV - Popolari",Sesamo apriti! S02 E03
+https://vixsrc.to/tv/502/2/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wV4mY6juLwvLZEWV0f6Suku5yFC.jpg" group-title="SerieTV - Popolari",Sesamo apriti! S02 E04
+https://vixsrc.to/tv/502/2/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wV4mY6juLwvLZEWV0f6Suku5yFC.jpg" group-title="SerieTV - Popolari",Sesamo apriti! S56 E01
+https://vixsrc.to/tv/502/56/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wV4mY6juLwvLZEWV0f6Suku5yFC.jpg" group-title="SerieTV - Popolari",Sesamo apriti! S56 E02
+https://vixsrc.to/tv/502/56/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wV4mY6juLwvLZEWV0f6Suku5yFC.jpg" group-title="SerieTV - Popolari",Sesamo apriti! S56 E03
+https://vixsrc.to/tv/502/56/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wV4mY6juLwvLZEWV0f6Suku5yFC.jpg" group-title="SerieTV - Popolari",Sesamo apriti! S56 E04
+https://vixsrc.to/tv/502/56/4?lang=it/series/
 
 # Più Votate
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg" group-title="SerieTV - Più Votate",Dutton Ranch S01 E01
@@ -65527,6 +65773,12 @@ https://vixsrc.to/tv/289892/2/10?lang=it/series/
 https://vixsrc.to/tv/289892/2/11?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Animazione",Helluva Boss S02 E12
 https://vixsrc.to/tv/289892/2/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Animazione",Helluva Boss S03 E01
+https://vixsrc.to/tv/289892/3/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Animazione",Helluva Boss S03 E02
+https://vixsrc.to/tv/289892/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Animazione",Helluva Boss S03 E03
+https://vixsrc.to/tv/289892/3/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/zXRR5tgGLtKrRmuN4ko9SLAdCiZ.jpg" group-title="SerieTV - Animazione",Blood of Zeus S01 E01
 https://vixsrc.to/tv/111111/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/zXRR5tgGLtKrRmuN4ko9SLAdCiZ.jpg" group-title="SerieTV - Animazione",Blood of Zeus S01 E02
@@ -115537,6 +115789,12 @@ https://vixsrc.to/tv/289892/2/10?lang=it/series/
 https://vixsrc.to/tv/289892/2/11?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Commedia",Helluva Boss S02 E12
 https://vixsrc.to/tv/289892/2/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Commedia",Helluva Boss S03 E01
+https://vixsrc.to/tv/289892/3/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Commedia",Helluva Boss S03 E02
+https://vixsrc.to/tv/289892/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Commedia",Helluva Boss S03 E03
+https://vixsrc.to/tv/289892/3/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/zRva67XCxkCRt4WuobrVVysdufU.jpg" group-title="SerieTV - Commedia",Truth Seekers S01 E01
 https://vixsrc.to/tv/92209/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/zRva67XCxkCRt4WuobrVVysdufU.jpg" group-title="SerieTV - Commedia",Truth Seekers S01 E02
@@ -150845,6 +151103,14 @@ https://vixsrc.to/tv/40505/4/8?lang=it/series/
 https://vixsrc.to/tv/40505/4/9?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/ngvNlJKZ0mb9Y9dym0tXxnfE3Hi.jpg" group-title="SerieTV - Commedia",The Exes S04 E10
 https://vixsrc.to/tv/40505/4/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/ngvNlJKZ0mb9Y9dym0tXxnfE3Hi.jpg" group-title="SerieTV - Commedia",The Exes S04 E11
+https://vixsrc.to/tv/40505/4/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/ngvNlJKZ0mb9Y9dym0tXxnfE3Hi.jpg" group-title="SerieTV - Commedia",The Exes S04 E12
+https://vixsrc.to/tv/40505/4/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/ngvNlJKZ0mb9Y9dym0tXxnfE3Hi.jpg" group-title="SerieTV - Commedia",The Exes S04 E13
+https://vixsrc.to/tv/40505/4/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/ngvNlJKZ0mb9Y9dym0tXxnfE3Hi.jpg" group-title="SerieTV - Commedia",The Exes S04 E14
+https://vixsrc.to/tv/40505/4/14?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/d3lJvKFXTtCtZ4VgXJtsetym5Hh.jpg" group-title="SerieTV - Commedia",Delitti in Paradiso S01 E01
 https://vixsrc.to/tv/41956/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/d3lJvKFXTtCtZ4VgXJtsetym5Hh.jpg" group-title="SerieTV - Commedia",Delitti in Paradiso S01 E02
@@ -236839,6 +237105,8 @@ https://vixsrc.to/tv/335536/1/2?lang=it/series/
 https://vixsrc.to/tv/335536/1/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg" group-title="SerieTV - Documentario",TYSON S01 E04
 https://vixsrc.to/tv/335536/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg" group-title="SerieTV - Documentario",I Delitti del Cimitero degli Animali: Storia di un fantasma S01 E01
+https://vixsrc.to/tv/336418/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/aSoUrOqul225Pbrg9dXcL7cAjsv.jpg" group-title="SerieTV - Documentario",Dolore e Psiche S01 E01
 https://vixsrc.to/tv/334539/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/aSoUrOqul225Pbrg9dXcL7cAjsv.jpg" group-title="SerieTV - Documentario",Dolore e Psiche S01 E02
@@ -248523,6 +248791,10 @@ https://vixsrc.to/tv/1430/1/12?lang=it/series/
 https://vixsrc.to/tv/1430/1/13?lang=it/series/
 
 # Dramma
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Dramma",VisionQuest S01 E01
+https://vixsrc.to/tv/213375/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Dramma",VisionQuest S01 E02
+https://vixsrc.to/tv/213375/1/2?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/o79kVEpMG6FSr5qyiBmVuc3IGWD.jpg" group-title="SerieTV - Dramma",L'isola del tesoro S01 E01
 https://vixsrc.to/tv/333101/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg" group-title="SerieTV - Dramma",Below S01 E01
@@ -280285,6 +280557,8 @@ https://vixsrc.to/tv/137948/2/1?lang=it/series/
 https://vixsrc.to/tv/137948/2/2?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/9cYgLzhMzQdRTfCbfER1LKLj4GL.jpg" group-title="SerieTV - Dramma",Sacrifice S02 E03
 https://vixsrc.to/tv/137948/2/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/9cYgLzhMzQdRTfCbfER1LKLj4GL.jpg" group-title="SerieTV - Dramma",Sacrifice S02 E04
+https://vixsrc.to/tv/137948/2/4?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nxfyXDghW2SbQbwRen6uh12OzXV.jpg" group-title="SerieTV - Dramma",Dr. Brain S01 E01
 https://vixsrc.to/tv/119955/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nxfyXDghW2SbQbwRen6uh12OzXV.jpg" group-title="SerieTV - Dramma",Dr. Brain S01 E02
@@ -289297,6 +289571,12 @@ https://vixsrc.to/tv/289892/2/10?lang=it/series/
 https://vixsrc.to/tv/289892/2/11?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Dramma",Helluva Boss S02 E12
 https://vixsrc.to/tv/289892/2/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Dramma",Helluva Boss S03 E01
+https://vixsrc.to/tv/289892/3/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Dramma",Helluva Boss S03 E02
+https://vixsrc.to/tv/289892/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Dramma",Helluva Boss S03 E03
+https://vixsrc.to/tv/289892/3/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5pHJaShL4FeWBsMw0b4k50pYmja.jpg" group-title="SerieTV - Dramma",The Defeated S01 E01
 https://vixsrc.to/tv/93781/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5pHJaShL4FeWBsMw0b4k50pYmja.jpg" group-title="SerieTV - Dramma",The Defeated S01 E02
@@ -481437,6 +481717,8 @@ https://vixsrc.to/tv/238839/14/6?lang=it/series/
 https://vixsrc.to/tv/238839/14/7?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/bWmW0RBbmC8jMobWkFrZzKO5W8Q.jpg" group-title="SerieTV - Reality",Matrimonio a Prima Vista Italia S14 E08
 https://vixsrc.to/tv/238839/14/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/bWmW0RBbmC8jMobWkFrZzKO5W8Q.jpg" group-title="SerieTV - Reality",Matrimonio a Prima Vista Italia S14 E09
+https://vixsrc.to/tv/238839/14/9?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/l5qyP6lDsHDGdLsSCHbCg8FvgxV.jpg" group-title="SerieTV - Reality",Tiffany Haddish Presents: They Ready S01 E01
 https://vixsrc.to/tv/92379/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/l5qyP6lDsHDGdLsSCHbCg8FvgxV.jpg" group-title="SerieTV - Reality",Tiffany Haddish Presents: They Ready S01 E02
@@ -491099,6 +491381,10 @@ https://vixsrc.to/tv/211757/8/5?lang=it/series/
 https://vixsrc.to/tv/211757/8/6?lang=it/series/
 
 # Sci-Fi & Fantasy
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Sci-Fi & Fantasy",VisionQuest S01 E01
+https://vixsrc.to/tv/213375/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Sci-Fi & Fantasy",VisionQuest S01 E02
+https://vixsrc.to/tv/213375/1/2?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/cw0nZlGdxPro0J9aZYO1tz2fZKY.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Avatar: I sette rifugi S01 E01
 https://vixsrc.to/tv/284833/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/cw0nZlGdxPro0J9aZYO1tz2fZKY.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Avatar: I sette rifugi S01 E02
@@ -500655,6 +500941,12 @@ https://vixsrc.to/tv/289892/2/10?lang=it/series/
 https://vixsrc.to/tv/289892/2/11?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Helluva Boss S02 E12
 https://vixsrc.to/tv/289892/2/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Helluva Boss S03 E01
+https://vixsrc.to/tv/289892/3/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Helluva Boss S03 E02
+https://vixsrc.to/tv/289892/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Helluva Boss S03 E03
+https://vixsrc.to/tv/289892/3/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/zXRR5tgGLtKrRmuN4ko9SLAdCiZ.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Blood of Zeus S01 E01
 https://vixsrc.to/tv/111111/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/zXRR5tgGLtKrRmuN4ko9SLAdCiZ.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Blood of Zeus S01 E02
