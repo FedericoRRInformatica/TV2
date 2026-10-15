@@ -176319,5 +176319,78 @@
       53
     ],
     "cached_at": "2026-10-14T05:58:38.159228"
+  },
+  "12651": {
+    "id": 12651,
+    "title": "Memphis Belle",
+    "release_date": "1990-09-07",
+    "vote_average": 6.8,
+    "poster_path": "/oq0GORauCREnV2PCbPPFLJ01Zap.jpg",
+    "genre_ids": [
+      18,
+      10752,
+      28
+    ],
+    "cached_at": "2026-10-15T05:44:51.317655"
+  },
+  "880067": {
+    "id": 880067,
+    "title": "Strung",
+    "release_date": "2026-06-18",
+    "vote_average": 7.626,
+    "poster_path": "/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      10402
+    ],
+    "cached_at": "2026-10-15T05:44:51.376012"
+  },
+  "1477836": {
+    "id": 1477836,
+    "title": "Discesa negli inferi",
+    "release_date": "2026-04-02",
+    "vote_average": 4.948,
+    "poster_path": "/fTUloMRssypzehEwNBjVegvCLTy.jpg",
+    "genre_ids": [
+      27,
+      12,
+      878
+    ],
+    "cached_at": "2026-10-15T05:44:51.400339"
+  },
+  "15036": {
+    "id": 15036,
+    "title": "Verso l'eden",
+    "release_date": "2009-02-11",
+    "vote_average": 6.2,
+    "poster_path": "/klPgABBKW6eag9BFh7FLe14Wx3C.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-15T05:44:51.408938"
+  },
+  "1381078": {
+    "id": 1381078,
+    "title": "L'amore della tua vita",
+    "release_date": "2026-10-07",
+    "vote_average": 6.6,
+    "poster_path": "/z10uWG4eeuDk72IcQe3niXsQCik.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-10-15T05:44:51.419965"
+  },
+  "1140724": {
+    "id": 1140724,
+    "title": "We Have a Dream",
+    "release_date": "2023-09-27",
+    "vote_average": 7.8,
+    "poster_path": "/pAzq7Axtgbo1gUknBp85rFwkmC.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-10-15T05:44:51.425433"
   }
 }
