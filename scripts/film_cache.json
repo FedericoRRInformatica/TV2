@@ -176392,5 +176392,130 @@
       99
     ],
     "cached_at": "2026-10-15T05:44:51.425433"
+  },
+  "74777": {
+    "id": 74777,
+    "title": "Absentia",
+    "release_date": "2011-03-03",
+    "vote_average": 5.809,
+    "poster_path": "/imUIPWoe0Yma5UhZVl6bqX5lF.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "cached_at": "2026-10-16T05:41:03.618077"
+  },
+  "1006126": {
+    "id": 1006126,
+    "title": "Santa Lucia",
+    "release_date": "2021-11-28",
+    "vote_average": 7.5,
+    "poster_path": "/biiFUXTzQxnnhlKJODhoMC3N26P.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-16T05:41:03.618852"
+  },
+  "1561726": {
+    "id": 1561726,
+    "title": "Masterplan",
+    "release_date": "2026-10-16",
+    "vote_average": 9.0,
+    "poster_path": "/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-10-16T05:41:03.627889"
+  },
+  "21348": {
+    "id": 21348,
+    "title": "Kirikù e la strega Karabà",
+    "release_date": "1998-12-09",
+    "vote_average": 7.4,
+    "poster_path": "/AlVBG3exYwHVNKzQ28zGK0mcy5K.jpg",
+    "genre_ids": [
+      14,
+      12,
+      16,
+      10751
+    ],
+    "cached_at": "2026-10-16T05:41:03.633321"
+  },
+  "1180629": {
+    "id": 1180629,
+    "title": "Kneecap",
+    "release_date": "2024-08-02",
+    "vote_average": 7.305,
+    "poster_path": "/9eKPLclW0FrvKpRr5PgiisFJavE.jpg",
+    "genre_ids": [
+      10402,
+      35,
+      18
+    ],
+    "cached_at": "2026-10-16T05:41:03.681188"
+  },
+  "1623256": {
+    "id": 1623256,
+    "title": "Stormen",
+    "release_date": "2026-10-15",
+    "vote_average": 8.071,
+    "poster_path": "/kjAsuaDcNsemYTQ8tUorpVE1FJb.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-10-16T05:41:03.682632"
+  },
+  "11334": {
+    "id": 11334,
+    "title": "S.P.Q.R. - 2000 e ½ anni fa",
+    "release_date": "1994-12-15",
+    "vote_average": 4.9,
+    "poster_path": "/tzRo3DbGDtCMEmi5ZOzlCSZThoL.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-16T05:41:03.684729"
+  },
+  "31112": {
+    "id": 31112,
+    "title": "Buon viaggio, Charlie Brown (...e non tornare indietro!)",
+    "release_date": "1980-05-30",
+    "vote_average": 6.4,
+    "poster_path": "/t7S8cLKHVytzjt1ql3dC4GE9S9T.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      35,
+      12
+    ],
+    "cached_at": "2026-10-16T05:41:03.691042"
+  },
+  "339967": {
+    "id": 339967,
+    "title": "Colossal",
+    "release_date": "2017-04-06",
+    "vote_average": 6.263,
+    "poster_path": "/2Ao73aztZciFPI0Q7uznf46mTkW.jpg",
+    "genre_ids": [
+      18,
+      14,
+      878
+    ],
+    "cached_at": "2026-10-16T05:41:03.733033"
+  },
+  "23479": {
+    "id": 23479,
+    "title": "Che botte se incontri gli “Orsi”",
+    "release_date": "1976-04-06",
+    "vote_average": 6.9,
+    "poster_path": "/ibtTEkRbufYsbaBebxGFiKynUJk.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      18
+    ],
+    "cached_at": "2026-10-16T05:41:04.107075"
   }
 }
