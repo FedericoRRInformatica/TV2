@@ -69728,5 +69728,44 @@
       18
     ],
     "cached_at": "2026-10-15T05:43:49.179820"
+  },
+  "213562": {
+    "id": 213562,
+    "name": "Crystal Lake",
+    "original_name": "Crystal Lake",
+    "first_air_date": "2026-10-15",
+    "vote_average": 6.1,
+    "poster_path": "/iFZd7n9ARPxLLg0BJ5jXGKk0lQG.jpg",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "cached_at": "2026-10-16T05:39:16.058452"
+  },
+  "286183": {
+    "id": 286183,
+    "name": "Hollywood Arts",
+    "original_name": "Hollywood Arts",
+    "first_air_date": "2026-10-15",
+    "vote_average": 4.0,
+    "poster_path": "/uVL8tV8z9br3XGsA9DDEY743sRE.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ],
+    "cached_at": "2026-10-16T05:39:16.077192"
+  },
+  "308767": {
+    "id": 308767,
+    "name": "Handsome Devil: Charming Killer",
+    "original_name": "Handsome Devil: Charming Killer",
+    "first_air_date": "2026-01-20",
+    "vote_average": 7.8,
+    "poster_path": "/eMYeeDy7xj22JnatwxVT8wHTujI.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-10-16T05:39:16.081940"
   }
 }
