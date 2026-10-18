@@ -176714,5 +176714,252 @@
       53
     ],
     "cached_at": "2026-10-17T05:27:20.537944"
+  },
+  "20770": {
+    "id": 20770,
+    "title": "Gonne al bivio",
+    "release_date": "2000-07-07",
+    "vote_average": 7.1,
+    "poster_path": "/8huDg3Q0EmcWuN9HgYsO8ylAp9f.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-10-18T05:38:13.900207"
+  },
+  "79548": {
+    "id": 79548,
+    "title": "Scomparsa",
+    "release_date": "2012-02-23",
+    "vote_average": 6.23,
+    "poster_path": "/fwQjxiY1wjSzZVNKPEp3JzrA7RM.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "cached_at": "2026-10-18T05:38:13.943620"
+  },
+  "10720": {
+    "id": 10720,
+    "title": "Abbasso l'amore",
+    "release_date": "2003-05-08",
+    "vote_average": 6.135,
+    "poster_path": "/pAVys58Ca8RytUwIKjr6iTJawxk.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-10-18T05:38:13.977638"
+  },
+  "7873": {
+    "id": 7873,
+    "title": "Harsh Times - I giorni dell'odio",
+    "release_date": "2005-09-11",
+    "vote_average": 6.422,
+    "poster_path": "/vu79Da4CpMaD9td027PQzDO3zJ6.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53,
+      28
+    ],
+    "cached_at": "2026-10-18T05:38:14.021270"
+  },
+  "1426968": {
+    "id": 1426968,
+    "title": "The Gentleman",
+    "release_date": "2025-09-26",
+    "vote_average": 5.862,
+    "poster_path": "/dUvVVxE224wiwaBf3ttTigE8hK0.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53,
+      18
+    ],
+    "cached_at": "2026-10-18T05:38:14.053859"
+  },
+  "678491": {
+    "id": 678491,
+    "title": "Il Confine della Vendetta - No Man's Land",
+    "release_date": "2021-01-22",
+    "vote_average": 6.2,
+    "poster_path": "/7PloiGUSH2OUWrk6ctchGhMOL3s.jpg",
+    "genre_ids": [
+      18,
+      53,
+      28
+    ],
+    "cached_at": "2026-10-18T05:38:14.053880"
+  },
+  "2924": {
+    "id": 2924,
+    "title": "Fuoco assassino",
+    "release_date": "1991-05-24",
+    "vote_average": 6.664,
+    "poster_path": "/7T6qypmaGD1xFuVFrOygvbLik8R.jpg",
+    "genre_ids": [
+      18,
+      53,
+      28,
+      80
+    ],
+    "cached_at": "2026-10-18T05:38:14.053891"
+  },
+  "9986": {
+    "id": 9986,
+    "title": "La tela di Carlotta",
+    "release_date": "2006-12-07",
+    "vote_average": 6.234,
+    "poster_path": "/374P6KItlJuWN9S6MMLxwSgCXBV.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      14
+    ],
+    "cached_at": "2026-10-18T05:38:14.062099"
+  },
+  "364733": {
+    "id": 364733,
+    "title": "Amore inaspettato",
+    "release_date": "2017-07-14",
+    "vote_average": 6.1,
+    "poster_path": "/liII9mVr3Qq5Vmm5iAlXbed1KYR.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-10-18T05:38:14.076225"
+  },
+  "390675": {
+    "id": 390675,
+    "title": "On Air: Storia di Un Successo",
+    "release_date": "2016-03-31",
+    "vote_average": 5.0,
+    "poster_path": "/wmUSrIVNlMH000ThwCg6EWDhb15.jpg",
+    "genre_ids": [
+      10402,
+      35,
+      18
+    ],
+    "cached_at": "2026-10-18T05:38:14.080441"
+  },
+  "177271": {
+    "id": 177271,
+    "title": "LEGO Batman: Il film - I supereroi DC riuniti",
+    "release_date": "2013-05-21",
+    "vote_average": 6.5,
+    "poster_path": "/i8x5Wg41meNwXCT7DS67xExKO1Y.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      12,
+      35
+    ],
+    "cached_at": "2026-10-18T05:38:14.093353"
+  },
+  "1154538": {
+    "id": 1154538,
+    "title": "Nirvanna the Band the Show the Movie",
+    "release_date": "2026-02-02",
+    "vote_average": 7.6,
+    "poster_path": "/rDH3MoA8AoR12IqeKr4ufdbC8lT.jpg",
+    "genre_ids": [
+      35,
+      878,
+      12
+    ],
+    "cached_at": "2026-10-18T05:38:14.094857"
+  },
+  "1340206": {
+    "id": 1340206,
+    "title": "Tuner - L’accordatore",
+    "release_date": "2026-05-21",
+    "vote_average": 7.6,
+    "poster_path": "/zs3MvBkmM6ccC1Fpfc0faBbRwb9.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-10-18T05:38:14.098323"
+  },
+  "1252": {
+    "id": 1252,
+    "title": "Lonely Hearts",
+    "release_date": "2006-04-30",
+    "vote_average": 6.058,
+    "poster_path": "/wbWoF1a1MiThvU7emd6naUcNttG.jpg",
+    "genre_ids": [
+      18,
+      53,
+      80,
+      10749
+    ],
+    "cached_at": "2026-10-18T05:38:14.126614"
+  },
+  "12184": {
+    "id": 12184,
+    "title": "L'altra donna del re",
+    "release_date": "2008-02-28",
+    "vote_average": 6.7,
+    "poster_path": "/Af7HzlChb3CBeBE44DT7XQ1NM7O.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      36
+    ],
+    "cached_at": "2026-10-18T05:38:14.152103"
+  },
+  "12246": {
+    "id": 12246,
+    "title": "Mongol",
+    "release_date": "2007-09-20",
+    "vote_average": 6.814,
+    "poster_path": "/8bs8Kq4iZG1zzJpszXU6CGVhic8.jpg",
+    "genre_ids": [
+      36,
+      10752,
+      28
+    ],
+    "cached_at": "2026-10-18T05:38:14.154201"
+  },
+  "13703": {
+    "id": 13703,
+    "title": "Al di là di tutti i limiti",
+    "release_date": "1987-11-06",
+    "vote_average": 6.411,
+    "poster_path": "/e6Bp2fJWDIrcQO2FJ4I3gZ7l9ck.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-10-18T05:38:14.157248"
+  },
+  "171013": {
+    "id": 171013,
+    "title": "La scoperta dell'alba",
+    "release_date": "2013-01-09",
+    "vote_average": 5.2,
+    "poster_path": "/uMskNvFhD3T5Rzq51SxUhPIRakE.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-18T05:38:14.158952"
+  },
+  "2047": {
+    "id": 2047,
+    "title": "Una bionda tutta d'oro",
+    "release_date": "1993-09-10",
+    "vote_average": 5.7,
+    "poster_path": "/sxCOBoWbskrF3LfVQDvj4a7hxgm.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-10-18T05:38:14.161344"
   }
 }
