@@ -176961,5 +176961,77 @@
       53
     ],
     "cached_at": "2026-10-18T05:38:14.161344"
+  },
+  "879957": {
+    "id": 879957,
+    "title": "Wyrmwood: Apocalypse",
+    "release_date": "2022-02-10",
+    "vote_average": 5.766,
+    "poster_path": "/b1OSwHDIflDSbirMr6k3Ivqf2yu.jpg",
+    "genre_ids": [
+      28,
+      27
+    ],
+    "cached_at": "2026-10-19T05:56:05.416959"
+  },
+  "468212": {
+    "id": 468212,
+    "title": "Tueurs - Al di sopra della legge",
+    "release_date": "2017-12-06",
+    "vote_average": 5.862,
+    "poster_path": "/fJmz7fZiUqNTxHgATEWC1FJm0l.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "cached_at": "2026-10-19T05:56:05.481682"
+  },
+  "1184418": {
+    "id": 1184418,
+    "title": "Anna",
+    "release_date": "2025-11-06",
+    "vote_average": 5.5,
+    "poster_path": "/6P0pmiLEnf5TI4SQ4aYNRLFO8ky.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-19T05:56:05.499596"
+  },
+  "290999": {
+    "id": 290999,
+    "title": "Road of the Dead - Wyrmwood",
+    "release_date": "2014-09-19",
+    "vote_average": 6.058,
+    "poster_path": "/5qrUehbmC0HP4IrkxdcLvyruevd.jpg",
+    "genre_ids": [
+      27,
+      28,
+      35
+    ],
+    "cached_at": "2026-10-19T05:56:05.499613"
+  },
+  "2196": {
+    "id": 2196,
+    "title": "Funeral Party",
+    "release_date": "2007-08-17",
+    "vote_average": 6.918,
+    "poster_path": "/9At5DvVgblxrp4wYxJ83FQddzLG.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-10-19T05:56:05.510915"
+  },
+  "22815": {
+    "id": 22815,
+    "title": "Il principe e il povero",
+    "release_date": "1977-06-03",
+    "vote_average": 6.1,
+    "poster_path": "/3uH2478VCFHhQJWAnvKXhJhxTEn.jpg",
+    "genre_ids": [
+      18,
+      12
+    ],
+    "cached_at": "2026-10-19T05:56:05.511750"
   }
 }
