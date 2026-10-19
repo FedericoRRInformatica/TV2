@@ -69779,5 +69779,33 @@
       18
     ],
     "cached_at": "2026-10-17T05:25:52.800296"
+  },
+  "137924": {
+    "id": 137924,
+    "name": "Storia di una famiglia perbene",
+    "original_name": "Storia di una famiglia perbene",
+    "first_air_date": "2021-11-03",
+    "vote_average": 7.1,
+    "poster_path": "/rSsonADhoIm1wdCjpKmyucOtuCb.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-19T05:54:51.700775"
+  },
+  "71128": {
+    "id": 71128,
+    "name": "Hunter Street",
+    "original_name": "Hunter Street",
+    "first_air_date": "2017-03-11",
+    "vote_average": 7.5,
+    "poster_path": "/rm1g7V1qMbus6rlwKP0aTxywhDH.jpg",
+    "genre_ids": [
+      10751,
+      10759,
+      35,
+      10762,
+      9648
+    ],
+    "cached_at": "2026-10-19T05:54:51.734908"
   }
 }
