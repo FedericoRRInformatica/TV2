@@ -177033,5 +177033,129 @@
       12
     ],
     "cached_at": "2026-10-19T05:56:05.511750"
+  },
+  "11959": {
+    "id": 11959,
+    "title": "UHF - I vidioti",
+    "release_date": "1989-07-21",
+    "vote_average": 6.662,
+    "poster_path": "/6R9gc4zjU9WnDPSiZMflPqNtccD.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-20T05:48:28.998939"
+  },
+  "62324": {
+    "id": 62324,
+    "title": "Gaturro - Un gatto superstar",
+    "release_date": "2010-07-07",
+    "vote_average": 4.9,
+    "poster_path": "/wfEWBKP0UtEMjeNB9rGcm992t2H.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "cached_at": "2026-10-20T05:48:29.013388"
+  },
+  "9819": {
+    "id": 9819,
+    "title": "La stanza di Marvin",
+    "release_date": "1996-12-18",
+    "vote_average": 6.719,
+    "poster_path": "/6YclhvAmtBClmhfbHSYLMgwwSZY.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-20T05:48:29.035296"
+  },
+  "4597": {
+    "id": 4597,
+    "title": "Blindato",
+    "release_date": "2009-12-04",
+    "vote_average": 5.8,
+    "poster_path": "/p194PK6FdRpqsMMlkJBwwPMVPhL.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53,
+      9648
+    ],
+    "cached_at": "2026-10-20T05:48:29.050241"
+  },
+  "14913": {
+    "id": 14913,
+    "title": "Boogeyman 2 - Il ritorno dell'uomo nero",
+    "release_date": "2007-10-20",
+    "vote_average": 5.435,
+    "poster_path": "/swC2FkjUF0kCVHQxjnWf1ivwYEi.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-10-20T05:48:29.069078"
+  },
+  "794": {
+    "id": 794,
+    "title": "Il presagio",
+    "release_date": "1976-06-25",
+    "vote_average": 7.4,
+    "poster_path": "/q3Iflttxm969nxQN1zffecCGU5s.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-10-20T05:48:29.072027"
+  },
+  "177590": {
+    "id": 177590,
+    "title": "The Beat - Violenza alla deriva",
+    "release_date": "1988-06-03",
+    "vote_average": 6.2,
+    "poster_path": "/pwwLoWVSDcbduWbWwLE0seUTeyw.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-20T05:48:29.078636"
+  },
+  "22522": {
+    "id": 22522,
+    "title": "Anna dei mille giorni",
+    "release_date": "1969-12-18",
+    "vote_average": 7.162,
+    "poster_path": "/u2p5SspAs1GqeuHXNXywryU3k37.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10749
+    ],
+    "cached_at": "2026-10-20T05:48:29.079477"
+  },
+  "35080": {
+    "id": 35080,
+    "title": "Hollywood Confidential",
+    "release_date": "2002-04-12",
+    "vote_average": 5.8,
+    "poster_path": "/ks8rtBsvlofku7ggmk8uguc2RLY.jpg",
+    "genre_ids": [
+      18,
+      36,
+      80
+    ],
+    "cached_at": "2026-10-20T05:48:29.080359"
+  },
+  "19415": {
+    "id": 19415,
+    "title": "Summer Lovers",
+    "release_date": "1982-07-16",
+    "vote_average": 5.442,
+    "poster_path": "/olYFe9Det1QN16Lz140Rax0jDLZ.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ],
+    "cached_at": "2026-10-20T05:48:29.085824"
   }
 }
