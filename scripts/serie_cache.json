@@ -69807,5 +69807,29 @@
       9648
     ],
     "cached_at": "2026-10-19T05:54:51.734908"
+  },
+  "68944": {
+    "id": 68944,
+    "name": "Hell's Kitchen Italia",
+    "original_name": "Hell's Kitchen Italia",
+    "first_air_date": "2014-04-17",
+    "vote_average": 6.7,
+    "poster_path": "/stsOtYVFWQ4f5HX6HkNX6lXLlq.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-10-20T05:46:47.013225"
+  },
+  "290148": {
+    "id": 290148,
+    "name": "Formula E: DRIVER",
+    "original_name": "Formula E: DRIVER",
+    "first_air_date": "2025-04-25",
+    "vote_average": 8.0,
+    "poster_path": "/s4FE3H2L91JaXh95EgGzfIVwNl6.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-10-20T05:46:47.052626"
   }
 }
