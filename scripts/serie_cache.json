@@ -69831,5 +69831,61 @@
       99
     ],
     "cached_at": "2026-10-20T05:46:47.052626"
+  },
+  "303745": {
+    "id": 303745,
+    "name": "Amore sotto copertura",
+    "original_name": "나의 유죄인간",
+    "first_air_date": "2026-10-19",
+    "vote_average": 4.5,
+    "poster_path": "/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg",
+    "genre_ids": [
+      35,
+      18,
+      80,
+      10759
+    ],
+    "cached_at": "2026-10-21T05:50:58.119229"
+  },
+  "289423": {
+    "id": 289423,
+    "name": "Fammi battere il cuore",
+    "original_name": "나를 충전해줘",
+    "first_air_date": "2026-10-09",
+    "vote_average": 8.917,
+    "poster_path": "/iRpbHcHh7RO6VkkXUAZBl07uE0q.jpg",
+    "genre_ids": [
+      10765,
+      35,
+      18
+    ],
+    "cached_at": "2026-10-21T05:50:58.132751"
+  },
+  "275139": {
+    "id": 275139,
+    "name": "Phony",
+    "original_name": "Phony",
+    "first_air_date": "2026-10-20",
+    "vote_average": 7.0,
+    "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+    "genre_ids": [
+      35,
+      18,
+      9648
+    ],
+    "cached_at": "2026-10-21T05:50:58.152232"
+  },
+  "84609": {
+    "id": 84609,
+    "name": "Dystopia",
+    "original_name": "Dystopia",
+    "first_air_date": "2018-10-01",
+    "vote_average": 6.2,
+    "poster_path": "/kX4xgpYWc6bmYJDzG6HiRIIn7rb.jpg",
+    "genre_ids": [
+      10765,
+      18
+    ],
+    "cached_at": "2026-10-21T05:50:58.167677"
   }
 }
