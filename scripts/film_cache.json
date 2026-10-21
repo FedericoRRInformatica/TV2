@@ -177157,5 +177157,120 @@
       35
     ],
     "cached_at": "2026-10-20T05:48:29.085824"
+  },
+  "1029235": {
+    "id": 1029235,
+    "title": "Azrael - L'angelo della morte",
+    "release_date": "2024-09-27",
+    "vote_average": 5.849,
+    "poster_path": "/kPVqgc8bSESttUfyOiPospfqTh1.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53
+    ],
+    "cached_at": "2026-10-21T05:52:02.660593"
+  },
+  "31767": {
+    "id": 31767,
+    "title": "I diavoli",
+    "release_date": "1971-07-16",
+    "vote_average": 7.465,
+    "poster_path": "/eOWv0agpyVXeDsTOjoSl1PSKHQz.jpg",
+    "genre_ids": [
+      18,
+      36,
+      27
+    ],
+    "cached_at": "2026-10-21T05:52:02.660610"
+  },
+  "364220": {
+    "id": 364220,
+    "title": "Insieme dopo la morte",
+    "release_date": "2017-06-15",
+    "vote_average": 7.044,
+    "poster_path": "/yEA5B2yeQ8ugq1avq0R9VaBvtzB.jpg",
+    "genre_ids": [
+      18,
+      14,
+      27
+    ],
+    "cached_at": "2026-10-21T05:52:02.681804"
+  },
+  "1318803": {
+    "id": 1318803,
+    "title": "Alpha.",
+    "release_date": "2025-02-13",
+    "vote_average": 6.2,
+    "poster_path": "/1MmgiTj1ggnYwVLXZCjneZpCPQv.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-21T05:52:02.704640"
+  },
+  "808552": {
+    "id": 808552,
+    "title": "A Little Italian Vacation",
+    "release_date": "2021-03-20",
+    "vote_average": 7.0,
+    "poster_path": "/tRvvX4TzWaQKG5PavpZpcxSBuXu.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-10-21T05:52:02.719315"
+  },
+  "9458": {
+    "id": 9458,
+    "title": "Soluzione estrema",
+    "release_date": "1998-01-30",
+    "vote_average": 6.0,
+    "poster_path": "/iaSQ71Rari8h1vYmZY9jPjPAVSW.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53,
+      80
+    ],
+    "cached_at": "2026-10-21T05:52:02.725410"
+  },
+  "25935": {
+    "id": 25935,
+    "title": "The Reckoning - Percorsi criminali",
+    "release_date": "2004-02-26",
+    "vote_average": 6.357,
+    "poster_path": "/9l9mKH19hUWvyuVrjJjut76sP3x.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2026-10-21T05:52:02.731277"
+  },
+  "938150": {
+    "id": 938150,
+    "title": "Wardriver",
+    "release_date": "2026-03-04",
+    "vote_average": 7.415,
+    "poster_path": "/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "cached_at": "2026-10-21T05:52:02.737357"
+  },
+  "9882": {
+    "id": 9882,
+    "title": "Attacco al potere",
+    "release_date": "1998-11-06",
+    "vote_average": 6.298,
+    "poster_path": "/pYzkCz8DK1lY5WQPPqCpglD9BCU.jpg",
+    "genre_ids": [
+      18,
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2026-10-21T05:52:02.745975"
   }
 }
