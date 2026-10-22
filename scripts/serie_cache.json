@@ -69887,5 +69887,30 @@
       18
     ],
     "cached_at": "2026-10-21T05:50:58.167677"
+  },
+  "335319": {
+    "id": 335319,
+    "name": "The New Stanford Prison Experiment",
+    "original_name": "The New Stanford Prison Experiment",
+    "first_air_date": "2026-10-21",
+    "vote_average": 8.0,
+    "poster_path": "/heoESrHAdmPeYECs2B7R8RIqLyN.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-10-22T05:53:36.686361"
+  },
+  "2685": {
+    "id": 2685,
+    "name": "Otto sotto un tetto",
+    "original_name": "Family Matters",
+    "first_air_date": "1989-09-22",
+    "vote_average": 6.765,
+    "poster_path": "/a4fnqSWlpW4YFYbcCIjRNdrAS1n.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "cached_at": "2026-10-22T05:53:36.736261"
   }
 }
