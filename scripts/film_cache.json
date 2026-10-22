@@ -177272,5 +177272,153 @@
       80
     ],
     "cached_at": "2026-10-21T05:52:02.745975"
+  },
+  "1221061": {
+    "id": 1221061,
+    "title": "Il suono di una caduta",
+    "release_date": "2025-08-28",
+    "vote_average": 6.988,
+    "poster_path": "/wgPOP0hYAkHy0YCvnFHANxWsQy1.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-22T05:54:52.609675"
+  },
+  "14637": {
+    "id": 14637,
+    "title": "Una sola verità",
+    "release_date": "2008-12-19",
+    "vote_average": 6.931,
+    "poster_path": "/jl4ifkyY9vL1WPOBlev0rs97hgY.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-10-22T05:54:52.611117"
+  },
+  "28327": {
+    "id": 28327,
+    "title": "Le foto di Gioia",
+    "release_date": "1987-04-02",
+    "vote_average": 5.5,
+    "poster_path": "/2qIcaIt9tr8LD5KtYyenPj2v0kh.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-10-22T05:54:52.621431"
+  },
+  "254772": {
+    "id": 254772,
+    "title": "Two Men in Town",
+    "release_date": "2014-05-07",
+    "vote_average": 5.5,
+    "poster_path": "/xyUr597QI5vrFaxnJ65ypp6Ynz5.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-10-22T05:54:52.627270"
+  },
+  "8583": {
+    "id": 8583,
+    "title": "Padrona del suo destino",
+    "release_date": "1998-02-20",
+    "vote_average": 7.0,
+    "poster_path": "/kPI5PCYoWmXQPPdzLwsqijZ2tu1.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-10-22T05:54:52.647449"
+  },
+  "9694": {
+    "id": 9694,
+    "title": "The Call - Non rispondere",
+    "release_date": "2003-11-03",
+    "vote_average": 6.2,
+    "poster_path": "/k9eKCYhUDXLBuQOBnGbl0RijSGE.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      14
+    ],
+    "cached_at": "2026-10-22T05:54:52.653896"
+  },
+  "964592": {
+    "id": 964592,
+    "title": "Sleep",
+    "release_date": "2023-09-06",
+    "vote_average": 6.71,
+    "poster_path": "/aQCDmuAFQYKaOIQCnH4X7NlTzVn.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-10-22T05:54:52.656942"
+  },
+  "935906": {
+    "id": 935906,
+    "title": "Scrapper",
+    "release_date": "2023-08-25",
+    "vote_average": 6.7,
+    "poster_path": "/fezRPcjrd4whodnVVcFRCgDpK11.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-10-22T05:54:52.660024"
+  },
+  "27632": {
+    "id": 27632,
+    "title": "La maschera del demonio",
+    "release_date": "1960-08-11",
+    "vote_average": 7.4,
+    "poster_path": "/jrgLAAg1Q0hvm9Dq1Dqhu7dF123.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-10-22T05:54:52.698484"
+  },
+  "21309": {
+    "id": 21309,
+    "title": "I ragazzi del fiume",
+    "release_date": "1986-10-10",
+    "vote_average": 6.552,
+    "poster_path": "/vha6XrnMK1a8lMdm5k3uTBYtknW.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-10-22T05:54:53.133281"
+  },
+  "1064486": {
+    "id": 1064486,
+    "title": "Diario di una lumaca",
+    "release_date": "2024-10-17",
+    "vote_average": 8.065,
+    "poster_path": "/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+    "genre_ids": [
+      16,
+      35,
+      18
+    ],
+    "cached_at": "2026-10-22T05:54:53.264112"
+  },
+  "16209": {
+    "id": 16209,
+    "title": "Jesus Christ Vampire Hunter",
+    "release_date": "2001-06-10",
+    "vote_average": 4.891,
+    "poster_path": "/iYAiPgkzaCAlMwQ7hyAr0h3D2uF.jpg",
+    "genre_ids": [
+      28,
+      35,
+      27
+    ],
+    "cached_at": "2026-10-22T05:54:53.662600"
   }
 }
