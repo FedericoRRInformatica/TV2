@@ -69912,5 +69912,32 @@
       10751
     ],
     "cached_at": "2026-10-22T05:53:36.736261"
+  },
+  "337609": {
+    "id": 337609,
+    "name": "Swipe Right on the Devil",
+    "original_name": "Swipe Right on the Devil",
+    "first_air_date": "2026-10-22",
+    "vote_average": 7.0,
+    "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-10-23T05:51:51.544494"
+  },
+  "40": {
+    "id": 40,
+    "name": "Dallas",
+    "original_name": "Dallas",
+    "first_air_date": "1978-04-02",
+    "vote_average": 6.895,
+    "poster_path": "/jmqo8bgHrhKYPc0RK5F71GHa8rm.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      10751
+    ],
+    "cached_at": "2026-10-23T05:51:51.569667"
   }
 }
