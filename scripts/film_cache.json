@@ -177420,5 +177420,132 @@
       27
     ],
     "cached_at": "2026-10-22T05:54:53.662600"
+  },
+  "61755": {
+    "id": 61755,
+    "title": "1990: I guerrieri del Bronx",
+    "release_date": "1982-08-22",
+    "vote_average": 5.0,
+    "poster_path": "/ouD43yFhm8WtfBadWjbC0B0L2hu.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "cached_at": "2026-10-23T05:52:58.092622"
+  },
+  "64807": {
+    "id": 64807,
+    "title": "Il grande match",
+    "release_date": "2013-12-25",
+    "vote_average": 6.107,
+    "poster_path": "/ob0DHTyENWevkToRxgWp3mzBajM.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-23T05:52:58.155821"
+  },
+  "13994": {
+    "id": 13994,
+    "title": "Romance & Cigarettes",
+    "release_date": "2006-03-24",
+    "vote_average": 6.053,
+    "poster_path": "/phSntD46jD5IfYAa2lSoU6xJDJ6.jpg",
+    "genre_ids": [
+      35,
+      10402,
+      10749
+    ],
+    "cached_at": "2026-10-23T05:52:58.155838"
+  },
+  "1589799": {
+    "id": 1589799,
+    "title": "SpongeBob and Patrick's Timeline Twist-Up",
+    "release_date": "2025-06-27",
+    "vote_average": 6.0,
+    "poster_path": "/6kBZ2CTolHtaB9AyIkZl1lAg9j3.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      10770
+    ],
+    "cached_at": "2026-10-23T05:52:58.159155"
+  },
+  "10341": {
+    "id": 10341,
+    "title": "Fino alla fine del mondo",
+    "release_date": "1991-09-12",
+    "vote_average": 6.7,
+    "poster_path": "/czm5Ed0OThK6FAR1rNA7MJygHBz.jpg",
+    "genre_ids": [
+      18,
+      878,
+      12
+    ],
+    "cached_at": "2026-10-23T05:52:58.159169"
+  },
+  "18502": {
+    "id": 18502,
+    "title": "Stuff - Il gelato che uccide",
+    "release_date": "1985-06-14",
+    "vote_average": 6.0,
+    "poster_path": "/skeN3ZRB8gMm6IiJ9tu79swqp8N.jpg",
+    "genre_ids": [
+      27,
+      878,
+      35
+    ],
+    "cached_at": "2026-10-23T05:52:58.173056"
+  },
+  "27636": {
+    "id": 27636,
+    "title": "La frusta e il corpo",
+    "release_date": "1963-08-29",
+    "vote_average": 6.4,
+    "poster_path": "/6TeZIV4nV3yQPR8Rq0xhHa9hxsT.jpg",
+    "genre_ids": [
+      18,
+      27
+    ],
+    "cached_at": "2026-10-23T05:52:58.177165"
+  },
+  "1198654": {
+    "id": 1198654,
+    "title": "Bad Apples",
+    "release_date": "2026-09-10",
+    "vote_average": 6.543,
+    "poster_path": "/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
+    "genre_ids": [
+      35,
+      53
+    ],
+    "cached_at": "2026-10-23T05:52:58.199416"
+  },
+  "16346": {
+    "id": 16346,
+    "title": "Center Stage: Turn It Up",
+    "release_date": "2008-10-30",
+    "vote_average": 6.867,
+    "poster_path": "/ngD6GbYx9auu95YMgfNImOnC6uj.jpg",
+    "genre_ids": [
+      18,
+      10402,
+      10749
+    ],
+    "cached_at": "2026-10-23T05:52:58.223232"
+  },
+  "1433680": {
+    "id": 1433680,
+    "title": "A cena con il dittatore",
+    "release_date": "2025-10-17",
+    "vote_average": 6.9,
+    "poster_path": "/vyXuBt4SWQOnxTI4AvplgNVTAkr.jpg",
+    "genre_ids": [
+      35,
+      36,
+      18
+    ],
+    "cached_at": "2026-10-23T05:52:58.263750"
   }
 }
