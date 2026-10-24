@@ -177547,5 +177547,273 @@
       18
     ],
     "cached_at": "2026-10-23T05:52:58.263750"
+  },
+  "11248": {
+    "id": 11248,
+    "title": "Delitto di stato",
+    "release_date": "1994-11-26",
+    "vote_average": 6.262,
+    "poster_path": "/woffg7jHtPHef00fSjoLs9TIDON.jpg",
+    "genre_ids": [
+      18,
+      53,
+      28,
+      10770,
+      10752
+    ],
+    "cached_at": "2026-10-24T05:36:10.600599"
+  },
+  "11536": {
+    "id": 11536,
+    "title": "Gli spostati",
+    "release_date": "1961-02-01",
+    "vote_average": 7.0,
+    "poster_path": "/kgFRSwrOUJkVz6CP0QJnJ07j32G.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      37
+    ],
+    "cached_at": "2026-10-24T05:36:10.611099"
+  },
+  "289712": {
+    "id": 289712,
+    "title": "Mockingbird - In diretta dall'inferno",
+    "release_date": "2014-10-07",
+    "vote_average": 4.705,
+    "poster_path": "/h7tzWmIOqMlXqakPV21DPCGSFKr.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-10-24T05:36:10.654793"
+  },
+  "38152": {
+    "id": 38152,
+    "title": "La banda di Harry Spikes",
+    "release_date": "1974-04-11",
+    "vote_average": 6.717,
+    "poster_path": "/tF3lKpF8mcdp5H9fSe3tS94NfLo.jpg",
+    "genre_ids": [
+      37,
+      28
+    ],
+    "cached_at": "2026-10-24T05:36:10.710501"
+  },
+  "26119": {
+    "id": 26119,
+    "title": "Chato",
+    "release_date": "1972-05-25",
+    "vote_average": 6.554,
+    "poster_path": "/rEcplN36UmuiOH10tLVaJed8czJ.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-10-24T05:36:10.749782"
+  },
+  "1802723": {
+    "id": 1802723,
+    "title": "Diversa",
+    "release_date": "2026-10-20",
+    "vote_average": 5.0,
+    "poster_path": "/iFW4yakO8VAVs5R8iJiLBxj2wPd.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-10-24T05:36:10.755401"
+  },
+  "6476": {
+    "id": 6476,
+    "title": "Da mezzogiorno alle tre",
+    "release_date": "1976-08-01",
+    "vote_average": 6.0,
+    "poster_path": "/p0pOI8Azp5tol5GEVTh8vjAmAxA.jpg",
+    "genre_ids": [
+      35,
+      37
+    ],
+    "cached_at": "2026-10-24T05:36:10.803606"
+  },
+  "66035": {
+    "id": 66035,
+    "title": "Il kentuckiano",
+    "release_date": "1955-07-22",
+    "vote_average": 5.8,
+    "poster_path": "/8YI9seB4p7h3ZAyHBkyt83CVHlm.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-10-24T05:36:10.803625"
+  },
+  "291413": {
+    "id": 291413,
+    "title": "Within - Presenze",
+    "release_date": "2016-10-18",
+    "vote_average": 5.4,
+    "poster_path": "/wfOaPl9lfzRuMjbnJZ8joBHG1h2.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-10-24T05:36:10.837380"
+  },
+  "40352": {
+    "id": 40352,
+    "title": "I guerrieri dell'anno 2072",
+    "release_date": "1984-01-28",
+    "vote_average": 5.1,
+    "poster_path": "/wvZy4O4d9Lz8uQyOXojvvfks8LG.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "cached_at": "2026-10-24T05:36:10.889390"
+  },
+  "332502": {
+    "id": 332502,
+    "title": "400 giorni",
+    "release_date": "2015-10-29",
+    "vote_average": 4.382,
+    "poster_path": "/cFjPk9bURCK06CCalDUuD000aWH.jpg",
+    "genre_ids": [
+      9648,
+      878,
+      53
+    ],
+    "cached_at": "2026-10-24T05:36:10.910609"
+  },
+  "1403": {
+    "id": 1403,
+    "title": "Duello a El Diablo",
+    "release_date": "1966-06-15",
+    "vote_average": 6.4,
+    "poster_path": "/rQZQ66cgjlKEJB3u61BBzXLCS1g.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-10-24T05:36:11.225831"
+  },
+  "1153576": {
+    "id": 1153576,
+    "title": "Street Fighter",
+    "release_date": "2026-10-13",
+    "vote_average": 6.366,
+    "poster_path": "/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+    "genre_ids": [
+      28,
+      14
+    ],
+    "cached_at": "2026-10-24T05:36:11.259343"
+  },
+  "50433": {
+    "id": 50433,
+    "title": "L'alcova",
+    "release_date": "1985-01-21",
+    "vote_average": 5.4,
+    "poster_path": "/l2CJZguM1GFtesUYc8nn7Ga1mpy.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      53
+    ],
+    "cached_at": "2026-10-24T05:36:11.394346"
+  },
+  "58428": {
+    "id": 58428,
+    "title": "The Innkeepers",
+    "release_date": "2012-02-03",
+    "vote_average": 5.371,
+    "poster_path": "/f9xYGmHnfg2u144oOfFn2Y4lC4Y.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-10-24T05:36:11.556633"
+  },
+  "296626": {
+    "id": 296626,
+    "title": "Non si gioca con Morte",
+    "release_date": "2014-10-18",
+    "vote_average": 4.87,
+    "poster_path": "/4yywVSSwaU8ZUXRYjHqORl6xJa6.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      27
+    ],
+    "cached_at": "2026-10-24T05:36:11.563815"
+  },
+  "14854": {
+    "id": 14854,
+    "title": "Una magnum per McQuade",
+    "release_date": "1983-04-15",
+    "vote_average": 6.475,
+    "poster_path": "/poTBBjiMo3Ptt7zGnWSGQqv6Yxe.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "cached_at": "2026-10-24T05:36:11.719457"
+  },
+  "11209": {
+    "id": 11209,
+    "title": "La battaglia di Alamo",
+    "release_date": "1960-10-23",
+    "vote_average": 7.083,
+    "poster_path": "/fWMilYlXYuwxjGgw3iNNQgMg49q.jpg",
+    "genre_ids": [
+      10752,
+      12,
+      36,
+      37
+    ],
+    "cached_at": "2026-10-24T05:36:11.730931"
+  },
+  "21242": {
+    "id": 21242,
+    "title": "Io sono Valdez",
+    "release_date": "1971-04-09",
+    "vote_average": 6.347,
+    "poster_path": "/znTcV0pW01FXboLdRAwM3zrl17u.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2026-10-24T05:36:11.927482"
+  },
+  "1225377": {
+    "id": 1225377,
+    "title": "La trappola per topi",
+    "release_date": "2024-08-23",
+    "vote_average": 4.0,
+    "poster_path": "/3ovFaFeojLFIl5ClqhtgYMDS8sE.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-10-24T05:36:12.051183"
+  },
+  "9059": {
+    "id": 9059,
+    "title": "Il cavaliere del male",
+    "release_date": "1995-01-13",
+    "vote_average": 6.856,
+    "poster_path": "/rcI5Mi98c4EqbVEhfEcYed10oew.jpg",
+    "genre_ids": [
+      27,
+      35,
+      53
+    ],
+    "cached_at": "2026-10-24T05:36:12.355181"
+  },
+  "17664": {
+    "id": 17664,
+    "title": "Soldati a cavallo",
+    "release_date": "1959-06-11",
+    "vote_average": 6.9,
+    "poster_path": "/onVR37pSJpAdCvnXWGvS76xFriz.jpg",
+    "genre_ids": [
+      37,
+      10752
+    ],
+    "cached_at": "2026-10-24T05:36:12.387220"
   }
 }
