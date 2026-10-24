@@ -69939,5 +69939,43 @@
       10751
     ],
     "cached_at": "2026-10-23T05:51:51.569667"
+  },
+  "339718": {
+    "id": 339718,
+    "name": "LOL: Chi ride è fuori - Halloween Special",
+    "original_name": "LOL: Chi ride è fuori - Halloween Special",
+    "first_air_date": "2026-10-23",
+    "vote_average": 0.0,
+    "poster_path": "/qhKY57FldzoQqHLJT8QUawhu42v.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-24T05:35:02.455737"
+  },
+  "335535": {
+    "id": 335535,
+    "name": "Grande de España",
+    "original_name": "Grande de España",
+    "first_air_date": "2026-10-23",
+    "vote_average": 0.0,
+    "poster_path": "/jhjVQtqQgSYjv91IoYWyZvMoqZF.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-10-24T05:35:02.465903"
+  },
+  "314360": {
+    "id": 314360,
+    "name": "YAGA",
+    "original_name": "YAGA",
+    "first_air_date": "2026-10-23",
+    "vote_average": 6.8,
+    "poster_path": "/2kxIViR7g3e08ZHLlvNFFJkgJtI.jpg",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "cached_at": "2026-10-24T05:35:02.502152"
   }
 }
