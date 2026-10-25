@@ -177815,5 +177815,194 @@
       10752
     ],
     "cached_at": "2026-10-24T05:36:12.387220"
+  },
+  "8494": {
+    "id": 8494,
+    "title": "Weekend con il morto 2",
+    "release_date": "1993-07-09",
+    "vote_average": 5.102,
+    "poster_path": "/7n5SiI4o0oTgyAbgqqt5AKTTkt.jpg",
+    "genre_ids": [
+      35,
+      80,
+      12
+    ],
+    "cached_at": "2026-10-25T05:51:32.407675"
+  },
+  "52036": {
+    "id": 52036,
+    "title": "The Company",
+    "release_date": "2003-12-25",
+    "vote_average": 5.3,
+    "poster_path": "/izdTt7Fth8dAa9wGfDgrmsWuxpD.jpg",
+    "genre_ids": [
+      10749,
+      10402,
+      18
+    ],
+    "cached_at": "2026-10-25T05:51:32.407693"
+  },
+  "256092": {
+    "id": 256092,
+    "title": "Drive Hard",
+    "release_date": "2014-10-03",
+    "vote_average": 4.3,
+    "poster_path": "/ki0SFXH1Y6BfuEPGTdgNXJ7mHtw.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "cached_at": "2026-10-25T05:51:32.407704"
+  },
+  "1554116": {
+    "id": 1554116,
+    "title": "Qualcosa di Lilla",
+    "release_date": "2026-04-02",
+    "vote_average": 5.4,
+    "poster_path": "/vg76jfHwt3MACPYCO9cgH6B66LU.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "cached_at": "2026-10-25T05:51:32.420072"
+  },
+  "907": {
+    "id": 907,
+    "title": "Il dottor Zivago",
+    "release_date": "1965-12-22",
+    "vote_average": 7.553,
+    "poster_path": "/ql7HAwisMMDR7GK9K2AS3JaPiWc.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10752
+    ],
+    "cached_at": "2026-10-25T05:51:32.420086"
+  },
+  "1563588": {
+    "id": 1563588,
+    "title": "L'hangar rosso",
+    "release_date": "2026-05-08",
+    "vote_average": 7.808,
+    "poster_path": "/owA1QtBUMmJ5DBN4eLL4fmrUxRH.jpg",
+    "genre_ids": [
+      18,
+      36,
+      53
+    ],
+    "cached_at": "2026-10-25T05:51:32.425829"
+  },
+  "6619": {
+    "id": 6619,
+    "title": "Morte a Venezia",
+    "release_date": "1971-03-05",
+    "vote_average": 7.232,
+    "poster_path": "/qkf8bVQZ7xpbXBLIZbjvrtGlOZ5.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-25T05:51:32.433485"
+  },
+  "2436": {
+    "id": 2436,
+    "title": "Double Dragon",
+    "release_date": "1994-11-04",
+    "vote_average": 4.6,
+    "poster_path": "/hzFav3ZEpq6MwqVw9wyV5Eu72IF.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35,
+      14,
+      878
+    ],
+    "cached_at": "2026-10-25T05:51:32.451034"
+  },
+  "8491": {
+    "id": 8491,
+    "title": "Weekend con il morto",
+    "release_date": "1989-07-05",
+    "vote_average": 6.425,
+    "poster_path": "/sTsjlTt1VM6WJoXqGWWeIZTnfxE.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2026-10-25T05:51:32.458777"
+  },
+  "42892": {
+    "id": 42892,
+    "title": "Happy Family",
+    "release_date": "2010-03-26",
+    "vote_average": 6.4,
+    "poster_path": "/pWrfIvygxbJTOrqMVqUDWvv1Ato.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-25T05:51:32.463335"
+  },
+  "458534": {
+    "id": 458534,
+    "title": "Tutti in piedi",
+    "release_date": "2018-03-14",
+    "vote_average": 6.516,
+    "poster_path": "/wok93579iEtpjJ7bFLbAzjzl0jl.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-10-25T05:51:32.468128"
+  },
+  "269": {
+    "id": 269,
+    "title": "Fino all'ultimo respiro",
+    "release_date": "1960-03-16",
+    "vote_average": 7.478,
+    "poster_path": "/nXVik3Lxeffyy1eqp6bmO9axB6r.jpg",
+    "genre_ids": [
+      18,
+      80,
+      10749
+    ],
+    "cached_at": "2026-10-25T05:51:32.468676"
+  },
+  "15239": {
+    "id": 15239,
+    "title": "The Toxic Avenger",
+    "release_date": "1984-05-15",
+    "vote_average": 6.234,
+    "poster_path": "/vuxRW5GKuCnKvdYlUAYNxlicm54.jpg",
+    "genre_ids": [
+      28,
+      35,
+      27,
+      878
+    ],
+    "cached_at": "2026-10-25T05:51:32.473022"
+  },
+  "589174": {
+    "id": 589174,
+    "title": "담보",
+    "release_date": "2020-09-29",
+    "vote_average": 8.3,
+    "poster_path": "/b6clzuYNbizWFUtcpLBsp00zXNe.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ],
+    "cached_at": "2026-10-25T05:51:32.988989"
+  },
+  "120922": {
+    "id": 120922,
+    "title": "Torno a vivere da solo",
+    "release_date": "2008-12-05",
+    "vote_average": 4.17,
+    "poster_path": "/kyVi6NIu50BBPmhi7CFLuTNyrzw.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-25T05:51:33.111742"
   }
 }
