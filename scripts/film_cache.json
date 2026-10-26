@@ -178004,5 +178004,125 @@
       35
     ],
     "cached_at": "2026-10-25T05:51:33.111742"
+  },
+  "42790": {
+    "id": 42790,
+    "title": "Sedotta e abbandonata",
+    "release_date": "1964-01-30",
+    "vote_average": 7.7,
+    "poster_path": "/eh28VoeMrAkBPH1mQjQNcthzhJ3.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-10-26T05:54:55.360267"
+  },
+  "261037": {
+    "id": 261037,
+    "title": "Miss Meadows",
+    "release_date": "2014-09-12",
+    "vote_average": 5.877,
+    "poster_path": "/fpYXvWGKPwk51UTk8hqo0qE13qk.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-26T05:54:55.399722"
+  },
+  "1126336": {
+    "id": 1126336,
+    "title": "Anniversary",
+    "release_date": "2025-10-29",
+    "vote_average": 6.95,
+    "poster_path": "/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2026-10-26T05:54:55.402150"
+  },
+  "1104937": {
+    "id": 1104937,
+    "title": "El Jockey",
+    "release_date": "2024-09-26",
+    "vote_average": 6.7,
+    "poster_path": "/u8xyhzVLqq6HeIwlnzRrrJ0LHpZ.jpg",
+    "genre_ids": [
+      35,
+      80,
+      18
+    ],
+    "cached_at": "2026-10-26T05:54:55.418959"
+  },
+  "48584": {
+    "id": 48584,
+    "title": "Spermula",
+    "release_date": "1976-07-07",
+    "vote_average": 4.2,
+    "poster_path": "/wkb2JtxVzmJO9BQp07vF0XLSSl1.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "cached_at": "2026-10-26T05:54:55.421125"
+  },
+  "650036": {
+    "id": 650036,
+    "title": "The Rage",
+    "release_date": "2023-04-24",
+    "vote_average": 5.878,
+    "poster_path": "/kQ9TmxMDeWcRHlkbDLZvQ8xAGXh.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2026-10-26T05:54:55.422288"
+  },
+  "9096": {
+    "id": 9096,
+    "title": "Mato Grosso",
+    "release_date": "1992-02-07",
+    "vote_average": 5.972,
+    "poster_path": "/lS2RYaZ8u07kLH6dzQxqhPaJEUq.jpg",
+    "genre_ids": [
+      12,
+      18
+    ],
+    "cached_at": "2026-10-26T05:54:55.424495"
+  },
+  "261": {
+    "id": 261,
+    "title": "La gatta sul tetto che scotta",
+    "release_date": "1958-08-29",
+    "vote_average": 7.633,
+    "poster_path": "/A875Gs0XS2Oi8C0iHTENbsyqPVk.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-26T05:54:55.425329"
+  },
+  "57704": {
+    "id": 57704,
+    "title": "Best",
+    "release_date": "2000-05-10",
+    "vote_average": 6.122,
+    "poster_path": "/XbphEucFBkAR2nEhEyVkRMiNPi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-26T05:54:55.464435"
+  },
+  "266353": {
+    "id": 266353,
+    "title": "Ho sognato l'amore",
+    "release_date": "2015-10-20",
+    "vote_average": 6.422,
+    "poster_path": "/nuowZBkeYtUE0rNjkagfrDYw99E.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      14,
+      10770
+    ],
+    "cached_at": "2026-10-26T05:54:55.472257"
   }
 }
