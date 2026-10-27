@@ -70017,5 +70017,32 @@
       10759
     ],
     "cached_at": "2026-10-26T05:53:41.100634"
+  },
+  "321221": {
+    "id": 321221,
+    "name": "Minimum Wage",
+    "original_name": "Minimum Wage",
+    "first_air_date": "2026-10-26",
+    "vote_average": 10.0,
+    "poster_path": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-27T06:06:37.214946"
+  },
+  "240932": {
+    "id": 240932,
+    "name": "Wild Cards",
+    "original_name": "Wild Cards",
+    "first_air_date": "2024-01-10",
+    "vote_average": 7.2,
+    "poster_path": "/hs4BfMkCDIuTTh3sauUYVf71gZx.jpg",
+    "genre_ids": [
+      18,
+      35,
+      9648,
+      80
+    ],
+    "cached_at": "2026-10-27T06:06:37.218442"
   }
 }
