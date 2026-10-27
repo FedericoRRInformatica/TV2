@@ -178124,5 +178124,80 @@
       10770
     ],
     "cached_at": "2026-10-26T05:54:55.472257"
+  },
+  "11101": {
+    "id": 11101,
+    "title": "Stalingrad",
+    "release_date": "1993-01-20",
+    "vote_average": 7.3,
+    "poster_path": "/k0gKmXLybHFIh26nwivmubJ05X4.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "cached_at": "2026-10-27T06:07:49.612375"
+  },
+  "28089": {
+    "id": 28089,
+    "title": "Oltre le regole - The Messenger",
+    "release_date": "2009-11-13",
+    "vote_average": 6.7,
+    "poster_path": "/nJgcI5BWQjGixT6HEBcJAJ8eld6.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10752
+    ],
+    "cached_at": "2026-10-27T06:07:49.631740"
+  },
+  "1628071": {
+    "id": 1628071,
+    "title": "Ip Man: Oltre la leggenda",
+    "release_date": "2026-07-22",
+    "vote_average": 7.0,
+    "poster_path": "/u2PPx8HODpGlx0tzw5lHKFKN1Bq.jpg",
+    "genre_ids": [
+      28
+    ],
+    "cached_at": "2026-10-27T06:07:49.632610"
+  },
+  "21501": {
+    "id": 21501,
+    "title": "Miracolo di una notte d'inverno",
+    "release_date": "2007-11-16",
+    "vote_average": 7.2,
+    "poster_path": "/3DP5Yew8ct2G9RmEuKrVAZNkgRF.jpg",
+    "genre_ids": [
+      14,
+      10751
+    ],
+    "cached_at": "2026-10-27T06:07:49.634588"
+  },
+  "15653": {
+    "id": 15653,
+    "title": "Estremamente Pippo",
+    "release_date": "2000-02-29",
+    "vote_average": 6.464,
+    "poster_path": "/ljFmWLcrsqWGO2jhAkODbcGT0TS.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "cached_at": "2026-10-27T06:07:50.262721"
+  },
+  "31776": {
+    "id": 31776,
+    "title": "Per amore... dei soldi",
+    "release_date": "2000-04-14",
+    "vote_average": 5.9,
+    "poster_path": "/hz0jRpb8gn9txjfjPU2yo5kdf2g.jpg",
+    "genre_ids": [
+      35,
+      80,
+      18
+    ],
+    "cached_at": "2026-10-27T06:07:50.534693"
   }
 }
