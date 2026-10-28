@@ -178199,5 +178199,108 @@
       18
     ],
     "cached_at": "2026-10-27T06:07:50.534693"
+  },
+  "174316": {
+    "id": 174316,
+    "title": "Una rete di bugie",
+    "release_date": "2013-11-06",
+    "vote_average": 5.5,
+    "poster_path": "/xltv2kTAcIE7H92TpS7ex9crgOn.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-10-28T06:45:57.285768"
+  },
+  "1446616": {
+    "id": 1446616,
+    "title": "Tu Yaa Main",
+    "release_date": "2026-02-11",
+    "vote_average": 6.4,
+    "poster_path": "/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg",
+    "genre_ids": [
+      53,
+      10749
+    ],
+    "cached_at": "2026-10-28T06:45:57.289539"
+  },
+  "1780005": {
+    "id": 1780005,
+    "title": "Contra el huracán",
+    "release_date": "2026-10-23",
+    "vote_average": 6.016,
+    "poster_path": "/9na3MNAhsuNKDVOoctaE7opTmbx.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-28T06:45:57.307714"
+  },
+  "1638819": {
+    "id": 1638819,
+    "title": "Igor - L'eroe romantico del calcio",
+    "release_date": "2026-03-30",
+    "vote_average": 8.5,
+    "poster_path": "/fqTB3Vy6M2LIactgufgBlaMcKE0.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-10-28T06:45:57.308654"
+  },
+  "11398": {
+    "id": 11398,
+    "title": "L'arte della guerra",
+    "release_date": "2000-08-25",
+    "vote_average": 5.7,
+    "poster_path": "/wyspTMO3Ha6fFYfhT0QiH0e5RXE.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2026-10-28T06:45:57.309748"
+  },
+  "1785148": {
+    "id": 1785148,
+    "title": "Solo Noi. Una stagione da Double",
+    "release_date": "2026-10-05",
+    "vote_average": 6.0,
+    "poster_path": "/qpL8sp47Iiri53PkFmnWfuVUuTp.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-10-28T06:45:57.315717"
+  },
+  "1477104": {
+    "id": 1477104,
+    "title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
+    "release_date": "2026-09-17",
+    "vote_average": 7.3,
+    "poster_path": "/hIgvOtvwbNCUclH0uBvg2qn6Ye.jpg",
+    "genre_ids": [
+      16,
+      878,
+      35
+    ],
+    "cached_at": "2026-10-28T06:45:57.320227"
+  },
+  "1231163": {
+    "id": 1231163,
+    "title": "Dedalus",
+    "release_date": "2025-07-10",
+    "vote_average": 6.4,
+    "poster_path": "/OmLIE6umM2uuZkqqqxtE9l1isZ.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-10-28T06:45:57.321216"
+  },
+  "1005756": {
+    "id": 1005756,
+    "title": "La timidezza delle chiome",
+    "release_date": "2022-11-10",
+    "vote_average": 6.4,
+    "poster_path": "/qGrD66frXlycbb3BvoKZAzr52Ys.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-10-28T06:45:57.331656"
   }
 }
