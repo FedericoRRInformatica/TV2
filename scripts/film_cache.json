@@ -178415,5 +178415,169 @@
       53
     ],
     "cached_at": "2026-10-29T06:53:19.329313"
+  },
+  "931461": {
+    "id": 931461,
+    "title": "American Dreamer",
+    "release_date": "2022-11-04",
+    "vote_average": 6.0,
+    "poster_path": "/9bUsa318eCnztKZlcG86s8xk9Rk.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-30T06:56:58.764976"
+  },
+  "38348": {
+    "id": 38348,
+    "title": "La guerra dei bottoni",
+    "release_date": "1994-08-05",
+    "vote_average": 7.0,
+    "poster_path": "/uqsNLBj1MKzq2uqvegAgoE0gG1M.jpg",
+    "genre_ids": [
+      35,
+      18,
+      12,
+      10751
+    ],
+    "cached_at": "2026-10-30T06:56:58.768748"
+  },
+  "12251": {
+    "id": 12251,
+    "title": "Pioggia di soldi",
+    "release_date": "1992-07-24",
+    "vote_average": 5.6,
+    "poster_path": "/za0sjHe1TqaMcDFE9ToS3yoFBJP.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80,
+      10749,
+      53,
+      18
+    ],
+    "cached_at": "2026-10-30T06:56:58.782884"
+  },
+  "1541477": {
+    "id": 1541477,
+    "title": "Noi un po' meglio",
+    "release_date": "2026-10-29",
+    "vote_average": 5.3,
+    "poster_path": "/ahSqZAAHU4PgNdbKdGPj332O7As.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-10-30T06:56:58.789009"
+  },
+  "776559": {
+    "id": 776559,
+    "title": "How It Ends",
+    "release_date": "2021-07-20",
+    "vote_average": 4.8,
+    "poster_path": "/h4FQ8H77z6rIY82HzR5wgOYoxCA.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-10-30T06:56:58.799666"
+  },
+  "26124": {
+    "id": 26124,
+    "title": "Face",
+    "release_date": "1997-09-26",
+    "vote_average": 6.3,
+    "poster_path": "/egPYnvwTRTzoEAQ7zC6mRzOfFcW.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-10-30T06:56:58.800837"
+  },
+  "60422": {
+    "id": 60422,
+    "title": "Another Happy Day",
+    "release_date": "2011-11-18",
+    "vote_average": 5.5,
+    "poster_path": "/yOS14Pr563QEUd3bath9LwhhId3.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-10-30T06:56:58.802846"
+  },
+  "1089123": {
+    "id": 1089123,
+    "title": "Daddy's Head - Il volto del male",
+    "release_date": "2024-09-22",
+    "vote_average": 5.9,
+    "poster_path": "/6gZwQWUt1Goi0djNzhQMVhDHLr0.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-10-30T06:56:58.808376"
+  },
+  "48466": {
+    "id": 48466,
+    "title": "Shrekkato da morire",
+    "release_date": "2010-10-28",
+    "vote_average": 6.7,
+    "poster_path": "/j9kDaPtmbG4P5XIwG29KZ9j908g.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      27,
+      14
+    ],
+    "cached_at": "2026-10-30T06:56:58.810409"
+  },
+  "20704": {
+    "id": 20704,
+    "title": "Campioni di guai",
+    "release_date": "1991-09-27",
+    "vote_average": 5.5,
+    "poster_path": "/aD3MSe0nzB6lL6RKIrIP8vDnHDY.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-10-30T06:56:58.815359"
+  },
+  "10514": {
+    "id": 10514,
+    "title": "Andromeda",
+    "release_date": "1971-03-12",
+    "vote_average": 7.0,
+    "poster_path": "/4N13nqyKaLTx3v2kYX3wFkFEfTd.jpg",
+    "genre_ids": [
+      878,
+      53,
+      18
+    ],
+    "cached_at": "2026-10-30T06:56:58.848794"
+  },
+  "36691": {
+    "id": 36691,
+    "title": "Solitary Man",
+    "release_date": "2009-09-07",
+    "vote_average": 5.9,
+    "poster_path": "/5Dpm8QDoL3w3ZOwVl6rgvjRWxrj.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-10-30T06:56:59.643342"
+  },
+  "333596": {
+    "id": 333596,
+    "title": "Woodlawn",
+    "release_date": "2015-10-15",
+    "vote_average": 6.8,
+    "poster_path": "/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-30T06:56:59.851115"
   }
 }
