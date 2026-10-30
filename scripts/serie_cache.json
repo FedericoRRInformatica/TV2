@@ -70068,5 +70068,42 @@
       18
     ],
     "cached_at": "2026-10-29T06:52:12.276309"
+  },
+  "62413": {
+    "id": 62413,
+    "name": "Killjoys",
+    "original_name": "Killjoys",
+    "first_air_date": "2015-06-19",
+    "vote_average": 6.9,
+    "poster_path": "/xnQ7WVAxlk9UAVWDLDeYGTKRaOf.jpg",
+    "genre_ids": [
+      10759,
+      10765
+    ],
+    "cached_at": "2026-10-30T06:55:57.260133"
+  },
+  "297982": {
+    "id": 297982,
+    "name": "Irreplaceable",
+    "original_name": "无可替代",
+    "first_air_date": "2026-09-28",
+    "vote_average": 8.4,
+    "poster_path": "/gLbtMLqbN6fgYsTuHFvzJu7Hopi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-30T06:55:57.265469"
+  },
+  "79299": {
+    "id": 79299,
+    "name": "A Very English Scandal",
+    "original_name": "A Very English Scandal",
+    "first_air_date": "2018-05-20",
+    "vote_average": 7.1,
+    "poster_path": "/xQU99bLRjTegRSGScLDVqpcx5QV.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-30T06:55:57.278275"
   }
 }
