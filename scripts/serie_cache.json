@@ -70105,5 +70105,46 @@
       18
     ],
     "cached_at": "2026-10-30T06:55:57.278275"
+  },
+  "292741": {
+    "id": 292741,
+    "name": "Nocturne",
+    "original_name": "Nocturne",
+    "first_air_date": "2026-10-29",
+    "vote_average": 5.8,
+    "poster_path": "/v3lygwSQZHw9IGGQvbeZeNYHspp.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2026-10-31T06:49:40.014453"
+  },
+  "289517": {
+    "id": 289517,
+    "name": "Dead-End Job",
+    "original_name": "꿀알바",
+    "first_air_date": "2026-10-30",
+    "vote_average": 7.625,
+    "poster_path": "/yyA9CI8BLNg6LtVRvmVxki4xiGb.jpg",
+    "genre_ids": [
+      9648,
+      10765
+    ],
+    "cached_at": "2026-10-31T06:49:40.035547"
+  },
+  "1450": {
+    "id": 1450,
+    "name": "The Closer",
+    "original_name": "The Closer",
+    "first_air_date": "2005-06-13",
+    "vote_average": 7.8,
+    "poster_path": "/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2026-10-31T06:49:40.056565"
   }
 }
