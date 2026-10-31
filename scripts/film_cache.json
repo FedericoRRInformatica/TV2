@@ -178579,5 +178579,140 @@
       18
     ],
     "cached_at": "2026-10-30T06:56:59.851115"
+  },
+  "8016": {
+    "id": 8016,
+    "title": "Germania anno zero",
+    "release_date": "1948-07-11",
+    "vote_average": 7.6,
+    "poster_path": "/xpNiweTQ9L9A09VdcZkBBD3JFPo.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-31T06:50:33.134647"
+  },
+  "104755": {
+    "id": 104755,
+    "title": "Le streghe di Salem",
+    "release_date": "2013-04-18",
+    "vote_average": 5.449,
+    "poster_path": "/7hkjySGIWeFRt2TpdNgdUMcYA24.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-10-31T06:50:33.134658"
+  },
+  "1284186": {
+    "id": 1284186,
+    "title": "Sacrifice",
+    "release_date": "2026-04-09",
+    "vote_average": 5.313,
+    "poster_path": "/cBWWQKUtUWyckTKzT1CzPs3ZeTT.jpg",
+    "genre_ids": [
+      12,
+      35,
+      28
+    ],
+    "cached_at": "2026-10-31T06:50:33.134663"
+  },
+  "1571955": {
+    "id": 1571955,
+    "title": "Colisión",
+    "release_date": "2026-10-30",
+    "vote_average": 7.75,
+    "poster_path": "/L2SDL6pi8jyvMRmh1vWbqfwHtf.jpg",
+    "genre_ids": [
+      18,
+      28,
+      80
+    ],
+    "cached_at": "2026-10-31T06:50:33.136878"
+  },
+  "10413": {
+    "id": 10413,
+    "title": "Accerchiato",
+    "release_date": "1993-01-15",
+    "vote_average": 6.564,
+    "poster_path": "/wQDtwZBuXrVaCVoOfLKQho8phVd.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "cached_at": "2026-10-31T06:50:33.144477"
+  },
+  "1351701": {
+    "id": 1351701,
+    "title": "La bocca dell'anima",
+    "release_date": "2024-09-26",
+    "vote_average": 6.5,
+    "poster_path": "/kJvaNjiJ8SbFKstN6uQrIA9AuiX.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-31T06:50:33.147591"
+  },
+  "44716": {
+    "id": 44716,
+    "title": "In un mondo migliore",
+    "release_date": "2010-08-26",
+    "vote_average": 7.146,
+    "poster_path": "/jVt2mm4ztXTCRNy75EGi72EdMUe.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-10-31T06:50:33.150798"
+  },
+  "46315": {
+    "id": 46315,
+    "title": "Fantasie di una tredicenne",
+    "release_date": "1970-10-16",
+    "vote_average": 7.0,
+    "poster_path": "/qTiJyZ7oL9BwjQ3yW9YVE0554Lf.jpg",
+    "genre_ids": [
+      14,
+      12,
+      18
+    ],
+    "cached_at": "2026-10-31T06:50:33.156424"
+  },
+  "81534": {
+    "id": 81534,
+    "title": "The Parade - La Sfilata",
+    "release_date": "2011-10-31",
+    "vote_average": 6.692,
+    "poster_path": "/xiGFUqO2fqT57mPA6XNuY0Be5va.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-10-31T06:50:33.157583"
+  },
+  "1507696": {
+    "id": 1507696,
+    "title": "Apocalipsis Z: Il Nuovo Mondo",
+    "release_date": "2026-10-09",
+    "vote_average": 6.9,
+    "poster_path": "/Aaf1GNXi80i2qNvVHlIjpBGfs88.jpg",
+    "genre_ids": [
+      28,
+      53,
+      27
+    ],
+    "cached_at": "2026-10-31T06:50:33.199874"
+  },
+  "550022": {
+    "id": 550022,
+    "title": "(App)untamento per Natale",
+    "release_date": "2018-12-01",
+    "vote_average": 7.072,
+    "poster_path": "/qiFKUwyHpwv93YGaPBAV7h4AuTy.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      10770
+    ],
+    "cached_at": "2026-10-31T06:50:33.243368"
   }
 }
