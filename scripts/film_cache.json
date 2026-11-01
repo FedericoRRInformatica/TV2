@@ -178714,5 +178714,76 @@
       10770
     ],
     "cached_at": "2026-10-31T06:50:33.243368"
+  },
+  "1283515": {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-09-30",
+    "vote_average": 6.76,
+    "poster_path": "/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "cached_at": "2026-11-01T07:16:59.677613"
+  },
+  "1813355": {
+    "id": 1813355,
+    "title": "A Story of Derry",
+    "release_date": "2026-10-31",
+    "vote_average": 7.3,
+    "poster_path": "/q2XCoT6AqBANz0mKmkgVeo4PyRQ.jpg",
+    "genre_ids": [
+      18,
+      27,
+      9648
+    ],
+    "cached_at": "2026-11-01T07:16:59.695117"
+  },
+  "297784": {
+    "id": 297784,
+    "title": "L'epopea dei Barolo Boys",
+    "release_date": "2014-10-16",
+    "vote_average": 7.2,
+    "poster_path": "/sfh1HLKOfKshBqsaDjNqy9VV0AQ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-11-01T07:16:59.702208"
+  },
+  "161817": {
+    "id": 161817,
+    "title": "Pierino medico della SAUB",
+    "release_date": "1981-12-23",
+    "vote_average": 5.6,
+    "poster_path": "/rWicrooBs0MF56jlJPkWkEZihI5.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-01T07:16:59.703768"
+  },
+  "11986": {
+    "id": 11986,
+    "title": "Betty Blue",
+    "release_date": "1986-04-09",
+    "vote_average": 7.213,
+    "poster_path": "/MrPhkW302Jpu5K2JbkiZmBIayH.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-11-01T07:16:59.708228"
+  },
+  "1088434": {
+    "id": 1088434,
+    "title": "Hellfire",
+    "release_date": "2026-05-14",
+    "vote_average": 5.208,
+    "poster_path": "/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-11-01T07:16:59.713354"
   }
 }
