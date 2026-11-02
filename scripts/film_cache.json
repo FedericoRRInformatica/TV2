@@ -178785,5 +178785,309 @@
       53
     ],
     "cached_at": "2026-11-01T07:16:59.713354"
+  },
+  "11302": {
+    "id": 11302,
+    "title": "Il dittatore dello stato libero di Bananas",
+    "release_date": "1971-04-28",
+    "vote_average": 6.7,
+    "poster_path": "/cogunN535CV1vpsmBGJWVk1V5kg.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-02T07:31:32.983051"
+  },
+  "13922": {
+    "id": 13922,
+    "title": "The Great Raid - Un pugno di eroi",
+    "release_date": "2005-08-12",
+    "vote_average": 6.6,
+    "poster_path": "/58GOu2cD3Ii6rfjZm0yGvzi5weA.jpg",
+    "genre_ids": [
+      28,
+      36,
+      10752
+    ],
+    "cached_at": "2026-11-02T07:31:32.984409"
+  },
+  "25251": {
+    "id": 25251,
+    "title": "Borsalino",
+    "release_date": "1970-05-19",
+    "vote_average": 6.9,
+    "poster_path": "/zcZ5UILFQsko7NlIaEDpIsQvSlS.jpg",
+    "genre_ids": [
+      80,
+      35,
+      18
+    ],
+    "cached_at": "2026-11-02T07:31:32.989778"
+  },
+  "11088": {
+    "id": 11088,
+    "title": "Il colpo",
+    "release_date": "2001-11-09",
+    "vote_average": 6.319,
+    "poster_path": "/8ees9f4hPcEXucgdPgOwDJj6eEw.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-11-02T07:31:32.992503"
+  },
+  "28043": {
+    "id": 28043,
+    "title": "I tre volti della paura",
+    "release_date": "1963-08-17",
+    "vote_average": 7.2,
+    "poster_path": "/p4ptj3rODlvirM1DiDMRUYCZYOX.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-11-02T07:31:32.999159"
+  },
+  "3681": {
+    "id": 3681,
+    "title": "Ciao Pussycat",
+    "release_date": "1965-06-22",
+    "vote_average": 5.9,
+    "poster_path": "/yqLrnslGVM6iSE8ObzdFTlw4igm.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-11-02T07:31:33.001779"
+  },
+  "5143": {
+    "id": 5143,
+    "title": "Hannah e le sue sorelle",
+    "release_date": "1986-02-07",
+    "vote_average": 7.454,
+    "poster_path": "/yz2KjC7YrJuZ5vUn0hmBgZoKBcU.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-11-02T07:31:33.010980"
+  },
+  "10849": {
+    "id": 10849,
+    "title": "La rosa purpurea del Cairo",
+    "release_date": "1985-03-01",
+    "vote_average": 7.38,
+    "poster_path": "/pFYDG5adm5IUG9j9Qoz4M45CTQ5.jpg",
+    "genre_ids": [
+      14,
+      35,
+      10749
+    ],
+    "cached_at": "2026-11-02T07:31:33.010990"
+  },
+  "248087": {
+    "id": 248087,
+    "title": "L'eterno 0",
+    "release_date": "2013-12-20",
+    "vote_average": 7.0,
+    "poster_path": "/zGGa0729JQrfVk4bXBKQLGeW4Ga.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      28,
+      9648
+    ],
+    "cached_at": "2026-11-02T07:31:33.016170"
+  },
+  "38368": {
+    "id": 38368,
+    "title": "Lo zio Boonmee che si ricorda le vite precedenti",
+    "release_date": "2010-06-25",
+    "vote_average": 6.6,
+    "poster_path": "/yjGtunIPzJ1mP08xwXOUWK3ortw.jpg",
+    "genre_ids": [
+      18,
+      14
+    ],
+    "cached_at": "2026-11-02T07:31:33.016181"
+  },
+  "14689": {
+    "id": 14689,
+    "title": "Hawaii",
+    "release_date": "1966-10-10",
+    "vote_average": 6.3,
+    "poster_path": "/cRqw7ajYhz7Kn4p0y559K6jR9Zi.jpg",
+    "genre_ids": [
+      18,
+      12,
+      10749,
+      36
+    ],
+    "cached_at": "2026-11-02T07:31:33.016187"
+  },
+  "257245": {
+    "id": 257245,
+    "title": "East Side Sushi",
+    "release_date": "2014-03-08",
+    "vote_average": 6.7,
+    "poster_path": "/hyDJxhPooTZQ3F889qxHyAUzBfO.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-02T07:31:33.025780"
+  },
+  "10331": {
+    "id": 10331,
+    "title": "La notte dei morti viventi",
+    "release_date": "1968-10-04",
+    "vote_average": 7.602,
+    "poster_path": "/nD44WHJVshnksWwm92neZuFfHKT.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "cached_at": "2026-11-02T07:31:33.047600"
+  },
+  "417643": {
+    "id": 417643,
+    "title": "In darkness - Nell'oscurità",
+    "release_date": "2018-05-25",
+    "vote_average": 6.0,
+    "poster_path": "/yYuQc0SFtVkVcH8HGtZRFSpwj5E.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "cached_at": "2026-11-02T07:31:33.058215"
+  },
+  "1473124": {
+    "id": 1473124,
+    "title": "Una fottuta bugia",
+    "release_date": "2025-05-17",
+    "vote_average": 3.8,
+    "poster_path": "/9amQ9U3p6Mfs59MHic46t3YkCM8.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-02T07:31:33.064183"
+  },
+  "332": {
+    "id": 332,
+    "title": "Inspector Gadget",
+    "release_date": "1999-07-23",
+    "vote_average": 4.541,
+    "poster_path": "/i80QAC5MNnPJrYfPF2JIKJFb2iy.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35,
+      10751
+    ],
+    "cached_at": "2026-11-02T07:31:33.067886"
+  },
+  "19368": {
+    "id": 19368,
+    "title": "Il contrabbandiere",
+    "release_date": "1958-05-10",
+    "vote_average": 6.1,
+    "poster_path": "/zLvETidTYiTWR6XtWE4A6myQ3lD.jpg",
+    "genre_ids": [
+      80,
+      28,
+      53
+    ],
+    "cached_at": "2026-11-02T07:31:33.077458"
+  },
+  "34732": {
+    "id": 34732,
+    "title": "Omicidio al neon per l'ispettore Tibbs",
+    "release_date": "1970-07-10",
+    "vote_average": 5.9,
+    "poster_path": "/55gVy5BTGuLiWo0yRjj5z5ORVHo.jpg",
+    "genre_ids": [
+      18,
+      28,
+      53,
+      80,
+      9648
+    ],
+    "cached_at": "2026-11-02T07:31:33.077466"
+  },
+  "31593": {
+    "id": 31593,
+    "title": "Alla maniera di Cutter",
+    "release_date": "1981-03-19",
+    "vote_average": 6.5,
+    "poster_path": "/qXmlmrmNOYE7Ga1lYqGDi54YG8A.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53,
+      80
+    ],
+    "cached_at": "2026-11-02T07:31:33.081355"
+  },
+  "11583": {
+    "id": 11583,
+    "title": "1855 - La prima grande rapina al treno",
+    "release_date": "1978-12-14",
+    "vote_average": 6.681,
+    "poster_path": "/wZEbSEw0BTd2eiyurA7t0Yc3MJP.jpg",
+    "genre_ids": [
+      53,
+      12,
+      18,
+      80
+    ],
+    "cached_at": "2026-11-02T07:31:33.083368"
+  },
+  "1400940": {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-19",
+    "vote_average": 7.454,
+    "poster_path": "/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
+    "genre_ids": [
+      27,
+      53,
+      878
+    ],
+    "cached_at": "2026-11-02T07:31:33.087018"
+  },
+  "1863": {
+    "id": 1863,
+    "title": "I girasoli",
+    "release_date": "1970-03-14",
+    "vote_average": 7.5,
+    "poster_path": "/47UHXCCxSCIoO01KhEEd9y32eW4.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "cached_at": "2026-11-02T07:31:33.088707"
+  },
+  "30890": {
+    "id": 30890,
+    "title": "Radio Days",
+    "release_date": "1987-01-30",
+    "vote_average": 7.04,
+    "poster_path": "/ljZ3yyYznAiq1vF6nHITdJn6qXB.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-11-02T07:31:33.089606"
+  },
+  "9566": {
+    "id": 9566,
+    "title": "The Fan - Il mito",
+    "release_date": "1996-08-15",
+    "vote_average": 5.989,
+    "poster_path": "/n6iBEn60KcdmZg2avUYOexyJRK3.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2026-11-02T07:31:33.091517"
   }
 }
