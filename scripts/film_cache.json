@@ -179089,5 +179089,91 @@
       18
     ],
     "cached_at": "2026-11-02T07:31:33.091517"
+  },
+  "322518": {
+    "id": 322518,
+    "title": "The Intruders",
+    "release_date": "2015-02-24",
+    "vote_average": 5.3,
+    "poster_path": "/FtGq3onEsKLiza8Hwcps7fAfML.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "cached_at": "2026-11-03T07:45:40.244873"
+  },
+  "989473": {
+    "id": 989473,
+    "title": "Invito a un omicidio",
+    "release_date": "2023-05-05",
+    "vote_average": 5.5,
+    "poster_path": "/fMR3GHztz2ytftXuEQWqSS2md9T.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      10770
+    ],
+    "cached_at": "2026-11-03T07:45:40.253683"
+  },
+  "28635": {
+    "id": 28635,
+    "title": "Wishmaster 3 - La pietra del diavolo",
+    "release_date": "2001-10-23",
+    "vote_average": 4.3,
+    "poster_path": "/2yRV92DRkaMSTvKxoPEly1rP9Qe.jpg",
+    "genre_ids": [
+      53,
+      27,
+      14
+    ],
+    "cached_at": "2026-11-03T07:45:40.255232"
+  },
+  "74505": {
+    "id": 74505,
+    "title": "I Segreti Oscuri di Molly",
+    "release_date": "2011-09-14",
+    "vote_average": 5.1,
+    "poster_path": "/1o2Ruw1LpWhkTqdzqOuwBk2liIq.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-11-03T07:45:40.257149"
+  },
+  "1257147": {
+    "id": 1257147,
+    "title": "La mia migliore amica",
+    "release_date": "2026-09-03",
+    "vote_average": 8.404,
+    "poster_path": "/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-03T07:45:40.260426"
+  },
+  "59963": {
+    "id": 59963,
+    "title": "Dark Tide",
+    "release_date": "2012-03-28",
+    "vote_average": 4.7,
+    "poster_path": "/gx56ZanaWd4pG930Z44eDLvnQ8N.jpg",
+    "genre_ids": [
+      53,
+      12,
+      18
+    ],
+    "cached_at": "2026-11-03T07:45:40.261377"
+  },
+  "38157": {
+    "id": 38157,
+    "title": "Wishmaster 4 - La profezia maledetta",
+    "release_date": "2002-06-10",
+    "vote_average": 4.6,
+    "poster_path": "/rrNjrrhAV1DoewPdf3VSIWjV23q.jpg",
+    "genre_ids": [
+      27,
+      14
+    ],
+    "cached_at": "2026-11-03T07:45:40.585628"
   }
 }
