@@ -179175,5 +179175,214 @@
       14
     ],
     "cached_at": "2026-11-03T07:45:40.585628"
+  },
+  "72231": {
+    "id": 72231,
+    "title": "Swarm - Minaccia dalla giungla",
+    "release_date": "2001-12-31",
+    "vote_average": 4.1,
+    "poster_path": "/llgaddjL5G0CKSIU0udKWhmacdW.jpg",
+    "genre_ids": [
+      27,
+      28,
+      53,
+      878
+    ],
+    "cached_at": "2026-11-04T07:23:57.883407"
+  },
+  "112755": {
+    "id": 112755,
+    "title": "Evelyn - Venduta",
+    "release_date": "2012-10-07",
+    "vote_average": 6.3,
+    "poster_path": "/1xGaXiw6FIEj4LUaPuJdh4xIxti.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2026-11-04T07:23:57.883432"
+  },
+  "1404304": {
+    "id": 1404304,
+    "title": "L'oro rubato",
+    "release_date": "2026-07-10",
+    "vote_average": 6.9,
+    "poster_path": "/lUdsMjr3PzIWMAuFD9SPNJTivxp.jpg",
+    "genre_ids": [
+      28,
+      18,
+      37
+    ],
+    "cached_at": "2026-11-04T07:23:57.890175"
+  },
+  "931": {
+    "id": 931,
+    "title": "A Venezia... un dicembre rosso shocking",
+    "release_date": "1973-10-11",
+    "vote_average": 6.9,
+    "poster_path": "/5P9Om0yLc8sfeTEMs1EDjFl9cCr.jpg",
+    "genre_ids": [
+      53,
+      18,
+      27
+    ],
+    "cached_at": "2026-11-04T07:23:57.909613"
+  },
+  "44747": {
+    "id": 44747,
+    "title": "Occhio alla palla",
+    "release_date": "1953-08-10",
+    "vote_average": 6.4,
+    "poster_path": "/uJ2IDrOsSbjukYlM7JicUbLul72.jpg",
+    "genre_ids": [
+      35,
+      10402
+    ],
+    "cached_at": "2026-11-04T07:23:57.913350"
+  },
+  "426030": {
+    "id": 426030,
+    "title": "Ricomincio da noi",
+    "release_date": "2017-12-26",
+    "vote_average": 7.0,
+    "poster_path": "/7KBQrYYS3v4ZXcOhMArsT9cl0WU.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751,
+      10402,
+      10749
+    ],
+    "cached_at": "2026-11-04T07:23:57.914045"
+  },
+  "41028": {
+    "id": 41028,
+    "title": "Sherlocko... investigatore sciocco",
+    "release_date": "1962-11-20",
+    "vote_average": 6.2,
+    "poster_path": "/rdH2qnKrcjD8XjeyOiPDmEDozB9.jpg",
+    "genre_ids": [
+      35,
+      9648
+    ],
+    "cached_at": "2026-11-04T07:23:57.933171"
+  },
+  "43259": {
+    "id": 43259,
+    "title": "Hollywood o morte!",
+    "release_date": "1956-12-06",
+    "vote_average": 6.2,
+    "poster_path": "/iVMePMGzCpq3qyd6nqFSLH9OvPx.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-04T07:23:57.933190"
+  },
+  "13107": {
+    "id": 13107,
+    "title": "Henry Poole - Lassù qualcuno ti ama",
+    "release_date": "2008-08-15",
+    "vote_average": 5.9,
+    "poster_path": "/jUDrRxSuA7ZSHsIVd1MnFRtwLOf.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-11-04T07:23:57.940816"
+  },
+  "320413": {
+    "id": 320413,
+    "title": "The Greasy Strangler",
+    "release_date": "2016-06-03",
+    "vote_average": 5.517,
+    "poster_path": "/lsIJ8iTA2DK12SNTKf0vLKh1BGm.jpg",
+    "genre_ids": [
+      35,
+      27,
+      53
+    ],
+    "cached_at": "2026-11-04T07:23:57.949355"
+  },
+  "1313056": {
+    "id": 1313056,
+    "title": "Sicilian Holiday",
+    "release_date": "2023-09-28",
+    "vote_average": 4.6,
+    "poster_path": "/sl4UJWOTjrjeRLcSA05FM0i8L6q.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-11-04T07:23:58.504893"
+  },
+  "42581": {
+    "id": 42581,
+    "title": "Il balio asciutto",
+    "release_date": "1958-07-23",
+    "vote_average": 6.9,
+    "poster_path": "/pOw7dWUzZ2WPGp8IuU52hZrDDKF.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-04T07:23:58.968801"
+  },
+  "5755": {
+    "id": 5755,
+    "title": "Notte di tenebre",
+    "release_date": "1994-05-25",
+    "vote_average": 4.6,
+    "poster_path": "/hEDxG300kF8uSVp7bc0WdXGdGKs.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "cached_at": "2026-11-04T07:23:59.080375"
+  },
+  "50567": {
+    "id": 50567,
+    "title": "La bara del Dottor Sangue",
+    "release_date": "1961-02-20",
+    "vote_average": 5.3,
+    "poster_path": "/rR9TQIQEhU0PJVtkhwGurN78BkL.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "cached_at": "2026-11-04T07:23:59.395561"
+  },
+  "35189": {
+    "id": 35189,
+    "title": "Il mattatore di Hollywood",
+    "release_date": "1961-11-28",
+    "vote_average": 6.2,
+    "poster_path": "/u7GPvkca62QFnN56pTkvsR2fl31.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-04T07:23:59.920918"
+  },
+  "28333": {
+    "id": 28333,
+    "title": "L'idolo delle donne",
+    "release_date": "1961-06-21",
+    "vote_average": 6.3,
+    "poster_path": "/9Qlq25HkfTOGYEoEkGYTWfaN9l1.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-04T07:24:00.009441"
+  },
+  "30712": {
+    "id": 30712,
+    "title": "In fuga col malloppo",
+    "release_date": "1998-12-03",
+    "vote_average": 5.4,
+    "poster_path": "/axyGeaaALaU0AEhkuhBCroJucvq.jpg",
+    "genre_ids": [
+      35,
+      80,
+      53
+    ],
+    "cached_at": "2026-11-04T07:24:00.132184"
   }
 }
