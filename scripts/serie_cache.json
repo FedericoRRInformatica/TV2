@@ -70196,5 +70196,46 @@
       99
     ],
     "cached_at": "2026-11-03T07:44:39.524038"
+  },
+  "69926": {
+    "id": 69926,
+    "name": "Puffin Rock",
+    "original_name": "Puffin Rock",
+    "first_air_date": "2015-01-12",
+    "vote_average": 7.7,
+    "poster_path": "/8ZYTNkpubnG8epqlJLjaWbbO30R.jpg",
+    "genre_ids": [
+      16,
+      10762
+    ],
+    "cached_at": "2026-11-04T07:22:24.263624"
+  },
+  "314271": {
+    "id": 314271,
+    "name": "Bass X Machina",
+    "original_name": "Bass X Machina",
+    "first_air_date": "2026-11-03",
+    "vote_average": 7.0,
+    "poster_path": "/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+    "genre_ids": [
+      16,
+      37,
+      10765
+    ],
+    "cached_at": "2026-11-04T07:22:24.263638"
+  },
+  "256694": {
+    "id": 256694,
+    "name": "Adventure Time: Missioni Leggendarie",
+    "original_name": "Adventure Time: Side Quests",
+    "first_air_date": "2026-06-29",
+    "vote_average": 9.0,
+    "poster_path": "/9CzcOB5J2ld2mIRMzHIwYGYx1Cn.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "cached_at": "2026-11-04T07:22:24.282244"
   }
 }
