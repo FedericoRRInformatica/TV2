@@ -179384,5 +179384,129 @@
       53
     ],
     "cached_at": "2026-11-04T07:24:00.132184"
+  },
+  "9529": {
+    "id": 9529,
+    "title": "Candyman - Terrore dietro lo specchio",
+    "release_date": "1992-10-16",
+    "vote_average": 6.674,
+    "poster_path": "/bwToEOrEfGXr70Zym1lqLUGZntX.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "cached_at": "2026-11-05T07:49:56.708305"
+  },
+  "5551": {
+    "id": 5551,
+    "title": "Space Cowboys",
+    "release_date": "2000-08-04",
+    "vote_average": 6.386,
+    "poster_path": "/uGuz1DS8bgEwtNi8SmgYtzHuEmX.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "cached_at": "2026-11-05T07:49:56.710976"
+  },
+  "1375441": {
+    "id": 1375441,
+    "title": "Primetime",
+    "release_date": "2026-09-23",
+    "vote_average": 6.803,
+    "poster_path": "/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2026-11-05T07:49:56.712663"
+  },
+  "71200": {
+    "id": 71200,
+    "title": "Snake Eater - Vendetta a tutti i costi",
+    "release_date": "1989-02-22",
+    "vote_average": 5.4,
+    "poster_path": "/kbDqaTklBZxLTkinsxVO7Qd74v5.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-11-05T07:49:56.715628"
+  },
+  "1437396": {
+    "id": 1437396,
+    "title": "Your Mother Your Mother Your Mother",
+    "release_date": "2026-09-25",
+    "vote_average": 7.421,
+    "poster_path": "/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53,
+      28
+    ],
+    "cached_at": "2026-11-05T07:49:56.721123"
+  },
+  "293270": {
+    "id": 293270,
+    "title": "Sistemo l'America e torno",
+    "release_date": "1974-09-16",
+    "vote_average": 5.4,
+    "poster_path": "/9BsjfMgs8DnJAaqIykpkOlOA8Ax.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-11-05T07:49:56.731410"
+  },
+  "9842": {
+    "id": 9842,
+    "title": "Scuola per canaglie",
+    "release_date": "2006-09-29",
+    "vote_average": 5.479,
+    "poster_path": "/eYxqwDV2v358jhW4Y4Pp2ZChL6M.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-11-05T07:49:56.734627"
+  },
+  "1294189": {
+    "id": 1294189,
+    "title": "The Mongoose",
+    "release_date": "2026-10-29",
+    "vote_average": 6.852,
+    "poster_path": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-11-05T07:49:56.765090"
+  },
+  "31214": {
+    "id": 31214,
+    "title": "Così come sei",
+    "release_date": "1978-09-14",
+    "vote_average": 5.8,
+    "poster_path": "/3bL7FSzFjYwrwlnEUWY0x97nPLo.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-11-05T07:49:56.831301"
+  },
+  "1570488": {
+    "id": 1570488,
+    "title": "Un cucciolo per Natale",
+    "release_date": "2026-11-04",
+    "vote_average": 8.3,
+    "poster_path": "/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-11-05T07:49:57.232924"
   }
 }
