@@ -179508,5 +179508,118 @@
       18
     ],
     "cached_at": "2026-11-05T07:49:57.232924"
+  },
+  "983282": {
+    "id": 983282,
+    "title": "The Artifice Girl",
+    "release_date": "2023-04-27",
+    "vote_average": 6.717,
+    "poster_path": "/A3qrVjsBd4IZ3QWHMs2x1dwRxuX.jpg",
+    "genre_ids": [
+      878,
+      53,
+      9648
+    ],
+    "cached_at": "2026-11-06T07:50:05.199645"
+  },
+  "1654940": {
+    "id": 1654940,
+    "title": "One Year to Live, Buy a Man",
+    "release_date": "2026-11-05",
+    "vote_average": 6.8,
+    "poster_path": "/lkEQXQ1YpMCzCrLOBxHLGdCHLVb.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-11-06T07:50:05.204671"
+  },
+  "4593": {
+    "id": 4593,
+    "title": "Il fascino discreto della borghesia",
+    "release_date": "1972-09-15",
+    "vote_average": 7.448,
+    "poster_path": "/JI0smKDYlILMLlF8EKEtAE4uxn.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "cached_at": "2026-11-06T07:50:05.230713"
+  },
+  "659940": {
+    "id": 659940,
+    "title": "L'effetto farfalla",
+    "release_date": "2021-05-27",
+    "vote_average": 5.7,
+    "poster_path": "/fZHqrMBsHZBOIYZdV1gbcp60rKo.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "cached_at": "2026-11-06T07:50:05.233215"
+  },
+  "675871": {
+    "id": 675871,
+    "title": "Super Troopers 3",
+    "release_date": "2026-08-06",
+    "vote_average": 6.2,
+    "poster_path": "/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+    "genre_ids": [
+      35,
+      80,
+      9648
+    ],
+    "cached_at": "2026-11-06T07:50:05.236107"
+  },
+  "226486": {
+    "id": 226486,
+    "title": "Tammy",
+    "release_date": "2014-07-02",
+    "vote_average": 5.3,
+    "poster_path": "/efsVMziwE9BNTDX5fNmYVA5oAzJ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-06T07:50:05.236885"
+  },
+  "10589": {
+    "id": 10589,
+    "title": "After the Sunset",
+    "release_date": "2004-11-12",
+    "vote_average": 6.186,
+    "poster_path": "/AnXAZb5Zisdhybs5HyKcJv09eIP.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80,
+      18
+    ],
+    "cached_at": "2026-11-06T07:50:05.248193"
+  },
+  "36298": {
+    "id": 36298,
+    "title": "Io, loro e Lara",
+    "release_date": "2010-01-05",
+    "vote_average": 5.6,
+    "poster_path": "/bu5KsogttEN2K5UlDeBiseD478W.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-11-06T07:50:05.250883"
+  },
+  "18352": {
+    "id": 18352,
+    "title": "L'uomo che bruciava i cadaveri",
+    "release_date": "1969-03-14",
+    "vote_average": 7.764,
+    "poster_path": "/jgPaPF2kqnRQnrAzfI5Iw3lh20E.jpg",
+    "genre_ids": [
+      27,
+      18,
+      80,
+      35
+    ],
+    "cached_at": "2026-11-06T07:50:05.857537"
   }
 }
