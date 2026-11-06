@@ -70288,5 +70288,55 @@
       10765
     ],
     "cached_at": "2026-11-05T07:48:50.076711"
+  },
+  "78064": {
+    "id": 78064,
+    "name": "Il Cacciatore",
+    "original_name": "Il Cacciatore",
+    "first_air_date": "2018-03-14",
+    "vote_average": 7.297,
+    "poster_path": "/p4EILVYxSoB6ICfoTNEDgsaf4DB.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-11-06T07:48:43.717473"
+  },
+  "292742": {
+    "id": 292742,
+    "name": "S.W.A.T. Exiles",
+    "original_name": "S.W.A.T. Exiles",
+    "first_air_date": "2026-09-25",
+    "vote_average": 6.1,
+    "poster_path": "/pPiEujhVa2MBSowmvnNWqEzxH0x.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-11-06T07:48:43.730244"
+  },
+  "300146": {
+    "id": 300146,
+    "name": "Where the Mask Ends",
+    "original_name": "嫁金钗",
+    "first_air_date": "2026-10-16",
+    "vote_average": 6.7,
+    "poster_path": "/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-06T07:48:43.731927"
+  },
+  "227520": {
+    "id": 227520,
+    "name": "Kevin Costner's The West",
+    "original_name": "Kevin Costner's The West",
+    "first_air_date": "2025-05-26",
+    "vote_average": 7.3,
+    "poster_path": "/bOQgliYRKC8tnQJUjqIY9uZRZoV.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-11-06T07:48:43.734050"
   }
 }
