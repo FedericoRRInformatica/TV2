@@ -70338,5 +70338,53 @@
       99
     ],
     "cached_at": "2026-11-06T07:48:43.734050"
+  },
+  "334470": {
+    "id": 334470,
+    "name": "Può solo andar peggio",
+    "original_name": "It Gets Worse",
+    "first_air_date": "2026-10-22",
+    "vote_average": 4.8,
+    "poster_path": "/vdvHHnAzYGt4OEhTmUdErjZIGBG.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-07T06:56:32.952638"
+  },
+  "303044": {
+    "id": 303044,
+    "name": "Campus Drivers",
+    "original_name": "Campus Drivers",
+    "first_air_date": "2026-11-06",
+    "vote_average": 7.8,
+    "poster_path": "/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-07T06:56:32.952652"
+  },
+  "339697": {
+    "id": 339697,
+    "name": "Melania Rea",
+    "original_name": "Melania Rea",
+    "first_air_date": "2026-11-06",
+    "vote_average": 0.0,
+    "poster_path": "/yK9Q4ORFEHEaqFRthTlC9jdU0Ac.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-07T06:56:32.953689"
+  },
+  "306179": {
+    "id": 306179,
+    "name": "Awkwafina: Una chef improbabile",
+    "original_name": "Awkwafina: The Unlikely Cook",
+    "first_air_date": "2026-11-06",
+    "vote_average": 4.0,
+    "poster_path": "/6Z0VtU59tMTfJZuBdnRkhdcOz87.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-11-07T06:56:32.967647"
   }
 }
