@@ -179621,5 +179621,101 @@
       35
     ],
     "cached_at": "2026-11-06T07:50:05.857537"
+  },
+  "1127384": {
+    "id": 1127384,
+    "title": "Deep Water - Incubo degli abissi",
+    "release_date": "2026-04-30",
+    "vote_average": 7.385,
+    "poster_path": "/ejYdwL5CAtekoZ3zV4hYRAQUmgN.jpg",
+    "genre_ids": [
+      27,
+      53,
+      12
+    ],
+    "cached_at": "2026-11-07T06:57:38.946276"
+  },
+  "1432207": {
+    "id": 1432207,
+    "title": "Blue",
+    "release_date": "2026-06-23",
+    "vote_average": 6.75,
+    "poster_path": "/7twlevJFJzq2icPbIgKCeIrS9TB.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-07T06:57:38.953089"
+  },
+  "18886": {
+    "id": 18886,
+    "title": "L'ultimo attacco",
+    "release_date": "1991-01-18",
+    "vote_average": 5.8,
+    "poster_path": "/2QOzebO08I5MGCdONZEZsq8rUjD.jpg",
+    "genre_ids": [
+      28,
+      10752
+    ],
+    "cached_at": "2026-11-07T06:57:38.959550"
+  },
+  "1493859": {
+    "id": 1493859,
+    "title": "Pizza Movie",
+    "release_date": "2026-03-13",
+    "vote_average": 6.414,
+    "poster_path": "/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
+    "genre_ids": [
+      35,
+      12,
+      14
+    ],
+    "cached_at": "2026-11-07T06:57:38.964108"
+  },
+  "1483525": {
+    "id": 1483525,
+    "title": "Possible Love",
+    "release_date": "2026-09-23",
+    "vote_average": 7.3,
+    "poster_path": "/uPOpXBUMtMslIBAxldQwJwBQkad.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-07T06:57:38.967224"
+  },
+  "241251": {
+    "id": 241251,
+    "title": "Il ragazzo della porta accanto",
+    "release_date": "2015-01-23",
+    "vote_average": 5.0,
+    "poster_path": "/s6QoRdB7t5ip1zFMbvYY1Qz0Yh7.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-11-07T06:57:38.968824"
+  },
+  "1422562": {
+    "id": 1422562,
+    "title": "The Moment",
+    "release_date": "2026-01-30",
+    "vote_average": 6.273,
+    "poster_path": "/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
+    "genre_ids": [
+      10402,
+      35,
+      53
+    ],
+    "cached_at": "2026-11-07T06:57:38.975347"
+  },
+  "9009": {
+    "id": 9009,
+    "title": "Dark Water",
+    "release_date": "2005-07-08",
+    "vote_average": 5.664,
+    "poster_path": "/ds7xUbQ4o5TVq9d9CEXge9UwF2E.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "cached_at": "2026-11-07T06:57:39.499115"
   }
 }
