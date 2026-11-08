@@ -179717,5 +179717,69 @@
       9648
     ],
     "cached_at": "2026-11-07T06:57:39.499115"
+  },
+  "10705": {
+    "id": 10705,
+    "title": "Enrico V",
+    "release_date": "1989-10-05",
+    "vote_average": 7.073,
+    "poster_path": "/96md8lbuL0QqrKFWBuC5tnKQmR0.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      36
+    ],
+    "cached_at": "2026-11-08T07:04:16.970087"
+  },
+  "72207": {
+    "id": 72207,
+    "title": "5 anni di fidanzamento",
+    "release_date": "2012-04-27",
+    "vote_average": 5.85,
+    "poster_path": "/np7gKJQlSKRu8zon8HdXtInKBUI.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-11-08T07:04:16.971080"
+  },
+  "14643": {
+    "id": 14643,
+    "title": "Boot Camp - Il campo del terrore",
+    "release_date": "2008-02-07",
+    "vote_average": 5.9,
+    "poster_path": "/rSAIVxNJGRGcfvnzUzsL2VZJL7g.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-11-08T07:04:16.971965"
+  },
+  "108465": {
+    "id": 108465,
+    "title": "Squillo",
+    "release_date": "1996-10-25",
+    "vote_average": 3.7,
+    "poster_path": "/ptvQb3zkCXjKu138P02UOjbjXSm.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-11-08T07:04:16.977436"
+  },
+  "1465063": {
+    "id": 1465063,
+    "title": "L'isola dei ricordi",
+    "release_date": "2026-09-10",
+    "vote_average": 8.0,
+    "poster_path": "/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
+    "genre_ids": [
+      16,
+      12,
+      14,
+      35,
+      10751
+    ],
+    "cached_at": "2026-11-08T07:04:16.978288"
   }
 }
