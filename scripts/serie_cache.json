@@ -70386,5 +70386,31 @@
       99
     ],
     "cached_at": "2026-11-07T06:56:32.967647"
+  },
+  "72615": {
+    "id": 72615,
+    "name": "L'altra Grace",
+    "original_name": "Alias Grace",
+    "first_air_date": "2017-09-25",
+    "vote_average": 7.215,
+    "poster_path": "/bZfy00f4brEcl7Z352EzuSwrRHD.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-11-08T07:03:26.346044"
+  },
+  "310290": {
+    "id": 310290,
+    "name": "Mis muertos tristes",
+    "original_name": "Mis muertos tristes",
+    "first_air_date": "2026-09-24",
+    "vote_average": 6.5,
+    "poster_path": "/7Yv3av3ULmndtGYC4n0zWNVakY5.jpg",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "cached_at": "2026-11-08T07:03:26.366774"
   }
 }
