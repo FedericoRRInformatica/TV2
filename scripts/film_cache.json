@@ -179781,5 +179781,69 @@
       10751
     ],
     "cached_at": "2026-11-08T07:04:16.978288"
+  },
+  "27523": {
+    "id": 27523,
+    "title": "Salvatore Giuliano",
+    "release_date": "1962-03-01",
+    "vote_average": 7.508,
+    "poster_path": "/4vUw9HxqzpPm08Rpm9YlAK9RdkY.jpg",
+    "genre_ids": [
+      80,
+      18,
+      36
+    ],
+    "cached_at": "2026-11-09T07:48:58.195066"
+  },
+  "1171634": {
+    "id": 1171634,
+    "title": "Sotto le foglie",
+    "release_date": "2024-10-02",
+    "vote_average": 6.606,
+    "poster_path": "/ylFpYGIoplBBtJn6CoaQAyoRyQB.jpg",
+    "genre_ids": [
+      18,
+      53,
+      35
+    ],
+    "cached_at": "2026-11-09T07:48:58.204870"
+  },
+  "1477712": {
+    "id": 1477712,
+    "title": "Ice Cream Man",
+    "release_date": "2026-08-03",
+    "vote_average": 5.364,
+    "poster_path": "/bnZUCOLv2Br3VOxnDMo5qPOncJF.jpg",
+    "genre_ids": [
+      27,
+      35,
+      53
+    ],
+    "cached_at": "2026-11-09T07:48:58.206612"
+  },
+  "153738": {
+    "id": 153738,
+    "title": "Frankenstein's Army",
+    "release_date": "2013-01-24",
+    "vote_average": 6.1,
+    "poster_path": "/mYRqIfpn0p1BOjKEUqEml1sk9WD.jpg",
+    "genre_ids": [
+      28,
+      27
+    ],
+    "cached_at": "2026-11-09T07:48:58.210329"
+  },
+  "415010": {
+    "id": 415010,
+    "title": "I Famelici",
+    "release_date": "2017-09-23",
+    "vote_average": 5.9,
+    "poster_path": "/ir9IkfprrdC8CwHcHprB8x8vPMX.jpg",
+    "genre_ids": [
+      27,
+      18,
+      878
+    ],
+    "cached_at": "2026-11-09T07:48:58.244054"
   }
 }
