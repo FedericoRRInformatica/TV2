@@ -70412,5 +70412,18 @@
       10765
     ],
     "cached_at": "2026-11-08T07:03:26.366774"
+  },
+  "62725": {
+    "id": 62725,
+    "name": "Bella e i Bulldogs",
+    "original_name": "Bella and the Bulldogs",
+    "first_air_date": "2015-01-17",
+    "vote_average": 7.674,
+    "poster_path": "/5jTmX79QjbuBuVnH9xVoA8jFAMT.jpg",
+    "genre_ids": [
+      10751,
+      35
+    ],
+    "cached_at": "2026-11-09T07:48:09.140445"
   }
 }
