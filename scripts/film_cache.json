@@ -179845,5 +179845,67 @@
       878
     ],
     "cached_at": "2026-11-09T07:48:58.244054"
+  },
+  "285024": {
+    "id": 285024,
+    "title": "Heaven Knows What",
+    "release_date": "2015-05-29",
+    "vote_average": 6.4,
+    "poster_path": "/4oyWMOWJ6trsRuyzn5cHPv50zVH.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-10T08:09:25.520457"
+  },
+  "1616419": {
+    "id": 1616419,
+    "title": "Un buon avvocato",
+    "release_date": "2026-09-11",
+    "vote_average": 7.2,
+    "poster_path": "/k84V1Y2PiohjN3ic8XzhukydEjm.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2026-11-10T08:09:25.530490"
+  },
+  "300": {
+    "id": 300,
+    "title": "L'arte del sogno",
+    "release_date": "2006-06-25",
+    "vote_average": 7.0,
+    "poster_path": "/ouRulNgCGIxM8jlJMYr886Jsn4j.jpg",
+    "genre_ids": [
+      35,
+      18,
+      14
+    ],
+    "cached_at": "2026-11-10T08:09:25.544232"
+  },
+  "499546": {
+    "id": 499546,
+    "title": "Wij",
+    "release_date": "2018-07-12",
+    "vote_average": 5.4,
+    "poster_path": "/7nsSIsB0Rx2f2SM2YR91e5xPRx0.jpg",
+    "genre_ids": [
+      80,
+      18,
+      36
+    ],
+    "cached_at": "2026-11-10T08:09:25.552035"
+  },
+  "377274": {
+    "id": 377274,
+    "title": "O Ornitólogo",
+    "release_date": "2016-09-16",
+    "vote_average": 6.0,
+    "poster_path": "/pWJOb9kQimujOt7wNr5mbQMpQ1j.jpg",
+    "genre_ids": [
+      12,
+      18,
+      9648
+    ],
+    "cached_at": "2026-11-10T08:09:25.553238"
   }
 }
