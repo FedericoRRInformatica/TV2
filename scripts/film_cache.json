@@ -179907,5 +179907,133 @@
       9648
     ],
     "cached_at": "2026-11-10T08:09:25.553238"
+  },
+  "1339210": {
+    "id": 1339210,
+    "title": "Affection",
+    "release_date": "2026-05-08",
+    "vote_average": 5.459,
+    "poster_path": "/3b3wC8JFjURlMsFj9gqbv0SyTJs.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "cached_at": "2026-11-11T07:39:04.972565"
+  },
+  "40205": {
+    "id": 40205,
+    "title": "I 16 desideri",
+    "release_date": "2010-10-02",
+    "vote_average": 6.318,
+    "poster_path": "/aY1pNGm082gy0Iefr0DnzRNhmCI.jpg",
+    "genre_ids": [
+      14,
+      18,
+      10751
+    ],
+    "cached_at": "2026-11-11T07:39:04.976392"
+  },
+  "275601": {
+    "id": 275601,
+    "title": "Dove eravamo rimasti",
+    "release_date": "2015-07-10",
+    "vote_average": 5.785,
+    "poster_path": "/vPX5aICyD6oUsYjCrKRFb8q7SGJ.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10402
+    ],
+    "cached_at": "2026-11-11T07:39:04.978512"
+  },
+  "35650": {
+    "id": 35650,
+    "title": "Maelström",
+    "release_date": "2000-09-15",
+    "vote_average": 6.241,
+    "poster_path": "/icV1B4ouHmPttcN20og84v8gv0e.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-11T07:39:05.000376"
+  },
+  "12903": {
+    "id": 12903,
+    "title": "Scooby-Doo! e il re dei Goblin",
+    "release_date": "2008-09-23",
+    "vote_average": 7.593,
+    "poster_path": "/xkTPDTqYXMWhohojAdVTyARgUSr.jpg",
+    "genre_ids": [
+      12,
+      16,
+      35,
+      10751,
+      14,
+      10402
+    ],
+    "cached_at": "2026-11-11T07:39:05.020496"
+  },
+  "25239": {
+    "id": 25239,
+    "title": "Non violentate Jennifer",
+    "release_date": "1978-11-02",
+    "vote_average": 6.001,
+    "poster_path": "/rlJ3COWVqZmmjyNcwdLKlslRIMS.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "cached_at": "2026-11-11T07:39:05.021704"
+  },
+  "16390": {
+    "id": 16390,
+    "title": "Scooby-Doo! e la spada del Samurai",
+    "release_date": "2009-04-07",
+    "vote_average": 7.6,
+    "poster_path": "/3W80nU4gLejy9jFcFc8JLsvNWXs.jpg",
+    "genre_ids": [
+      10751,
+      9648,
+      16,
+      35,
+      28,
+      14
+    ],
+    "cached_at": "2026-11-11T07:39:05.024727"
+  },
+  "1815524": {
+    "id": 1815524,
+    "title": "Azzurrina – Oltre il tempo",
+    "release_date": "2026-10-18",
+    "vote_average": 3.0,
+    "poster_path": "/2t4vd35oC0bFCYbvUPPwQyeALez.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "cached_at": "2026-11-11T07:39:05.028205"
+  },
+  "58251": {
+    "id": 58251,
+    "title": "Daddy Longlegs",
+    "release_date": "2010-04-28",
+    "vote_average": 6.6,
+    "poster_path": "/lnHRAJ5ucoIXDRCVxfdABpK60OS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-11T07:39:05.061018"
+  },
+  "56381": {
+    "id": 56381,
+    "title": "Il grande cocomero",
+    "release_date": "1993-02-10",
+    "vote_average": 6.682,
+    "poster_path": "/7oWwb1sFEhJleL2Qy0FhyVwVNne.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-11-11T07:39:05.087215"
   }
 }
