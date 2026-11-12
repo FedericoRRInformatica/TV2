@@ -1,8 +1,24 @@
 #EXTM3U
-#PLAYLIST:Serie TV VixSrc (125691 Episodi)
+#PLAYLIST:Serie TV VixSrc (125799 Episodi)
 
 
 # Popolari
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Popolari",VisionQuest S01 E01
+https://vixsrc.to/tv/213375/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Popolari",VisionQuest S01 E02
+https://vixsrc.to/tv/213375/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Popolari",VisionQuest S01 E03
+https://vixsrc.to/tv/213375/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Popolari",VisionQuest S01 E04
+https://vixsrc.to/tv/213375/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Popolari",VisionQuest S01 E05
+https://vixsrc.to/tv/213375/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Popolari",VisionQuest S01 E06
+https://vixsrc.to/tv/213375/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Popolari",VisionQuest S01 E07
+https://vixsrc.to/tv/213375/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Popolari",VisionQuest S01 E08
+https://vixsrc.to/tv/213375/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg" group-title="SerieTV - Popolari",MobLand S01 E01
 https://vixsrc.to/tv/247718/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg" group-title="SerieTV - Popolari",MobLand S01 E02
@@ -83,46 +99,6 @@ https://vixsrc.to/tv/100088/2/5?lang=it/series/
 https://vixsrc.to/tv/100088/2/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/6WlffOd3bszyndGgsKGcUL6k28n.jpg" group-title="SerieTV - Popolari",The Last of Us S02 E07
 https://vixsrc.to/tv/100088/2/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S01 E01
-https://vixsrc.to/tv/82104/1/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S01 E02
-https://vixsrc.to/tv/82104/1/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S01 E03
-https://vixsrc.to/tv/82104/1/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S01 E04
-https://vixsrc.to/tv/82104/1/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S01 E05
-https://vixsrc.to/tv/82104/1/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S01 E06
-https://vixsrc.to/tv/82104/1/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S01 E07
-https://vixsrc.to/tv/82104/1/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S01 E08
-https://vixsrc.to/tv/82104/1/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S01 E09
-https://vixsrc.to/tv/82104/1/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S01 E10
-https://vixsrc.to/tv/82104/1/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S02 E01
-https://vixsrc.to/tv/82104/2/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S02 E02
-https://vixsrc.to/tv/82104/2/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S02 E03
-https://vixsrc.to/tv/82104/2/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S02 E04
-https://vixsrc.to/tv/82104/2/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S02 E05
-https://vixsrc.to/tv/82104/2/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S02 E06
-https://vixsrc.to/tv/82104/2/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S02 E07
-https://vixsrc.to/tv/82104/2/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S02 E08
-https://vixsrc.to/tv/82104/2/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S02 E09
-https://vixsrc.to/tv/82104/2/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg" group-title="SerieTV - Popolari",The Order S02 E10
-https://vixsrc.to/tv/82104/2/10?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg" group-title="SerieTV - Popolari",You S01 E01
 https://vixsrc.to/tv/78191/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg" group-title="SerieTV - Popolari",You S01 E02
@@ -1515,296 +1491,110 @@ https://vixsrc.to/tv/44217/6/18?lang=it/series/
 https://vixsrc.to/tv/44217/6/19?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg" group-title="SerieTV - Popolari",Vikings S06 E20
 https://vixsrc.to/tv/44217/6/20?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E01
-https://vixsrc.to/tv/1413/1/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E02
-https://vixsrc.to/tv/1413/1/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E03
-https://vixsrc.to/tv/1413/1/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E04
-https://vixsrc.to/tv/1413/1/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E05
-https://vixsrc.to/tv/1413/1/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E06
-https://vixsrc.to/tv/1413/1/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E07
-https://vixsrc.to/tv/1413/1/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E08
-https://vixsrc.to/tv/1413/1/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E09
-https://vixsrc.to/tv/1413/1/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E10
-https://vixsrc.to/tv/1413/1/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E11
-https://vixsrc.to/tv/1413/1/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S01 E12
-https://vixsrc.to/tv/1413/1/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S02 E01
-https://vixsrc.to/tv/1413/2/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S02 E02
-https://vixsrc.to/tv/1413/2/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S02 E03
-https://vixsrc.to/tv/1413/2/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S02 E04
-https://vixsrc.to/tv/1413/2/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S02 E05
-https://vixsrc.to/tv/1413/2/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S02 E06
-https://vixsrc.to/tv/1413/2/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S02 E07
-https://vixsrc.to/tv/1413/2/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S02 E08
-https://vixsrc.to/tv/1413/2/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S02 E09
-https://vixsrc.to/tv/1413/2/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S02 E10
-https://vixsrc.to/tv/1413/2/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S02 E11
-https://vixsrc.to/tv/1413/2/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S02 E12
-https://vixsrc.to/tv/1413/2/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S02 E13
-https://vixsrc.to/tv/1413/2/13?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S03 E01
-https://vixsrc.to/tv/1413/3/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S03 E02
-https://vixsrc.to/tv/1413/3/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S03 E03
-https://vixsrc.to/tv/1413/3/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S03 E04
-https://vixsrc.to/tv/1413/3/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S03 E05
-https://vixsrc.to/tv/1413/3/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S03 E06
-https://vixsrc.to/tv/1413/3/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S03 E07
-https://vixsrc.to/tv/1413/3/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S03 E08
-https://vixsrc.to/tv/1413/3/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S03 E09
-https://vixsrc.to/tv/1413/3/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S03 E10
-https://vixsrc.to/tv/1413/3/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S03 E11
-https://vixsrc.to/tv/1413/3/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S03 E12
-https://vixsrc.to/tv/1413/3/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S03 E13
-https://vixsrc.to/tv/1413/3/13?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S04 E01
-https://vixsrc.to/tv/1413/4/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S04 E02
-https://vixsrc.to/tv/1413/4/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S04 E03
-https://vixsrc.to/tv/1413/4/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S04 E04
-https://vixsrc.to/tv/1413/4/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S04 E05
-https://vixsrc.to/tv/1413/4/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S04 E06
-https://vixsrc.to/tv/1413/4/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S04 E07
-https://vixsrc.to/tv/1413/4/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S04 E08
-https://vixsrc.to/tv/1413/4/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S04 E09
-https://vixsrc.to/tv/1413/4/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S04 E10
-https://vixsrc.to/tv/1413/4/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S04 E11
-https://vixsrc.to/tv/1413/4/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S04 E12
-https://vixsrc.to/tv/1413/4/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S04 E13
-https://vixsrc.to/tv/1413/4/13?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S05 E01
-https://vixsrc.to/tv/1413/5/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S05 E02
-https://vixsrc.to/tv/1413/5/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S05 E03
-https://vixsrc.to/tv/1413/5/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S05 E04
-https://vixsrc.to/tv/1413/5/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S05 E05
-https://vixsrc.to/tv/1413/5/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S05 E06
-https://vixsrc.to/tv/1413/5/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S05 E07
-https://vixsrc.to/tv/1413/5/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S05 E08
-https://vixsrc.to/tv/1413/5/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S05 E09
-https://vixsrc.to/tv/1413/5/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S05 E10
-https://vixsrc.to/tv/1413/5/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S05 E11
-https://vixsrc.to/tv/1413/5/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S05 E12
-https://vixsrc.to/tv/1413/5/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S06 E01
-https://vixsrc.to/tv/1413/6/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S06 E02
-https://vixsrc.to/tv/1413/6/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S06 E03
-https://vixsrc.to/tv/1413/6/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S06 E04
-https://vixsrc.to/tv/1413/6/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S06 E05
-https://vixsrc.to/tv/1413/6/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S06 E06
-https://vixsrc.to/tv/1413/6/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S06 E07
-https://vixsrc.to/tv/1413/6/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S06 E08
-https://vixsrc.to/tv/1413/6/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S06 E09
-https://vixsrc.to/tv/1413/6/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S06 E10
-https://vixsrc.to/tv/1413/6/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S07 E01
-https://vixsrc.to/tv/1413/7/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S07 E02
-https://vixsrc.to/tv/1413/7/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S07 E03
-https://vixsrc.to/tv/1413/7/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S07 E04
-https://vixsrc.to/tv/1413/7/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S07 E05
-https://vixsrc.to/tv/1413/7/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S07 E06
-https://vixsrc.to/tv/1413/7/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S07 E07
-https://vixsrc.to/tv/1413/7/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S07 E08
-https://vixsrc.to/tv/1413/7/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S07 E09
-https://vixsrc.to/tv/1413/7/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S07 E10
-https://vixsrc.to/tv/1413/7/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S07 E11
-https://vixsrc.to/tv/1413/7/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S08 E01
-https://vixsrc.to/tv/1413/8/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S08 E02
-https://vixsrc.to/tv/1413/8/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S08 E03
-https://vixsrc.to/tv/1413/8/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S08 E04
-https://vixsrc.to/tv/1413/8/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S08 E05
-https://vixsrc.to/tv/1413/8/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S08 E06
-https://vixsrc.to/tv/1413/8/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S08 E07
-https://vixsrc.to/tv/1413/8/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S08 E08
-https://vixsrc.to/tv/1413/8/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S08 E09
-https://vixsrc.to/tv/1413/8/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S08 E10
-https://vixsrc.to/tv/1413/8/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S09 E01
-https://vixsrc.to/tv/1413/9/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S09 E02
-https://vixsrc.to/tv/1413/9/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S09 E03
-https://vixsrc.to/tv/1413/9/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S09 E04
-https://vixsrc.to/tv/1413/9/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S09 E05
-https://vixsrc.to/tv/1413/9/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S09 E06
-https://vixsrc.to/tv/1413/9/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S09 E07
-https://vixsrc.to/tv/1413/9/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S09 E08
-https://vixsrc.to/tv/1413/9/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S09 E09
-https://vixsrc.to/tv/1413/9/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S10 E01
-https://vixsrc.to/tv/1413/10/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S10 E02
-https://vixsrc.to/tv/1413/10/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S10 E03
-https://vixsrc.to/tv/1413/10/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S10 E04
-https://vixsrc.to/tv/1413/10/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S10 E05
-https://vixsrc.to/tv/1413/10/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S10 E06
-https://vixsrc.to/tv/1413/10/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S10 E07
-https://vixsrc.to/tv/1413/10/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S10 E08
-https://vixsrc.to/tv/1413/10/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S10 E09
-https://vixsrc.to/tv/1413/10/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S10 E10
-https://vixsrc.to/tv/1413/10/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S11 E01
-https://vixsrc.to/tv/1413/11/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S11 E02
-https://vixsrc.to/tv/1413/11/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S11 E03
-https://vixsrc.to/tv/1413/11/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S11 E04
-https://vixsrc.to/tv/1413/11/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S11 E05
-https://vixsrc.to/tv/1413/11/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S11 E06
-https://vixsrc.to/tv/1413/11/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S11 E07
-https://vixsrc.to/tv/1413/11/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S11 E08
-https://vixsrc.to/tv/1413/11/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S11 E09
-https://vixsrc.to/tv/1413/11/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S11 E10
-https://vixsrc.to/tv/1413/11/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S12 E01
-https://vixsrc.to/tv/1413/12/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S12 E02
-https://vixsrc.to/tv/1413/12/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S12 E03
-https://vixsrc.to/tv/1413/12/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S12 E04
-https://vixsrc.to/tv/1413/12/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S12 E05
-https://vixsrc.to/tv/1413/12/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S12 E06
-https://vixsrc.to/tv/1413/12/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S12 E07
-https://vixsrc.to/tv/1413/12/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S12 E08
-https://vixsrc.to/tv/1413/12/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S12 E09
-https://vixsrc.to/tv/1413/12/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S13 E01
-https://vixsrc.to/tv/1413/13/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S13 E02
-https://vixsrc.to/tv/1413/13/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S13 E03
-https://vixsrc.to/tv/1413/13/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S13 E04
-https://vixsrc.to/tv/1413/13/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S13 E05
-https://vixsrc.to/tv/1413/13/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S13 E06
-https://vixsrc.to/tv/1413/13/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S13 E07
-https://vixsrc.to/tv/1413/13/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S13 E08
-https://vixsrc.to/tv/1413/13/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S13 E09
-https://vixsrc.to/tv/1413/13/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S13 E10
-https://vixsrc.to/tv/1413/13/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S13 E11
-https://vixsrc.to/tv/1413/13/11?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S13 E12
-https://vixsrc.to/tv/1413/13/12?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" group-title="SerieTV - Popolari",American Horror Story S13 E13
-https://vixsrc.to/tv/1413/13/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S01 E01
+https://vixsrc.to/tv/33880/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S01 E02
+https://vixsrc.to/tv/33880/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S01 E03
+https://vixsrc.to/tv/33880/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S01 E04
+https://vixsrc.to/tv/33880/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S01 E05
+https://vixsrc.to/tv/33880/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S01 E06
+https://vixsrc.to/tv/33880/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S01 E07
+https://vixsrc.to/tv/33880/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S01 E08
+https://vixsrc.to/tv/33880/1/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S01 E09
+https://vixsrc.to/tv/33880/1/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S01 E10
+https://vixsrc.to/tv/33880/1/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S01 E11
+https://vixsrc.to/tv/33880/1/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S01 E12
+https://vixsrc.to/tv/33880/1/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E01
+https://vixsrc.to/tv/33880/2/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E02
+https://vixsrc.to/tv/33880/2/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E03
+https://vixsrc.to/tv/33880/2/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E04
+https://vixsrc.to/tv/33880/2/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E05
+https://vixsrc.to/tv/33880/2/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E06
+https://vixsrc.to/tv/33880/2/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E07
+https://vixsrc.to/tv/33880/2/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E08
+https://vixsrc.to/tv/33880/2/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E09
+https://vixsrc.to/tv/33880/2/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E10
+https://vixsrc.to/tv/33880/2/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E11
+https://vixsrc.to/tv/33880/2/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E12
+https://vixsrc.to/tv/33880/2/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E13
+https://vixsrc.to/tv/33880/2/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S02 E14
+https://vixsrc.to/tv/33880/2/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S03 E01
+https://vixsrc.to/tv/33880/3/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S03 E02
+https://vixsrc.to/tv/33880/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S03 E03
+https://vixsrc.to/tv/33880/3/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S03 E04
+https://vixsrc.to/tv/33880/3/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S03 E05
+https://vixsrc.to/tv/33880/3/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S03 E06
+https://vixsrc.to/tv/33880/3/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S03 E07
+https://vixsrc.to/tv/33880/3/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S03 E08
+https://vixsrc.to/tv/33880/3/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S03 E09
+https://vixsrc.to/tv/33880/3/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S03 E10
+https://vixsrc.to/tv/33880/3/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S03 E11
+https://vixsrc.to/tv/33880/3/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S03 E12
+https://vixsrc.to/tv/33880/3/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S03 E13
+https://vixsrc.to/tv/33880/3/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S04 E01
+https://vixsrc.to/tv/33880/4/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S04 E02
+https://vixsrc.to/tv/33880/4/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S04 E03
+https://vixsrc.to/tv/33880/4/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S04 E04
+https://vixsrc.to/tv/33880/4/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S04 E05
+https://vixsrc.to/tv/33880/4/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S04 E06
+https://vixsrc.to/tv/33880/4/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S04 E07
+https://vixsrc.to/tv/33880/4/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S04 E08
+https://vixsrc.to/tv/33880/4/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S04 E09
+https://vixsrc.to/tv/33880/4/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S04 E10
+https://vixsrc.to/tv/33880/4/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S04 E11
+https://vixsrc.to/tv/33880/4/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S04 E12
+https://vixsrc.to/tv/33880/4/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Popolari",La leggenda di Korra S04 E13
+https://vixsrc.to/tv/33880/4/13?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/6FuKOyJgViZXgMDOq9djFJLWPqX.jpg" group-title="SerieTV - Popolari",Person of Interest S01 E01
 https://vixsrc.to/tv/1411/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/6FuKOyJgViZXgMDOq9djFJLWPqX.jpg" group-title="SerieTV - Popolari",Person of Interest S01 E02
@@ -9957,6 +9747,8 @@ https://vixsrc.to/tv/303745/1/5?lang=it/series/
 https://vixsrc.to/tv/303745/1/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Action & Adventure",Amore sotto copertura S01 E07
 https://vixsrc.to/tv/303745/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Action & Adventure",Amore sotto copertura S01 E08
+https://vixsrc.to/tv/303745/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg" group-title="SerieTV - Action & Adventure",Organize Isler: Money Trap S01 E01
 https://vixsrc.to/tv/320754/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg" group-title="SerieTV - Action & Adventure",Organize Isler: Money Trap S01 E02
@@ -15695,6 +15487,14 @@ https://vixsrc.to/tv/84773/2/6?lang=it/series/
 https://vixsrc.to/tv/84773/2/7?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Action & Adventure",Il Signore degli Anelli: Gli Anelli del Potere S02 E08
 https://vixsrc.to/tv/84773/2/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Action & Adventure",Il Signore degli Anelli: Gli Anelli del Potere S03 E01
+https://vixsrc.to/tv/84773/3/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Action & Adventure",Il Signore degli Anelli: Gli Anelli del Potere S03 E02
+https://vixsrc.to/tv/84773/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Action & Adventure",Il Signore degli Anelli: Gli Anelli del Potere S03 E03
+https://vixsrc.to/tv/84773/3/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Action & Adventure",Il Signore degli Anelli: Gli Anelli del Potere S03 E04
+https://vixsrc.to/tv/84773/3/4?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1smhhojac4N2KFbPYtBx1K7iyjd.jpg" group-title="SerieTV - Action & Adventure",飞狐外传 S01 E01
 https://vixsrc.to/tv/209055/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1smhhojac4N2KFbPYtBx1K7iyjd.jpg" group-title="SerieTV - Action & Adventure",飞狐外传 S01 E02
@@ -37339,6 +37139,110 @@ https://vixsrc.to/tv/43020/4/4?lang=it/series/
 https://vixsrc.to/tv/43020/4/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/bqL4jiKHOv4qXn46RRIgcKIk2EE.jpg" group-title="SerieTV - Action & Adventure",Continuum S04 E06
 https://vixsrc.to/tv/43020/4/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S01 E01
+https://vixsrc.to/tv/33880/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S01 E02
+https://vixsrc.to/tv/33880/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S01 E03
+https://vixsrc.to/tv/33880/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S01 E04
+https://vixsrc.to/tv/33880/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S01 E05
+https://vixsrc.to/tv/33880/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S01 E06
+https://vixsrc.to/tv/33880/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S01 E07
+https://vixsrc.to/tv/33880/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S01 E08
+https://vixsrc.to/tv/33880/1/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S01 E09
+https://vixsrc.to/tv/33880/1/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S01 E10
+https://vixsrc.to/tv/33880/1/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S01 E11
+https://vixsrc.to/tv/33880/1/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S01 E12
+https://vixsrc.to/tv/33880/1/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E01
+https://vixsrc.to/tv/33880/2/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E02
+https://vixsrc.to/tv/33880/2/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E03
+https://vixsrc.to/tv/33880/2/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E04
+https://vixsrc.to/tv/33880/2/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E05
+https://vixsrc.to/tv/33880/2/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E06
+https://vixsrc.to/tv/33880/2/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E07
+https://vixsrc.to/tv/33880/2/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E08
+https://vixsrc.to/tv/33880/2/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E09
+https://vixsrc.to/tv/33880/2/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E10
+https://vixsrc.to/tv/33880/2/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E11
+https://vixsrc.to/tv/33880/2/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E12
+https://vixsrc.to/tv/33880/2/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E13
+https://vixsrc.to/tv/33880/2/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S02 E14
+https://vixsrc.to/tv/33880/2/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S03 E01
+https://vixsrc.to/tv/33880/3/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S03 E02
+https://vixsrc.to/tv/33880/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S03 E03
+https://vixsrc.to/tv/33880/3/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S03 E04
+https://vixsrc.to/tv/33880/3/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S03 E05
+https://vixsrc.to/tv/33880/3/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S03 E06
+https://vixsrc.to/tv/33880/3/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S03 E07
+https://vixsrc.to/tv/33880/3/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S03 E08
+https://vixsrc.to/tv/33880/3/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S03 E09
+https://vixsrc.to/tv/33880/3/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S03 E10
+https://vixsrc.to/tv/33880/3/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S03 E11
+https://vixsrc.to/tv/33880/3/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S03 E12
+https://vixsrc.to/tv/33880/3/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S03 E13
+https://vixsrc.to/tv/33880/3/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S04 E01
+https://vixsrc.to/tv/33880/4/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S04 E02
+https://vixsrc.to/tv/33880/4/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S04 E03
+https://vixsrc.to/tv/33880/4/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S04 E04
+https://vixsrc.to/tv/33880/4/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S04 E05
+https://vixsrc.to/tv/33880/4/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S04 E06
+https://vixsrc.to/tv/33880/4/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S04 E07
+https://vixsrc.to/tv/33880/4/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S04 E08
+https://vixsrc.to/tv/33880/4/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S04 E09
+https://vixsrc.to/tv/33880/4/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S04 E10
+https://vixsrc.to/tv/33880/4/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S04 E11
+https://vixsrc.to/tv/33880/4/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S04 E12
+https://vixsrc.to/tv/33880/4/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Action & Adventure",La leggenda di Korra S04 E13
+https://vixsrc.to/tv/33880/4/13?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jK3pc8XOQT8UgdvSjMFk8xLQOxE.jpg" group-title="SerieTV - Action & Adventure",Ultimate Spider-Man S01 E01
 https://vixsrc.to/tv/34391/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jK3pc8XOQT8UgdvSjMFk8xLQOxE.jpg" group-title="SerieTV - Action & Adventure",Ultimate Spider-Man S01 E02
@@ -76875,6 +76779,110 @@ https://vixsrc.to/tv/40075/2/20?lang=it/series/
 https://vixsrc.to/tv/40075/2/21?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/dgajee1p38rJo6ndgvJRti4eqcp.jpg" group-title="SerieTV - Animazione",Tron - La serie S01 E01
 https://vixsrc.to/tv/34356/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S01 E01
+https://vixsrc.to/tv/33880/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S01 E02
+https://vixsrc.to/tv/33880/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S01 E03
+https://vixsrc.to/tv/33880/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S01 E04
+https://vixsrc.to/tv/33880/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S01 E05
+https://vixsrc.to/tv/33880/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S01 E06
+https://vixsrc.to/tv/33880/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S01 E07
+https://vixsrc.to/tv/33880/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S01 E08
+https://vixsrc.to/tv/33880/1/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S01 E09
+https://vixsrc.to/tv/33880/1/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S01 E10
+https://vixsrc.to/tv/33880/1/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S01 E11
+https://vixsrc.to/tv/33880/1/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S01 E12
+https://vixsrc.to/tv/33880/1/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E01
+https://vixsrc.to/tv/33880/2/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E02
+https://vixsrc.to/tv/33880/2/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E03
+https://vixsrc.to/tv/33880/2/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E04
+https://vixsrc.to/tv/33880/2/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E05
+https://vixsrc.to/tv/33880/2/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E06
+https://vixsrc.to/tv/33880/2/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E07
+https://vixsrc.to/tv/33880/2/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E08
+https://vixsrc.to/tv/33880/2/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E09
+https://vixsrc.to/tv/33880/2/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E10
+https://vixsrc.to/tv/33880/2/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E11
+https://vixsrc.to/tv/33880/2/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E12
+https://vixsrc.to/tv/33880/2/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E13
+https://vixsrc.to/tv/33880/2/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S02 E14
+https://vixsrc.to/tv/33880/2/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S03 E01
+https://vixsrc.to/tv/33880/3/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S03 E02
+https://vixsrc.to/tv/33880/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S03 E03
+https://vixsrc.to/tv/33880/3/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S03 E04
+https://vixsrc.to/tv/33880/3/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S03 E05
+https://vixsrc.to/tv/33880/3/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S03 E06
+https://vixsrc.to/tv/33880/3/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S03 E07
+https://vixsrc.to/tv/33880/3/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S03 E08
+https://vixsrc.to/tv/33880/3/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S03 E09
+https://vixsrc.to/tv/33880/3/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S03 E10
+https://vixsrc.to/tv/33880/3/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S03 E11
+https://vixsrc.to/tv/33880/3/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S03 E12
+https://vixsrc.to/tv/33880/3/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S03 E13
+https://vixsrc.to/tv/33880/3/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S04 E01
+https://vixsrc.to/tv/33880/4/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S04 E02
+https://vixsrc.to/tv/33880/4/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S04 E03
+https://vixsrc.to/tv/33880/4/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S04 E04
+https://vixsrc.to/tv/33880/4/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S04 E05
+https://vixsrc.to/tv/33880/4/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S04 E06
+https://vixsrc.to/tv/33880/4/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S04 E07
+https://vixsrc.to/tv/33880/4/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S04 E08
+https://vixsrc.to/tv/33880/4/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S04 E09
+https://vixsrc.to/tv/33880/4/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S04 E10
+https://vixsrc.to/tv/33880/4/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S04 E11
+https://vixsrc.to/tv/33880/4/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S04 E12
+https://vixsrc.to/tv/33880/4/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Animazione",La leggenda di Korra S04 E13
+https://vixsrc.to/tv/33880/4/13?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jK3pc8XOQT8UgdvSjMFk8xLQOxE.jpg" group-title="SerieTV - Animazione",Ultimate Spider-Man S01 E01
 https://vixsrc.to/tv/34391/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jK3pc8XOQT8UgdvSjMFk8xLQOxE.jpg" group-title="SerieTV - Animazione",Ultimate Spider-Man S01 E02
@@ -92433,6 +92441,22 @@ https://vixsrc.to/tv/1996/6/26?lang=it/series/
 https://vixsrc.to/tv/8392/1/4?lang=it/series/
 
 # Commedia
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Commedia",ChiaroScuro S01 E01
+https://vixsrc.to/tv/336243/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Commedia",ChiaroScuro S01 E02
+https://vixsrc.to/tv/336243/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Commedia",ChiaroScuro S01 E03
+https://vixsrc.to/tv/336243/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Commedia",ChiaroScuro S01 E04
+https://vixsrc.to/tv/336243/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Commedia",ChiaroScuro S01 E05
+https://vixsrc.to/tv/336243/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Commedia",ChiaroScuro S01 E06
+https://vixsrc.to/tv/336243/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Commedia",ChiaroScuro S01 E07
+https://vixsrc.to/tv/336243/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Commedia",ChiaroScuro S01 E08
+https://vixsrc.to/tv/336243/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg" group-title="SerieTV - Commedia",Minimum Wage S01 E01
 https://vixsrc.to/tv/321221/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg" group-title="SerieTV - Commedia",Minimum Wage S01 E02
@@ -92497,6 +92521,10 @@ https://vixsrc.to/tv/275139/1/1?lang=it/series/
 https://vixsrc.to/tv/275139/1/2?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg" group-title="SerieTV - Commedia",Phony S01 E03
 https://vixsrc.to/tv/275139/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg" group-title="SerieTV - Commedia",Phony S01 E04
+https://vixsrc.to/tv/275139/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg" group-title="SerieTV - Commedia",Phony S01 E05
+https://vixsrc.to/tv/275139/1/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Commedia",Amore sotto copertura S01 E01
 https://vixsrc.to/tv/303745/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Commedia",Amore sotto copertura S01 E02
@@ -92511,6 +92539,8 @@ https://vixsrc.to/tv/303745/1/5?lang=it/series/
 https://vixsrc.to/tv/303745/1/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Commedia",Amore sotto copertura S01 E07
 https://vixsrc.to/tv/303745/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Commedia",Amore sotto copertura S01 E08
+https://vixsrc.to/tv/303745/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg" group-title="SerieTV - Commedia",Organize Isler: Money Trap S01 E01
 https://vixsrc.to/tv/320754/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg" group-title="SerieTV - Commedia",Organize Isler: Money Trap S01 E02
@@ -92593,6 +92623,8 @@ https://vixsrc.to/tv/305551/1/3?lang=it/series/
 https://vixsrc.to/tv/305551/1/4?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qzH80C1YNzucLsVJfW23RxvX9vS.jpg" group-title="SerieTV - Commedia",メリーベリーラブ S01 E05
 https://vixsrc.to/tv/305551/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qzH80C1YNzucLsVJfW23RxvX9vS.jpg" group-title="SerieTV - Commedia",メリーベリーラブ S01 E06
+https://vixsrc.to/tv/305551/1/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/kgpbj2EQOVHYa18TN4oNW6N4crk.jpg" group-title="SerieTV - Commedia",Peccato S01 E01
 https://vixsrc.to/tv/330200/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/kgpbj2EQOVHYa18TN4oNW6N4crk.jpg" group-title="SerieTV - Commedia",Peccato S01 E02
@@ -93703,6 +93735,20 @@ https://vixsrc.to/tv/295778/1/7?lang=it/series/
 https://vixsrc.to/tv/295778/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg" group-title="SerieTV - Commedia",Scrubs S01 E09
 https://vixsrc.to/tv/295778/1/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg" group-title="SerieTV - Commedia",Scrubs S02 E01
+https://vixsrc.to/tv/295778/2/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg" group-title="SerieTV - Commedia",Scrubs S02 E02
+https://vixsrc.to/tv/295778/2/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg" group-title="SerieTV - Commedia",Scrubs S02 E03
+https://vixsrc.to/tv/295778/2/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg" group-title="SerieTV - Commedia",Scrubs S02 E04
+https://vixsrc.to/tv/295778/2/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg" group-title="SerieTV - Commedia",Scrubs S02 E05
+https://vixsrc.to/tv/295778/2/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg" group-title="SerieTV - Commedia",Scrubs S02 E06
+https://vixsrc.to/tv/295778/2/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg" group-title="SerieTV - Commedia",Scrubs S02 E07
+https://vixsrc.to/tv/295778/2/7?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hs9kjF67nO5vc3kBgm3IF2MLnRe.jpg" group-title="SerieTV - Commedia",Strip Law S01 E01
 https://vixsrc.to/tv/298343/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hs9kjF67nO5vc3kBgm3IF2MLnRe.jpg" group-title="SerieTV - Commedia",Strip Law S01 E02
@@ -94243,6 +94289,8 @@ https://vixsrc.to/tv/258742/2/1?lang=it/series/
 https://vixsrc.to/tv/258742/2/2?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/akJ3gusmlRGvKoFzLgJxsIBL4W4.jpg" group-title="SerieTV - Commedia",All's Fair S02 E03
 https://vixsrc.to/tv/258742/2/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/akJ3gusmlRGvKoFzLgJxsIBL4W4.jpg" group-title="SerieTV - Commedia",All's Fair S02 E04
+https://vixsrc.to/tv/258742/2/4?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tiqcVU2X0ef0Vl8MWVtyV9U4TwM.jpg" group-title="SerieTV - Commedia",Piacere di non conoscerti S01 E01
 https://vixsrc.to/tv/285770/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tiqcVU2X0ef0Vl8MWVtyV9U4TwM.jpg" group-title="SerieTV - Commedia",Piacere di non conoscerti S01 E02
@@ -187953,6 +188001,22 @@ https://vixsrc.to/tv/1996/6/25?lang=it/series/
 https://vixsrc.to/tv/1996/6/26?lang=it/series/
 
 # Crime
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Crime",ChiaroScuro S01 E01
+https://vixsrc.to/tv/336243/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Crime",ChiaroScuro S01 E02
+https://vixsrc.to/tv/336243/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Crime",ChiaroScuro S01 E03
+https://vixsrc.to/tv/336243/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Crime",ChiaroScuro S01 E04
+https://vixsrc.to/tv/336243/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Crime",ChiaroScuro S01 E05
+https://vixsrc.to/tv/336243/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Crime",ChiaroScuro S01 E06
+https://vixsrc.to/tv/336243/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Crime",ChiaroScuro S01 E07
+https://vixsrc.to/tv/336243/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg" group-title="SerieTV - Crime",ChiaroScuro S01 E08
+https://vixsrc.to/tv/336243/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/v3lygwSQZHw9IGGQvbeZeNYHspp.jpg" group-title="SerieTV - Crime",Nocturne S01 E01
 https://vixsrc.to/tv/292741/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/v3lygwSQZHw9IGGQvbeZeNYHspp.jpg" group-title="SerieTV - Crime",Nocturne S01 E02
@@ -187979,6 +188043,8 @@ https://vixsrc.to/tv/303745/1/5?lang=it/series/
 https://vixsrc.to/tv/303745/1/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Crime",Amore sotto copertura S01 E07
 https://vixsrc.to/tv/303745/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Crime",Amore sotto copertura S01 E08
+https://vixsrc.to/tv/303745/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg" group-title="SerieTV - Crime",Organize Isler: Money Trap S01 E01
 https://vixsrc.to/tv/320754/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg" group-title="SerieTV - Crime",Organize Isler: Money Trap S01 E02
@@ -196437,6 +196503,8 @@ https://vixsrc.to/tv/157409/2/3?lang=it/series/
 https://vixsrc.to/tv/157409/3/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wEhY7XzejGMPc4vWpJwfwhRAg3N.jpg" group-title="SerieTV - Crime",Signora Volpe S03 E02
 https://vixsrc.to/tv/157409/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wEhY7XzejGMPc4vWpJwfwhRAg3N.jpg" group-title="SerieTV - Crime",Signora Volpe S03 E03
+https://vixsrc.to/tv/157409/3/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/xruIbLFY3wyM2hW54zrPWHPwUFH.jpg" group-title="SerieTV - Crime",Madre perfetta S01 E01
 https://vixsrc.to/tv/131431/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/xruIbLFY3wyM2hW54zrPWHPwUFH.jpg" group-title="SerieTV - Crime",Madre perfetta S01 E02
@@ -207919,6 +207987,10 @@ https://vixsrc.to/tv/66980/4/10?lang=it/series/
 https://vixsrc.to/tv/66980/4/11?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jYShWyYllx9DhOS6d92mN2yVsbA.jpg" group-title="SerieTV - Crime",Babylon Berlin S04 E12
 https://vixsrc.to/tv/66980/4/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jYShWyYllx9DhOS6d92mN2yVsbA.jpg" group-title="SerieTV - Crime",Babylon Berlin S05 E01
+https://vixsrc.to/tv/66980/5/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jYShWyYllx9DhOS6d92mN2yVsbA.jpg" group-title="SerieTV - Crime",Babylon Berlin S05 E02
+https://vixsrc.to/tv/66980/5/2?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fbKE87mojpIETWepSbD5Qt741fp.jpg" group-title="SerieTV - Crime",MINDHUNTER S01 E01
 https://vixsrc.to/tv/67744/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fbKE87mojpIETWepSbD5Qt741fp.jpg" group-title="SerieTV - Crime",MINDHUNTER S01 E02
@@ -247901,6 +247973,42 @@ https://vixsrc.to/tv/1430/1/12?lang=it/series/
 https://vixsrc.to/tv/1430/1/13?lang=it/series/
 
 # Dramma
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Dramma",The Body S01 E01
+https://vixsrc.to/tv/291507/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Dramma",The Body S01 E02
+https://vixsrc.to/tv/291507/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Dramma",The Body S01 E03
+https://vixsrc.to/tv/291507/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Dramma",The Body S01 E04
+https://vixsrc.to/tv/291507/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Dramma",The Body S01 E05
+https://vixsrc.to/tv/291507/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Dramma",The Body S01 E06
+https://vixsrc.to/tv/291507/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Dramma",The Body S01 E07
+https://vixsrc.to/tv/291507/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Dramma",The Body S01 E08
+https://vixsrc.to/tv/291507/1/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg" group-title="SerieTV - Dramma",I casi di Alicia S01 E01
+https://vixsrc.to/tv/338562/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg" group-title="SerieTV - Dramma",I casi di Alicia S01 E02
+https://vixsrc.to/tv/338562/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg" group-title="SerieTV - Dramma",I casi di Alicia S01 E03
+https://vixsrc.to/tv/338562/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg" group-title="SerieTV - Dramma",I casi di Alicia S01 E04
+https://vixsrc.to/tv/338562/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg" group-title="SerieTV - Dramma",I casi di Alicia S01 E05
+https://vixsrc.to/tv/338562/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg" group-title="SerieTV - Dramma",I casi di Alicia S01 E06
+https://vixsrc.to/tv/338562/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg" group-title="SerieTV - Dramma",I casi di Alicia S01 E07
+https://vixsrc.to/tv/338562/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg" group-title="SerieTV - Dramma",I casi di Alicia S01 E08
+https://vixsrc.to/tv/338562/1/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg" group-title="SerieTV - Dramma",I casi di Alicia S01 E09
+https://vixsrc.to/tv/338562/1/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg" group-title="SerieTV - Dramma",I casi di Alicia S01 E10
+https://vixsrc.to/tv/338562/1/10?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/kTBYaXUcWMoXgpOLguOlPBh32xO.jpg" group-title="SerieTV - Dramma",Livatino - Il giudice e i suoi assassini S01 E01
 https://vixsrc.to/tv/338818/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/kTBYaXUcWMoXgpOLguOlPBh32xO.jpg" group-title="SerieTV - Dramma",Livatino - Il giudice e i suoi assassini S01 E02
@@ -247947,6 +248055,10 @@ https://vixsrc.to/tv/279246/1/2?lang=it/series/
 https://vixsrc.to/tv/279246/1/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Dramma",L’imperatrice risposata S01 E04
 https://vixsrc.to/tv/279246/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Dramma",L’imperatrice risposata S01 E05
+https://vixsrc.to/tv/279246/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Dramma",L’imperatrice risposata S01 E06
+https://vixsrc.to/tv/279246/1/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/v3lygwSQZHw9IGGQvbeZeNYHspp.jpg" group-title="SerieTV - Dramma",Nocturne S01 E01
 https://vixsrc.to/tv/292741/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/v3lygwSQZHw9IGGQvbeZeNYHspp.jpg" group-title="SerieTV - Dramma",Nocturne S01 E02
@@ -247999,6 +248111,10 @@ https://vixsrc.to/tv/275139/1/1?lang=it/series/
 https://vixsrc.to/tv/275139/1/2?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg" group-title="SerieTV - Dramma",Phony S01 E03
 https://vixsrc.to/tv/275139/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg" group-title="SerieTV - Dramma",Phony S01 E04
+https://vixsrc.to/tv/275139/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg" group-title="SerieTV - Dramma",Phony S01 E05
+https://vixsrc.to/tv/275139/1/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Dramma",Amore sotto copertura S01 E01
 https://vixsrc.to/tv/303745/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Dramma",Amore sotto copertura S01 E02
@@ -248013,6 +248129,8 @@ https://vixsrc.to/tv/303745/1/5?lang=it/series/
 https://vixsrc.to/tv/303745/1/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Dramma",Amore sotto copertura S01 E07
 https://vixsrc.to/tv/303745/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Dramma",Amore sotto copertura S01 E08
+https://vixsrc.to/tv/303745/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg" group-title="SerieTV - Dramma",Where the Mask Ends S01 E01
 https://vixsrc.to/tv/300146/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg" group-title="SerieTV - Dramma",Where the Mask Ends S01 E02
@@ -248143,6 +248261,8 @@ https://vixsrc.to/tv/213375/1/5?lang=it/series/
 https://vixsrc.to/tv/213375/1/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Dramma",VisionQuest S01 E07
 https://vixsrc.to/tv/213375/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Dramma",VisionQuest S01 E08
+https://vixsrc.to/tv/213375/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/o79kVEpMG6FSr5qyiBmVuc3IGWD.jpg" group-title="SerieTV - Dramma",L'isola del tesoro S01 E01
 https://vixsrc.to/tv/333101/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/o79kVEpMG6FSr5qyiBmVuc3IGWD.jpg" group-title="SerieTV - Dramma",L'isola del tesoro S01 E02
@@ -248235,6 +248355,8 @@ https://vixsrc.to/tv/305551/1/3?lang=it/series/
 https://vixsrc.to/tv/305551/1/4?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qzH80C1YNzucLsVJfW23RxvX9vS.jpg" group-title="SerieTV - Dramma",メリーベリーラブ S01 E05
 https://vixsrc.to/tv/305551/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qzH80C1YNzucLsVJfW23RxvX9vS.jpg" group-title="SerieTV - Dramma",メリーベリーラブ S01 E06
+https://vixsrc.to/tv/305551/1/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/u2PDaI3BYtGg0YO0rOKnycDwxld.jpg" group-title="SerieTV - Dramma",Dentro il cerchio S01 E01
 https://vixsrc.to/tv/290233/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/u2PDaI3BYtGg0YO0rOKnycDwxld.jpg" group-title="SerieTV - Dramma",Dentro il cerchio S01 E02
@@ -251743,6 +251865,8 @@ https://vixsrc.to/tv/258742/2/1?lang=it/series/
 https://vixsrc.to/tv/258742/2/2?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/akJ3gusmlRGvKoFzLgJxsIBL4W4.jpg" group-title="SerieTV - Dramma",All's Fair S02 E03
 https://vixsrc.to/tv/258742/2/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/akJ3gusmlRGvKoFzLgJxsIBL4W4.jpg" group-title="SerieTV - Dramma",All's Fair S02 E04
+https://vixsrc.to/tv/258742/2/4?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tiqcVU2X0ef0Vl8MWVtyV9U4TwM.jpg" group-title="SerieTV - Dramma",Piacere di non conoscerti S01 E01
 https://vixsrc.to/tv/285770/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tiqcVU2X0ef0Vl8MWVtyV9U4TwM.jpg" group-title="SerieTV - Dramma",Piacere di non conoscerti S01 E02
@@ -257205,6 +257329,12 @@ https://vixsrc.to/tv/208921/2/4?lang=it/series/
 https://vixsrc.to/tv/208921/2/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/kW5wn1EPIkEentlhGS1p9M4BGkg.jpg" group-title="SerieTV - Dramma",Rivals S02 E06
 https://vixsrc.to/tv/208921/2/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/kW5wn1EPIkEentlhGS1p9M4BGkg.jpg" group-title="SerieTV - Dramma",Rivals S02 E07
+https://vixsrc.to/tv/208921/2/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/kW5wn1EPIkEentlhGS1p9M4BGkg.jpg" group-title="SerieTV - Dramma",Rivals S02 E08
+https://vixsrc.to/tv/208921/2/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/kW5wn1EPIkEentlhGS1p9M4BGkg.jpg" group-title="SerieTV - Dramma",Rivals S02 E09
+https://vixsrc.to/tv/208921/2/9?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yrGQwoY9XUglAlCDzsIlr3ws4pM.jpg" group-title="SerieTV - Dramma",It's Florida, Man. S01 E01
 https://vixsrc.to/tv/273801/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yrGQwoY9XUglAlCDzsIlr3ws4pM.jpg" group-title="SerieTV - Dramma",It's Florida, Man. S01 E02
@@ -272187,6 +272317,14 @@ https://vixsrc.to/tv/84773/2/6?lang=it/series/
 https://vixsrc.to/tv/84773/2/7?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Dramma",Il Signore degli Anelli: Gli Anelli del Potere S02 E08
 https://vixsrc.to/tv/84773/2/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Dramma",Il Signore degli Anelli: Gli Anelli del Potere S03 E01
+https://vixsrc.to/tv/84773/3/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Dramma",Il Signore degli Anelli: Gli Anelli del Potere S03 E02
+https://vixsrc.to/tv/84773/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Dramma",Il Signore degli Anelli: Gli Anelli del Potere S03 E03
+https://vixsrc.to/tv/84773/3/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Dramma",Il Signore degli Anelli: Gli Anelli del Potere S03 E04
+https://vixsrc.to/tv/84773/3/4?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3ON82HWiYWFdd6h2Ned8V3pjZoi.jpg" group-title="SerieTV - Dramma",La vita secondo Ella S01 E01
 https://vixsrc.to/tv/207639/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3ON82HWiYWFdd6h2Ned8V3pjZoi.jpg" group-title="SerieTV - Dramma",La vita secondo Ella S01 E02
@@ -275251,6 +275389,8 @@ https://vixsrc.to/tv/157409/2/3?lang=it/series/
 https://vixsrc.to/tv/157409/3/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wEhY7XzejGMPc4vWpJwfwhRAg3N.jpg" group-title="SerieTV - Dramma",Signora Volpe S03 E02
 https://vixsrc.to/tv/157409/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wEhY7XzejGMPc4vWpJwfwhRAg3N.jpg" group-title="SerieTV - Dramma",Signora Volpe S03 E03
+https://vixsrc.to/tv/157409/3/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/40qZnZJ7NxCL1sxKaGd71BkAQ7U.jpg" group-title="SerieTV - Dramma",请叫我总监 S01 E01
 https://vixsrc.to/tv/199925/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/40qZnZJ7NxCL1sxKaGd71BkAQ7U.jpg" group-title="SerieTV - Dramma",请叫我总监 S01 E02
@@ -280369,6 +280509,8 @@ https://vixsrc.to/tv/137948/2/5?lang=it/series/
 https://vixsrc.to/tv/137948/2/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/9cYgLzhMzQdRTfCbfER1LKLj4GL.jpg" group-title="SerieTV - Dramma",Sacrifice S02 E07
 https://vixsrc.to/tv/137948/2/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/9cYgLzhMzQdRTfCbfER1LKLj4GL.jpg" group-title="SerieTV - Dramma",Sacrifice S02 E08
+https://vixsrc.to/tv/137948/2/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nxfyXDghW2SbQbwRen6uh12OzXV.jpg" group-title="SerieTV - Dramma",Dr. Brain S01 E01
 https://vixsrc.to/tv/119955/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nxfyXDghW2SbQbwRen6uh12OzXV.jpg" group-title="SerieTV - Dramma",Dr. Brain S01 E02
@@ -282253,6 +282395,8 @@ https://vixsrc.to/tv/133174/5/10?lang=it/series/
 https://vixsrc.to/tv/133174/5/11?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/uo7unmhOjl60cOQQ1YA82QmXKxN.jpg" group-title="SerieTV - Dramma",All the Queen's Men S05 E12
 https://vixsrc.to/tv/133174/5/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/uo7unmhOjl60cOQQ1YA82QmXKxN.jpg" group-title="SerieTV - Dramma",All the Queen's Men S05 E13
+https://vixsrc.to/tv/133174/5/13?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jDZXjtO3i1WpePWmg7paVKNpdfz.jpg" group-title="SerieTV - Dramma",मुंबई डायरीज S02 E01
 https://vixsrc.to/tv/115466/2/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jDZXjtO3i1WpePWmg7paVKNpdfz.jpg" group-title="SerieTV - Dramma",मुंबई डायरीज S02 E02
@@ -311751,6 +311895,10 @@ https://vixsrc.to/tv/66980/4/10?lang=it/series/
 https://vixsrc.to/tv/66980/4/11?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jYShWyYllx9DhOS6d92mN2yVsbA.jpg" group-title="SerieTV - Dramma",Babylon Berlin S04 E12
 https://vixsrc.to/tv/66980/4/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jYShWyYllx9DhOS6d92mN2yVsbA.jpg" group-title="SerieTV - Dramma",Babylon Berlin S05 E01
+https://vixsrc.to/tv/66980/5/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jYShWyYllx9DhOS6d92mN2yVsbA.jpg" group-title="SerieTV - Dramma",Babylon Berlin S05 E02
+https://vixsrc.to/tv/66980/5/2?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/xNixoyzlSfJVy3Lp7AB1Vwrg2Va.jpg" group-title="SerieTV - Dramma",Lore - Antologia dell'orrore S01 E01
 https://vixsrc.to/tv/73987/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/xNixoyzlSfJVy3Lp7AB1Vwrg2Va.jpg" group-title="SerieTV - Dramma",Lore - Antologia dell'orrore S01 E02
@@ -439859,6 +440007,10 @@ https://vixsrc.to/tv/275139/1/1?lang=it/series/
 https://vixsrc.to/tv/275139/1/2?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg" group-title="SerieTV - Mistero",Phony S01 E03
 https://vixsrc.to/tv/275139/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg" group-title="SerieTV - Mistero",Phony S01 E04
+https://vixsrc.to/tv/275139/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg" group-title="SerieTV - Mistero",Phony S01 E05
+https://vixsrc.to/tv/275139/1/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iFZd7n9ARPxLLg0BJ5jXGKk0lQG.jpg" group-title="SerieTV - Mistero",Crystal Lake S01 E01
 https://vixsrc.to/tv/213562/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iFZd7n9ARPxLLg0BJ5jXGKk0lQG.jpg" group-title="SerieTV - Mistero",Crystal Lake S01 E02
@@ -446121,6 +446273,8 @@ https://vixsrc.to/tv/157409/2/3?lang=it/series/
 https://vixsrc.to/tv/157409/3/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wEhY7XzejGMPc4vWpJwfwhRAg3N.jpg" group-title="SerieTV - Mistero",Signora Volpe S03 E02
 https://vixsrc.to/tv/157409/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wEhY7XzejGMPc4vWpJwfwhRAg3N.jpg" group-title="SerieTV - Mistero",Signora Volpe S03 E03
+https://vixsrc.to/tv/157409/3/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/xw9W4yijdbAiDtJAAaLbI6DEEHa.jpg" group-title="SerieTV - Mistero",In nome del cielo S01 E01
 https://vixsrc.to/tv/128095/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/xw9W4yijdbAiDtJAAaLbI6DEEHa.jpg" group-title="SerieTV - Mistero",In nome del cielo S01 E02
@@ -453681,6 +453835,10 @@ https://vixsrc.to/tv/66980/4/10?lang=it/series/
 https://vixsrc.to/tv/66980/4/11?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jYShWyYllx9DhOS6d92mN2yVsbA.jpg" group-title="SerieTV - Mistero",Babylon Berlin S04 E12
 https://vixsrc.to/tv/66980/4/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jYShWyYllx9DhOS6d92mN2yVsbA.jpg" group-title="SerieTV - Mistero",Babylon Berlin S05 E01
+https://vixsrc.to/tv/66980/5/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jYShWyYllx9DhOS6d92mN2yVsbA.jpg" group-title="SerieTV - Mistero",Babylon Berlin S05 E02
+https://vixsrc.to/tv/66980/5/2?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/xNixoyzlSfJVy3Lp7AB1Vwrg2Va.jpg" group-title="SerieTV - Mistero",Lore - Antologia dell'orrore S01 E01
 https://vixsrc.to/tv/73987/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/xNixoyzlSfJVy3Lp7AB1Vwrg2Va.jpg" group-title="SerieTV - Mistero",Lore - Antologia dell'orrore S01 E02
@@ -494923,6 +495081,22 @@ https://vixsrc.to/tv/211757/8/5?lang=it/series/
 https://vixsrc.to/tv/211757/8/6?lang=it/series/
 
 # Sci-Fi & Fantasy
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Sci-Fi & Fantasy",The Body S01 E01
+https://vixsrc.to/tv/291507/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Sci-Fi & Fantasy",The Body S01 E02
+https://vixsrc.to/tv/291507/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Sci-Fi & Fantasy",The Body S01 E03
+https://vixsrc.to/tv/291507/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Sci-Fi & Fantasy",The Body S01 E04
+https://vixsrc.to/tv/291507/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Sci-Fi & Fantasy",The Body S01 E05
+https://vixsrc.to/tv/291507/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Sci-Fi & Fantasy",The Body S01 E06
+https://vixsrc.to/tv/291507/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Sci-Fi & Fantasy",The Body S01 E07
+https://vixsrc.to/tv/291507/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg" group-title="SerieTV - Sci-Fi & Fantasy",The Body S01 E08
+https://vixsrc.to/tv/291507/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",L’imperatrice risposata S01 E01
 https://vixsrc.to/tv/279246/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",L’imperatrice risposata S01 E02
@@ -494931,6 +495105,10 @@ https://vixsrc.to/tv/279246/1/2?lang=it/series/
 https://vixsrc.to/tv/279246/1/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",L’imperatrice risposata S01 E04
 https://vixsrc.to/tv/279246/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",L’imperatrice risposata S01 E05
+https://vixsrc.to/tv/279246/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",L’imperatrice risposata S01 E06
+https://vixsrc.to/tv/279246/1/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Bass X Machina S01 E01
 https://vixsrc.to/tv/314271/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Bass X Machina S01 E02
@@ -494981,6 +495159,8 @@ https://vixsrc.to/tv/213375/1/5?lang=it/series/
 https://vixsrc.to/tv/213375/1/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Sci-Fi & Fantasy",VisionQuest S01 E07
 https://vixsrc.to/tv/213375/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg" group-title="SerieTV - Sci-Fi & Fantasy",VisionQuest S01 E08
+https://vixsrc.to/tv/213375/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/cw0nZlGdxPro0J9aZYO1tz2fZKY.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Avatar: I sette rifugi S01 E01
 https://vixsrc.to/tv/284833/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/cw0nZlGdxPro0J9aZYO1tz2fZKY.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Avatar: I sette rifugi S01 E02
@@ -500441,6 +500621,14 @@ https://vixsrc.to/tv/84773/2/6?lang=it/series/
 https://vixsrc.to/tv/84773/2/7?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Il Signore degli Anelli: Gli Anelli del Potere S02 E08
 https://vixsrc.to/tv/84773/2/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Il Signore degli Anelli: Gli Anelli del Potere S03 E01
+https://vixsrc.to/tv/84773/3/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Il Signore degli Anelli: Gli Anelli del Potere S03 E02
+https://vixsrc.to/tv/84773/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Il Signore degli Anelli: Gli Anelli del Potere S03 E03
+https://vixsrc.to/tv/84773/3/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Il Signore degli Anelli: Gli Anelli del Potere S03 E04
+https://vixsrc.to/tv/84773/3/4?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg" group-title="SerieTV - Sci-Fi & Fantasy",House of the Dragon S01 E01
 https://vixsrc.to/tv/94997/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg" group-title="SerieTV - Sci-Fi & Fantasy",House of the Dragon S01 E02
@@ -523739,6 +523927,110 @@ https://vixsrc.to/tv/43020/4/4?lang=it/series/
 https://vixsrc.to/tv/43020/4/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/bqL4jiKHOv4qXn46RRIgcKIk2EE.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Continuum S04 E06
 https://vixsrc.to/tv/43020/4/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S01 E01
+https://vixsrc.to/tv/33880/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S01 E02
+https://vixsrc.to/tv/33880/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S01 E03
+https://vixsrc.to/tv/33880/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S01 E04
+https://vixsrc.to/tv/33880/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S01 E05
+https://vixsrc.to/tv/33880/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S01 E06
+https://vixsrc.to/tv/33880/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S01 E07
+https://vixsrc.to/tv/33880/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S01 E08
+https://vixsrc.to/tv/33880/1/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S01 E09
+https://vixsrc.to/tv/33880/1/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S01 E10
+https://vixsrc.to/tv/33880/1/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S01 E11
+https://vixsrc.to/tv/33880/1/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S01 E12
+https://vixsrc.to/tv/33880/1/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E01
+https://vixsrc.to/tv/33880/2/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E02
+https://vixsrc.to/tv/33880/2/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E03
+https://vixsrc.to/tv/33880/2/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E04
+https://vixsrc.to/tv/33880/2/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E05
+https://vixsrc.to/tv/33880/2/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E06
+https://vixsrc.to/tv/33880/2/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E07
+https://vixsrc.to/tv/33880/2/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E08
+https://vixsrc.to/tv/33880/2/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E09
+https://vixsrc.to/tv/33880/2/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E10
+https://vixsrc.to/tv/33880/2/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E11
+https://vixsrc.to/tv/33880/2/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E12
+https://vixsrc.to/tv/33880/2/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E13
+https://vixsrc.to/tv/33880/2/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S02 E14
+https://vixsrc.to/tv/33880/2/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S03 E01
+https://vixsrc.to/tv/33880/3/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S03 E02
+https://vixsrc.to/tv/33880/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S03 E03
+https://vixsrc.to/tv/33880/3/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S03 E04
+https://vixsrc.to/tv/33880/3/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S03 E05
+https://vixsrc.to/tv/33880/3/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S03 E06
+https://vixsrc.to/tv/33880/3/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S03 E07
+https://vixsrc.to/tv/33880/3/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S03 E08
+https://vixsrc.to/tv/33880/3/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S03 E09
+https://vixsrc.to/tv/33880/3/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S03 E10
+https://vixsrc.to/tv/33880/3/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S03 E11
+https://vixsrc.to/tv/33880/3/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S03 E12
+https://vixsrc.to/tv/33880/3/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S03 E13
+https://vixsrc.to/tv/33880/3/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S04 E01
+https://vixsrc.to/tv/33880/4/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S04 E02
+https://vixsrc.to/tv/33880/4/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S04 E03
+https://vixsrc.to/tv/33880/4/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S04 E04
+https://vixsrc.to/tv/33880/4/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S04 E05
+https://vixsrc.to/tv/33880/4/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S04 E06
+https://vixsrc.to/tv/33880/4/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S04 E07
+https://vixsrc.to/tv/33880/4/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S04 E08
+https://vixsrc.to/tv/33880/4/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S04 E09
+https://vixsrc.to/tv/33880/4/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S04 E10
+https://vixsrc.to/tv/33880/4/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S04 E11
+https://vixsrc.to/tv/33880/4/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S04 E12
+https://vixsrc.to/tv/33880/4/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg" group-title="SerieTV - Sci-Fi & Fantasy",La leggenda di Korra S04 E13
+https://vixsrc.to/tv/33880/4/13?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/6aqLN3szS9zTpnRl9czt4dCDjJT.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Lab Rats: Isola bionica S01 E01
 https://vixsrc.to/tv/38867/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/6aqLN3szS9zTpnRl9czt4dCDjJT.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Lab Rats: Isola bionica S01 E02

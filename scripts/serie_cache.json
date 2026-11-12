@@ -70437,5 +70437,67 @@
       18
     ],
     "cached_at": "2026-11-11T07:37:58.883102"
+  },
+  "33880": {
+    "id": 33880,
+    "name": "La leggenda di Korra",
+    "original_name": "The Legend of Korra",
+    "first_air_date": "2012-04-14",
+    "vote_average": 8.224,
+    "poster_path": "/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "cached_at": "2026-11-12T08:04:50.224676"
+  },
+  "291507": {
+    "id": 291507,
+    "name": "The Body",
+    "original_name": "The Body",
+    "first_air_date": "2026-11-11",
+    "vote_average": 0.0,
+    "poster_path": "/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "cached_at": "2026-11-12T08:04:50.237294"
+  },
+  "336243": {
+    "id": 336243,
+    "name": "ChiaroScuro",
+    "original_name": "ChiaroScuro",
+    "first_air_date": "2026-11-11",
+    "vote_average": 6.0,
+    "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2026-11-12T08:04:50.239007"
+  },
+  "338562": {
+    "id": 338562,
+    "name": "I casi di Alicia",
+    "original_name": "La Ley de Alicia",
+    "first_air_date": "2026-11-11",
+    "vote_average": 7.0,
+    "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-12T08:04:50.241212"
+  },
+  "333010": {
+    "id": 333010,
+    "name": "Erica una detective per caso",
+    "original_name": "Erica una detective per caso",
+    "first_air_date": "2026-09-02",
+    "vote_average": 7.5,
+    "poster_path": "/yRwiQmurh81deQWT0Hahh3zY9cJ.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-11-12T08:04:50.242203"
   }
 }
