@@ -180035,5 +180035,78 @@
       18
     ],
     "cached_at": "2026-11-11T07:39:05.087215"
+  },
+  "1559980": {
+    "id": 1559980,
+    "title": "The Gospel of Christmas",
+    "release_date": "2026-11-11",
+    "vote_average": 5.0,
+    "poster_path": "/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-11-12T08:07:03.225035"
+  },
+  "207768": {
+    "id": 207768,
+    "title": "I Spit on Your Grave 2",
+    "release_date": "2013-08-25",
+    "vote_average": 6.296,
+    "poster_path": "/wit1VRI9sAbCstuwm3KPgxfYYqo.jpg",
+    "genre_ids": [
+      53,
+      27,
+      80
+    ],
+    "cached_at": "2026-11-12T08:07:03.232163"
+  },
+  "9835": {
+    "id": 9835,
+    "title": "Mafia!",
+    "release_date": "1998-07-24",
+    "vote_average": 5.478,
+    "poster_path": "/gGgirOcInrfjWgemKMjvZc3fGtU.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2026-11-12T08:07:03.245787"
+  },
+  "43727": {
+    "id": 43727,
+    "title": "Jolene",
+    "release_date": "2010-10-29",
+    "vote_average": 6.3,
+    "poster_path": "/5udqbFUVTzevHpDkel4CElpNEBR.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-12T08:07:03.260687"
+  },
+  "43939": {
+    "id": 43939,
+    "title": "Joaquin Phoenix - Io sono qui!",
+    "release_date": "2010-09-10",
+    "vote_average": 5.9,
+    "poster_path": "/631nb31RRcrWR1qCbYhzGWnwS9P.jpg",
+    "genre_ids": [
+      10402,
+      35,
+      18
+    ],
+    "cached_at": "2026-11-12T08:07:03.265357"
+  },
+  "1664682": {
+    "id": 1664682,
+    "title": "Suzane von Richthofen: O que o Tempo Não Apaga",
+    "release_date": "2026-11-11",
+    "vote_average": 7.0,
+    "poster_path": "/pO3BpFyC9B2fnfByJulxjs3hM4P.jpg",
+    "genre_ids": [
+      80,
+      99
+    ],
+    "cached_at": "2026-11-12T08:07:03.277243"
   }
 }
