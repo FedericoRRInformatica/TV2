@@ -70499,5 +70499,94 @@
     "poster_path": "/yRwiQmurh81deQWT0Hahh3zY9cJ.jpg",
     "genre_ids": [],
     "cached_at": "2026-11-12T08:04:50.242203"
+  },
+  "330912": {
+    "id": 330912,
+    "name": "The Varnell Hill Show",
+    "original_name": "The Varnell Hill Show",
+    "first_air_date": "2026-09-01",
+    "vote_average": 1.0,
+    "poster_path": "/nZbQHs1WCf2H8NJ8hzR0n5LoeT6.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-13T07:43:04.390924"
+  },
+  "249565": {
+    "id": 249565,
+    "name": "The Good Daughter",
+    "original_name": "The Good Daughter",
+    "first_air_date": "2026-11-12",
+    "vote_average": 9.6,
+    "poster_path": "/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2026-11-13T07:43:04.392495"
+  },
+  "254630": {
+    "id": 254630,
+    "name": "12 12 12",
+    "original_name": "12 12 12",
+    "first_air_date": "2026-11-12",
+    "vote_average": 10.0,
+    "poster_path": "/cuk89BAhoyDKCByq7tyJHv5Wa8W.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      18
+    ],
+    "cached_at": "2026-11-13T07:43:04.393342"
+  },
+  "299952": {
+    "id": 299952,
+    "name": "The Early Spring",
+    "original_name": "早春晴朗",
+    "first_air_date": "2026-08-26",
+    "vote_average": 8.167,
+    "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-13T07:43:04.396557"
+  },
+  "297491": {
+    "id": 297491,
+    "name": "Palacio - Sotto assedio",
+    "original_name": "Palacio",
+    "first_air_date": "2026-11-06",
+    "vote_average": 6.714,
+    "poster_path": "/ju6k9yjDo4kmGq2nylFtBCSmfML.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-11-13T07:43:04.401008"
+  },
+  "338874": {
+    "id": 338874,
+    "name": "Memoriæ",
+    "original_name": "Memoriæ",
+    "first_air_date": "2026-10-23",
+    "vote_average": 7.5,
+    "poster_path": "/iwPUt05HJ9JXDXbsat2x64BctVF.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-11-13T07:43:04.402995"
+  },
+  "204154": {
+    "id": 204154,
+    "name": "Scavengers Reign",
+    "original_name": "Scavengers Reign",
+    "first_air_date": "2023-10-19",
+    "vote_average": 8.473,
+    "poster_path": "/bFlVZV8TQbs8hcIY7PVYonYFMgK.jpg",
+    "genre_ids": [
+      10765,
+      18,
+      16,
+      10759
+    ],
+    "cached_at": "2026-11-13T07:43:04.446377"
   }
 }
