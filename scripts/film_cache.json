@@ -180108,5 +180108,154 @@
       99
     ],
     "cached_at": "2026-11-12T08:07:03.277243"
+  },
+  "12185": {
+    "id": 12185,
+    "title": "Il paradiso può attendere",
+    "release_date": "1978-06-28",
+    "vote_average": 6.7,
+    "poster_path": "/5S6poaxYHsodYqZvPSLuq83r7d5.jpg",
+    "genre_ids": [
+      14,
+      35,
+      10749
+    ],
+    "cached_at": "2026-11-13T07:44:09.703621"
+  },
+  "1616687": {
+    "id": 1616687,
+    "title": "Never Surrender",
+    "release_date": "2026-11-12",
+    "vote_average": 7.857,
+    "poster_path": "/9wypfSz5OyWnew6mt5hviGw6WhM.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-11-13T07:44:09.711541"
+  },
+  "1518204": {
+    "id": 1518204,
+    "title": "Allen",
+    "release_date": "2026-11-12",
+    "vote_average": 5.833,
+    "poster_path": "/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+    "genre_ids": [
+      878,
+      12,
+      35,
+      10751
+    ],
+    "cached_at": "2026-11-13T07:44:09.718319"
+  },
+  "16153": {
+    "id": 16153,
+    "title": "Alice non abita più qui",
+    "release_date": "1974-12-09",
+    "vote_average": 7.0,
+    "poster_path": "/egNphOgYNTnqaJL4wnxUQ86iRBD.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-11-13T07:44:09.720246"
+  },
+  "69901": {
+    "id": 69901,
+    "title": "Baci e abbracci",
+    "release_date": "1999-01-22",
+    "vote_average": 6.3,
+    "poster_path": "/j1XD3Z2vAkRQvRyPglNjOkBlULx.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-13T07:44:09.721792"
+  },
+  "437941": {
+    "id": 437941,
+    "title": "La ballerina del Bolshoi",
+    "release_date": "2016-12-21",
+    "vote_average": 6.1,
+    "poster_path": "/hBz18GpUsYqm14NznpbqX2D8WF7.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-13T07:44:09.723334"
+  },
+  "1757174": {
+    "id": 1757174,
+    "title": "The Christmas Switch",
+    "release_date": "2026-11-12",
+    "vote_average": 7.286,
+    "poster_path": "/k7h5uzeCFBNl802TW2WTvctGYHi.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-11-13T07:44:09.725430"
+  },
+  "36293": {
+    "id": 36293,
+    "title": "Il ponte del dragone",
+    "release_date": "1999-06-30",
+    "vote_average": 5.6,
+    "poster_path": "/q41yXOUQ4PLIQGtzO3669jc63I5.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53,
+      10749
+    ],
+    "cached_at": "2026-11-13T07:44:09.728080"
+  },
+  "70088": {
+    "id": 70088,
+    "title": "Tu mi turbi",
+    "release_date": "1983-02-12",
+    "vote_average": 6.7,
+    "poster_path": "/6Sk2R4fwjqDUoYZR9N4YqYZzpjx.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-13T07:44:09.742986"
+  },
+  "24137": {
+    "id": 24137,
+    "title": "Un marito ideale",
+    "release_date": "1999-01-14",
+    "vote_average": 6.5,
+    "poster_path": "/ibSQGb0o2kDWh0AFWMaOSKlOWM4.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "cached_at": "2026-11-13T07:44:09.745798"
+  },
+  "19223": {
+    "id": 19223,
+    "title": "Una pura formalità",
+    "release_date": "1994-05-15",
+    "vote_average": 7.416,
+    "poster_path": "/lDc5hmjfB5u4lHgo3rS4rKNYW54.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      80,
+      18
+    ],
+    "cached_at": "2026-11-13T07:44:09.749060"
+  },
+  "400888": {
+    "id": 400888,
+    "title": "The Sion Sono",
+    "release_date": "2016-05-14",
+    "vote_average": 6.4,
+    "poster_path": "/kBwPDbHAYW6kVJA9nGcZ8WuzB2T.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-11-13T07:44:09.796196"
   }
 }
