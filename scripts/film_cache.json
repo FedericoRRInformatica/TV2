@@ -180467,5 +180467,134 @@
       18
     ],
     "cached_at": "2026-11-14T07:30:30.164050"
+  },
+  "14778": {
+    "id": 14778,
+    "title": "L'ultimo bicchiere",
+    "release_date": "2001-09-10",
+    "vote_average": 6.042,
+    "poster_path": "/1zgWKQ7wWWXomw0ppthZow6cYL.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-11-15T07:42:56.246107"
+  },
+  "15888": {
+    "id": 15888,
+    "title": "Fishtales",
+    "release_date": "2007-08-24",
+    "vote_average": 4.6,
+    "poster_path": "/Ag0Hb68U5vNK69LFHqbBP5JmIxp.jpg",
+    "genre_ids": [
+      14,
+      18,
+      35,
+      10749,
+      10751
+    ],
+    "cached_at": "2026-11-15T07:42:56.246121"
+  },
+  "1284465": {
+    "id": 1284465,
+    "title": "Robin Hood - Il prezzo del sangue",
+    "release_date": "2026-06-18",
+    "vote_average": 6.71,
+    "poster_path": "/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
+    "genre_ids": [
+      12,
+      18,
+      28
+    ],
+    "cached_at": "2026-11-15T07:42:56.248312"
+  },
+  "1186428": {
+    "id": 1186428,
+    "title": "Clorofilla",
+    "release_date": "2023-10-26",
+    "vote_average": 3.8,
+    "poster_path": "/fLy5Odhvkk0HZnAlci9fKYgTGS3.jpg",
+    "genre_ids": [
+      10749,
+      14
+    ],
+    "cached_at": "2026-11-15T07:42:56.255492"
+  },
+  "1418709": {
+    "id": 1418709,
+    "title": "Bagarre",
+    "release_date": "2026-04-15",
+    "vote_average": 5.409,
+    "poster_path": "/lQRKadGZSBUjkFfjF7kDV047MUN.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35
+    ],
+    "cached_at": "2026-11-15T07:42:56.255503"
+  },
+  "11287": {
+    "id": 11287,
+    "title": "Ragazze vincenti",
+    "release_date": "1992-07-01",
+    "vote_average": 7.21,
+    "poster_path": "/tr7zNokTHghQf1khQ8b1syLJYx5.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-11-15T07:42:56.265062"
+  },
+  "412094": {
+    "id": 412094,
+    "title": "Il prigioniero coreano",
+    "release_date": "2016-10-06",
+    "vote_average": 7.385,
+    "poster_path": "/1YkuLVOfPuUtOBeRUy6pbefJf9s.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-15T07:42:56.270146"
+  },
+  "21964": {
+    "id": 21964,
+    "title": "Cinque dita di violenza",
+    "release_date": "1972-04-28",
+    "vote_average": 6.691,
+    "poster_path": "/4SZ5d4p43jfSnFT8HRPRhdCLs40.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "cached_at": "2026-11-15T07:42:56.271991"
+  },
+  "6116": {
+    "id": 6116,
+    "title": "Spice Girls - Il film",
+    "release_date": "1997-12-18",
+    "vote_average": 4.9,
+    "poster_path": "/ztW9Nzv8Hu56zYap2yxyODQ5GLF.jpg",
+    "genre_ids": [
+      12,
+      14,
+      18,
+      35,
+      10402
+    ],
+    "cached_at": "2026-11-15T07:42:56.275093"
+  },
+  "716594": {
+    "id": 716594,
+    "title": "Ted Bundy: Confessioni di un serial killer",
+    "release_date": "2021-08-19",
+    "vote_average": 6.558,
+    "poster_path": "/f63TMarMcRWU5Z4jB7l2agrAidq.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53,
+      36
+    ],
+    "cached_at": "2026-11-15T07:42:56.606195"
   }
 }
