@@ -70615,5 +70615,44 @@
       18
     ],
     "cached_at": "2026-11-15T07:41:46.051114"
+  },
+  "320507": {
+    "id": 320507,
+    "name": "La vita segreta delle mogli Mormoni: Orange County",
+    "original_name": "The Secret Lives of Mormon Wives: Orange County",
+    "first_air_date": "2026-11-12",
+    "vote_average": 1.0,
+    "poster_path": "/rEcJkRhfs663zsjWCJhtsbRWv7g.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-11-16T07:47:20.853974"
+  },
+  "69272": {
+    "id": 69272,
+    "name": "L'allieva",
+    "original_name": "L'allieva",
+    "first_air_date": "2016-09-27",
+    "vote_average": 7.2,
+    "poster_path": "/ayOrsTXNfDktbuiMSP512tq2DZJ.jpg",
+    "genre_ids": [
+      35,
+      80,
+      9648
+    ],
+    "cached_at": "2026-11-16T07:47:20.861114"
+  },
+  "335981": {
+    "id": 335981,
+    "name": "Cunk on Cinema",
+    "original_name": "Cunk on Cinema",
+    "first_air_date": "2026-11-12",
+    "vote_average": 7.375,
+    "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+    "genre_ids": [
+      35,
+      99
+    ],
+    "cached_at": "2026-11-16T07:47:20.877965"
   }
 }
