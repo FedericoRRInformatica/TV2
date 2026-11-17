@@ -70654,5 +70654,47 @@
       99
     ],
     "cached_at": "2026-11-16T07:47:20.877965"
+  },
+  "104877": {
+    "id": 104877,
+    "name": "Love Is in the Air",
+    "original_name": "Sen Çal Kapımı",
+    "first_air_date": "2020-07-08",
+    "vote_average": 8.2,
+    "poster_path": "/nzBenFJ2D2MCWTwTt2uc4BGWLtA.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-11-17T08:56:26.235939"
+  },
+  "133670": {
+    "id": 133670,
+    "name": "Work Later, Drink Now",
+    "original_name": "술꾼도시여자들",
+    "first_air_date": "2021-10-22",
+    "vote_average": 8.1,
+    "poster_path": "/8xAhACoI550LTSzAPKlzdRUoPsh.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-11-17T08:56:26.244933"
+  },
+  "46511": {
+    "id": 46511,
+    "name": "Utopia",
+    "original_name": "Utopia",
+    "first_air_date": "2013-01-15",
+    "vote_average": 7.9,
+    "poster_path": "/snOU6W5CU7aGVSVu29wBWzdzNzi.jpg",
+    "genre_ids": [
+      9648,
+      18,
+      35,
+      10765,
+      10759
+    ],
+    "cached_at": "2026-11-17T08:56:26.251820"
   }
 }
