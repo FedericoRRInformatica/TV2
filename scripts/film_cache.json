@@ -180754,5 +180754,67 @@
       35
     ],
     "cached_at": "2026-11-16T07:48:40.455269"
+  },
+  "357096": {
+    "id": 357096,
+    "title": "I Spit on Your Grave III: Vengeance Is Mine",
+    "release_date": "2015-10-01",
+    "vote_average": 5.784,
+    "poster_path": "/qosIFCddpZjoMdsrkcQWB4UGm3o.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-11-17T08:57:16.393847"
+  },
+  "957121": {
+    "id": 957121,
+    "title": "C'è qualcuno nel mio scantinato",
+    "release_date": "2025-09-12",
+    "vote_average": 5.373,
+    "poster_path": "/1zpeH8wOrM8p2TTAmBetwhe2BIx.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-11-17T08:57:16.396843"
+  },
+  "9691": {
+    "id": 9691,
+    "title": "Assassins",
+    "release_date": "1995-10-06",
+    "vote_average": 6.499,
+    "poster_path": "/kq7aVTQIBE88zpThL4pIDubxTmX.jpg",
+    "genre_ids": [
+      28,
+      12,
+      80,
+      53
+    ],
+    "cached_at": "2026-11-17T08:57:16.397599"
+  },
+  "659063": {
+    "id": 659063,
+    "title": "Gli spacciati",
+    "release_date": "2021-02-10",
+    "vote_average": 4.599,
+    "poster_path": "/wsFPhc0tPE4TxCoXzACOtN87zeS.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "cached_at": "2026-11-17T08:57:16.406085"
+  },
+  "934660": {
+    "id": 934660,
+    "title": "We Feed People - Uno Chef in prima linea",
+    "release_date": "2022-03-19",
+    "vote_average": 7.0,
+    "poster_path": "/h2XPkbSmoPAqO9ib00Q7XeWO6qP.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-11-17T08:57:16.409987"
   }
 }
