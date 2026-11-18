@@ -180816,5 +180816,125 @@
       99
     ],
     "cached_at": "2026-11-17T08:57:16.409987"
+  },
+  "56366": {
+    "id": 56366,
+    "title": "Dramma della gelosia (tutti i particolari in cronaca)",
+    "release_date": "1970-01-18",
+    "vote_average": 7.191,
+    "poster_path": "/sPLTQXuzT1ikn8TFbfkbv0THgX4.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-11-18T08:22:32.909494"
+  },
+  "50204": {
+    "id": 50204,
+    "title": "Ladri di cadaveri - Burke & Hare",
+    "release_date": "2010-10-29",
+    "vote_average": 6.088,
+    "poster_path": "/rMJHxUJfJjkvOdHdDpG9vAAFxts.jpg",
+    "genre_ids": [
+      35,
+      80,
+      10749
+    ],
+    "cached_at": "2026-11-18T08:22:32.912610"
+  },
+  "12530": {
+    "id": 12530,
+    "title": "Che cosa è successo tra mio padre e tua madre?",
+    "release_date": "1972-12-17",
+    "vote_average": 6.937,
+    "poster_path": "/nWaQMdciqT6WYvXSmVVwrKZ7upb.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-11-18T08:22:32.915345"
+  },
+  "574883": {
+    "id": 574883,
+    "title": "An Affair to Die For - Relazione Omicida",
+    "release_date": "2019-02-01",
+    "vote_average": 5.725,
+    "poster_path": "/sRVRyTTmUTk2JLxLgixIZo5hzlW.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "cached_at": "2026-11-18T08:22:32.915357"
+  },
+  "18990": {
+    "id": 18990,
+    "title": "La mummia",
+    "release_date": "1959-08-01",
+    "vote_average": 6.7,
+    "poster_path": "/eMzjPFPVOIkd8Ht77LmJFyoiASW.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-11-18T08:22:32.926886"
+  },
+  "390401": {
+    "id": 390401,
+    "title": "Custody",
+    "release_date": "2016-04-17",
+    "vote_average": 6.9,
+    "poster_path": "/9HBvD29HeQf0DeQx2ec4TgmRtS7.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-18T08:22:32.927966"
+  },
+  "380225": {
+    "id": 380225,
+    "title": "La pazza gioia",
+    "release_date": "2016-05-17",
+    "vote_average": 7.366,
+    "poster_path": "/xOcKiBmOOiviDzEAzOzu3LATC88.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-11-18T08:22:32.932848"
+  },
+  "23942": {
+    "id": 23942,
+    "title": "Paradise",
+    "release_date": "1982-03-12",
+    "vote_average": 5.996,
+    "poster_path": "/oabFANpJkPqyN0CEQxPJ0xa78vs.jpg",
+    "genre_ids": [
+      10749,
+      12
+    ],
+    "cached_at": "2026-11-18T08:22:32.945535"
+  },
+  "473262": {
+    "id": 473262,
+    "title": "Nico, 1988",
+    "release_date": "2017-10-12",
+    "vote_average": 6.725,
+    "poster_path": "/x3krhl7ZC1oaIWZXvmVkwvqFx3w.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-11-18T08:22:33.315364"
+  },
+  "59037": {
+    "id": 59037,
+    "title": "Amore tossico",
+    "release_date": "1983-09-01",
+    "vote_average": 7.3,
+    "poster_path": "/hQwo0Nwek1kH9QE4ZOO0TN7XAgU.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-11-18T08:22:33.448685"
   }
 }
