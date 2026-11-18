@@ -70696,5 +70696,18 @@
       10759
     ],
     "cached_at": "2026-11-17T08:56:26.251820"
+  },
+  "337700": {
+    "id": 337700,
+    "name": "The Serial Killer Connection",
+    "original_name": "The Serial Killer Connection",
+    "first_air_date": "2026-10-07",
+    "vote_average": 7.333,
+    "poster_path": "/2QVTk55dw9tMUHDlG4027cOTNOv.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-11-18T08:21:06.448787"
   }
 }
