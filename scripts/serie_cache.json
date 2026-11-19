@@ -70709,5 +70709,55 @@
       80
     ],
     "cached_at": "2026-11-18T08:21:06.448787"
+  },
+  "288120": {
+    "id": 288120,
+    "name": "Vienna Game",
+    "original_name": "Vienna Game",
+    "first_air_date": "2026-11-18",
+    "vote_average": 8.5,
+    "poster_path": "/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-19T08:32:54.504121"
+  },
+  "318420": {
+    "id": 318420,
+    "name": "I 12 segni di Valentina",
+    "original_name": "Os 12 Signos de Valentina",
+    "first_air_date": "2026-11-18",
+    "vote_average": 7.0,
+    "poster_path": "/29r2Os54irBgaSZwWY41AC4rHi8.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-19T08:32:54.506047"
+  },
+  "340280": {
+    "id": 340280,
+    "name": "Gordon",
+    "original_name": "Gordon",
+    "first_air_date": "2026-11-18",
+    "vote_average": 8.5,
+    "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-11-19T08:32:54.506541"
+  },
+  "332839": {
+    "id": 332839,
+    "name": "La legge della bestia",
+    "original_name": "Prawo bestii",
+    "first_air_date": "2026-11-18",
+    "vote_average": 7.875,
+    "poster_path": "/gYtYtadU4AdIduG9klh9i64OzaA.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-11-19T08:32:54.509394"
   }
 }

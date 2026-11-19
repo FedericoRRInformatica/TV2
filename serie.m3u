@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:Serie TV VixSrc (126036 Episodi)
+#PLAYLIST:Serie TV VixSrc (126081 Episodi)
 
 
 # Popolari
@@ -109,6 +109,10 @@ https://vixsrc.to/tv/84773/3/2?lang=it/series/
 https://vixsrc.to/tv/84773/3/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Popolari",Il Signore degli Anelli: Gli Anelli del Potere S03 E04
 https://vixsrc.to/tv/84773/3/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Popolari",Il Signore degli Anelli: Gli Anelli del Potere S03 E05
+https://vixsrc.to/tv/84773/3/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Popolari",Il Signore degli Anelli: Gli Anelli del Potere S03 E06
+https://vixsrc.to/tv/84773/3/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg" group-title="SerieTV - Popolari",What We Do in the Shadows S01 E01
 https://vixsrc.to/tv/83631/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg" group-title="SerieTV - Popolari",What We Do in the Shadows S01 E02
@@ -231,6 +235,198 @@ https://vixsrc.to/tv/83631/6/9?lang=it/series/
 https://vixsrc.to/tv/83631/6/10?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg" group-title="SerieTV - Popolari",What We Do in the Shadows S06 E11
 https://vixsrc.to/tv/83631/6/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E01
+https://vixsrc.to/tv/79593/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E02
+https://vixsrc.to/tv/79593/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E03
+https://vixsrc.to/tv/79593/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E04
+https://vixsrc.to/tv/79593/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E05
+https://vixsrc.to/tv/79593/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E06
+https://vixsrc.to/tv/79593/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E07
+https://vixsrc.to/tv/79593/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E08
+https://vixsrc.to/tv/79593/1/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E09
+https://vixsrc.to/tv/79593/1/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E10
+https://vixsrc.to/tv/79593/1/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E11
+https://vixsrc.to/tv/79593/1/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E12
+https://vixsrc.to/tv/79593/1/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E13
+https://vixsrc.to/tv/79593/1/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E14
+https://vixsrc.to/tv/79593/1/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E15
+https://vixsrc.to/tv/79593/1/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E16
+https://vixsrc.to/tv/79593/1/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E17
+https://vixsrc.to/tv/79593/1/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E18
+https://vixsrc.to/tv/79593/1/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E19
+https://vixsrc.to/tv/79593/1/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S01 E20
+https://vixsrc.to/tv/79593/1/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E01
+https://vixsrc.to/tv/79593/2/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E02
+https://vixsrc.to/tv/79593/2/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E03
+https://vixsrc.to/tv/79593/2/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E04
+https://vixsrc.to/tv/79593/2/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E05
+https://vixsrc.to/tv/79593/2/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E06
+https://vixsrc.to/tv/79593/2/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E07
+https://vixsrc.to/tv/79593/2/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E08
+https://vixsrc.to/tv/79593/2/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E09
+https://vixsrc.to/tv/79593/2/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E10
+https://vixsrc.to/tv/79593/2/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E11
+https://vixsrc.to/tv/79593/2/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E12
+https://vixsrc.to/tv/79593/2/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E13
+https://vixsrc.to/tv/79593/2/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E14
+https://vixsrc.to/tv/79593/2/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E15
+https://vixsrc.to/tv/79593/2/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E16
+https://vixsrc.to/tv/79593/2/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E17
+https://vixsrc.to/tv/79593/2/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E18
+https://vixsrc.to/tv/79593/2/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E19
+https://vixsrc.to/tv/79593/2/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S02 E20
+https://vixsrc.to/tv/79593/2/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E01
+https://vixsrc.to/tv/79593/3/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E02
+https://vixsrc.to/tv/79593/3/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E03
+https://vixsrc.to/tv/79593/3/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E04
+https://vixsrc.to/tv/79593/3/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E05
+https://vixsrc.to/tv/79593/3/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E06
+https://vixsrc.to/tv/79593/3/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E07
+https://vixsrc.to/tv/79593/3/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E08
+https://vixsrc.to/tv/79593/3/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E09
+https://vixsrc.to/tv/79593/3/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E10
+https://vixsrc.to/tv/79593/3/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E11
+https://vixsrc.to/tv/79593/3/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E12
+https://vixsrc.to/tv/79593/3/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E13
+https://vixsrc.to/tv/79593/3/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E14
+https://vixsrc.to/tv/79593/3/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E15
+https://vixsrc.to/tv/79593/3/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S03 E16
+https://vixsrc.to/tv/79593/3/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E01
+https://vixsrc.to/tv/79593/4/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E02
+https://vixsrc.to/tv/79593/4/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E03
+https://vixsrc.to/tv/79593/4/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E04
+https://vixsrc.to/tv/79593/4/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E05
+https://vixsrc.to/tv/79593/4/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E06
+https://vixsrc.to/tv/79593/4/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E07
+https://vixsrc.to/tv/79593/4/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E08
+https://vixsrc.to/tv/79593/4/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E09
+https://vixsrc.to/tv/79593/4/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E10
+https://vixsrc.to/tv/79593/4/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E11
+https://vixsrc.to/tv/79593/4/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E12
+https://vixsrc.to/tv/79593/4/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E13
+https://vixsrc.to/tv/79593/4/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E14
+https://vixsrc.to/tv/79593/4/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E15
+https://vixsrc.to/tv/79593/4/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E16
+https://vixsrc.to/tv/79593/4/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E17
+https://vixsrc.to/tv/79593/4/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E18
+https://vixsrc.to/tv/79593/4/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E19
+https://vixsrc.to/tv/79593/4/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S04 E20
+https://vixsrc.to/tv/79593/4/20?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E01
+https://vixsrc.to/tv/79593/5/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E02
+https://vixsrc.to/tv/79593/5/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E03
+https://vixsrc.to/tv/79593/5/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E04
+https://vixsrc.to/tv/79593/5/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E05
+https://vixsrc.to/tv/79593/5/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E06
+https://vixsrc.to/tv/79593/5/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E07
+https://vixsrc.to/tv/79593/5/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E08
+https://vixsrc.to/tv/79593/5/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E09
+https://vixsrc.to/tv/79593/5/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E10
+https://vixsrc.to/tv/79593/5/10?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E11
+https://vixsrc.to/tv/79593/5/11?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E12
+https://vixsrc.to/tv/79593/5/12?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E13
+https://vixsrc.to/tv/79593/5/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E14
+https://vixsrc.to/tv/79593/5/14?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E15
+https://vixsrc.to/tv/79593/5/15?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E16
+https://vixsrc.to/tv/79593/5/16?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E17
+https://vixsrc.to/tv/79593/5/17?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E18
+https://vixsrc.to/tv/79593/5/18?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E19
+https://vixsrc.to/tv/79593/5/19?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg" group-title="SerieTV - Popolari",Magnum P.I. S05 E20
+https://vixsrc.to/tv/79593/5/20?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg" group-title="SerieTV - Popolari",Succession S01 E01
 https://vixsrc.to/tv/76331/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg" group-title="SerieTV - Popolari",Succession S01 E02
@@ -309,126 +505,6 @@ https://vixsrc.to/tv/76331/4/8?lang=it/series/
 https://vixsrc.to/tv/76331/4/9?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg" group-title="SerieTV - Popolari",Succession S04 E10
 https://vixsrc.to/tv/76331/4/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S01 E01
-https://vixsrc.to/tv/65494/1/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S01 E02
-https://vixsrc.to/tv/65494/1/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S01 E03
-https://vixsrc.to/tv/65494/1/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S01 E04
-https://vixsrc.to/tv/65494/1/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S01 E05
-https://vixsrc.to/tv/65494/1/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S01 E06
-https://vixsrc.to/tv/65494/1/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S01 E07
-https://vixsrc.to/tv/65494/1/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S01 E08
-https://vixsrc.to/tv/65494/1/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S01 E09
-https://vixsrc.to/tv/65494/1/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S01 E10
-https://vixsrc.to/tv/65494/1/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S02 E01
-https://vixsrc.to/tv/65494/2/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S02 E02
-https://vixsrc.to/tv/65494/2/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S02 E03
-https://vixsrc.to/tv/65494/2/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S02 E04
-https://vixsrc.to/tv/65494/2/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S02 E05
-https://vixsrc.to/tv/65494/2/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S02 E06
-https://vixsrc.to/tv/65494/2/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S02 E07
-https://vixsrc.to/tv/65494/2/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S02 E08
-https://vixsrc.to/tv/65494/2/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S02 E09
-https://vixsrc.to/tv/65494/2/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S02 E10
-https://vixsrc.to/tv/65494/2/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S03 E01
-https://vixsrc.to/tv/65494/3/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S03 E02
-https://vixsrc.to/tv/65494/3/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S03 E03
-https://vixsrc.to/tv/65494/3/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S03 E04
-https://vixsrc.to/tv/65494/3/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S03 E05
-https://vixsrc.to/tv/65494/3/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S03 E06
-https://vixsrc.to/tv/65494/3/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S03 E07
-https://vixsrc.to/tv/65494/3/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S03 E08
-https://vixsrc.to/tv/65494/3/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S03 E09
-https://vixsrc.to/tv/65494/3/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S03 E10
-https://vixsrc.to/tv/65494/3/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S04 E01
-https://vixsrc.to/tv/65494/4/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S04 E02
-https://vixsrc.to/tv/65494/4/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S04 E03
-https://vixsrc.to/tv/65494/4/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S04 E04
-https://vixsrc.to/tv/65494/4/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S04 E05
-https://vixsrc.to/tv/65494/4/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S04 E06
-https://vixsrc.to/tv/65494/4/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S04 E07
-https://vixsrc.to/tv/65494/4/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S04 E08
-https://vixsrc.to/tv/65494/4/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S04 E09
-https://vixsrc.to/tv/65494/4/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S04 E10
-https://vixsrc.to/tv/65494/4/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S05 E01
-https://vixsrc.to/tv/65494/5/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S05 E02
-https://vixsrc.to/tv/65494/5/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S05 E03
-https://vixsrc.to/tv/65494/5/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S05 E04
-https://vixsrc.to/tv/65494/5/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S05 E05
-https://vixsrc.to/tv/65494/5/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S05 E06
-https://vixsrc.to/tv/65494/5/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S05 E07
-https://vixsrc.to/tv/65494/5/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S05 E08
-https://vixsrc.to/tv/65494/5/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S05 E09
-https://vixsrc.to/tv/65494/5/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S05 E10
-https://vixsrc.to/tv/65494/5/10?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S06 E01
-https://vixsrc.to/tv/65494/6/1?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S06 E02
-https://vixsrc.to/tv/65494/6/2?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S06 E03
-https://vixsrc.to/tv/65494/6/3?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S06 E04
-https://vixsrc.to/tv/65494/6/4?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S06 E05
-https://vixsrc.to/tv/65494/6/5?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S06 E06
-https://vixsrc.to/tv/65494/6/6?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S06 E07
-https://vixsrc.to/tv/65494/6/7?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S06 E08
-https://vixsrc.to/tv/65494/6/8?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S06 E09
-https://vixsrc.to/tv/65494/6/9?lang=it/series/
-#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg" group-title="SerieTV - Popolari",The Crown S06 E10
-https://vixsrc.to/tv/65494/6/10?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nkB2nnTTjNJ8ypyY65lHMDBYq7S.jpg" group-title="SerieTV - Popolari",Marco e Star contro le forze del male S01 E01
 https://vixsrc.to/tv/61923/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nkB2nnTTjNJ8ypyY65lHMDBYq7S.jpg" group-title="SerieTV - Popolari",Marco e Star contro le forze del male S01 E02
@@ -8935,6 +9011,8 @@ https://vixsrc.to/tv/303745/1/7?lang=it/series/
 https://vixsrc.to/tv/303745/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Action & Adventure",Amore sotto copertura S01 E09
 https://vixsrc.to/tv/303745/1/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Action & Adventure",Amore sotto copertura S01 E10
+https://vixsrc.to/tv/303745/1/10?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg" group-title="SerieTV - Action & Adventure",Organize Isler: Money Trap S01 E01
 https://vixsrc.to/tv/320754/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg" group-title="SerieTV - Action & Adventure",Organize Isler: Money Trap S01 E02
@@ -14713,6 +14791,10 @@ https://vixsrc.to/tv/84773/3/2?lang=it/series/
 https://vixsrc.to/tv/84773/3/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Action & Adventure",Il Signore degli Anelli: Gli Anelli del Potere S03 E04
 https://vixsrc.to/tv/84773/3/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Action & Adventure",Il Signore degli Anelli: Gli Anelli del Potere S03 E05
+https://vixsrc.to/tv/84773/3/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Action & Adventure",Il Signore degli Anelli: Gli Anelli del Potere S03 E06
+https://vixsrc.to/tv/84773/3/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1smhhojac4N2KFbPYtBx1K7iyjd.jpg" group-title="SerieTV - Action & Adventure",飞狐外传 S01 E01
 https://vixsrc.to/tv/209055/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/1smhhojac4N2KFbPYtBx1K7iyjd.jpg" group-title="SerieTV - Action & Adventure",飞狐外传 S01 E02
@@ -91711,6 +91793,34 @@ https://vixsrc.to/tv/1996/6/26?lang=it/series/
 https://vixsrc.to/tv/8392/1/4?lang=it/series/
 
 # Commedia
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg" group-title="SerieTV - Commedia",Vienna Game S01 E01
+https://vixsrc.to/tv/288120/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg" group-title="SerieTV - Commedia",Vienna Game S01 E02
+https://vixsrc.to/tv/288120/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg" group-title="SerieTV - Commedia",Vienna Game S01 E03
+https://vixsrc.to/tv/288120/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg" group-title="SerieTV - Commedia",Vienna Game S01 E04
+https://vixsrc.to/tv/288120/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg" group-title="SerieTV - Commedia",Vienna Game S01 E05
+https://vixsrc.to/tv/288120/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg" group-title="SerieTV - Commedia",Vienna Game S01 E06
+https://vixsrc.to/tv/288120/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/29r2Os54irBgaSZwWY41AC4rHi8.jpg" group-title="SerieTV - Commedia",I 12 segni di Valentina S01 E01
+https://vixsrc.to/tv/318420/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/29r2Os54irBgaSZwWY41AC4rHi8.jpg" group-title="SerieTV - Commedia",I 12 segni di Valentina S01 E02
+https://vixsrc.to/tv/318420/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/29r2Os54irBgaSZwWY41AC4rHi8.jpg" group-title="SerieTV - Commedia",I 12 segni di Valentina S01 E03
+https://vixsrc.to/tv/318420/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/29r2Os54irBgaSZwWY41AC4rHi8.jpg" group-title="SerieTV - Commedia",I 12 segni di Valentina S01 E04
+https://vixsrc.to/tv/318420/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/29r2Os54irBgaSZwWY41AC4rHi8.jpg" group-title="SerieTV - Commedia",I 12 segni di Valentina S01 E05
+https://vixsrc.to/tv/318420/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/29r2Os54irBgaSZwWY41AC4rHi8.jpg" group-title="SerieTV - Commedia",I 12 segni di Valentina S01 E06
+https://vixsrc.to/tv/318420/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/29r2Os54irBgaSZwWY41AC4rHi8.jpg" group-title="SerieTV - Commedia",I 12 segni di Valentina S01 E07
+https://vixsrc.to/tv/318420/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/29r2Os54irBgaSZwWY41AC4rHi8.jpg" group-title="SerieTV - Commedia",I 12 segni di Valentina S01 E08
+https://vixsrc.to/tv/318420/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg" group-title="SerieTV - Commedia",Cunk on Cinema S01 E01
 https://vixsrc.to/tv/335981/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg" group-title="SerieTV - Commedia",Cunk on Cinema S01 E02
@@ -91827,6 +91937,8 @@ https://vixsrc.to/tv/303745/1/7?lang=it/series/
 https://vixsrc.to/tv/303745/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Commedia",Amore sotto copertura S01 E09
 https://vixsrc.to/tv/303745/1/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Commedia",Amore sotto copertura S01 E10
+https://vixsrc.to/tv/303745/1/10?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg" group-title="SerieTV - Commedia",Organize Isler: Money Trap S01 E01
 https://vixsrc.to/tv/320754/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg" group-title="SerieTV - Commedia",Organize Isler: Money Trap S01 E02
@@ -91913,6 +92025,8 @@ https://vixsrc.to/tv/305551/1/4?lang=it/series/
 https://vixsrc.to/tv/305551/1/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qzH80C1YNzucLsVJfW23RxvX9vS.jpg" group-title="SerieTV - Commedia",メリーベリーラブ S01 E06
 https://vixsrc.to/tv/305551/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qzH80C1YNzucLsVJfW23RxvX9vS.jpg" group-title="SerieTV - Commedia",メリーベリーラブ S01 E07
+https://vixsrc.to/tv/305551/1/7?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/kgpbj2EQOVHYa18TN4oNW6N4crk.jpg" group-title="SerieTV - Commedia",Peccato S01 E01
 https://vixsrc.to/tv/330200/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/kgpbj2EQOVHYa18TN4oNW6N4crk.jpg" group-title="SerieTV - Commedia",Peccato S01 E02
@@ -93597,6 +93711,8 @@ https://vixsrc.to/tv/258742/2/2?lang=it/series/
 https://vixsrc.to/tv/258742/2/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/akJ3gusmlRGvKoFzLgJxsIBL4W4.jpg" group-title="SerieTV - Commedia",All's Fair S02 E04
 https://vixsrc.to/tv/258742/2/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/akJ3gusmlRGvKoFzLgJxsIBL4W4.jpg" group-title="SerieTV - Commedia",All's Fair S02 E05
+https://vixsrc.to/tv/258742/2/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tiqcVU2X0ef0Vl8MWVtyV9U4TwM.jpg" group-title="SerieTV - Commedia",Piacere di non conoscerti S01 E01
 https://vixsrc.to/tv/285770/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tiqcVU2X0ef0Vl8MWVtyV9U4TwM.jpg" group-title="SerieTV - Commedia",Piacere di non conoscerti S01 E02
@@ -100207,6 +100323,8 @@ https://vixsrc.to/tv/226680/8/2?lang=it/series/
 https://vixsrc.to/tv/226680/8/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/gczG92zbCmVDI2ahOpchGzr6895.jpg" group-title="SerieTV - Commedia",GialappaShow S08 E04
 https://vixsrc.to/tv/226680/8/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/gczG92zbCmVDI2ahOpchGzr6895.jpg" group-title="SerieTV - Commedia",GialappaShow S08 E05
+https://vixsrc.to/tv/226680/8/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3o9VE3rEQDUdEABhjltxAtWDrdX.jpg" group-title="SerieTV - Commedia",XO, Kitty S01 E01
 https://vixsrc.to/tv/195670/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3o9VE3rEQDUdEABhjltxAtWDrdX.jpg" group-title="SerieTV - Commedia",XO, Kitty S01 E02
@@ -187479,6 +187597,28 @@ https://vixsrc.to/tv/1996/6/25?lang=it/series/
 https://vixsrc.to/tv/1996/6/26?lang=it/series/
 
 # Crime
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Crime",Gordon S01 E01
+https://vixsrc.to/tv/340280/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Crime",Gordon S01 E02
+https://vixsrc.to/tv/340280/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Crime",Gordon S01 E03
+https://vixsrc.to/tv/340280/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Crime",Gordon S01 E04
+https://vixsrc.to/tv/340280/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Crime",Gordon S01 E05
+https://vixsrc.to/tv/340280/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Crime",Gordon S01 E06
+https://vixsrc.to/tv/340280/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Crime",Gordon S01 E07
+https://vixsrc.to/tv/340280/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/gYtYtadU4AdIduG9klh9i64OzaA.jpg" group-title="SerieTV - Crime",La legge della bestia S01 E01
+https://vixsrc.to/tv/332839/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/gYtYtadU4AdIduG9klh9i64OzaA.jpg" group-title="SerieTV - Crime",La legge della bestia S01 E02
+https://vixsrc.to/tv/332839/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/gYtYtadU4AdIduG9klh9i64OzaA.jpg" group-title="SerieTV - Crime",La legge della bestia S01 E03
+https://vixsrc.to/tv/332839/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/gYtYtadU4AdIduG9klh9i64OzaA.jpg" group-title="SerieTV - Crime",La legge della bestia S01 E04
+https://vixsrc.to/tv/332839/1/4?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/cJUMJm96OcnPoDqEtL0FfwZ05ZX.jpg" group-title="SerieTV - Crime",Silent Night S01 E01
 https://vixsrc.to/tv/305245/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/cuk89BAhoyDKCByq7tyJHv5Wa8W.jpg" group-title="SerieTV - Crime",12 12 12 S01 E01
@@ -187549,6 +187689,8 @@ https://vixsrc.to/tv/303745/1/7?lang=it/series/
 https://vixsrc.to/tv/303745/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Crime",Amore sotto copertura S01 E09
 https://vixsrc.to/tv/303745/1/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Crime",Amore sotto copertura S01 E10
+https://vixsrc.to/tv/303745/1/10?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg" group-title="SerieTV - Crime",Organize Isler: Money Trap S01 E01
 https://vixsrc.to/tv/320754/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg" group-title="SerieTV - Crime",Organize Isler: Money Trap S01 E02
@@ -247599,6 +247741,28 @@ https://vixsrc.to/tv/1430/1/12?lang=it/series/
 https://vixsrc.to/tv/1430/1/13?lang=it/series/
 
 # Dramma
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Dramma",Gordon S01 E01
+https://vixsrc.to/tv/340280/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Dramma",Gordon S01 E02
+https://vixsrc.to/tv/340280/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Dramma",Gordon S01 E03
+https://vixsrc.to/tv/340280/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Dramma",Gordon S01 E04
+https://vixsrc.to/tv/340280/1/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Dramma",Gordon S01 E05
+https://vixsrc.to/tv/340280/1/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Dramma",Gordon S01 E06
+https://vixsrc.to/tv/340280/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg" group-title="SerieTV - Dramma",Gordon S01 E07
+https://vixsrc.to/tv/340280/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/gYtYtadU4AdIduG9klh9i64OzaA.jpg" group-title="SerieTV - Dramma",La legge della bestia S01 E01
+https://vixsrc.to/tv/332839/1/1?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/gYtYtadU4AdIduG9klh9i64OzaA.jpg" group-title="SerieTV - Dramma",La legge della bestia S01 E02
+https://vixsrc.to/tv/332839/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/gYtYtadU4AdIduG9klh9i64OzaA.jpg" group-title="SerieTV - Dramma",La legge della bestia S01 E03
+https://vixsrc.to/tv/332839/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/gYtYtadU4AdIduG9klh9i64OzaA.jpg" group-title="SerieTV - Dramma",La legge della bestia S01 E04
+https://vixsrc.to/tv/332839/1/4?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/cJUMJm96OcnPoDqEtL0FfwZ05ZX.jpg" group-title="SerieTV - Dramma",Silent Night S01 E01
 https://vixsrc.to/tv/305245/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/cuk89BAhoyDKCByq7tyJHv5Wa8W.jpg" group-title="SerieTV - Dramma",12 12 12 S01 E01
@@ -247721,6 +247885,10 @@ https://vixsrc.to/tv/279246/1/4?lang=it/series/
 https://vixsrc.to/tv/279246/1/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Dramma",L’imperatrice risposata S01 E06
 https://vixsrc.to/tv/279246/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Dramma",L’imperatrice risposata S01 E07
+https://vixsrc.to/tv/279246/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Dramma",L’imperatrice risposata S01 E08
+https://vixsrc.to/tv/279246/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/v3lygwSQZHw9IGGQvbeZeNYHspp.jpg" group-title="SerieTV - Dramma",Nocturne S01 E01
 https://vixsrc.to/tv/292741/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/v3lygwSQZHw9IGGQvbeZeNYHspp.jpg" group-title="SerieTV - Dramma",Nocturne S01 E02
@@ -247801,6 +247969,8 @@ https://vixsrc.to/tv/303745/1/7?lang=it/series/
 https://vixsrc.to/tv/303745/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Dramma",Amore sotto copertura S01 E09
 https://vixsrc.to/tv/303745/1/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg" group-title="SerieTV - Dramma",Amore sotto copertura S01 E10
+https://vixsrc.to/tv/303745/1/10?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg" group-title="SerieTV - Dramma",Where the Mask Ends S01 E01
 https://vixsrc.to/tv/300146/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg" group-title="SerieTV - Dramma",Where the Mask Ends S01 E02
@@ -248037,6 +248207,8 @@ https://vixsrc.to/tv/305551/1/4?lang=it/series/
 https://vixsrc.to/tv/305551/1/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qzH80C1YNzucLsVJfW23RxvX9vS.jpg" group-title="SerieTV - Dramma",メリーベリーラブ S01 E06
 https://vixsrc.to/tv/305551/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qzH80C1YNzucLsVJfW23RxvX9vS.jpg" group-title="SerieTV - Dramma",メリーベリーラブ S01 E07
+https://vixsrc.to/tv/305551/1/7?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/u2PDaI3BYtGg0YO0rOKnycDwxld.jpg" group-title="SerieTV - Dramma",Dentro il cerchio S01 E01
 https://vixsrc.to/tv/290233/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/u2PDaI3BYtGg0YO0rOKnycDwxld.jpg" group-title="SerieTV - Dramma",Dentro il cerchio S01 E02
@@ -251607,6 +251779,8 @@ https://vixsrc.to/tv/258742/2/2?lang=it/series/
 https://vixsrc.to/tv/258742/2/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/akJ3gusmlRGvKoFzLgJxsIBL4W4.jpg" group-title="SerieTV - Dramma",All's Fair S02 E04
 https://vixsrc.to/tv/258742/2/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/akJ3gusmlRGvKoFzLgJxsIBL4W4.jpg" group-title="SerieTV - Dramma",All's Fair S02 E05
+https://vixsrc.to/tv/258742/2/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tiqcVU2X0ef0Vl8MWVtyV9U4TwM.jpg" group-title="SerieTV - Dramma",Piacere di non conoscerti S01 E01
 https://vixsrc.to/tv/285770/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/tiqcVU2X0ef0Vl8MWVtyV9U4TwM.jpg" group-title="SerieTV - Dramma",Piacere di non conoscerti S01 E02
@@ -257113,6 +257287,8 @@ https://vixsrc.to/tv/208921/2/7?lang=it/series/
 https://vixsrc.to/tv/208921/2/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/kW5wn1EPIkEentlhGS1p9M4BGkg.jpg" group-title="SerieTV - Dramma",Rivals S02 E09
 https://vixsrc.to/tv/208921/2/9?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/kW5wn1EPIkEentlhGS1p9M4BGkg.jpg" group-title="SerieTV - Dramma",Rivals S02 E10
+https://vixsrc.to/tv/208921/2/10?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yrGQwoY9XUglAlCDzsIlr3ws4pM.jpg" group-title="SerieTV - Dramma",It's Florida, Man. S01 E01
 https://vixsrc.to/tv/273801/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/yrGQwoY9XUglAlCDzsIlr3ws4pM.jpg" group-title="SerieTV - Dramma",It's Florida, Man. S01 E02
@@ -259835,6 +260011,10 @@ https://vixsrc.to/tv/106379/2/8?lang=it/series/
 https://vixsrc.to/tv/209750/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/sr89q4Ts3sbnAokj2YccE2K1HiI.jpg" group-title="SerieTV - Dramma",Blood Free - Il potere del sangue S01 E02
 https://vixsrc.to/tv/209750/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/sr89q4Ts3sbnAokj2YccE2K1HiI.jpg" group-title="SerieTV - Dramma",Blood Free - Il potere del sangue S01 E03
+https://vixsrc.to/tv/209750/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/sr89q4Ts3sbnAokj2YccE2K1HiI.jpg" group-title="SerieTV - Dramma",Blood Free - Il potere del sangue S01 E04
+https://vixsrc.to/tv/209750/1/4?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/sr89q4Ts3sbnAokj2YccE2K1HiI.jpg" group-title="SerieTV - Dramma",Blood Free - Il potere del sangue S01 E05
 https://vixsrc.to/tv/209750/1/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/sr89q4Ts3sbnAokj2YccE2K1HiI.jpg" group-title="SerieTV - Dramma",Blood Free - Il potere del sangue S01 E06
@@ -272145,6 +272325,10 @@ https://vixsrc.to/tv/84773/3/2?lang=it/series/
 https://vixsrc.to/tv/84773/3/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Dramma",Il Signore degli Anelli: Gli Anelli del Potere S03 E04
 https://vixsrc.to/tv/84773/3/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Dramma",Il Signore degli Anelli: Gli Anelli del Potere S03 E05
+https://vixsrc.to/tv/84773/3/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Dramma",Il Signore degli Anelli: Gli Anelli del Potere S03 E06
+https://vixsrc.to/tv/84773/3/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3ON82HWiYWFdd6h2Ned8V3pjZoi.jpg" group-title="SerieTV - Dramma",La vita secondo Ella S01 E01
 https://vixsrc.to/tv/207639/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/3ON82HWiYWFdd6h2Ned8V3pjZoi.jpg" group-title="SerieTV - Dramma",La vita secondo Ella S01 E02
@@ -280333,6 +280517,8 @@ https://vixsrc.to/tv/137948/2/6?lang=it/series/
 https://vixsrc.to/tv/137948/2/7?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/9cYgLzhMzQdRTfCbfER1LKLj4GL.jpg" group-title="SerieTV - Dramma",Sacrifice S02 E08
 https://vixsrc.to/tv/137948/2/8?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/9cYgLzhMzQdRTfCbfER1LKLj4GL.jpg" group-title="SerieTV - Dramma",Sacrifice S02 E09
+https://vixsrc.to/tv/137948/2/9?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nxfyXDghW2SbQbwRen6uh12OzXV.jpg" group-title="SerieTV - Dramma",Dr. Brain S01 E01
 https://vixsrc.to/tv/119955/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/nxfyXDghW2SbQbwRen6uh12OzXV.jpg" group-title="SerieTV - Dramma",Dr. Brain S01 E02
@@ -282243,6 +282429,8 @@ https://vixsrc.to/tv/133174/5/11?lang=it/series/
 https://vixsrc.to/tv/133174/5/12?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/uo7unmhOjl60cOQQ1YA82QmXKxN.jpg" group-title="SerieTV - Dramma",All the Queen's Men S05 E13
 https://vixsrc.to/tv/133174/5/13?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/uo7unmhOjl60cOQQ1YA82QmXKxN.jpg" group-title="SerieTV - Dramma",All the Queen's Men S05 E14
+https://vixsrc.to/tv/133174/5/14?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jDZXjtO3i1WpePWmg7paVKNpdfz.jpg" group-title="SerieTV - Dramma",मुंबई डायरीज S02 E01
 https://vixsrc.to/tv/115466/2/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/jDZXjtO3i1WpePWmg7paVKNpdfz.jpg" group-title="SerieTV - Dramma",मुंबई डायरीज S02 E02
@@ -475763,6 +475951,12 @@ https://vixsrc.to/tv/287309/3/46?lang=it/series/
 https://vixsrc.to/tv/287309/3/47?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/knUtlg0SwTvPx3uaDkt7jgZiytM.jpg" group-title="SerieTV - Reality",Foodish S03 E48
 https://vixsrc.to/tv/287309/3/48?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/knUtlg0SwTvPx3uaDkt7jgZiytM.jpg" group-title="SerieTV - Reality",Foodish S03 E49
+https://vixsrc.to/tv/287309/3/49?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/knUtlg0SwTvPx3uaDkt7jgZiytM.jpg" group-title="SerieTV - Reality",Foodish S03 E50
+https://vixsrc.to/tv/287309/3/50?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/knUtlg0SwTvPx3uaDkt7jgZiytM.jpg" group-title="SerieTV - Reality",Foodish S03 E51
+https://vixsrc.to/tv/287309/3/51?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iC6xzFgRRq5yHngSnmusXkNL928.jpg" group-title="SerieTV - Reality",Million Dollar Secret S01 E01
 https://vixsrc.to/tv/285205/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/iC6xzFgRRq5yHngSnmusXkNL928.jpg" group-title="SerieTV - Reality",Million Dollar Secret S01 E02
@@ -481105,6 +481299,8 @@ https://vixsrc.to/tv/154521/8/4?lang=it/series/
 https://vixsrc.to/tv/154521/8/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/zxp0rXiQM8uS2RqQfc6G4aorIyS.jpg" group-title="SerieTV - Reality",The Kardashians S08 E06
 https://vixsrc.to/tv/154521/8/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/zxp0rXiQM8uS2RqQfc6G4aorIyS.jpg" group-title="SerieTV - Reality",The Kardashians S08 E07
+https://vixsrc.to/tv/154521/8/7?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/4x3Lr24Jdm19OE8JutAoyXOrBBl.jpg" group-title="SerieTV - Reality",L'ultimatum: o mi sposi o te ne vai S01 E01
 https://vixsrc.to/tv/169588/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/4x3Lr24Jdm19OE8JutAoyXOrBBl.jpg" group-title="SerieTV - Reality",L'ultimatum: o mi sposi o te ne vai S01 E02
@@ -495177,6 +495373,10 @@ https://vixsrc.to/tv/279246/1/4?lang=it/series/
 https://vixsrc.to/tv/279246/1/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",L’imperatrice risposata S01 E06
 https://vixsrc.to/tv/279246/1/6?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",L’imperatrice risposata S01 E07
+https://vixsrc.to/tv/279246/1/7?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",L’imperatrice risposata S01 E08
+https://vixsrc.to/tv/279246/1/8?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Bass X Machina S01 E01
 https://vixsrc.to/tv/314271/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Bass X Machina S01 E02
@@ -497609,6 +497809,10 @@ https://vixsrc.to/tv/252489/1/3?lang=it/series/
 https://vixsrc.to/tv/209750/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/sr89q4Ts3sbnAokj2YccE2K1HiI.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Blood Free - Il potere del sangue S01 E02
 https://vixsrc.to/tv/209750/1/2?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/sr89q4Ts3sbnAokj2YccE2K1HiI.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Blood Free - Il potere del sangue S01 E03
+https://vixsrc.to/tv/209750/1/3?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/sr89q4Ts3sbnAokj2YccE2K1HiI.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Blood Free - Il potere del sangue S01 E04
+https://vixsrc.to/tv/209750/1/4?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/sr89q4Ts3sbnAokj2YccE2K1HiI.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Blood Free - Il potere del sangue S01 E05
 https://vixsrc.to/tv/209750/1/5?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/sr89q4Ts3sbnAokj2YccE2K1HiI.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Blood Free - Il potere del sangue S01 E06
@@ -500725,6 +500929,10 @@ https://vixsrc.to/tv/84773/3/2?lang=it/series/
 https://vixsrc.to/tv/84773/3/3?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Il Signore degli Anelli: Gli Anelli del Potere S03 E04
 https://vixsrc.to/tv/84773/3/4?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Il Signore degli Anelli: Gli Anelli del Potere S03 E05
+https://vixsrc.to/tv/84773/3/5?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg" group-title="SerieTV - Sci-Fi & Fantasy",Il Signore degli Anelli: Gli Anelli del Potere S03 E06
+https://vixsrc.to/tv/84773/3/6?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg" group-title="SerieTV - Sci-Fi & Fantasy",House of the Dragon S01 E01
 https://vixsrc.to/tv/94997/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg" group-title="SerieTV - Sci-Fi & Fantasy",House of the Dragon S01 E02
@@ -544983,6 +545191,12 @@ https://vixsrc.to/tv/287309/3/46?lang=it/series/
 https://vixsrc.to/tv/287309/3/47?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/knUtlg0SwTvPx3uaDkt7jgZiytM.jpg" group-title="SerieTV - Talk",Foodish S03 E48
 https://vixsrc.to/tv/287309/3/48?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/knUtlg0SwTvPx3uaDkt7jgZiytM.jpg" group-title="SerieTV - Talk",Foodish S03 E49
+https://vixsrc.to/tv/287309/3/49?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/knUtlg0SwTvPx3uaDkt7jgZiytM.jpg" group-title="SerieTV - Talk",Foodish S03 E50
+https://vixsrc.to/tv/287309/3/50?lang=it/series/
+#EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/knUtlg0SwTvPx3uaDkt7jgZiytM.jpg" group-title="SerieTV - Talk",Foodish S03 E51
+https://vixsrc.to/tv/287309/3/51?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/9XZEUjJzxovqoJK4IEydD1XgKay.jpg" group-title="SerieTV - Talk",Luca Bizzarri - Non hanno un amico S01 E01
 https://vixsrc.to/tv/283307/1/1?lang=it/series/
 #EXTINF:-1 type="series" tvg-logo="https://image.tmdb.org/t/p/w500/hLEfmXVsChXKRA8Kxb5J37IhDgr.jpg" group-title="SerieTV - Talk",Cobra Kai VI: I segreti del dojo S01 E01
