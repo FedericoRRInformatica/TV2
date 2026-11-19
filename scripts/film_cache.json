@@ -180936,5 +180936,80 @@
       80
     ],
     "cached_at": "2026-11-18T08:22:33.448685"
+  },
+  "37903": {
+    "id": 37903,
+    "title": "Il nastro bianco",
+    "release_date": "2009-09-24",
+    "vote_average": 7.474,
+    "poster_path": "/4ofEWTwzoHAfXBBd3Gue8fuIkZv.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2026-11-19T08:34:22.323226"
+  },
+  "1987": {
+    "id": 1987,
+    "title": "Benny's Video",
+    "release_date": "1992-11-06",
+    "vote_average": 6.9,
+    "poster_path": "/w21dPYUIM2t8amHFHvoptMfiDV2.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-11-19T08:34:22.328331"
+  },
+  "43947": {
+    "id": 43947,
+    "title": "I Spit on Your Grave",
+    "release_date": "2010-06-17",
+    "vote_average": 6.517,
+    "poster_path": "/sD5mBllYcBR5sQTyR2VGYhpHf6B.jpg",
+    "genre_ids": [
+      53,
+      80,
+      27
+    ],
+    "cached_at": "2026-11-19T08:34:22.333315"
+  },
+  "1131943": {
+    "id": 1131943,
+    "title": "Madden",
+    "release_date": "2026-11-18",
+    "vote_average": 7.75,
+    "poster_path": "/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+    "genre_ids": [
+      18,
+      36,
+      35
+    ],
+    "cached_at": "2026-11-19T08:34:22.335701"
+  },
+  "1551025": {
+    "id": 1551025,
+    "title": "Guarding Stars",
+    "release_date": "2026-11-18",
+    "vote_average": 7.2,
+    "poster_path": "/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-11-19T08:34:22.341576"
+  },
+  "1387382": {
+    "id": 1387382,
+    "title": "Hunting season - Caccia estrema",
+    "release_date": "2025-12-05",
+    "vote_average": 7.3,
+    "poster_path": "/hG4WWZf0eKe58rzBCxSNK82Cfzx.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "cached_at": "2026-11-19T08:34:22.342980"
   }
 }
