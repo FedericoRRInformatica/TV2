@@ -181011,5 +181011,125 @@
       53
     ],
     "cached_at": "2026-11-19T08:34:22.342980"
+  },
+  "842859": {
+    "id": 842859,
+    "title": "Il dono più prezioso",
+    "release_date": "2024-11-20",
+    "vote_average": 7.7,
+    "poster_path": "/nt8ENu1l8S5hV2fx3ijJaJHaasL.jpg",
+    "genre_ids": [
+      16,
+      18,
+      36
+    ],
+    "cached_at": "2026-11-20T08:17:12.368674"
+  },
+  "1156125": {
+    "id": 1156125,
+    "title": "Il male non esiste",
+    "release_date": "2023-12-06",
+    "vote_average": 6.827,
+    "poster_path": "/8e5Ez58etPqAPv7tNVDXfIZnyVc.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-20T08:17:12.368691"
+  },
+  "46203": {
+    "id": 46203,
+    "title": "Jane Eyre",
+    "release_date": "1997-03-09",
+    "vote_average": 7.05,
+    "poster_path": "/1j3MacXlWOJg0nrzmBfmlqPoWZp.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10770
+    ],
+    "cached_at": "2026-11-20T08:17:12.372192"
+  },
+  "958487": {
+    "id": 958487,
+    "title": "Plan 75",
+    "release_date": "2022-06-17",
+    "vote_average": 6.663,
+    "poster_path": "/qy6V327vtsk41dy9XI6rTRjtrxN.jpg",
+    "genre_ids": [
+      18,
+      878
+    ],
+    "cached_at": "2026-11-20T08:17:12.386356"
+  },
+  "58706": {
+    "id": 58706,
+    "title": "Mia moglie è una strega",
+    "release_date": "1980-12-01",
+    "vote_average": 5.943,
+    "poster_path": "/pmnGcokotaicAuJbQo9SNzHNloa.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "cached_at": "2026-11-20T08:17:12.388368"
+  },
+  "1464883": {
+    "id": 1464883,
+    "title": "La torta del presidente",
+    "release_date": "2026-01-22",
+    "vote_average": 7.418,
+    "poster_path": "/qvxykSWxdbjjpSweWaiIdGFXldx.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-20T08:17:12.389274"
+  },
+  "803208": {
+    "id": 803208,
+    "title": "Árva",
+    "release_date": "2025-10-23",
+    "vote_average": 6.1,
+    "poster_path": "/cfDIfmcIwBJddo5p3l3Q2CA9o5w.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-20T08:17:12.403434"
+  },
+  "12193": {
+    "id": 12193,
+    "title": "Tutti insieme inevitabilmente",
+    "release_date": "2008-11-26",
+    "vote_average": 5.812,
+    "poster_path": "/q33Q7wZc10OdTASGW8QIyvndi77.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ],
+    "cached_at": "2026-11-20T08:17:12.405938"
+  },
+  "40001": {
+    "id": 40001,
+    "title": "Scambio di identità",
+    "release_date": "1996-04-19",
+    "vote_average": 7.264,
+    "poster_path": "/3W4HeLh2xHX6qKdrslnmlL2QtbM.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-11-20T08:17:13.181144"
+  },
+  "41855": {
+    "id": 41855,
+    "title": "Forget About It",
+    "release_date": "2006-10-14",
+    "vote_average": 5.038,
+    "poster_path": "/s5DKyWjjEWrp4w5J548bE3HHvmj.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-11-20T08:17:13.240589"
   }
 }
