@@ -70759,5 +70759,68 @@
       18
     ],
     "cached_at": "2026-11-19T08:32:54.509394"
+  },
+  "308007": {
+    "id": 308007,
+    "name": "The Altruists",
+    "original_name": "The Altruists",
+    "first_air_date": "2026-11-19",
+    "vote_average": 7.125,
+    "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-11-20T08:15:10.416413"
+  },
+  "340882": {
+    "id": 340882,
+    "name": "Radici",
+    "original_name": "Radici",
+    "first_air_date": "2026-10-15",
+    "vote_average": 0.0,
+    "poster_path": "/ze8lyeo5R8nWxnh6Tsa9u54SZnO.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-11-20T08:15:10.421153"
+  },
+  "238106": {
+    "id": 238106,
+    "name": "Dieci capodanni",
+    "original_name": "Los años nuevos",
+    "first_air_date": "2024-11-28",
+    "vote_average": 7.9,
+    "poster_path": "/50N3H0Wq7px1HtrXcidduoQAuD8.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-20T08:15:10.422843"
+  },
+  "280720": {
+    "id": 280720,
+    "name": "Gods of Egypt",
+    "original_name": "Gods of Egypt",
+    "first_air_date": "2023-06-14",
+    "vote_average": 7.0,
+    "poster_path": "/wyD0xL4xejiKon8HsxWWNU25jeu.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-11-20T08:15:10.427291"
+  },
+  "59369": {
+    "id": 59369,
+    "name": "Spellbound",
+    "original_name": "Spellbound",
+    "first_air_date": "2023-08-31",
+    "vote_average": 8.1,
+    "poster_path": "/t7l0XbTTT8NUISOBfPsop4kHbVc.jpg",
+    "genre_ids": [
+      10751,
+      10759,
+      35,
+      10765,
+      18
+    ],
+    "cached_at": "2026-11-20T08:15:10.428287"
   }
 }
