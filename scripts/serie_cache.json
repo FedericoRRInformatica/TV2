@@ -70822,5 +70822,57 @@
       18
     ],
     "cached_at": "2026-11-20T08:15:10.428287"
+  },
+  "314131": {
+    "id": 314131,
+    "name": "Melania, la serie",
+    "original_name": "MELANIA the Series",
+    "first_air_date": "2026-11-20",
+    "vote_average": 0.0,
+    "poster_path": "/zSrsB8xxvTHGCy4Q4ci5FDxipna.jpg",
+    "genre_ids": [
+      99,
+      10768
+    ],
+    "cached_at": "2026-11-21T08:08:05.517442"
+  },
+  "66803": {
+    "id": 66803,
+    "name": "Falling Water",
+    "original_name": "Falling Water",
+    "first_air_date": "2016-10-13",
+    "vote_average": 6.388,
+    "poster_path": "/8Zvcv8cehygUawphBcAk7N5kVoi.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10765
+    ],
+    "cached_at": "2026-11-21T08:08:05.524952"
+  },
+  "116885": {
+    "id": 116885,
+    "name": "Mina Settembre",
+    "original_name": "Mina Settembre",
+    "first_air_date": "2021-01-17",
+    "vote_average": 6.6,
+    "poster_path": "/klqaQvKd9l2w49hLJmXdpcIbN3D.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-21T08:08:05.526677"
+  },
+  "36105": {
+    "id": 36105,
+    "name": "L'impero della droga",
+    "original_name": "Drugs, Inc.",
+    "first_air_date": "2010-07-11",
+    "vote_average": 8.276,
+    "poster_path": "/9rO3sFQaC89cdPQlQE6RxntvS1p.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-11-21T08:08:05.535215"
   }
 }
