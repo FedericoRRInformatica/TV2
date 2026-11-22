@@ -181313,5 +181313,78 @@
       18
     ],
     "cached_at": "2026-11-21T08:09:12.631791"
+  },
+  "1004663": {
+    "id": 1004663,
+    "title": "Tutta la bellezza e il dolore - All the Beauty and the Bloodshed",
+    "release_date": "2022-11-23",
+    "vote_average": 7.2,
+    "poster_path": "/5ZsCj5i5mohseqsOh3G8oUOhSu6.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-11-22T07:54:22.430039"
+  },
+  "1309012": {
+    "id": 1309012,
+    "title": "Altered",
+    "release_date": "2025-09-18",
+    "vote_average": 5.5,
+    "poster_path": "/jVgLvefoKxVK92bdycXwN2a2Sem.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "cached_at": "2026-11-22T07:54:22.432257"
+  },
+  "63197": {
+    "id": 63197,
+    "title": "Megan Is Missing",
+    "release_date": "2011-05-01",
+    "vote_average": 6.137,
+    "poster_path": "/lDmIqn0HJDjQJZDZaofuyaAnw2X.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "cached_at": "2026-11-22T07:54:22.436155"
+  },
+  "11090": {
+    "id": 11090,
+    "title": "Animal",
+    "release_date": "2001-06-01",
+    "vote_average": 5.152,
+    "poster_path": "/oNxEXmKTZtECHs0bQbI6dQoXYMV.jpg",
+    "genre_ids": [
+      35,
+      878
+    ],
+    "cached_at": "2026-11-22T07:54:22.437791"
+  },
+  "44037": {
+    "id": 44037,
+    "title": "Lake Placid 3 - Calma apparente",
+    "release_date": "2010-10-06",
+    "vote_average": 5.014,
+    "poster_path": "/Z1HkDT3JNGNI3aZBHHeNPrDDlx.jpg",
+    "genre_ids": [
+      27,
+      28,
+      878,
+      53
+    ],
+    "cached_at": "2026-11-22T07:54:22.437800"
+  },
+  "705": {
+    "id": 705,
+    "title": "Eva contro Eva",
+    "release_date": "1950-11-09",
+    "vote_average": 8.1,
+    "poster_path": "/w66lytVc7qNp1WBGz4Ox1TVVFpI.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-22T07:54:22.443678"
   }
 }
