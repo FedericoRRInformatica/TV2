@@ -181386,5 +181386,80 @@
       18
     ],
     "cached_at": "2026-11-22T07:54:22.443678"
+  },
+  "1025596": {
+    "id": 1025596,
+    "title": "Blood for Dust",
+    "release_date": "2024-04-19",
+    "vote_average": 5.916,
+    "poster_path": "/xmf52xVodOmYJnXnFpKI7VxqLyv.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-11-23T08:47:53.034264"
+  },
+  "15384": {
+    "id": 15384,
+    "title": "La battaglia dei tre regni - Parte 2",
+    "release_date": "2009-01-07",
+    "vote_average": 7.275,
+    "poster_path": "/vZm6obl20BAvLoK5zacKiTab4Pr.jpg",
+    "genre_ids": [
+      28,
+      36,
+      10752
+    ],
+    "cached_at": "2026-11-23T08:47:53.042261"
+  },
+  "198": {
+    "id": 198,
+    "title": "Vogliamo vivere!",
+    "release_date": "1942-03-06",
+    "vote_average": 7.824,
+    "poster_path": "/bjJ5EF6JpBybmcGkxc08AN1h1Yd.jpg",
+    "genre_ids": [
+      35,
+      10752,
+      10749
+    ],
+    "cached_at": "2026-11-23T08:47:53.046526"
+  },
+  "9821": {
+    "id": 9821,
+    "title": "Basta guardare il cielo",
+    "release_date": "1998-06-01",
+    "vote_average": 7.2,
+    "poster_path": "/hPjWTwuQfIjPScb8pviydhNQm0q.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-11-23T08:47:53.052392"
+  },
+  "10877": {
+    "id": 10877,
+    "title": "Ferite mortali",
+    "release_date": "2001-03-16",
+    "vote_average": 5.9,
+    "poster_path": "/72l3C4qArLviZqpwBnL4OKB5PHr.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-11-23T08:47:53.058470"
+  },
+  "4543": {
+    "id": 4543,
+    "title": "Monty Python - Il senso della vita",
+    "release_date": "1983-03-31",
+    "vote_average": 7.3,
+    "poster_path": "/jibVSxInjnboIdV4C7UjmFR38Er.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-23T08:47:53.064310"
   }
 }
