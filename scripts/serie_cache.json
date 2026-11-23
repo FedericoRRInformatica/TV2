@@ -70888,5 +70888,32 @@
       18
     ],
     "cached_at": "2026-11-22T07:53:12.721031"
+  },
+  "341164": {
+    "id": 341164,
+    "name": "Oobah: Scams for a Better Tomorrow",
+    "original_name": "Oobah: Scams for a Better Tomorrow",
+    "first_air_date": "2026-11-22",
+    "vote_average": 0.0,
+    "poster_path": "/rWqhULNvOmIBHZymAPce2SlRr2T.jpg",
+    "genre_ids": [
+      35,
+      99
+    ],
+    "cached_at": "2026-11-23T08:46:42.078902"
+  },
+  "119142": {
+    "id": 119142,
+    "name": "Big Pharma: Il Crimine Del Secolo",
+    "original_name": "The Crime of the Century",
+    "first_air_date": "2021-05-10",
+    "vote_average": 7.84,
+    "poster_path": "/3jtWsNSW2ID23u9OeDRRQBCa5Mm.jpg",
+    "genre_ids": [
+      99,
+      80,
+      18
+    ],
+    "cached_at": "2026-11-23T08:46:42.101178"
   }
 }
