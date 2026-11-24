@@ -181461,5 +181461,78 @@
       35
     ],
     "cached_at": "2026-11-23T08:47:53.064310"
+  },
+  "1611767": {
+    "id": 1611767,
+    "title": "Scontrarsi a Natale",
+    "release_date": "2026-11-23",
+    "vote_average": 5.633,
+    "poster_path": "/1EgU1QFb9TXhMusCDHgwadkI73y.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-11-24T10:47:09.999482"
+  },
+  "1829270": {
+    "id": 1829270,
+    "title": "Chiara",
+    "release_date": "2026-11-23",
+    "vote_average": 7.0,
+    "poster_path": "/9RBmF9jjnnB33m2znLfYaAM6Qwc.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-11-24T10:47:10.006271"
+  },
+  "488": {
+    "id": 488,
+    "title": "La regina d'Africa",
+    "release_date": "1952-01-07",
+    "vote_average": 7.324,
+    "poster_path": "/vGDnsInycDnaWmZBtCV72f7CetN.jpg",
+    "genre_ids": [
+      12,
+      10749,
+      10752,
+      18
+    ],
+    "cached_at": "2026-11-24T10:47:10.027364"
+  },
+  "14198": {
+    "id": 14198,
+    "title": "Criminal",
+    "release_date": "2004-09-10",
+    "vote_average": 6.237,
+    "poster_path": "/tKMt7OIb2xbB0FbroZlS9V7ab3K.jpg",
+    "genre_ids": [
+      28,
+      35,
+      53
+    ],
+    "cached_at": "2026-11-24T10:47:10.029586"
+  },
+  "453272": {
+    "id": 453272,
+    "title": "Cuori puri",
+    "release_date": "2017-04-21",
+    "vote_average": 6.1,
+    "poster_path": "/sQg8iP9QuPCt1jfacvZr5MQCUOi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-24T10:47:10.044088"
+  },
+  "17962": {
+    "id": 17962,
+    "title": "After Life - Qual è il tuo ricordo più bello?",
+    "release_date": "1999-04-17",
+    "vote_average": 7.238,
+    "poster_path": "/yfxd7XVMPpTDtvU3lU8RXUqnvmt.jpg",
+    "genre_ids": [
+      14,
+      18
+    ],
+    "cached_at": "2026-11-24T10:47:10.044874"
   }
 }
