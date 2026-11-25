@@ -181534,5 +181534,67 @@
       18
     ],
     "cached_at": "2026-11-24T10:47:10.044874"
+  },
+  "993708": {
+    "id": 993708,
+    "title": "The Threesome",
+    "release_date": "2025-09-04",
+    "vote_average": 6.299,
+    "poster_path": "/7vQUAw3CX60dhzgzC7BQZFN7Y31.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ],
+    "cached_at": "2026-11-25T09:43:13.827984"
+  },
+  "1281331": {
+    "id": 1281331,
+    "title": "The Social - Il prezzo della verità",
+    "release_date": "2026-10-07",
+    "vote_average": 7.06,
+    "poster_path": "/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-11-25T09:43:13.828004"
+  },
+  "1585476": {
+    "id": 1585476,
+    "title": "Kevin Costner Presents: The First Christmas",
+    "release_date": "2025-12-09",
+    "vote_average": 6.4,
+    "poster_path": "/yXPmDhPj26JqEekHIruDtENSrsj.jpg",
+    "genre_ids": [
+      99,
+      18
+    ],
+    "cached_at": "2026-11-25T09:43:13.830755"
+  },
+  "82658": {
+    "id": 82658,
+    "title": "Senza filtro",
+    "release_date": "2001-08-31",
+    "vote_average": 5.5,
+    "poster_path": "/rNT8OqsvEVuQSJ7co4VAECX2vaI.jpg",
+    "genre_ids": [
+      10402,
+      35,
+      18
+    ],
+    "cached_at": "2026-11-25T09:43:13.830765"
+  },
+  "1567605": {
+    "id": 1567605,
+    "title": "Scrooge e gli spiriti del Natale",
+    "release_date": "2026-11-11",
+    "vote_average": 7.529,
+    "poster_path": "/nlf6gq2mGlbMmk1fKtp12xOVEvI.jpg",
+    "genre_ids": [
+      14,
+      35
+    ],
+    "cached_at": "2026-11-25T09:43:13.832637"
   }
 }
