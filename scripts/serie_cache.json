@@ -70927,5 +70927,30 @@
       18
     ],
     "cached_at": "2026-11-24T10:46:02.758021"
+  },
+  "318906": {
+    "id": 318906,
+    "name": "Salish & Jordan Matter",
+    "original_name": "Salish & Jordan Matter",
+    "first_air_date": "2026-04-11",
+    "vote_average": 7.833,
+    "poster_path": "/7OAira31G4FLCG64cIdUe9R7UIj.jpg",
+    "genre_ids": [
+      10764,
+      10762
+    ],
+    "cached_at": "2026-11-25T09:42:00.379422"
+  },
+  "171802": {
+    "id": 171802,
+    "name": "Blade Runner 2099",
+    "original_name": "Blade Runner 2099",
+    "first_air_date": "2026-11-24",
+    "vote_average": 10.0,
+    "poster_path": "/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg",
+    "genre_ids": [
+      10765
+    ],
+    "cached_at": "2026-11-25T09:42:00.395552"
   }
 }
