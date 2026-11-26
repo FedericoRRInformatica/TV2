@@ -181596,5 +181596,111 @@
       35
     ],
     "cached_at": "2026-11-25T09:43:13.832637"
+  },
+  "24561": {
+    "id": 24561,
+    "title": "Yattaman - Il film",
+    "release_date": "2009-02-06",
+    "vote_average": 6.1,
+    "poster_path": "/1C0Uw44cRLmRHSkWaEGEFsocKCr.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "cached_at": "2026-11-26T09:19:06.518961"
+  },
+  "899382": {
+    "id": 899382,
+    "title": "La fidanzata di papà",
+    "release_date": "2021-12-23",
+    "vote_average": 5.4,
+    "poster_path": "/2Vivy2G7Kx8duhN35eUG74B8JXK.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-11-26T09:19:06.520846"
+  },
+  "245703": {
+    "id": 245703,
+    "title": "Midnight special - Fuga nella notte",
+    "release_date": "2016-02-18",
+    "vote_average": 6.264,
+    "poster_path": "/wZjgeiMc6upgnxLfDp6wjHY2xZu.jpg",
+    "genre_ids": [
+      12,
+      18,
+      878
+    ],
+    "cached_at": "2026-11-26T09:19:06.531083"
+  },
+  "1458300": {
+    "id": 1458300,
+    "title": "The Mosquito Bowl",
+    "release_date": "2026-10-29",
+    "vote_average": 7.0,
+    "poster_path": "/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg",
+    "genre_ids": [
+      10752,
+      36,
+      18
+    ],
+    "cached_at": "2026-11-26T09:19:06.532003"
+  },
+  "1464341": {
+    "id": 1464341,
+    "title": "Ambra Sabatini - A un metro dal traguardo",
+    "release_date": "2025-02-13",
+    "vote_average": 0.0,
+    "poster_path": "/mCTqCvV5ElCMxDFoZTGpqNlJM6u.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-11-26T09:19:06.532839"
+  },
+  "705715": {
+    "id": 705715,
+    "title": "Burraco fatale",
+    "release_date": "2020-10-01",
+    "vote_average": 3.779,
+    "poster_path": "/66YEopBtmrD7bUUeyXRTUMbGosr.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-26T09:19:06.534477"
+  },
+  "300673": {
+    "id": 300673,
+    "title": "L'ultima tempesta",
+    "release_date": "2016-01-27",
+    "vote_average": 6.603,
+    "poster_path": "/iTESsq8zphTv0Xni3Me1zvzlBmI.jpg",
+    "genre_ids": [
+      28,
+      18,
+      36,
+      53
+    ],
+    "cached_at": "2026-11-26T09:19:06.541825"
+  },
+  "1280115": {
+    "id": 1280115,
+    "title": "Scuola per guerrieri coraggiosi",
+    "release_date": "2026-11-24",
+    "vote_average": 7.675,
+    "poster_path": "/naeCYQHH3CJ6uj47EYd9jHNtxIe.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-26T09:19:06.556872"
+  },
+  "1070244": {
+    "id": 1070244,
+    "title": "Io vivo altrove!",
+    "release_date": "2023-01-19",
+    "vote_average": 5.6,
+    "poster_path": "/KEh6a9SJ2PRDAmfcukLophGtnx.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-11-26T09:19:06.581385"
   }
 }
