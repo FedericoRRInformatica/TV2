@@ -70952,5 +70952,18 @@
       10765
     ],
     "cached_at": "2026-11-25T09:42:00.395552"
+  },
+  "310209": {
+    "id": 310209,
+    "name": "Dalle 9 alle 18",
+    "original_name": "나인 투 식스",
+    "first_air_date": "2026-11-25",
+    "vote_average": 0.0,
+    "poster_path": "/kJIq121nQSOStpliFc3ApWdASSN.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-11-26T09:17:59.657281"
   }
 }
