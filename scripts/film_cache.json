@@ -181702,5 +181702,45 @@
       35
     ],
     "cached_at": "2026-11-26T09:19:06.581385"
+  },
+  "1276825": {
+    "id": 1276825,
+    "title": "Long Gone Heroes - il prezzo del potere",
+    "release_date": "2024-09-12",
+    "vote_average": 5.5,
+    "poster_path": "/1ENAa0K2Qqm6VNf4eZoR4TaLDSn.jpg",
+    "genre_ids": [
+      28,
+      10752,
+      80,
+      53
+    ],
+    "cached_at": "2026-11-27T09:33:30.355836"
+  },
+  "1567": {
+    "id": 1567,
+    "title": "Seul contre tous",
+    "release_date": "1999-02-17",
+    "vote_average": 7.4,
+    "poster_path": "/r4e2kbQkNSx3zpCRPHP28c3zeaA.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-11-27T09:33:30.364023"
+  },
+  "1257406": {
+    "id": 1257406,
+    "title": "Due procuratori",
+    "release_date": "2025-10-03",
+    "vote_average": 6.767,
+    "poster_path": "/yrKLtuveqVuSIqf9ZN3skLb0gEj.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53,
+      36
+    ],
+    "cached_at": "2026-11-27T09:33:30.380434"
   }
 }
