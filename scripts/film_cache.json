@@ -181742,5 +181742,98 @@
       36
     ],
     "cached_at": "2026-11-27T09:33:30.380434"
+  },
+  "1506401": {
+    "id": 1506401,
+    "title": "Il bambino",
+    "release_date": "2026-11-13",
+    "vote_average": 7.0,
+    "poster_path": "/eEdONSVZOE4PanWM8QeRGK0tx2A.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-28T08:47:12.795722"
+  },
+  "11008": {
+    "id": 11008,
+    "title": "Il maggiore Payne",
+    "release_date": "1995-03-24",
+    "vote_average": 6.52,
+    "poster_path": "/r50oZPMTaA8R9HWzGh7dUTEJjDY.jpg",
+    "genre_ids": [
+      12,
+      35,
+      10751
+    ],
+    "cached_at": "2026-11-28T08:47:12.805237"
+  },
+  "308024": {
+    "id": 308024,
+    "title": "The Overnight - tutto in una notte",
+    "release_date": "2015-06-19",
+    "vote_average": 5.92,
+    "poster_path": "/9LcjvCZm8zaN8E0qWLUmxkqX57B.jpg",
+    "genre_ids": [
+      9648,
+      35
+    ],
+    "cached_at": "2026-11-28T08:47:12.812146"
+  },
+  "1811599": {
+    "id": 1811599,
+    "title": "Tyson Fury",
+    "release_date": "2026-11-27",
+    "vote_average": 6.0,
+    "poster_path": "/wAffyCmjFZOI3uvmVvpg7Lz8Yn5.jpg",
+    "genre_ids": [
+      99,
+      18
+    ],
+    "cached_at": "2026-11-28T08:47:12.817694"
+  },
+  "643578": {
+    "id": 643578,
+    "title": "Apollo 17: The Untold Story of the Last Men on the Moon",
+    "release_date": "2011-05-01",
+    "vote_average": 7.6,
+    "poster_path": "/yMDR0v8IFnNUFkEmR9E6XAYk7w9.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-11-28T08:47:12.821039"
+  },
+  "22434": {
+    "id": 22434,
+    "title": "Un agente segreto al liceo",
+    "release_date": "1991-03-15",
+    "vote_average": 6.1,
+    "poster_path": "/3xO5BPV3HQdIeoQ8PKCKkBLftdd.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "cached_at": "2026-11-28T08:47:12.822685"
+  },
+  "1480665": {
+    "id": 1480665,
+    "title": "Quasimodo, l'anima di Parigi",
+    "release_date": "2026-11-27",
+    "vote_average": 7.594,
+    "poster_path": "/ba1Gyh9ZnkSCoLMAFfpMonnsYbN.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-11-28T08:47:13.436900"
+  },
+  "14228": {
+    "id": 14228,
+    "title": "Il custode",
+    "release_date": "2005-08-08",
+    "vote_average": 4.5,
+    "poster_path": "/8UUCsiLJzMwX41lklnCAQjGGR34.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-11-28T08:47:13.755447"
   }
 }
